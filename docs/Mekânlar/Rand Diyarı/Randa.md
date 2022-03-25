@@ -1,13 +1,13 @@
----
-  tags: Mekân/Şehir
-  ---
+---  
+tags: Mekân/Şehir  
+---  
   
-  Rand Diyarı'nda bir cüce şehri, içinden üç nehir geçiyor
+Rand Diyarı'nda bir cüce şehri, içinden üç nehir geçiyor  
   
-  İnsanlar yönetiyor aşiret şeklinde, 5000 kişi
+İnsanlar yönetiyor aşiret şeklinde, 5000 kişi  
   
-  Göz bebekleri altın rengi, buğday saçlı. Bunlar şehrin içinde başka şehirde yaşıyor
+Göz bebekleri altın rengi, buğday saçlı. Bunlar şehrin içinde başka şehirde yaşıyor  
   
-  Daha iriceler ve daha uzun yaşıyorlar
+Daha iriceler ve daha uzun yaşıyorlar  
   
-  2 cüceye 10 insan falan düşüyor
+2 cüceye 10 insan falan düşüyor

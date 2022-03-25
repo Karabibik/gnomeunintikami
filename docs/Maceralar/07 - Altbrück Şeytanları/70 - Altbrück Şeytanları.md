@@ -1,9 +1,9 @@
----
-  tags: Macera
-  ---
+---  
+tags: Macera  
+---  
   
-  Table of Contents
+Table of Contents  
   
-  [[71 - Demon Vakası]]
-  [[72 - Elanor'la Buluşma]]
-  [[73 - Hidra]]
+[[71 - Demon Vakası]]  
+[[72 - Elanor'la Buluşma]]  
+[[73 - Hidra]]

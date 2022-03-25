@@ -1,5 +1,5 @@
----
-  tags: family
-  ---
+---  
+tags: family  
+---  
   
-  Yıllardan beri Kral ve İmparator yetiştiren, [[İmparatorluk]]'un baş hanesi.
+Yıllardan beri Kral ve İmparator yetiştiren, [[İmparatorluk]]'un baş hanesi.

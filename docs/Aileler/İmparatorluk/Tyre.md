@@ -1,4 +1,3 @@
----
-  tags: family
-  ---
-  
+---  
+tags: family  
+---  

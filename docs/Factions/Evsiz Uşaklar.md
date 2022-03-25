@@ -1,7 +1,7 @@
----
-  tags: faction
-  ---
+---  
+tags: faction  
+---  
   
-  [[Warbonter]]'de yer alan eski bir hırsız çetesi.
+[[Warbonter]]'de yer alan eski bir hırsız çetesi.  
   
-  [[John Ryld]] zamanında bunları katakulliye getirerek Harsus'un Kupası'nı çalmış gibi gösteriyor.
+[[John Ryld]] zamanında bunları katakulliye getirerek Harsus'un Kupası'nı çalmış gibi gösteriyor.

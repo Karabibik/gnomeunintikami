@@ -1,9 +1,9 @@
----
-  tags: family
-  ---
+---  
+tags: family  
+---  
   
-  [[Tamdro]]'da yaşayan ve hatta eski başrahibenin de mensup olduğu aile.
+[[Tamdro]]'da yaşayan ve hatta eski başrahibenin de mensup olduğu aile.  
   
-  Sembolleri ok ve yay.
+Sembolleri ok ve yay.  
   
-  [[Tsara]] hanedanı bunların kökünü kazımaya çalıştı, [[Uliza]] hariç başardılar da. Uliza da artık kaçak hayatı sürüyor ama hâlâ peşindeler çünkü meşruiyete tehdit oluşturuyor. İnsanlar da şüphelenmeye başladı.
+[[Tsara]] hanedanı bunların kökünü kazımaya çalıştı, [[Uliza]] hariç başardılar da. Uliza da artık kaçak hayatı sürüyor ama hâlâ peşindeler çünkü meşruiyete tehdit oluşturuyor. İnsanlar da şüphelenmeye başladı.

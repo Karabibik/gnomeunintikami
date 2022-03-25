@@ -1,5 +1,5 @@
----
-  aliases: [War of Extinction]
-  ---
+---  
+aliases: [War of Extinction]  
+---  
   
-  Olan olmuş, biten bitmiş.
+Olan olmuş, biten bitmiş.
