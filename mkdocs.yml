@@ -1,5 +1,10 @@
 site_name: Gnome'un İntikamı
 
+# Navigation
+nav:
+    - Girizgâh: 'index.md'
+
+# Theme
 theme:
     name: 'material'
     palette:
@@ -34,6 +39,7 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
+      clickable_checkbox: true
   - toc:
       permalink: true
   - meta
