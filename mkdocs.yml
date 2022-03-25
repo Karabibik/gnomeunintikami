@@ -3,6 +3,8 @@ site_name: Gnome'un İntikamı
 # Theme
 theme:
     name: 'material'
+    features:
+      - header.autohide
     palette:
 
     # Light mode
@@ -47,6 +49,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  - tags
   
   
 # Extras
