@@ -26,14 +26,14 @@ theme:
 markdown_extensions:
   - footnotes
   - attr_list
-  - pymdownx.arithmatex
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.superfences
-  - pymdownx.details
   - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
-  - admonition
   - toc:
       permalink: true
   - meta
@@ -41,3 +41,10 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  
+  
+# Extras
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
