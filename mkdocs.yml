@@ -1,9 +1,5 @@
 site_name: Gnome'un İntikamı
 
-# Navigation
-nav:
-    - Girizgâh: 'index.md'
-
 # Theme
 theme:
     name: 'material'
