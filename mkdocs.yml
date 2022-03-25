@@ -33,6 +33,9 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.superfences
   - pymdownx.magiclink
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
@@ -40,6 +43,7 @@ markdown_extensions:
       permalink: true
   - meta
 
+  
 plugins:
   - search
   - roamlinks 
