@@ -1,5 +1,6 @@
 ---  
-tags: faction  
+tags:
+  - faction  
 ---  
   
 Aklı başında paralı asker grubu. Mevcut üyeleri:  

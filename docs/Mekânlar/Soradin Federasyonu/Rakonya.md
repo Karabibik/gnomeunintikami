@@ -1,3 +1,4 @@
 ---  
-tags: Mekân/Bölge  
+tags:
+  - Mekân/Bölge  
 ---

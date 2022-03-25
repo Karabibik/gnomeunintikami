@@ -1,5 +1,6 @@
 ---  
-tags: Mekân/Şehir  
+tags:
+  - Mekân/Şehir  
 ---  
   
 Doğunun incisi olarak da anılan Aedil tarihi bilinen en eski insan şehridir. Voldurn hanedanının ilk uğradığı bölge olarak bilinir. Tarıma elverişsiz Kuralsız Bölge ve amansız halkları ile ünlü Büyük Savana arasına sıkılmış olan şehir bilinen tarih boyunca kendini her türlü saldırıya karşı başarıyla savunmuştur. Büyük Orman’dan beslenen Della Nehri üzerine kurulu şehir görkemli kalesi ve şehir büyüdükçe yeni bir halka eklenerek genişletilmiş 4 kat surları ile ünlüdür. Surlarının altında büyük erzak depoları ve küçük miktarda tarıma elverişli alanları olan Aedil askeri olarak fethi neredeyse imkansız olduğu için geçmişinde pek çok kez imparatorun otoritesini reddetmiştir. Ancak 500 yıl kadar önce [[Könningsburg]]’un yöneticileri merkezden atamaya başlamasıya İmparatorluk’un stabil bir parçası halini almıştır.  

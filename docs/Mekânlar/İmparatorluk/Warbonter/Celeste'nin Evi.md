@@ -1,5 +1,6 @@
 ---  
-tags: Mekân  
+tags:
+  - Mekân  
 ---  
   
 Girişte bir hol var. Orada Soradin, Rand ve Warseir'den eserler var:  

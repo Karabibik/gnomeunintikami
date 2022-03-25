@@ -1,5 +1,6 @@
 ---  
-tags: Mekân/Şehir  
+tags:
+  - Mekân/Şehir  
 ---  
   
 Rand Diyarı'nda bir cüce şehri, içinden üç nehir geçiyor  

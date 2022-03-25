@@ -1,3 +1,4 @@
 ---  
-tags: Mekân/Ülke  
+tags:
+  - Mekân/Ülke  
 ---

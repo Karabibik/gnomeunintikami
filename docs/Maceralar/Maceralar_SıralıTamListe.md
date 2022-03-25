@@ -1,5 +1,6 @@
 ---  
-tags: Macera  
+tags:
+  - Macera  
 ---  
   
 [[Gnome'un İntikamı]] adlı paralı asker grubunun çeşitli yer ve zamanlarda karışmış olduğu olayların sıralı tam listesi  

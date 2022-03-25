@@ -1,5 +1,6 @@
 ---  
-tags: faction  
+tags:
+  - faction  
 ---  
   
 [[Warbonter]]'de yer alan eski bir hırsız çetesi.  

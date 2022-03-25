@@ -1,5 +1,6 @@
 ---  
-tags: Mekân/Şehir  
+tags:
+  - Mekân/Şehir  
 ---  
   
 - Ne zaman yapıldığı bilinmiyor, zamanla eskitilemiyor, yapıya zarar verilemiyor.  

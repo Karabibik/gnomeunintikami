@@ -3,27 +3,25 @@ site_name: Gnome'un İntikamı
 # Theme
 theme:
     name: 'material'
-    features:
-      - header.autohide
     palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: orange
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Karart
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: red
       accent: orange
       toggle:
         icon: material/toggle-switch
         name: Aydınlat
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Karart
 
 # Extensions
 markdown_extensions:

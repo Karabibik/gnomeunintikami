@@ -1,5 +1,6 @@
 ---  
-tags: family  
+tags:
+  - family  
 ---  
   
 Bilinen aile üyeleri:  

@@ -1,5 +1,6 @@
 ---  
-tags: Macera  
+tags:
+  - Macera  
 ---  
   
 ## Takım Karşılaşmaları  

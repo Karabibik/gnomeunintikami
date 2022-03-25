@@ -1,3 +1,4 @@
 ---  
-tags: family  
+tags:
+  - family  
 ---

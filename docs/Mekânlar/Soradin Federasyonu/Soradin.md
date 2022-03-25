@@ -1,6 +1,7 @@
 ---  
 aliases: [Soradin Federasyonu, Ejderhalar Diyarı]  
-tags: Mekân/Ülke  
+tags:
+  - Mekân/Ülke  
 ---  
   
 Ejderhalar Diyarı olarak da bilinen Soradin Federasyonu kıtanın bilim ve endüstri bakımından en gelişmiş ülkesidir ve İmparatorluğun kıtadaki tek devlet olma planlarının karşısında duran en büyük engeldir. Devlet, kıtadaki en büyük üçüncü nüfusa ve en büyük ikinci ekonomiye sahiptir.  

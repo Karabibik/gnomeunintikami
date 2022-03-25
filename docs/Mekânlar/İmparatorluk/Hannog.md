@@ -1,5 +1,6 @@
 ---  
-tags: Mekân/Şehir  
+tags:
+  - Mekân/Şehir  
 ---  
   
 Uçsuz bucaksız düzlükleri ve başına buyruk göçebe halkları nedeniyle tarih boyunca çevresindeki tüm kalıcı yerleşkelere büyük sorun çıkaran Büyük Savana’nın sınırında yer alan Hannog şehrinin İmparatorluk için en büyük önemi sağladığı güvencedir. Dağların eteğine kurulmuş olan Büyük Savana’yı batısından izleyen şehir tarih boyunca pek çok kez göçebe halkların istila ve yağma amaçlı akınlarının İmparatorluk’un derinliklerine ulaşmasını önlemiştir.   
