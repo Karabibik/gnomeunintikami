@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Dwarf|  
-| **Sınıf** | #Class/Monk|  
+| **Irk** | Dwarf|  
+| **Sınıf** | Monk|  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Kırık çıkıkçı|  

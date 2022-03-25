@@ -5,8 +5,8 @@
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
 | **Irk** | |  
-| **Sınıf** | #Class/Monk|  
+| **Sınıf** | Monk|  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/Parti - Eski|  
+| **Münasebet** | Parti - Eski|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir|  

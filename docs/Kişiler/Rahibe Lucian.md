@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/Human|  
+| **Irk** | Human|  
 | **Sınıf** | |  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Tapınak rahibesi, Philip'e gıcık|  

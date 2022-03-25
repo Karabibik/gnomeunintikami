@@ -4,8 +4,8 @@
 | **Soyadı** | [[Roth]]|  
 | **Hizip** | [[Güneş Birliği]]|  
 | **Cinsiyet** | |  
-| **Irk** | #Race/Human|  
-| **Sınıf** | #Class/Wizard (Enchanter)|  
+| **Irk** | Human|  
+| **Sınıf** | Wizard (Enchanter)|  
 | **Kütük** | [[Hannog]]|  
 | **Münasebet** | |  
 | **Karakter Betimi** | |  

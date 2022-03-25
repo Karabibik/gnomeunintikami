@@ -7,7 +7,7 @@ aliases: [Bor Teker]
 | **Soyadı** | [[Tyre]]|  
 | **Hizip** | [[Güneş Birliği]]|  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
+| **Irk** | Human|  
 | **Sınıf** | |  
 | **Kütük** | [[Mündung]]|  
 | **Münasebet** | |  

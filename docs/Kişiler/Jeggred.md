@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Drow|  
+| **Irk** | Drow|  
 | **Sınıf** | |  
 | **Kütük** | [[Wolheim]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | 50 yaşında kaçtı, 250 yıldır falan dışarıda|  
 | **İlave Notlar** | [[Eilistrae]]ci<br>Kendini öldürecekken [[Nendra]] kurtardı|  

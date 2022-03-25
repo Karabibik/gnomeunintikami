@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/Drow|  
+| **Irk** | Drow|  
 | **Sınıf** | |  
 | **Kütük** | |  
-| **Münasebet** | #Münasebet/Tanrı|  
+| **Münasebet** | Tanrı|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Ana drow tanrısı|  

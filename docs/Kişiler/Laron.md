@@ -4,9 +4,9 @@
 | **Soyadı** | [[Celebryl]]|  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/WoodElf|  
+| **Irk** | WoodElf|  
 | **Sınıf** | |  
 | **Kütük** | [[Mündung]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | Kil/kızıl tenli<br>kahverengi kısa saçlı|  
 | **İlave Notlar** | Elf Queen Consort, [[Tinrel]]den daha ılımlı|  

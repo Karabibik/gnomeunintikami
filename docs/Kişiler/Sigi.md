@@ -4,8 +4,8 @@
 | **Soyadı** | [[Pabst]]|  
 | **Hizip** | [[Güneş Birliği]]|  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
-| **Sınıf** | #Class/Wizard|  
+| **Irk** | Human|  
+| **Sınıf** | Wizard|  
 | **Kütük** | [[Warbonter]]|  
 | **Münasebet** | |  
 | **Karakter Betimi** | 65 yaşlarında|  

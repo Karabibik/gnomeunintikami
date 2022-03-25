@@ -7,9 +7,9 @@ aliases: [Pina]
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/Elf|  
-| **Sınıf** | #Class/Cleric (Forge)|  
+| **Irk** | Elf|  
+| **Sınıf** | Cleric (Forge)|  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Kinatrial]]'nın kardeşi, demirci, utangaç otistik<br>Balyoz + Breastplate giyiyor|  

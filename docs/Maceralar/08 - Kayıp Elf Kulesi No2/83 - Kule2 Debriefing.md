@@ -14,14 +14,14 @@ Son kırmızı ejderha 1000 sene önce görüldü. Harrion biliyor ki:
 - Kırmızılar extinct sanılıyordu  
   
 Celeste diyor ki  
-- "Evet bir sıkıntı var, teleport da çalışmayacak gibiydi. Magical linelar farklıydı biraz.  
-- "High magic zone sanırım burası"  
+- `"Evet bir sıkıntı var, teleport da çalışmayacak gibiydi. Magical linelar farklıydı biraz.`  
+- `"High magic zone sanırım burası"`  
 	  
 Alfons'u yileştirmeye çalışırken:  
-- "Alfons'un üstünde başka bir varlık hissettim"  
+- `"Alfons'un üstünde başka bir varlık hissettim"`  
   
 # Delador'la Toplantı  
-Elva: "Sen oradaydın, Stormforger..."  
+Elva: `"Sen oradaydın, Stormforger..."`  
   
 * Bunu duyan Tinrel Elva'ya tek atmaya girişir, Delador herkesi ayırır.  
   
@@ -42,7 +42,7 @@ Elva:
 	- Herkese ispiyonluycam, ormana söyliycem.  
 ```  
   
-Tinrel: "Taftial öğrenirse savaşın önüne geçemeyiz, sonumuz olur."  
+Tinrel: `"Taftial öğrenirse savaşın önüne geçemeyiz, sonumuz olur."`  
   
 Elva:  
 ```  
@@ -52,11 +52,11 @@ Elva:
 	- Ön saflardakileri bizzat öldürdü insan imparatorla anlaşıp.  
 ```  
   
-Delador: "Böyle bir mass modify memory büyüsü mümkün değil."  
+Delador: `"Böyle bir mass modify memory büyüsü mümkün değil."`  
   
-Elva: "Siz ne bileceksiniz? O çok sevdiğiniz high magic'i bile unuttunuz."  
+Elva: `"Siz ne bileceksiniz? O çok sevdiğiniz high magic'i bile unuttunuz."`  
   
-Tinrel: "Söyledikleri eksik ve yanlış."  
+Tinrel: `"Söyledikleri eksik ve yanlış."`  
 - And casually mentions killsg us just for hearing everything  
   
 # Delador Afterparty  
@@ -66,4 +66,4 @@ Bizi erişilemez gibi bir dağın tepesine getirdi. Önümüzde şehir var.
 - Gölün kıyısı boyunca kasabalar var  
 THIS IS KÖNNINGSBURG  
   
-Delador: "Elf anılarının başladığı net bir zaman çizgisi var"
+Delador: `"Elf anılarının başladığı net bir zaman çizgisi var"`

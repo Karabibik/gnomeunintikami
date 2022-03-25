@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Kuş|  
+| **Irk** | Kuş|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Alfons]]un kuşu. BİR SUS ULAN, küfürbaz haydo + hero complex|  

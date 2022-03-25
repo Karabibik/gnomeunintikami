@@ -7,6 +7,6 @@
 | **Irk** | |  
 | **Sınıf** | |  
 | **Kütük** | |  
-| **Münasebet** | #Münasebet/Tanrı|  
+| **Münasebet** | Tanrı|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Giant-Goliath tanrısı|  

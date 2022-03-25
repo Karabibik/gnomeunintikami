@@ -4,9 +4,9 @@
 | **Soyadı** | [[Beljardin]]|  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
+| **Irk** | Human|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Müttefik - Ölü|  
+| **Münasebet** | Müttefik - Ölü|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Alfons'un dedesi|  

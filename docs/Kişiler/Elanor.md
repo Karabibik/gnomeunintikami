@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/Human|  
-| **Sınıf** | #Class/Cleric ([[Falona]]?)|  
+| **Irk** | Human|  
+| **Sınıf** | Cleric ([[Falona]]?)|  
 | **Kütük** | |  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | Sarışın|  
 | **İlave Notlar** | Demonologist, diriliyor abla, meczup, unutuyor ölünce|  

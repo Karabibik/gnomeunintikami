@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/WoodElf|  
-| **Sınıf** | #Class/Barbarian, #Class/Fighter|  
+| **Irk** | WoodElf|  
+| **Sınıf** | Barbarian, Fighter|  
 | **Kütük** | [[Kutsal Ağaçlar]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | 230 yaşında|  
 | **İlave Notlar** | Kartal totemi|  

@@ -10,6 +10,6 @@ aliases: [Şehit Tanrı]
 | **Irk** | |  
 | **Sınıf** | |  
 | **Kütük** | |  
-| **Münasebet** | #Münasebet/Tanrı|  
+| **Münasebet** | Tanrı|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Dragan öldürmüş<br>tanrılar kralı|  

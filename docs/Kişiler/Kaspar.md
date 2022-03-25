@@ -4,8 +4,8 @@
 | **Soyadı** | [[Nanger]]|  
 | **Hizip** | [[Güneş Birliği]]|  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
-| **Sınıf** | #Class/Wizard (Conjuration)|  
+| **Irk** | Human|  
+| **Sınıf** | Wizard (Conjuration)|  
 | **Kütük** | [[Aedil]]|  
 | **Münasebet** | |  
 | **Karakter Betimi** | |  

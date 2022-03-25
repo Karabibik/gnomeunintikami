@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Wererat|  
+| **Irk** | Wererat|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Düşman - Ölü|  
+| **Münasebet** | Düşman - Ölü|  
 | **Karakter Betimi** | 30 yaşlarında<br>kumral saçlı<br>sağ yanağında yara izi var|  
 | **İlave Notlar** | Gemiden beklediğimiz adam, mahzende öldü<br>[[John Ryld]] ile bir derdi vardı|  

@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/CommonElf|  
+| **Irk** | CommonElf|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Mora'nın Güzellikleri, kerhane işletmecisi|  

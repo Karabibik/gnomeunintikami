@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
+| **Irk** | Human|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/NPC|  
+| **Münasebet** | NPC|  
 | **Karakter Betimi** | 30 yaşlarında|  
 | **İlave Notlar** | [[Beer Mire]] hanının işletmecisi|  

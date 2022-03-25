@@ -4,9 +4,9 @@
 | **Soyadı** | [[Beljardin]]|  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
+| **Irk** | Human|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | 7 yaşında çocuk|  
 | **İlave Notlar** | Alfons'un evlatlık yeğeni|  

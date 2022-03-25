@@ -7,9 +7,9 @@ aliases: [Tüccar]
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Vampire|  
+| **Irk** | Vampire|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Düşman - Ölü|  
+| **Münasebet** | Düşman - Ölü|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Warbonter vampir lordu|  

@@ -4,7 +4,7 @@
 | **Soyadı** | [[Taralon]]|  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/İnsan|  
+| **Irk** | İnsan|  
 | **Sınıf** | |  
 | **Kütük** | [[Soradin Kenti]]|  
 | **Münasebet** | |  

@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Dwarf|  
+| **Irk** | Dwarf|  
 | **Sınıf** | |  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/Parti - Eski|  
+| **Münasebet** | Parti - Eski|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Berke'nin karakteri|  

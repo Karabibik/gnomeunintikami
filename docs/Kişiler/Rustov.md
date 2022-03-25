@@ -5,7 +5,7 @@
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
 | **Irk** | |  
-| **Sınıf** | #Class/Cleric ([[Ioun]])|  
+| **Sınıf** | Cleric ([[Ioun]])|  
 | **Kütük** | |  
 | **Münasebet** | |  
 | **Karakter Betimi** | |  

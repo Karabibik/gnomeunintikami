@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/HalfOrc|  
-| **Sınıf** | #Class/Barbarian|  
+| **Irk** | HalfOrc|  
+| **Sınıf** | Barbarian|  
 | **Kütük** | [[Kutsal Ağaçlar]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Eskiden paralı askerlik yapmış, herkesten güçlü savaşçı, champion|  

@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | |  
-| **Irk** | #Race/Goliath|  
+| **Irk** | Goliath|  
 | **Sınıf** | |  
 | **Kütük** | |  
-| **Münasebet** | #Münasebet/Tanrı|  
+| **Münasebet** | Tanrı|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Goliath tanrısı|  

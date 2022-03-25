@@ -4,7 +4,7 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | |  
-| **Irk** | #Race/Elf|  
+| **Irk** | Elf|  
 | **Sınıf** | |  
 | **Kütük** | [[Great Forest]]|  
 | **Münasebet** | |  

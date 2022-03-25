@@ -7,9 +7,9 @@ aliases: [İlk]
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | |  
-| **Irk** | #Race/Vampire|  
+| **Irk** | Vampire|  
 | **Sınıf** | |  
 | **Kütük** | [[Könningsburg]]|  
-| **Münasebet** | #Münasebet/Düşman|  
+| **Münasebet** | Düşman|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Savaştan sağ çıkan tek vampir lordu|  

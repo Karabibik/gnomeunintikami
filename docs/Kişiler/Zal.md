@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/Human|  
+| **Irk** | Human|  
 | **Sınıf** | |  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/NPC|  
+| **Münasebet** | NPC|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Stablemaster|  

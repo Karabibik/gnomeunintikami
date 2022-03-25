@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Drow|  
+| **Irk** | Drow|  
 | **Sınıf** | |  
 | **Kütük** | [[Wolheim]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Jeggred]]'in oğlu|  

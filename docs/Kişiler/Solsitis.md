@@ -7,6 +7,6 @@
 | **Irk** | |  
 | **Sınıf** | |  
 | **Kütük** | |  
-| **Münasebet** | #Münasebet/Tanrı|  
+| **Münasebet** | Tanrı|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Güneş Birliği]] ve imparatorluk'un ana tanrısı|  

@@ -7,9 +7,9 @@ aliases: [von Kadelsburg, Kaptan Paspas]
 | **Soyadı** | [[Beljardin]]|  
 | **Hizip** | [[Gnome'un İntikamı]]|  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
-| **Sınıf** | #Class/Cleric (Knowledge) ([[Ioun]])|  
+| **Irk** | Human|  
+| **Sınıf** | Cleric (Knowledge) ([[Ioun]])|  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Parti|  
+| **Münasebet** | Parti|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Kaypak herifin teki|  

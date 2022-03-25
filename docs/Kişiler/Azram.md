@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | |  
-| **Irk** | #Race/Human|  
+| **Irk** | Human|  
 | **Sınıf** | |  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/NPC|  
+| **Münasebet** | NPC|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Bira Nehri]] hancılarından|  

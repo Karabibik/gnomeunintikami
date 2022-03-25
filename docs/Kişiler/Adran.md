@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/HalfElf|  
+| **Irk** | HalfElf|  
 | **Sınıf** | |  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/NPC|  
+| **Münasebet** | NPC|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Bira Nehri]] hancılarından|  

@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/Drow|  
-| **Sınıf** | #Class/Cleric|  
+| **Irk** | Drow|  
+| **Sınıf** | Cleric|  
 | **Kütük** | [[Soradin]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Eilistrae]]cilerin başrahibesi|  

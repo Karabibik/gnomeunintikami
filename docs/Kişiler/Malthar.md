@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | |  
-| **Irk** | #Race/Demon|  
+| **Irk** | Demon|  
 | **Sınıf** | |  
 | **Kütük** | [[Abyss]]|  
-| **Münasebet** | #Münasebet/Düşman|  
+| **Münasebet** | Düşman|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Alfons]]'un aynadaki demon|  

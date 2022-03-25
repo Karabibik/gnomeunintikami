@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | [[Ryld Çetesi]]|  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Orc|  
+| **Irk** | Orc|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Düşman|  
+| **Münasebet** | Düşman|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | John Ryld'a bağlı hareket eden çetelerin başı|  

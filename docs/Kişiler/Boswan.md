@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | [[Ryld Çetesi]]|  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
+| **Irk** | Human|  
 | **Sınıf** | |  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Düşman|  
+| **Münasebet** | Düşman|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | John Ryld'ın yakın koruması binbaşı|  

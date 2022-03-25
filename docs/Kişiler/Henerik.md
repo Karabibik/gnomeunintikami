@@ -4,8 +4,8 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
-| **Sınıf** | #Class/Paladin ([[Solsitis]])|  
+| **Irk** | Human|  
+| **Sınıf** | Paladin ([[Solsitis]])|  
 | **Kütük** | [[Warbonter]]|  
 | **Münasebet** | |  
 | **Karakter Betimi** | |  

@@ -4,8 +4,8 @@
 | **Soyadı** | [[Lifeforger]]|  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Dwarf|  
-| **Sınıf** | #Class/Artificier|  
+| **Irk** | Dwarf|  
+| **Sınıf** | Artificier|  
 | **Kütük** | [[Belenord]]|  
 | **Münasebet** | |  
 | **Karakter Betimi** | |  

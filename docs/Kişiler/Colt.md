@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | [[Evsiz Uşaklar]]|  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/CommonElf|  
-| **Sınıf** | #Class/Rogue|  
+| **Irk** | CommonElf|  
+| **Sınıf** | Rogue|  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Philip'in Evsiz Uşaklarından|  

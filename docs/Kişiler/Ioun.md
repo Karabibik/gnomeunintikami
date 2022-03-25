@@ -10,6 +10,6 @@ aliases: [Kör Tanrı]
 | **Irk** | |  
 | **Sınıf** | |  
 | **Kütük** | |  
-| **Münasebet** | #Münasebet/Tanrı|  
+| **Münasebet** | Tanrı|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Alfons'un tanrısı<br>Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini|  

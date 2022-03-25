@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | [[Gruumsh'ın Kolları]]|  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Orc|  
-| **Sınıf** | #Class/Fighter|  
+| **Irk** | Orc|  
+| **Sınıf** | Fighter|  
 | **Kütük** | |  
-| **Münasebet** | #Münasebet/Düşman - Ölü|  
+| **Münasebet** | Düşman - Ölü|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Gruumsh'ın Kolları eski başkanı<br>[[Uliza]]'yla iş görüyordu|  

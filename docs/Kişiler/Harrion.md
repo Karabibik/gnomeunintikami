@@ -7,9 +7,9 @@ aliases: [Hünerli, Handy]
 | **Soyadı** | |  
 | **Hizip** | [[Gnome'un İntikamı]]|  
 | **Cinsiyet** | Kadın (eski Erkek)|  
-| **Irk** | #Race/Tiefling(eskiGnome)|  
-| **Sınıf** | #Class/Wizard (War Mage)|  
+| **Irk** | Tiefling(eskiGnome)|  
+| **Sınıf** | Wizard (War Mage)|  
 | **Kütük** | [[Warseir]]|  
-| **Münasebet** | #Münasebet/Parti|  
+| **Münasebet** | Parti|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Büyü öğrenmek için yola çıkıp neler neler gördü amk gnome'u<br>Şu ara [[Güneş Birliği]] yardakçısı|  

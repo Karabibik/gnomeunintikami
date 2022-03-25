@@ -4,8 +4,8 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Human|  
-| **Sınıf** | #Class/Cleric|  
+| **Irk** | Human|  
+| **Sınıf** | Cleric|  
 | **Kütük** | [[Warbonter]]|  
 | **Münasebet** | |  
 | **Karakter Betimi** | |  

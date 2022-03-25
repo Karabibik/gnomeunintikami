@@ -26,7 +26,7 @@
 - Altar'ın üstündeki kadın yerde boğazını tutarak öksürüyor  
 - Siyah saçlı olan diz çökmüş  
 	- Biraz sessiz kalıp ağlamaya başlıyor  
-	- Sonra çığlık atıyor hıçkırarak elfe "NASIL OLUR, NEDEN" diye bağırıyor  
+	- Sonra çığlık atıyor hıçkırarak elfe `"NASIL OLUR, NEDEN"` diye bağırıyor  
   
 # Görü 3  
 Başka bir görüntü geliyor  
@@ -59,7 +59,7 @@ Stormforger'ın anılarındaki en önemli an
 - Ellerine bakıyor, etrafa bakıyor. Kafasını kaldırıp bulutlara bakıyor.  
 - Ellerini bulutları yarar gibi açıyor iki yana  
 	- Bulutlar aralanıyor ama hareketi bitirmeden duruyor  
-- Etrafına bakıp Elfçe "Nasıl?" diyor ve bitiriyor  
+- Etrafına bakıp Elfçe `"Nasıl?"` diyor ve bitiriyor  
   
 # Görü 5  
 4 ile bağlantılı  
@@ -93,6 +93,6 @@ Stormforger'ın anılarındaki en önemli an
 		- 25 yaşlarında, 1.70 gibi  
 		- Benzer bir aurası var, bir tık daha az, gözler de benzer, benzer zırhı var  
 		- ??are they siblings, are they fucking, or both??  
-- Kısa bir sessizlikten sonra adam: "Her şey hazır mı?" diye soruyor  
-- Stormforger adaya bakıp: "Sizin taraf hazırsa ben üstüme düşeni yapmaya hazırım" diyor  
-- Kadın da "Başlayalım o zaman" diyip Stormforger'a sağa doğru işaret ediyor
+- Kısa bir sessizlikten sonra adam: `"Her şey hazır mı?"` diye soruyor  
+- Stormforger adaya bakıp: `"Sizin taraf hazırsa ben üstüme düşeni yapmaya hazırım"` diyor  
+- Kadın da `"Başlayalım o zaman"` diyip Stormforger'a sağa doğru işaret ediyor

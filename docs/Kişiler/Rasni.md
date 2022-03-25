@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Svirfneblin|  
+| **Irk** | Svirfneblin|  
 | **Sınıf** | |  
 | **Kütük** | [[Mündung]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | Ortanca boylu, uzun beyaz sakallı|  
 | **İlave Notlar** | Amk bombacısı, barutçubaşı|  

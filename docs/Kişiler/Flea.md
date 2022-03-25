@@ -5,8 +5,8 @@
 | **Hizip** | |  
 | **Cinsiyet** | |  
 | **Irk** | |  
-| **Sınıf** | #Class/Druid|  
+| **Sınıf** | Druid|  
 | **Kütük** | [[Kutsal Ağaçlar]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Kutsal Ağaçlar Druidcibaşı|  

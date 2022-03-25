@@ -29,4 +29,4 @@ Yousa = Hal Web
 Adelyus da zihnini kaybetmeden Abyss'e inmenin yolunu arıyordu  
 	Chaotic eviller Abyss'te doğrudan devil oluyor  
 	Adelyus dark arts ile uğraşıyor diye dedikodular var  
-	Vincent zamanında "ritüeli yapma demiştim" diye kızmış buna
+	Vincent zamanında `"Ritüeli yapma demiştim"` diye kızmış buna

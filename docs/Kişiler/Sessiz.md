@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | |  
 | **Cinsiyet** | Erkek|  
-| **Irk** | #Race/Dragonborn|  
+| **Irk** | Dragonborn|  
 | **Sınıf** | |  
 | **Kütük** | [[Altbrück]]|  
-| **Münasebet** | #Münasebet/Düşman|  
+| **Münasebet** | Düşman|  
 | **Karakter Betimi** | iki metre boyu var|  
 | **İlave Notlar** | [[Warbrof]]'un sağ kolu|  

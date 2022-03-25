@@ -4,9 +4,9 @@
 | **Soyadı** | [[Celebryl]]|  
 | **Hizip** | [[Güneş Birliği]]|  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/HighElf|  
-| **Sınıf** | #Class/Wizard (Divination)|  
+| **Irk** | HighElf|  
+| **Sınıf** | Wizard (Divination)|  
 | **Kütük** | [[Mündung]]|  
-| **Münasebet** | #Münasebet/Müttefik|  
+| **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | [[Delador]]'un çırağı, delador buna sinirlenince perma slow atmış<br>19. High Mage|  

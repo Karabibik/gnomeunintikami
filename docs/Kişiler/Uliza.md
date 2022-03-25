@@ -4,8 +4,8 @@
 | **Soyadı** | [[Sym]]|  
 | **Hizip** | |  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/Drow|  
-| **Sınıf** | #Class/Rogue, #Class/Ranger (Gloomstalker)|  
+| **Irk** | Drow|  
+| **Sınıf** | Rogue, Ranger (Gloomstalker)|  
 | **Kütük** | [[Tamdro]]|  
 | **Münasebet** | |  
 | **Karakter Betimi** | 200-250 yaşlarında, 100 senesini dışarıda geçirmiş|  

@@ -1,5 +1,5 @@
 Kutsal Ağaçlar yolunda ormanda ölü Drowlara rastgeldik  
-	Uliza öldürdü, "Peşimden gelmeyin, vururum" diyor  
+	Uliza öldürdü, `"Peşimden gelmeyin, vururum"` diyor  
 	Cesetlerin boyunlarında siyah choker var  
 	Büyücünün kalbinin üstünde siyah hançer simgesi var  
 	Savaşçınınkindeyse siyah longsword  

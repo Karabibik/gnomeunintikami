@@ -4,9 +4,9 @@
 | **Soyadı** | |  
 | **Hizip** | [[Ryld Çetesi]]|  
 | **Cinsiyet** | Kadın|  
-| **Irk** | #Race/Human|  
-| **Sınıf** | #Class/Monk|  
+| **Irk** | Human|  
+| **Sınıf** | Monk|  
 | **Kütük** | [[Warbonter]]|  
-| **Münasebet** | #Münasebet/Düşman|  
+| **Münasebet** | Düşman|  
 | **Karakter Betimi** | kumral uzun saçlı kadın|  
 | **İlave Notlar** | John Ryld'ın sekreteri|  
