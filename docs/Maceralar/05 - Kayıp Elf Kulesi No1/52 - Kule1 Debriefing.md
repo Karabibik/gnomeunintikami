@@ -1,0 +1,1 @@
+Tinrel: "Özellikle Elva tarafından bilinmeyecek bunlar"

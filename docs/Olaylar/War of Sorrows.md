@@ -1,0 +1,3 @@
+---
+aliases: [War of Extinction]
+---

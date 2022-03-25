@@ -1,0 +1,12 @@
+|  |  |
+|---|---|
+| **İsim** | Sebastian|
+| **Soyadı** | |
+| **Hizip** | |
+| **Cinsiyet** | Erkek|
+| **Irk** | #Race/Human|
+| **Sınıf** | |
+| **Kütük** | [[Warbonter]]|
+| **Münasebet** | #Münasebet/Müttefik|
+| **Karakter Betimi** | |
+| **İlave Notlar** | [[Beljardin]] kahyası|
