@@ -1,11 +1,11 @@
-# Obsidian Notes
+# Gnome'un İntikamı
 
-Publish your public notes with MkDocs
+DM:
+- Mert Topaloğlu
 
-## Hello World!
+Oyuncular:
+- Berkay Şahinoğlu
+- Ertuğrul Mola
+- İlkin 
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Oyun linki: https://app.roll20.net/campaigns/details/5930132/a-d-and-d-game

@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Gnome'un İntikamı
 
 theme:
     name: 'material'
@@ -7,20 +7,20 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: brown
-      accent: indigo
+      primary: indigo
+      accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Karart
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: brown
-      accent: blue
+      primary: indigo
+      accent: orange
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Aydınlat
 
 # Extensions
 markdown_extensions:
