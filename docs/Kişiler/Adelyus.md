@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Adelyus|
-| **Soyadı** | |
-| **Hizip** | [[Güneş Birliği]]|
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | #Class/Wizard|
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Müttefik - Ölü|
-| **Karakter Betimi** | |
-| **İlave Notlar** | [[Alfons]]'un ustası, eski evocation kürsü başkanı<br>[[Abyss]]'e girmeye çalışmış sanırım?|
+|  |  |<br>|---|---|<br>| **İsim** | Adelyus|<br>| **Soyadı** | |<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Wizard|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik - Ölü|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Alfons]]'un ustası, eski evocation kürsü başkanı<br>[[Abyss]]'e girmeye çalışmış sanırım?|<br>

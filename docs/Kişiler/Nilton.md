@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Nilton|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Drow|
-| **Sınıf** | |
-| **Kütük** | [[Wolheim]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | [[Jeggred]]'in oğlu|
+|  |  |<br>|---|---|<br>| **İsim** | Nilton|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Drow|<br>| **Sınıf** | |<br>| **Kütük** | [[Wolheim]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Jeggred]]'in oğlu|<br>

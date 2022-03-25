@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Lucian|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Tiefling|
-| **Sınıf** | #Class/Warlock (Hexblade)|
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | Boynunda yarım güneş sembolü var|
-| **İlave Notlar** | Arena çığırtkanı, [[Vincent]]'ın uşağı<br>Annesi half-devil|
+|  |  |<br>|---|---|<br>| **İsim** | Lucian|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Tiefling|<br>| **Sınıf** | #Class/Warlock (Hexblade)|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | Boynunda yarım güneş sembolü var|<br>| **İlave Notlar** | Arena çığırtkanı, [[Vincent]]'ın uşağı<br>Annesi half-devil|<br>

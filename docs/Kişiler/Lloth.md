@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Lloth|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Drow|
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | #Münasebet/Tanrı|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Ana drow tanrısı|
+|  |  |<br>|---|---|<br>| **İsim** | Lloth|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Drow|<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Ana drow tanrısı|<br>

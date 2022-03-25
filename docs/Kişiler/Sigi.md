@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Sigi|
-| **Soyadı** | [[Pabst]]|
-| **Hizip** | [[Güneş Birliği]]|
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | #Class/Wizard|
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | |
-| **Karakter Betimi** | 65 yaşlarında|
-| **İlave Notlar** | Üniversitede Abjuration kürsü başkanı<br>Ryld'dan memnun değil|
+|  |  |<br>|---|---|<br>| **İsim** | Sigi|<br>| **Soyadı** | [[Pabst]]|<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Wizard|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | 65 yaşlarında|<br>| **İlave Notlar** | Üniversitede Abjuration kürsü başkanı<br>Ryld'dan memnun değil|<br>

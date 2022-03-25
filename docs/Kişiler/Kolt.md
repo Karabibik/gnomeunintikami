@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Kolt|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | #Race/Goliath|
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | #Münasebet/Tanrı|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Goliath tanrısı|
+|  |  |<br>|---|---|<br>| **İsim** | Kolt|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | #Race/Goliath|<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Goliath tanrısı|<br>

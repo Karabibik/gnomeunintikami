@@ -1,5 +1,1 @@
-[[Tamdro]]'nun güvenliğinden sorumlu hanedan idi
-
-5.000 kadar askeri var
-
-Sembolleri kılıç
+---<br>tags: family<br>---<br><br>[[Tamdro]]'nun güvenliğinden sorumlu hanedan idi<br><br>5.000 kadar askeri var<br><br>Sembolleri kılıç

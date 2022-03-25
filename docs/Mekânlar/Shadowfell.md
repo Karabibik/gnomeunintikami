@@ -1,3 +1,1 @@
-#Mekân/Plane 
-
-"Shadarkai" diye ayrı bir elf türü yaşıyor. İyi ya da kötü olmak zorunda değiller.
+---<br>tags: Mekân/Plane<br>---<br><br>"Shadarkai" diye ayrı bir elf türü yaşıyor. İyi ya da kötü olmak zorunda değiller.

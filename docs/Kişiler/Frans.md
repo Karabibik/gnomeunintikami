@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Frans|
-| **Soyadı** | [[Beljardin]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | #Class/Paladin (Devotion) ([[Solsitis]])|
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Müttefik - Ölü|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Eski vampir avcısı, 8-9 level|
+|  |  |<br>|---|---|<br>| **İsim** | Frans|<br>| **Soyadı** | [[Beljardin]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Paladin (Devotion) ([[Solsitis]])|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik - Ölü|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Eski vampir avcısı, 8-9 level|<br>

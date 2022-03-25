@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Jurgen V|
-| **Soyadı** | [[Voldrun]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Könningsburg]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | 56 yaşında 2005'te öldü, Stefan'ın oğlu|
+|  |  |<br>|---|---|<br>| **İsim** | Jurgen V|<br>| **Soyadı** | [[Voldrun]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Könningsburg]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | 56 yaşında 2005'te öldü, Stefan'ın oğlu|<br>

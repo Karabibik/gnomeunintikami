@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Mihael|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Guard, [[John Ryld]]'a karşı çıktı|
+|  |  |<br>|---|---|<br>| **İsim** | Mihael|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Guard, [[John Ryld]]'a karşı çıktı|<br>

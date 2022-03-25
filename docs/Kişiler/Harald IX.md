@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Harald IX|
-| **Soyadı** | [[Voldrun]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Könningsburg]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Fucking İmparator bitch, Jurgen V'nin oğlu|
+|  |  |<br>|---|---|<br>| **İsim** | Harald IX|<br>| **Soyadı** | [[Voldrun]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Könningsburg]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Fucking İmparator bitch, Jurgen V'nin oğlu|<br>

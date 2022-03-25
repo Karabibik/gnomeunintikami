@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Aldrich|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Guard captain|
+|  |  |<br>|---|---|<br>| **İsim** | Aldrich|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Guard captain|<br>

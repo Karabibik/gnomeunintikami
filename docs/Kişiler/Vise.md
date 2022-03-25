@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Vise|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | |
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Yara bantlı gözlü|
+|  |  |<br>|---|---|<br>| **İsim** | Vise|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Yara bantlı gözlü|<br>

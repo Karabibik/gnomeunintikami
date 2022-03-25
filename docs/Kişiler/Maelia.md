@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Maelia|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/WoodElf|
-| **Sınıf** | #Class/Barbarian, #Class/Fighter|
-| **Kütük** | [[Kutsal Ağaçlar]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | 230 yaşında|
-| **İlave Notlar** | Kartal totemi|
+|  |  |<br>|---|---|<br>| **İsim** | Maelia|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/WoodElf|<br>| **Sınıf** | #Class/Barbarian, #Class/Fighter|<br>| **Kütük** | [[Kutsal Ağaçlar]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | 230 yaşında|<br>| **İlave Notlar** | Kartal totemi|<br>

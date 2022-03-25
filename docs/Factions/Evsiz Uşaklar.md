@@ -1,5 +1,1 @@
-#faction
-
-[[Warbonter]]'de yer alan eski bir hırsız çetesi.
-
-[[John Ryld]] zamanında bunları katakulliye getirerek Harsus'un Kupası'nı çalmış gibi gösteriyor.
+---<br>tags: faction<br>---<br><br>[[Warbonter]]'de yer alan eski bir hırsız çetesi.<br><br>[[John Ryld]] zamanında bunları katakulliye getirerek Harsus'un Kupası'nı çalmış gibi gösteriyor.

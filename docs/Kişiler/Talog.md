@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Talog|
-| **Soyadı** | [[Lifeforger]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dwarf|
-| **Sınıf** | #Class/Wizard|
-| **Kütük** | [[Belenord]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Rannok'un kardeşi|
+|  |  |<br>|---|---|<br>| **İsim** | Talog|<br>| **Soyadı** | [[Lifeforger]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dwarf|<br>| **Sınıf** | #Class/Wizard|<br>| **Kütük** | [[Belenord]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Rannok'un kardeşi|<br>

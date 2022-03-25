@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Flea|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | |
-| **Sınıf** | #Class/Druid|
-| **Kütük** | [[Kutsal Ağaçlar]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Kutsal Ağaçlar Druidcibaşı|
+|  |  |<br>|---|---|<br>| **İsim** | Flea|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | |<br>| **Sınıf** | #Class/Druid|<br>| **Kütük** | [[Kutsal Ağaçlar]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Kutsal Ağaçlar Druidcibaşı|<br>

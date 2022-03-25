@@ -1,7 +1,1 @@
-#faction
-
-Aklı başında paralı asker grubu. Mevcut üyeleri:
-
-1) "Kaptan Paspas" [[Alfons|Alfons Beljardin]] (Başgan)
-2) "Hünerli" [[Harrion]]
-3) [[Philip]] "the Sharp"
+---<br>tags: faction<br>---<br><br>Aklı başında paralı asker grubu. Mevcut üyeleri:<br><br>1. "Kaptan Paspas" [[Alfons|Alfons Beljardin]] (Başgan)<br>2. "Hünerli" [[Harrion]]<br>3. [[Philip]] "the Sharp"

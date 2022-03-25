@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Morg|
-| **Soyadı** | |
-| **Hizip** | [[Ryld Çetesi]]|
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Orc|
-| **Sınıf** | |
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | |
-| **İlave Notlar** | John Ryld'a bağlı hareket eden çetelerin başı|
+|  |  |<br>|---|---|<br>| **İsim** | Morg|<br>| **Soyadı** | |<br>| **Hizip** | [[Ryld Çetesi]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Orc|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | John Ryld'a bağlı hareket eden çetelerin başı|<br>

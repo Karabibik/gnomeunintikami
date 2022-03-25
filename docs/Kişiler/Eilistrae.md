@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Eilistrae|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Elf|
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | #Münasebet/Tanrı|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Drowların aydınlık tanrısı, drowlar çok bilmez, öğretilmez<br>[[Corellion]] ile [[Lloth]]'un çocuğu, ihanete katılmamış, dark elflere iyilik göstermek istiyor<br>Rahibeleri insan kasabalarına hediye götürüp senede bir yaratık avlar|
+|  |  |<br>|---|---|<br>| **İsim** | Eilistrae|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Elf|<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Drowların aydınlık tanrısı, drowlar çok bilmez, öğretilmez<br>[[Corellion]] ile [[Lloth]]'un çocuğu, ihanete katılmamış, dark elflere iyilik göstermek istiyor<br>Rahibeleri insan kasabalarına hediye götürüp senede bir yaratık avlar|<br>

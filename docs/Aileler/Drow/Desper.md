@@ -1,1 +1,1 @@
-[[Tamdro]]'da yaşayan bir aile.
+---<br>tags: family<br>---<br><br>[[Tamdro]]'da yaşayan bir aile.

@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Orcus|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | |
-| **Sınıf** | |
-| **Kütük** | [[Abyss]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Abyss lordu|
+|  |  |<br>|---|---|<br>| **İsim** | Orcus|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | [[Abyss]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Abyss lordu|<br>

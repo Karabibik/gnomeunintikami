@@ -1,3 +1,1 @@
-#faction 
-
-[[John Ryld]]'ın [[Warbonter]]'deki gücünü kullanarak oluşturduğu çete.
+---<br>tags: faction<br>---<br><br>[[John Ryld]]'ın [[Warbonter]]'deki gücünü kullanarak oluşturduğu çete.

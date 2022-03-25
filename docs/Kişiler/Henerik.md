@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Henerik|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | #Class/Paladin ([[Solsitis]])|
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Katı görüşlü, rogue sevmeyen adam|
+|  |  |<br>|---|---|<br>| **İsim** | Henerik|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Paladin ([[Solsitis]])|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Katı görüşlü, rogue sevmeyen adam|<br>

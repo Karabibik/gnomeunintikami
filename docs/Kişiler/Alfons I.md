@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Alfons I|
-| **Soyadı** | [[Beljardin]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Müttefik - Ölü|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Alfons'un dedesinin babası|
+|  |  |<br>|---|---|<br>| **İsim** | Alfons I|<br>| **Soyadı** | [[Beljardin]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik - Ölü|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Alfons'un dedesinin babası|<br>

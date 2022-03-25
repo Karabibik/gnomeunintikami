@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Elanor|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Human|
-| **Sınıf** | #Class/Cleric ([[Falona]]?)|
-| **Kütük** | |
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | Sarışın|
-| **İlave Notlar** | Demonologist, diriliyor abla, meczup, unutuyor ölünce|
+|  |  |<br>|---|---|<br>| **İsim** | Elanor|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Cleric ([[Falona]]?)|<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | Sarışın|<br>| **İlave Notlar** | Demonologist, diriliyor abla, meczup, unutuyor ölünce|<br>

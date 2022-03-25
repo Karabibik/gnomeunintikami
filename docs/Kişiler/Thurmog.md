@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Thurmog|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dwarf|
-| **Sınıf** | #Class/Monk|
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Kırık çıkıkçı|
+|  |  |<br>|---|---|<br>| **İsim** | Thurmog|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dwarf|<br>| **Sınıf** | #Class/Monk|<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Kırık çıkıkçı|<br>

@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Malthar|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | #Race/Demon|
-| **Sınıf** | |
-| **Kütük** | [[Abyss]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | |
-| **İlave Notlar** | [[Alfons]]'un aynadaki demon|
+|  |  |<br>|---|---|<br>| **İsim** | Malthar|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | #Race/Demon|<br>| **Sınıf** | |<br>| **Kütük** | [[Abyss]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Alfons]]'un aynadaki demon|<br>

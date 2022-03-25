@@ -1,1 +1,1 @@
-[[Soradin|Soradin Federasyonu]]'nun baş hanedanı.
+---<br>tags: family<br>---<br><br>[[Soradin|Soradin Federasyonu]]'nun baş hanedanı.

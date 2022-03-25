@@ -1,16 +1,1 @@
-Celeste Scry denemesi #2
-
-Yousa: "Nasılsın? Uzun zamandır görüşemedik, iyi saklandın"
-
-Karşısındaki tarif:
-	30 yaşlarında
-	insan gibi
-	uzun siyah saçlı at kuyruğu
-	plain kıyafetli adam
-	adamın da pençeleri var, **!!!VAMPİR!!!**
-
-Yousa ile diğer vampir döğüşüyor
-	Yousa dövüyor.
-	Karşısındakinin boynunda bir zincir, zincirde anahtar var.
-	Anahtarı ve A4 boyutlarında bir kasayı alıp Dimension Door atıyor
-	Lağımlarda bir dakika kadar koşup kayboluyor
+Celeste Scry denemesi #2<br><br>Yousa: "Nasılsın? Uzun zamandır görüşemedik, iyi saklandın"<br><br>Karşısındaki tarif:<br>	30 yaşlarında<br>	insan gibi<br>	uzun siyah saçlı at kuyruğu<br>	plain kıyafetli adam<br>	adamın da pençeleri var, **!!!VAMPİR!!!**<br><br>Yousa ile diğer vampir döğüşüyor<br>	Yousa dövüyor.<br>	Karşısındakinin boynunda bir zincir, zincirde anahtar var.<br>	Anahtarı ve A4 boyutlarında bir kasayı alıp Dimension Door atıyor<br>	Lağımlarda bir dakika kadar koşup kayboluyor

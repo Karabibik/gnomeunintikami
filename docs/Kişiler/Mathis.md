@@ -1,15 +1,1 @@
----
-aliases: [Koca Mathis]
----
-|  |  |
-|---|---|
-| **İsim** | Mathis|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | |
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Giant araştırmacısı<br>[[Vincent]]'ın eski arkadaşı|
+---<br>aliases: [Koca Mathis]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Mathis|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Giant araştırmacısı<br>[[Vincent]]'ın eski arkadaşı|<br>

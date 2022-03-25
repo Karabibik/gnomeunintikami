@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Kaspar|
-| **Soyadı** | [[Nanger]]|
-| **Hizip** | [[Güneş Birliği]]|
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | #Class/Wizard (Conjuration)|
-| **Kütük** | [[Aedil]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Wizard rektör|
+|  |  |<br>|---|---|<br>| **İsim** | Kaspar|<br>| **Soyadı** | [[Nanger]]|<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Wizard (Conjuration)|<br>| **Kütük** | [[Aedil]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Wizard rektör|<br>

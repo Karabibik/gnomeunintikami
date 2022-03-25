@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Osha|
-| **Soyadı** | |
-| **Hizip** | [[Ryld Çetesi]]|
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Human|
-| **Sınıf** | #Class/Monk|
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | kumral uzun saçlı kadın|
-| **İlave Notlar** | John Ryld'ın sekreteri|
+|  |  |<br>|---|---|<br>| **İsim** | Osha|<br>| **Soyadı** | |<br>| **Hizip** | [[Ryld Çetesi]]|<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Monk|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | kumral uzun saçlı kadın|<br>| **İlave Notlar** | John Ryld'ın sekreteri|<br>

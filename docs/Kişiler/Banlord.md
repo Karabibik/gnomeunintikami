@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Banlord|
-| **Soyadı** | [[Lifeforger]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dwarf|
-| **Sınıf** | |
-| **Kütük** | [[Belenord]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Rannok'un oğlu|
+|  |  |<br>|---|---|<br>| **İsim** | Banlord|<br>| **Soyadı** | [[Lifeforger]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dwarf|<br>| **Sınıf** | |<br>| **Kütük** | [[Belenord]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Rannok'un oğlu|<br>

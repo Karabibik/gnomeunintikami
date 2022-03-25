@@ -1,15 +1,1 @@
----
-aliases: [Hünerli, Handy]
----
-|  |  |
-|---|---|
-| **İsim** | Harrion|
-| **Soyadı** | |
-| **Hizip** | [[Gnome'un İntikamı]]|
-| **Cinsiyet** | Kadın (eski Erkek)|
-| **Irk** | #Race/Tiefling(eskiGnome)|
-| **Sınıf** | #Class/Wizard (War Mage)|
-| **Kütük** | [[Warseir]]|
-| **Münasebet** | #Münasebet/Parti|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Büyü öğrenmek için yola çıkıp neler neler gördü amk gnome'u<br>Şu ara [[Güneş Birliği]] yardakçısı|
+---<br>aliases: [Hünerli, Handy]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Harrion|<br>| **Soyadı** | |<br>| **Hizip** | [[Gnome'un İntikamı]]|<br>| **Cinsiyet** | Kadın (eski Erkek)|<br>| **Irk** | #Race/Tiefling(eskiGnome)|<br>| **Sınıf** | #Class/Wizard (War Mage)|<br>| **Kütük** | [[Warseir]]|<br>| **Münasebet** | #Münasebet/Parti|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Büyü öğrenmek için yola çıkıp neler neler gördü amk gnome'u<br>Şu ara [[Güneş Birliği]] yardakçısı|<br>

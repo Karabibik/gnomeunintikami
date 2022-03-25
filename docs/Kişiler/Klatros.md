@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Klatros|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dragon|
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Kalan tek elder chromatic dragon, green dragonların kralı|
+|  |  |<br>|---|---|<br>| **İsim** | Klatros|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dragon|<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Kalan tek elder chromatic dragon, green dragonların kralı|<br>

@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Corellion|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Elf|
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | #Münasebet/Tanrı|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Ana elf tanrısı|
+|  |  |<br>|---|---|<br>| **İsim** | Corellion|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Elf|<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Ana elf tanrısı|<br>

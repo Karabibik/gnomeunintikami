@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Vedon|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | |
-| **Sınıf** | |
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/NPC|
-| **Karakter Betimi** | Kambur, göbekli, kirli sakallı, kel, meymenetsiz|
-| **İlave Notlar** | Eskici, grumpy herif|
+|  |  |<br>|---|---|<br>| **İsim** | Vedon|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/NPC|<br>| **Karakter Betimi** | Kambur, göbekli, kirli sakallı, kel, meymenetsiz|<br>| **İlave Notlar** | Eskici, grumpy herif|<br>

@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Islum|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/NPC|
-| **Karakter Betimi** | 30 yaşlarında|
-| **İlave Notlar** | [[Beer Mire]] hanının işletmecisi|
+|  |  |<br>|---|---|<br>| **İsim** | Islum|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/NPC|<br>| **Karakter Betimi** | 30 yaşlarında|<br>| **İlave Notlar** | [[Beer Mire]] hanının işletmecisi|<br>

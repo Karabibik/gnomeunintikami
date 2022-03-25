@@ -1,5 +1,1 @@
-#Mekân/Şehir
-
-Drow şehri. Yetmez mi?
-
-Eskiden [[Sym]] hanedanı yönetiyormuş, şu an pratikte [[Tsara]] yönetiyor ama başrahibeleri yok. Hâliyle insanlar şüphelenmeye başladı.
+---<br>tags: Mekân/Şehir<br>---<br><br>Drow şehri. Yetmez mi?<br><br>Eskiden [[Sym]] hanedanı yönetiyormuş, şu an pratikte [[Tsara]] yönetiyor ama başrahibeleri yok. Hâliyle insanlar şüphelenmeye başladı.

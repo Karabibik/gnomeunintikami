@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Donaar|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dragonborn|
-| **Sınıf** | |
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/NPC|
-| **Karakter Betimi** | Kırmızı|
-| **İlave Notlar** | General Shop satıcısı|
+|  |  |<br>|---|---|<br>| **İsim** | Donaar|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dragonborn|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/NPC|<br>| **Karakter Betimi** | Kırmızı|<br>| **İlave Notlar** | General Shop satıcısı|<br>

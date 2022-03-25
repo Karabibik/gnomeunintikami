@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Adran|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/HalfElf|
-| **Sınıf** | |
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/NPC|
-| **Karakter Betimi** | |
-| **İlave Notlar** | [[Bira Nehri]] hancılarından|
+|  |  |<br>|---|---|<br>| **İsim** | Adran|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/HalfElf|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/NPC|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Bira Nehri]] hancılarından|<br>

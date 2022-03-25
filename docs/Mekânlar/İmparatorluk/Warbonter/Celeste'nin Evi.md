@@ -1,15 +1,1 @@
-#Mekân
-
-Girişte bir hol var. Orada Soradin, Rand ve Warseir'den eserler var:
-	**Ahşap heykel:** Yerli halkların birinden alınma
-	**Random resim:** Buz ve kar kaplı bir yer. muhtemelen Kuzey, eskiden insanlarınken alınmış
-	**Camekanda:** Mağara duvarında goliath el izi var
-	**Yerdeki mermerler:** Rand Diyarı'ndan gelme
-	**Tırabzanlar**: Demir kadar güçlü siyah ahşaptan yapılma, sadece Great Forest'ta yetişiyor
-
-Merdivenle üst kata çıkılıyor
-	Ortada kocaman bir çalışma masası duruyor
-	Duvarlarda büyülü eşyalar ve kitaplıklar gırla
-	Bir tane de sokağa bakan balkon var
-
-![[Celeste'nin Evi.png]]
+---<br>tags: Mekân<br>---<br><br>Girişte bir hol var. Orada Soradin, Rand ve Warseir'den eserler var:<br>	**Ahşap heykel:** Yerli halkların birinden alınma<br>	**Random resim:** Buz ve kar kaplı bir yer. muhtemelen Kuzey, eskiden insanlarınken alınmış<br>	**Camekanda:** Mağara duvarında goliath el izi var<br>	**Yerdeki mermerler:** Rand Diyarı'ndan gelme<br>	**Tırabzanlar**: Demir kadar güçlü siyah ahşaptan yapılma, sadece Great Forest'ta yetişiyor<br><br>Merdivenle üst kata çıkılıyor<br>	Ortada kocaman bir çalışma masası duruyor<br>	Duvarlarda büyülü eşyalar ve kitaplıklar gırla<br>	Bir tane de sokağa bakan balkon var<br><br>![[Celeste'nin Evi.png]]

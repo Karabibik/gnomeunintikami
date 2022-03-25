@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Tiamat|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | #Race/Dragon|
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | #Münasebet/Tanrı|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Ejderhaların tanrısı|
+|  |  |<br>|---|---|<br>| **İsim** | Tiamat|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | #Race/Dragon|<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Ejderhaların tanrısı|<br>

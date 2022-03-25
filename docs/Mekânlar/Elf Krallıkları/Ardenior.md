@@ -1,3 +1,1 @@
-#Mekân/Ülke
-
-Eski Elf Krallığı'nın adı.
+---<br>tags: Mekân/Ülke<br>---<br><br>Eski Elf Krallığı'nın adı.

@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Granmyr|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dwarf|
-| **Sınıf** | |
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/Parti - Eski|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Berke'nin karakteri|
+|  |  |<br>|---|---|<br>| **İsim** | Granmyr|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dwarf|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Parti - Eski|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Berke'nin karakteri|<br>

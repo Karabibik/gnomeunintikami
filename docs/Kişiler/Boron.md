@@ -1,15 +1,1 @@
----
-aliases: [Bor Teker]
----
-|  |  |
-|---|---|
-| **İsim** | Boron|
-| **Soyadı** | [[Tyre]]|
-| **Hizip** | [[Güneş Birliği]]|
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Mündung]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Yetkili bir abi<br>Celeste ile arası çok iyi değil sanki (kimin iyi ki?)|
+---<br>aliases: [Bor Teker]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Boron|<br>| **Soyadı** | [[Tyre]]|<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Mündung]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Yetkili bir abi<br>Celeste ile arası çok iyi değil sanki (kimin iyi ki?)|<br>

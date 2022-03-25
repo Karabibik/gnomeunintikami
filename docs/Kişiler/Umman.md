@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Umman|
-| **Soyadı** | [[Lifeforger]]|
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Dwarf|
-| **Sınıf** | |
-| **Kütük** | [[Belenord]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Rannok'un karısı|
+|  |  |<br>|---|---|<br>| **İsim** | Umman|<br>| **Soyadı** | [[Lifeforger]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Dwarf|<br>| **Sınıf** | |<br>| **Kütük** | [[Belenord]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Rannok'un karısı|<br>

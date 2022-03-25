@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Nadia|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | |
-| **Sınıf** | #Class/Monk|
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/Parti - Eski|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir|
+|  |  |<br>|---|---|<br>| **İsim** | Nadia|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | |<br>| **Sınıf** | #Class/Monk|<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Parti - Eski|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir|<br>

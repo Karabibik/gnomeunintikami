@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Rahibe Lucian|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Tapınak rahibesi, Philip'e gıcık|
+|  |  |<br>|---|---|<br>| **İsim** | Rahibe Lucian|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Tapınak rahibesi, Philip'e gıcık|<br>

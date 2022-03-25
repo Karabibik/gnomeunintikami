@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Orospu Evladı|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Kuş|
-| **Sınıf** | |
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | [[Alfons]]un kuşu. BİR SUS ULAN, küfürbaz haydo + hero complex|
+|  |  |<br>|---|---|<br>| **İsim** | Orospu Evladı|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Kuş|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Alfons]]un kuşu. BİR SUS ULAN, küfürbaz haydo + hero complex|<br>

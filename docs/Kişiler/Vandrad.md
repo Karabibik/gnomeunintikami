@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Vandrad|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dwarf|
-| **Sınıf** | #Class/Paladin|
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/Parti - Eski|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Onurcan'ın karakteri|
+|  |  |<br>|---|---|<br>| **İsim** | Vandrad|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dwarf|<br>| **Sınıf** | #Class/Paladin|<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Parti - Eski|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Onurcan'ın karakteri|<br>

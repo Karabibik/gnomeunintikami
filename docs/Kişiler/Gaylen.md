@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Gaylen|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | |
-| **Sınıf** | |
-| **Kütük** | |
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Orta seviye hırsız|
+|  |  |<br>|---|---|<br>| **İsim** | Gaylen|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Orta seviye hırsız|<br>

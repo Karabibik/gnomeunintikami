@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Thokk|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/HalfOrc|
-| **Sınıf** | #Class/Barbarian|
-| **Kütük** | [[Kutsal Ağaçlar]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Eskiden paralı askerlik yapmış, herkesten güçlü savaşçı, champion|
+|  |  |<br>|---|---|<br>| **İsim** | Thokk|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/HalfOrc|<br>| **Sınıf** | #Class/Barbarian|<br>| **Kütük** | [[Kutsal Ağaçlar]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Eskiden paralı askerlik yapmış, herkesten güçlü savaşçı, champion|<br>

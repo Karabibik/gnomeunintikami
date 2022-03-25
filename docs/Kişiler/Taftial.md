@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Taftial|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | #Race/Elf|
-| **Sınıf** | |
-| **Kütük** | [[Great Forest]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Mert'in eski karakteri<br>Orman elfleriyle bir bağı var|
+|  |  |<br>|---|---|<br>| **İsim** | Taftial|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | #Race/Elf|<br>| **Sınıf** | |<br>| **Kütük** | [[Great Forest]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Mert'in eski karakteri<br>Orman elfleriyle bir bağı var|<br>

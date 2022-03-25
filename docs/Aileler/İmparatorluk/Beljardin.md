@@ -1,1 +1,1 @@
-Adı "Güzel Bahçe" anlamına geliyor, sembolleri de gül/çiçek zaten.
+---<br>tags: family<br>---<br><br>Adı "Güzel Bahçe" anlamına geliyor, sembolleri de gül/çiçek zaten.

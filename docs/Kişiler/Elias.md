@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Elias|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Mündung]]|
-| **Münasebet** | |
-| **Karakter Betimi** | 25-30 yaşlarında|
-| **İlave Notlar** | [[Mündung]] dükü<br>pavyoncu|
+|  |  |<br>|---|---|<br>| **İsim** | Elias|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Mündung]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | 25-30 yaşlarında|<br>| **İlave Notlar** | [[Mündung]] dükü<br>pavyoncu|<br>

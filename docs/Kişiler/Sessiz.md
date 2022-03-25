@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Sessiz|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dragonborn|
-| **Sınıf** | |
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | iki metre boyu var|
-| **İlave Notlar** | [[Warbrof]]'un sağ kolu|
+|  |  |<br>|---|---|<br>| **İsim** | Sessiz|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dragonborn|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | iki metre boyu var|<br>| **İlave Notlar** | [[Warbrof]]'un sağ kolu|<br>

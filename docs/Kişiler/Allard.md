@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Allard|
-| **Soyadı** | [[Beljardin]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | 7 yaşında çocuk|
-| **İlave Notlar** | Alfons'un evlatlık yeğeni|
+|  |  |<br>|---|---|<br>| **İsim** | Allard|<br>| **Soyadı** | [[Beljardin]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | 7 yaşında çocuk|<br>| **İlave Notlar** | Alfons'un evlatlık yeğeni|<br>

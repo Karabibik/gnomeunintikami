@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Koragan|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Goliath|
-| **Sınıf** | |
-| **Kütük** | [[Sevorg]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Goliath high-chief'i<br>Frost giant şefini yenip üç kabileyi de buyruk altına almış|
+|  |  |<br>|---|---|<br>| **İsim** | Koragan|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Goliath|<br>| **Sınıf** | |<br>| **Kütük** | [[Sevorg]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Goliath high-chief'i<br>Frost giant şefini yenip üç kabileyi de buyruk altına almış|<br>

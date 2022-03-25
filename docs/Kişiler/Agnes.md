@@ -1,15 +1,1 @@
----
-aliases: [Çelik Kontes]
----
-|  |  |
-|---|---|
-| **İsim** | Agnes|
-| **Soyadı** | [[Beljardin]]|
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Human|
-| **Sınıf** | #Class/Fighter|
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Alfons'un ablası<br>5 Yıldır Altbrück'ü yönetiyor|
+---<br>aliases: [Çelik Kontes]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Agnes|<br>| **Soyadı** | [[Beljardin]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Fighter|<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Alfons'un ablası<br>5 Yıldır Altbrück'ü yönetiyor|<br>

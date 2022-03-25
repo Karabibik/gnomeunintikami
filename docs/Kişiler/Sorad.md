@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Sorad|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Dragon|
-| **Sınıf** | |
-| **Kütük** | [[Soradin]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Ejderha kralı, elder drake|
+|  |  |<br>|---|---|<br>| **İsim** | Sorad|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dragon|<br>| **Sınıf** | |<br>| **Kütük** | [[Soradin]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Ejderha kralı, elder drake|<br>

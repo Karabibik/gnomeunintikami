@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Andrand|
-| **Soyadı** | [[Taralon]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/İnsan|
-| **Sınıf** | |
-| **Kütük** | [[Soradin Kenti]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | 2005'te üç krallık hükümdarının öldürülmesiyle 5 yaşında tahta geçmiş|
+|  |  |<br>|---|---|<br>| **İsim** | Andrand|<br>| **Soyadı** | [[Taralon]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/İnsan|<br>| **Sınıf** | |<br>| **Kütük** | [[Soradin Kenti]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | 2005'te üç krallık hükümdarının öldürülmesiyle 5 yaşında tahta geçmiş|<br>

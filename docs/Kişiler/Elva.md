@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Elva|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/WoodElf|
-| **Sınıf** | #Class/Fighter, #Class/Rogue|
-| **Kütük** | [[Great Forest]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | saçları yeşil, derisi de yeşil<br>bir gözü yeşil bir gözü mavi<br>sırtında siyah pelerin, uzun yay var<br>belinde kılıç/rapier gibi bir şey var, yeşil renkte broşu var|
-| **İlave Notlar** | Hiçbir hedefi kaçırmayan bir okçu<br>Huntmaster+spymaster<br>Orman elfleri ile Mündung arasında istihbarat görevi görüyor|
+|  |  |<br>|---|---|<br>| **İsim** | Elva|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/WoodElf|<br>| **Sınıf** | #Class/Fighter, #Class/Rogue|<br>| **Kütük** | [[Great Forest]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | saçları yeşil, derisi de yeşil<br>bir gözü yeşil bir gözü mavi<br>sırtında siyah pelerin, uzun yay var<br>belinde kılıç/rapier gibi bir şey var, yeşil renkte broşu var|<br>| **İlave Notlar** | Hiçbir hedefi kaçırmayan bir okçu<br>Huntmaster+spymaster<br>Orman elfleri ile Mündung arasında istihbarat görevi görüyor|<br>

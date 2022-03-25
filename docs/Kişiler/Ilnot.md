@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Ilnot|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Tiefling|
-| **Sınıf** | |
-| **Kütük** | [[Altbrück]]|
-| **Münasebet** | #Münasebet/NPC|
-| **Karakter Betimi** | Bir boynuzu kırık|
-| **İlave Notlar** | Fırıncı|
+|  |  |<br>|---|---|<br>| **İsim** | Ilnot|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Tiefling|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/NPC|<br>| **Karakter Betimi** | Bir boynuzu kırık|<br>| **İlave Notlar** | Fırıncı|<br>

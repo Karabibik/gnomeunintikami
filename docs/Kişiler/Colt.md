@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Colt|
-| **Soyadı** | |
-| **Hizip** | [[Evsiz Uşaklar]]|
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/CommonElf|
-| **Sınıf** | #Class/Rogue|
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Philip'in Evsiz Uşaklarından|
+|  |  |<br>|---|---|<br>| **İsim** | Colt|<br>| **Soyadı** | |<br>| **Hizip** | [[Evsiz Uşaklar]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/CommonElf|<br>| **Sınıf** | #Class/Rogue|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Philip'in Evsiz Uşaklarından|<br>

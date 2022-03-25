@@ -1,15 +1,1 @@
----
-aliases: [İlk]
----
-|  |  |
-|---|---|
-| **İsim** | The First|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | |
-| **Irk** | #Race/Vampire|
-| **Sınıf** | |
-| **Kütük** | [[Könningsburg]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | |
-| **İlave Notlar** | Savaştan sağ çıkan tek vampir lordu|
+---<br>aliases: [İlk]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | The First|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | #Race/Vampire|<br>| **Sınıf** | |<br>| **Kütük** | [[Könningsburg]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Savaştan sağ çıkan tek vampir lordu|<br>

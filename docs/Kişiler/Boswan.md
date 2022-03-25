@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Boswan|
-| **Soyadı** | |
-| **Hizip** | [[Ryld Çetesi]]|
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Warbonter]]|
-| **Münasebet** | #Münasebet/Düşman|
-| **Karakter Betimi** | |
-| **İlave Notlar** | John Ryld'ın yakın koruması binbaşı|
+|  |  |<br>|---|---|<br>| **İsim** | Boswan|<br>| **Soyadı** | |<br>| **Hizip** | [[Ryld Çetesi]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | John Ryld'ın yakın koruması binbaşı|<br>

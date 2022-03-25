@@ -1,5 +1,1 @@
-#Mekân/Kasaba
-
-Adı "Yün diyarı" anlamına geliyor
-
-Yazın arazideler kışın kasabada
+---<br>tags: Mekân/Kasaba<br>---<br><br>Adı "Yün diyarı" anlamına geliyor<br><br>Yazın arazideler kışın kasabada

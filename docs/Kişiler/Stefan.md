@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Stefan|
-| **Soyadı** | [[Voldrun]]|
-| **Hizip** | |
-| **Cinsiyet** | Erkek|
-| **Irk** | #Race/Human|
-| **Sınıf** | |
-| **Kütük** | [[Könningsburg]]|
-| **Münasebet** | |
-| **Karakter Betimi** | |
-| **İlave Notlar** | Halstein'ın ikizi, üç dakika büyük<br>20 yaşında ölmüş|
+|  |  |<br>|---|---|<br>| **İsim** | Stefan|<br>| **Soyadı** | [[Voldrun]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Könningsburg]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Halstein'ın ikizi, üç dakika büyük<br>20 yaşında ölmüş|<br>

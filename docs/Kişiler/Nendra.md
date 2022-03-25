@@ -1,12 +1,1 @@
-|  |  |
-|---|---|
-| **İsim** | Nendra|
-| **Soyadı** | |
-| **Hizip** | |
-| **Cinsiyet** | Kadın|
-| **Irk** | #Race/Drow|
-| **Sınıf** | #Class/Cleric|
-| **Kütük** | [[Soradin]]|
-| **Münasebet** | #Münasebet/Müttefik|
-| **Karakter Betimi** | |
-| **İlave Notlar** | [[Eilistrae]]cilerin başrahibesi|
+|  |  |<br>|---|---|<br>| **İsim** | Nendra|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Drow|<br>| **Sınıf** | #Class/Cleric|<br>| **Kütük** | [[Soradin]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Eilistrae]]cilerin başrahibesi|<br>
