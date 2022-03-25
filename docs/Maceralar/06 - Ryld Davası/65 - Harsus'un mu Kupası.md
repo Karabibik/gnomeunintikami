@@ -1,1 +1,3 @@
-Harsus'a ait olduğu söylenen artefact<br><br>Celeste, Ryld'ın ininde bulduğumuzun gerçek kupa olmadığı söylüyor.
+Harsus'a ait olduğu söylenen artefact
+  
+  Celeste, Ryld'ın ininde bulduğumuzun gerçek kupa olmadığı söylüyor.

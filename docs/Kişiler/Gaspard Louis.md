@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Gaspard Louis|<br>| **Soyadı** | [[Beljardin]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Müttefik - Ölü|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Alfons'un babası|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Gaspard Louis|
+  | **Soyadı** | [[Beljardin]]|
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Altbrück]]|
+  | **Münasebet** | #Münasebet/Müttefik - Ölü|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Alfons'un babası|
+  

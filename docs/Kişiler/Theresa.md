@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Theresa|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Cleric|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Ioun]] kütüphanesi başkanı, rahibe<br>Ryld'dan memnun değil|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Theresa|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Cleric|
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | [[Ioun]] kütüphanesi başkanı, rahibe<br>Ryld'dan memnun değil|
+  

@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Solsitis|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Güneş Birliği]] ve imparatorluk'un ana tanrısı|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Solsitis|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | |
+  | **Irk** | |
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Tanrı|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | [[Güneş Birliği]] ve imparatorluk'un ana tanrısı|
+  

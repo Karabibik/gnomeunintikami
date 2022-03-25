@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Laron|<br>| **Soyadı** | [[Celebryl]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/WoodElf|<br>| **Sınıf** | |<br>| **Kütük** | [[Mündung]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | Kil/kızıl tenli<br>kahverengi kısa saçlı|<br>| **İlave Notlar** | Elf Queen Consort, [[Tinrel]]den daha ılımlı|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Laron|
+  | **Soyadı** | [[Celebryl]]|
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/WoodElf|
+  | **Sınıf** | |
+  | **Kütük** | [[Mündung]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | Kil/kızıl tenli<br>kahverengi kısa saçlı|
+  | **İlave Notlar** | Elf Queen Consort, [[Tinrel]]den daha ılımlı|
+  

@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Mellora|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Doğa tanrıçası|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Mellora|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | |
+  | **Irk** | |
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Tanrı|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Doğa tanrıçası|
+  

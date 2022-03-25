@@ -1,1 +1,13 @@
-Güneş Birliği = Wizard Loncası<br><br>21 Mart yılbaşı, 360gün, 30 günden 12 ay<br><br>Warbrof, 3-4 hafta önce sağ kolu Sessiz ile ormandan geldi.<br>	Bunları iki gün önce bıraktı<br><br>Kutsal Ağaçlar<br>	Bunlar Gruumsh'ı sevmiyorlar<br>		<br>Warbrof diye biri var<br>	Kuzeybatıya 2 saat yolda, ormanda, malların yanında saklanıyor<br>	6-7 kişiler
+Güneş Birliği = Wizard Loncası
+  
+  21 Mart yılbaşı, 360gün, 30 günden 12 ay
+  
+  Warbrof, 3-4 hafta önce sağ kolu Sessiz ile ormandan geldi.
+  	Bunları iki gün önce bıraktı
+  
+  Kutsal Ağaçlar
+  	Bunlar Gruumsh'ı sevmiyorlar
+  		
+  Warbrof diye biri var
+  	Kuzeybatıya 2 saat yolda, ormanda, malların yanında saklanıyor
+  	6-7 kişiler

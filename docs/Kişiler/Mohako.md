@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Mohako|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Mündung]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | 40larında|<br>| **İlave Notlar** | [[Balık Kovası]] hanının işletmecisi|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Mohako|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Mündung]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | 40larında|
+  | **İlave Notlar** | [[Balık Kovası]] hanının işletmecisi|
+  

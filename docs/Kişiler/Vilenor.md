@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Vilenor|<br>| **Soyadı** | [[Mazgan]]|<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Wizard|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Adelyus]]'un dükkân ortağı<br>Soylu aileden ama üçüncü kuşak<br>Ryld'dan memnun değil|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Vilenor|
+  | **Soyadı** | [[Mazgan]]|
+  | **Hizip** | [[Güneş Birliği]]|
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Wizard|
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | [[Adelyus]]'un dükkân ortağı<br>Soylu aileden ama üçüncü kuşak<br>Ryld'dan memnun değil|
+  

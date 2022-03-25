@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Rannok|<br>| **Soyadı** | [[Lifeforger]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Dwarf|<br>| **Sınıf** | #Class/Artificier|<br>| **Kütük** | [[Belenord]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Belenord ve dünyanın en büyük silah ustası<br>Banlord'un babası, Umman'ın kocası, Talog'un kardeşi|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Rannok|
+  | **Soyadı** | [[Lifeforger]]|
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Dwarf|
+  | **Sınıf** | #Class/Artificier|
+  | **Kütük** | [[Belenord]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Belenord ve dünyanın en büyük silah ustası<br>Banlord'un babası, Umman'ın kocası, Talog'un kardeşi|
+  

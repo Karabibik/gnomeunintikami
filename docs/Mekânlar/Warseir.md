@@ -1,1 +1,5 @@
----<br>tags: Mekân/Ülke<br>---<br><br>Warseir nehri boyunca kurulmuş; üstte çöl ve Rand Diyarı, sağda İmparatorluk, altta Great Forest, soldaysa denizle çevrili bölge.
+---
+  tags: Mekân/Ülke
+  ---
+  
+  Warseir nehri boyunca kurulmuş; üstte çöl ve Rand Diyarı, sağda İmparatorluk, altta Great Forest, soldaysa denizle çevrili bölge.

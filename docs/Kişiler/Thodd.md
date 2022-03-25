@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Thodd|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Warbonter turnuvasında karşılaştık|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Thodd|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Warbonter turnuvasında karşılaştık|
+  

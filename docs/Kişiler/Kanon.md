@@ -1,1 +1,16 @@
----<br>aliases: [Kanlı]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Kanon|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Halfling|<br>| **Sınıf** | #Class/Barbarian|<br>| **Kütük** | [[Kutsal Ağaçlar]]|<br>| **Münasebet** | #Münasebet/Parti - Eski|<br>| **Karakter Betimi** | Teni kırmızı, kıllar kırmızı|<br>| **İlave Notlar** | Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz|<br>
+---
+  aliases: [Kanlı]
+  ---
+  |  |  |
+  |---|---|
+  | **İsim** | Kanon|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Halfling|
+  | **Sınıf** | #Class/Barbarian|
+  | **Kütük** | [[Kutsal Ağaçlar]]|
+  | **Münasebet** | #Münasebet/Parti - Eski|
+  | **Karakter Betimi** | Teni kırmızı, kıllar kırmızı|
+  | **İlave Notlar** | Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz|
+  

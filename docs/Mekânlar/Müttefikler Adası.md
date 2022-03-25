@@ -1,1 +1,5 @@
----<br>tags: Mekân/Ülke<br>---<br><br>Sadece kendi vatandaşlarına büyücülük eğitimi veriyor.
+---
+  tags: Mekân/Ülke
+  ---
+  
+  Sadece kendi vatandaşlarına büyücülük eğitimi veriyor.

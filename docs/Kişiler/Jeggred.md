@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Jeggred|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Drow|<br>| **Sınıf** | |<br>| **Kütük** | [[Wolheim]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | 50 yaşında kaçtı, 250 yıldır falan dışarıda|<br>| **İlave Notlar** | [[Eilistrae]]ci<br>Kendini öldürecekken [[Nendra]] kurtardı|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Jeggred|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Drow|
+  | **Sınıf** | |
+  | **Kütük** | [[Wolheim]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | 50 yaşında kaçtı, 250 yıldır falan dışarıda|
+  | **İlave Notlar** | [[Eilistrae]]ci<br>Kendini öldürecekken [[Nendra]] kurtardı|
+  

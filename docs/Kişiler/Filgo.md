@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Filgo|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Barbarian|<br>| **Kütük** | [[Kutsal Ağaçlar]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Kaplan totemi|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Filgo|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Barbarian|
+  | **Kütük** | [[Kutsal Ağaçlar]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Kaplan totemi|
+  

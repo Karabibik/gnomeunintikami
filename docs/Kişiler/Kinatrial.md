@@ -1,1 +1,16 @@
----<br>aliases: [Kina, Altın Kasırga]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Kinatrial|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Elf|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | Her yerine mücevher takmış|<br>| **İlave Notlar** | Mücevherci, [[Pinatrial]]'nın kardeşi|<br>
+---
+  aliases: [Kina, Altın Kasırga]
+  ---
+  |  |  |
+  |---|---|
+  | **İsim** | Kinatrial|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Elf|
+  | **Sınıf** | |
+  | **Kütük** | [[Altbrück]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | Her yerine mücevher takmış|
+  | **İlave Notlar** | Mücevherci, [[Pinatrial]]'nın kardeşi|
+  

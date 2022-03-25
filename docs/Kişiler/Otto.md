@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Otto|<br>| **Soyadı** | [[Hagen]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Karısından dolayı [[Alfons]]'a tilt|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Otto|
+  | **Soyadı** | [[Hagen]]|
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Karısından dolayı [[Alfons]]'a tilt|
+  

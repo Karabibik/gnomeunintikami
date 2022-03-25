@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Allard-Mom|<br>| **Soyadı** | [[Beljardin]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Allard'ın annesi|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Allard-Mom|
+  | **Soyadı** | [[Beljardin]]|
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Allard'ın annesi|
+  

@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Maglubiyet|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | #Race/Goblin|<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Maglubiyet|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | |
+  | **Irk** | #Race/Goblin|
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Tanrı|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş|
+  

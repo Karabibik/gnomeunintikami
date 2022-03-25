@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Mats|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Kutsal Ağaçlar]]|<br>| **Münasebet** | #Münasebet/Düşman - Ölü|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Mats|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Kutsal Ağaçlar]]|
+  | **Münasebet** | #Münasebet/Düşman - Ölü|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş|
+  

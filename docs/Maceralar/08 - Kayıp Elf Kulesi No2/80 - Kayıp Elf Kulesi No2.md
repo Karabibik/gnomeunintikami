@@ -1,1 +1,12 @@
----<br>tags: Macera<br>---<br><br>Table of Content<br><br>[[81 - Fey Taşı]]<br>[[82 - Kule2 (akaDragon)]]<br>[[83 - Kule2 Debriefing]]<br>[[84 - Legend Lore Hazırlıkları]]<br>[[85 - Legend Fucking Lore]]<br>
+---
+  tags: Macera
+  ---
+  
+  Table of Content
+  
+  [[81 - Fey Taşı]]
+  [[82 - Kule2 (akaDragon)]]
+  [[83 - Kule2 Debriefing]]
+  [[84 - Legend Lore Hazırlıkları]]
+  [[85 - Legend Fucking Lore]]
+  

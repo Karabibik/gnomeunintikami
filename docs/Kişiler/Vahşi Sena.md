@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Vahşi Sena|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | |<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Paralı asker, shadowbroker|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Vahşi Sena|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | |
+  | **Irk** | |
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Paralı asker, shadowbroker|
+  

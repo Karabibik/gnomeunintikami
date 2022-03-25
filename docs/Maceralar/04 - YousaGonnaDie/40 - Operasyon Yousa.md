@@ -1,1 +1,12 @@
----<br>tags: Macera<br>---<br><br>Table of Content<br><br>[[41 - Altbrück Kütüphanesinde]]<br>[[42 - Yousa Çık Dışarı]]<br>[[43 - Yousa Scry, Again]]<br>[[44 - Vincent Ayyuka]]<br>[[45 - Tüccar'ın Mahzeni]]<br>[[46 - Yousa Sobe]]
+---
+  tags: Macera
+  ---
+  
+  Table of Content
+  
+  [[41 - Altbrück Kütüphanesinde]]
+  [[42 - Yousa Çık Dışarı]]
+  [[43 - Yousa Scry, Again]]
+  [[44 - Vincent Ayyuka]]
+  [[45 - Tüccar'ın Mahzeni]]
+  [[46 - Yousa Sobe]]

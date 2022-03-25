@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Renate|<br>| **Soyadı** | [[Roth]]|<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | |<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Wizard (Enchanter)|<br>| **Kütük** | [[Hannog]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Wizard rektör|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Renate|
+  | **Soyadı** | [[Roth]]|
+  | **Hizip** | [[Güneş Birliği]]|
+  | **Cinsiyet** | |
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Wizard (Enchanter)|
+  | **Kütük** | [[Hannog]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Wizard rektör|
+  

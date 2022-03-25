@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Rustov|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | |<br>| **Sınıf** | #Class/Cleric ([[Ioun]])|<br>| **Kütük** | |<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Her şeyi bildiği söylenen abi|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Rustov|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | |
+  | **Sınıf** | #Class/Cleric ([[Ioun]])|
+  | **Kütük** | |
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Her şeyi bildiği söylenen abi|
+  

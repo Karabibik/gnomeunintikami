@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Emilia|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Mündung]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Mündung dükü [[Elias]]'ın kız kardeşi<br>on numara parti lokali başkanı|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Emilia|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Mündung]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Mündung dükü [[Elias]]'ın kız kardeşi<br>on numara parti lokali başkanı|
+  

@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Iverius|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Elf|<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Iverius|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Elf|
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik|
+  

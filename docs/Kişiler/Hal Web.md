@@ -1,1 +1,16 @@
----<br>aliases: [Yousa, Yurov Gaston, Supran]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Hal Web|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Vampire|<br>| **Sınıf** | #Class/Fighter, #Class/Wizard|<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Düşman - Ölü|<br>| **Karakter Betimi** | 30-40 yaşlarında<br>1.80, yapılı, yakışıklı|<br>| **İlave Notlar** | Eski [[Güneş Birliği]] koruması, [[Immortal Merchant]]'ın adamı olduktan sonra kanını bulup yerine geçmek istiyordu|<br>
+---
+  aliases: [Yousa, Yurov Gaston, Supran]
+  ---
+  |  |  |
+  |---|---|
+  | **İsim** | Hal Web|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Vampire|
+  | **Sınıf** | #Class/Fighter, #Class/Wizard|
+  | **Kütük** | [[Altbrück]]|
+  | **Münasebet** | #Münasebet/Düşman - Ölü|
+  | **Karakter Betimi** | 30-40 yaşlarında<br>1.80, yapılı, yakışıklı|
+  | **İlave Notlar** | Eski [[Güneş Birliği]] koruması, [[Immortal Merchant]]'ın adamı olduktan sonra kanını bulup yerine geçmek istiyordu|
+  

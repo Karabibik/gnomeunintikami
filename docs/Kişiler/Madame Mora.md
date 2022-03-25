@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Madame Mora|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/CommonElf|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Mora'nın Güzellikleri, kerhane işletmecisi|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Madame Mora|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/CommonElf|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Mora'nın Güzellikleri, kerhane işletmecisi|
+  

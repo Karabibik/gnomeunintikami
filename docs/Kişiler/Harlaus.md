@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Harlaus|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Ölülerin ruhlarını koruyor<br>Tapınılması yasak değil ama çok tapınanı yok|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Harlaus|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | |
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Tanrı|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Ölülerin ruhlarını koruyor<br>Tapınılması yasak değil ama çok tapınanı yok|
+  

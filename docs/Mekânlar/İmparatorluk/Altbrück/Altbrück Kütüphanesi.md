@@ -1,1 +1,15 @@
----<br>tags: Mekân<br>---<br><br>[[Altbrück]]'te, kalenin derinlerinde gizli bir kütüphane.<br><br>- Kütüphane bir garip<br>- Yalnızca Beljardin izniyle girilebiliyor<br>- Daha önce görmediğim, ünversiteye ait gibi magical booklar var<br><br>Kütüphane tarihi:<br>- Güneş Birliği, 1864'deki Soradin savaşından sonra ejderhaları incelemek için sınıra lab kurmuş<br>	- Soradin haraçgüzâr olmuş o savaşla<br>- Frans Beljardin 1881 yılında (40 yaşlarında) Altbrück'e atanmış<br>- Kütüphaneyi de o kurmuş
+---
+  tags: Mekân
+  ---
+  
+  [[Altbrück]]'te, kalenin derinlerinde gizli bir kütüphane.
+  
+  - Kütüphane bir garip
+  - Yalnızca Beljardin izniyle girilebiliyor
+  - Daha önce görmediğim, ünversiteye ait gibi magical booklar var
+  
+  Kütüphane tarihi:
+  - Güneş Birliği, 1864'deki Soradin savaşından sonra ejderhaları incelemek için sınıra lab kurmuş
+  	- Soradin haraçgüzâr olmuş o savaşla
+  - Frans Beljardin 1881 yılında (40 yaşlarında) Altbrück'e atanmış
+  - Kütüphaneyi de o kurmuş

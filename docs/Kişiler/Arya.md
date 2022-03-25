@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Arya|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | 35-40 yaşlarında|<br>| **İlave Notlar** | [[Celeste]]'nin yaveri|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Arya|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | 35-40 yaşlarında|
+  | **İlave Notlar** | [[Celeste]]'nin yaveri|
+  

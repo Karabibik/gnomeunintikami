@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Rasni|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Svirfneblin|<br>| **Sınıf** | |<br>| **Kütük** | [[Mündung]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | Ortanca boylu, uzun beyaz sakallı|<br>| **İlave Notlar** | Amk bombacısı, barutçubaşı|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Rasni|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Svirfneblin|
+  | **Sınıf** | |
+  | **Kütük** | [[Mündung]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | Ortanca boylu, uzun beyaz sakallı|
+  | **İlave Notlar** | Amk bombacısı, barutçubaşı|
+  

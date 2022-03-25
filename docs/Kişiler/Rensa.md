@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Rensa|<br>| **Soyadı** | [[Revenir]]|<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Wizard|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | 17-18 yaşlarında, güzel|<br>| **İlave Notlar** | Revenir hanesinin veliahtı wizard<br>Turnuvaya en genç katılanlardan<br>Celeste kürsü alması için yetiştiriyor|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Rensa|
+  | **Soyadı** | [[Revenir]]|
+  | **Hizip** | [[Güneş Birliği]]|
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Wizard|
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | 17-18 yaşlarında, güzel|
+  | **İlave Notlar** | Revenir hanesinin veliahtı wizard<br>Turnuvaya en genç katılanlardan<br>Celeste kürsü alması için yetiştiriyor|
+  

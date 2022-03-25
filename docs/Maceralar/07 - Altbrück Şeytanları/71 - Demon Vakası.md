@@ -1,1 +1,23 @@
-Göklerde uçan bir mantikor bulduk indirdik<br>- Kendileri sentient<br>- Anlaşılan Patient 0 da bu<br>- Karnından kırık bir taş çıktı.<br>	- Taşın Abyss ile bağlantısı var<br><br>Sorguya çektik şöyle diyor:<br>- "Kuzeyde bordo cübbeli iki insan (humanoid) var"<br>	- "Birinin derisi yeşil gibiydi"<br>- "Kuzeyde, nehre bir saat mesafedeler"<br><br>Kuzeye gittik kamp alanına<br>- Demon kurbağa peydah olmuş. Ondan da taş çıktı, o da kırık (conjuration enerjisi var)<br>- Yerdeki cesetler içeriden patlamış<br>- Üçü peassant, elleri bağlı. Biri diyor ki:<br>	- "Bizi evden kaçırdı bu bordo cübbeliler"<br>- Mantikorun tarif ettiği bordo cübbelilerin elleri bağlı değil<br>- İnsan (Mats) diyor ki:<br>	- "Orcus'un gelişini hazırlayacak bir ritüel yaptık"<br>- Tiefling'in üstünde harita var, 5-6 yer işaretlenmiş çarpıyla.<br>	- "Ritüeli tamamladık"<br>	- "Könningsburg'da olacak devamı"<br>	- Liderlerinin adı Adolf, o da Könningsburg'da
+Göklerde uçan bir mantikor bulduk indirdik
+  - Kendileri sentient
+  - Anlaşılan Patient 0 da bu
+  - Karnından kırık bir taş çıktı.
+  	- Taşın Abyss ile bağlantısı var
+  
+  Sorguya çektik şöyle diyor:
+  - "Kuzeyde bordo cübbeli iki insan (humanoid) var"
+  	- "Birinin derisi yeşil gibiydi"
+  - "Kuzeyde, nehre bir saat mesafedeler"
+  
+  Kuzeye gittik kamp alanına
+  - Demon kurbağa peydah olmuş. Ondan da taş çıktı, o da kırık (conjuration enerjisi var)
+  - Yerdeki cesetler içeriden patlamış
+  - Üçü peassant, elleri bağlı. Biri diyor ki:
+  	- "Bizi evden kaçırdı bu bordo cübbeliler"
+  - Mantikorun tarif ettiği bordo cübbelilerin elleri bağlı değil
+  - İnsan (Mats) diyor ki:
+  	- "Orcus'un gelişini hazırlayacak bir ritüel yaptık"
+  - Tiefling'in üstünde harita var, 5-6 yer işaretlenmiş çarpıyla.
+  	- "Ritüeli tamamladık"
+  	- "Könningsburg'da olacak devamı"
+  	- Liderlerinin adı Adolf, o da Könningsburg'da

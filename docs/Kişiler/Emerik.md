@@ -1,1 +1,16 @@
----<br>aliases: [Emenike]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Emerik|<br>| **Soyadı** | |<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Cleric ([[Solsitis]])|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | 55 yaşlarında<br>kırlaşmış orta boy saç sakal<br>biraz zayıf, hafif kambur|<br>| **İlave Notlar** | Güneş Birliği High Priest'i<br>Ryld'dan memnun değil|<br>
+---
+  aliases: [Emenike]
+  ---
+  |  |  |
+  |---|---|
+  | **İsim** | Emerik|
+  | **Soyadı** | |
+  | **Hizip** | [[Güneş Birliği]]|
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Cleric ([[Solsitis]])|
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | 55 yaşlarında<br>kırlaşmış orta boy saç sakal<br>biraz zayıf, hafif kambur|
+  | **İlave Notlar** | Güneş Birliği High Priest'i<br>Ryld'dan memnun değil|
+  

@@ -1,1 +1,8 @@
----<br>tags: Macera<br>---<br><br>## Takım Karşılaşmaları<br>![[Tournament_Team.png]]<br>## 1v1 Maçlar<br>![[Tournament_1v1.png]]
+---
+  tags: Macera
+  ---
+  
+  ## Takım Karşılaşmaları
+  ![[Tournament_Team.png]]
+  ## 1v1 Maçlar
+  ![[Tournament_1v1.png]]

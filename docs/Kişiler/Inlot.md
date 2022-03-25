@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Inlot|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Tiefling|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/NPC|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Değirmenci|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Inlot|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Tiefling|
+  | **Sınıf** | |
+  | **Kütük** | [[Altbrück]]|
+  | **Münasebet** | #Münasebet/NPC|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Değirmenci|
+  

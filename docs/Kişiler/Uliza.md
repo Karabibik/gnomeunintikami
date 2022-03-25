@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Uliza|<br>| **Soyadı** | [[Sym]]|<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Drow|<br>| **Sınıf** | #Class/Rogue, #Class/Ranger (Gloomstalker)|<br>| **Kütük** | [[Tamdro]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | 200-250 yaşlarında, 100 senesini dışarıda geçirmiş|<br>| **İlave Notlar** | [[Hal Web]]'i avlayan ve avlanan drow<br>Sym hanedanı üyesi<br>Matriarch'ı tehlikeye atıyor|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Uliza|
+  | **Soyadı** | [[Sym]]|
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Drow|
+  | **Sınıf** | #Class/Rogue, #Class/Ranger (Gloomstalker)|
+  | **Kütük** | [[Tamdro]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | 200-250 yaşlarında, 100 senesini dışarıda geçirmiş|
+  | **İlave Notlar** | [[Hal Web]]'i avlayan ve avlanan drow<br>Sym hanedanı üyesi<br>Matriarch'ı tehlikeye atıyor|
+  

@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Hara|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | neutral good, [[Solsitis]]'in üçlüsünden<br>zor durumdakilere yol gösteren ve Solsitis adına haberci|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Hara|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | |
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Tanrı|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | neutral good, [[Solsitis]]'in üçlüsünden<br>zor durumdakilere yol gösteren ve Solsitis adına haberci|
+  

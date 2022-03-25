@@ -1,1 +1,5 @@
----<br>tags: family<br>---<br><br>[[Tamdro]]'da yaşayan bir aile.
+---
+  tags: family
+  ---
+  
+  [[Tamdro]]'da yaşayan bir aile.

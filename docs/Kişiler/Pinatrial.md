@@ -1,1 +1,16 @@
----<br>aliases: [Pina]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Pinatrial|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Elf|<br>| **Sınıf** | #Class/Cleric (Forge)|<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | [[Kinatrial]]'nın kardeşi, demirci, utangaç otistik<br>Balyoz + Breastplate giyiyor|<br>
+---
+  aliases: [Pina]
+  ---
+  |  |  |
+  |---|---|
+  | **İsim** | Pinatrial|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Elf|
+  | **Sınıf** | #Class/Cleric (Forge)|
+  | **Kütük** | [[Altbrück]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | [[Kinatrial]]'nın kardeşi, demirci, utangaç otistik<br>Balyoz + Breastplate giyiyor|
+  

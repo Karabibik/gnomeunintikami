@@ -1,1 +1,7 @@
----<br>tags: family<br>---<br><br>Bilinen aile üyeleri:<br><br>- [[Goldrum]]
+---
+  tags: family
+  ---
+  
+  Bilinen aile üyeleri:
+  
+  - [[Goldrum]]

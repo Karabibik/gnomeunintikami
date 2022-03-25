@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Baldo|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Cleric|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | |<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Turnuvada yendiğimiz bir adam|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Baldo|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Cleric|
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | |
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Turnuvada yendiğimiz bir adam|
+  

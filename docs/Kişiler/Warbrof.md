@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Warbrof|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/Düşman - Ölü|<br>| **Karakter Betimi** | 35 yaşlarında, yapılı<br>Kapüşonlu pelerin, hide armor, scimitar, hand crossbow taşıyor|<br>| **İlave Notlar** | Eşkıya ve silah kaçakçısı<br>[[Uliza]]'yla iş görüyordu|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Warbrof|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Altbrück]]|
+  | **Münasebet** | #Münasebet/Düşman - Ölü|
+  | **Karakter Betimi** | 35 yaşlarında, yapılı<br>Kapüşonlu pelerin, hide armor, scimitar, hand crossbow taşıyor|
+  | **İlave Notlar** | Eşkıya ve silah kaçakçısı<br>[[Uliza]]'yla iş görüyordu|
+  

@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Kırmızı Behir|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Vampire|<br>| **Sınıf** | |<br>| **Kütük** | [[Mündung]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Sağ kalan tam vampir|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Kırmızı Behir|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Vampire|
+  | **Sınıf** | |
+  | **Kütük** | [[Mündung]]|
+  | **Münasebet** | #Münasebet/Düşman|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Sağ kalan tam vampir|
+  

@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Palatis|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | lawful good, [[Solsitis]]'in üçlüsünden<br>karanlığın köküne kibrit suyu, düzen sağlıyor|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Palatis|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | |
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Tanrı|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | lawful good, [[Solsitis]]'in üçlüsünden<br>karanlığın köküne kibrit suyu, düzen sağlıyor|
+  

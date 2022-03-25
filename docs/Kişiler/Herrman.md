@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Herrman|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Wererat|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Düşman - Ölü|<br>| **Karakter Betimi** | 30 yaşlarında<br>kumral saçlı<br>sağ yanağında yara izi var|<br>| **İlave Notlar** | Gemiden beklediğimiz adam, mahzende öldü<br>[[John Ryld]] ile bir derdi vardı|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Herrman|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Wererat|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Düşman - Ölü|
+  | **Karakter Betimi** | 30 yaşlarında<br>kumral saçlı<br>sağ yanağında yara izi var|
+  | **İlave Notlar** | Gemiden beklediğimiz adam, mahzende öldü<br>[[John Ryld]] ile bir derdi vardı|
+  

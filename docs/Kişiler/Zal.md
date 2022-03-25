@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Zal|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Altbrück]]|<br>| **Münasebet** | #Münasebet/NPC|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Stablemaster|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Zal|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Altbrück]]|
+  | **Münasebet** | #Münasebet/NPC|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Stablemaster|
+  

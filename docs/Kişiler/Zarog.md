@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Zarog|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Goliath|<br>| **Sınıf** | |<br>| **Kütük** | [[Mündung]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | 15-20 yaşında|<br>| **İlave Notlar** | Gemiyle giderken [[Mohako]] kurtarmış denizden<br>İyi aşçı|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Zarog|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Goliath|
+  | **Sınıf** | |
+  | **Kütük** | [[Mündung]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | 15-20 yaşında|
+  | **İlave Notlar** | Gemiyle giderken [[Mohako]] kurtarmış denizden<br>İyi aşçı|
+  

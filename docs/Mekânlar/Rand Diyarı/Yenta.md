@@ -1,1 +1,5 @@
----<br>tags: Mekân/Kasaba<br>---<br><br>[[Rand Diyarı]]'nın epey batısında ufak bir sahil kasabası.
+---
+  tags: Mekân/Kasaba
+  ---
+  
+  [[Rand Diyarı]]'nın epey batısında ufak bir sahil kasabası.

@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Berthold|<br>| **Soyadı** | |<br>| **Hizip** | [[Ryld Çetesi]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Düşman - Ölü|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | John Ryld'ın adamı, muhafızlara pusu kurdurttu|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Berthold|
+  | **Soyadı** | |
+  | **Hizip** | [[Ryld Çetesi]]|
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Düşman - Ölü|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | John Ryld'ın adamı, muhafızlara pusu kurdurttu|
+  

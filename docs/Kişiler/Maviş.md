@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Maviş|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | #Race/Dwarf|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/NPC|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Üniversite yanındaki açık büfeci cüce<br>steel hide klanından|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Maviş|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | #Race/Dwarf|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/NPC|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Üniversite yanındaki açık büfeci cüce<br>steel hide klanından|
+  

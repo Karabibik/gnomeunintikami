@@ -1,1 +1,9 @@
----<br>tags: Macera<br>---<br><br>Table of Content<br><br>[[21 - Warbrof'un İzinde]]<br>[[22 - Hagler Nerede]]<br>[[23 - Çökertme Operasyonu]]
+---
+  tags: Macera
+  ---
+  
+  Table of Content
+  
+  [[21 - Warbrof'un İzinde]]
+  [[22 - Hagler Nerede]]
+  [[23 - Çökertme Operasyonu]]

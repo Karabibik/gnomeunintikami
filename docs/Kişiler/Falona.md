@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Falona|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | chaotic good, [[Solsitis]]'in üçlüsünden<br>tapınakta yeri var ama sadece hürmeten, etkisini (chaotic ama iyi) hissettirip gidiyor|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Falona|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | |
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Tanrı|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | chaotic good, [[Solsitis]]'in üçlüsünden<br>tapınakta yeri var ama sadece hürmeten, etkisini (chaotic ama iyi) hissettirip gidiyor|
+  

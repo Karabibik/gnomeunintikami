@@ -1,1 +1,16 @@
----<br>aliases: [Kör Tanrı]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Ioun|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Kadın|<br>| **Irk** | |<br>| **Sınıf** | |<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Tanrı|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Alfons'un tanrısı<br>Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini|<br>
+---
+  aliases: [Kör Tanrı]
+  ---
+  |  |  |
+  |---|---|
+  | **İsim** | Ioun|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Kadın|
+  | **Irk** | |
+  | **Sınıf** | |
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Tanrı|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Alfons'un tanrısı<br>Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini|
+  

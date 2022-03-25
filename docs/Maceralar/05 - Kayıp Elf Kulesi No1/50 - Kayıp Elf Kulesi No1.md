@@ -1,1 +1,8 @@
----<br>tags: Macera<br>---<br><br>Table of Content<br><br>[[51 - Kule1 (akaGoblins)]]<br>[[52 - Kule1 Debriefing]]
+---
+  tags: Macera
+  ---
+  
+  Table of Content
+  
+  [[51 - Kule1 (akaGoblins)]]
+  [[52 - Kule1 Debriefing]]

@@ -1,1 +1,13 @@
----<br>tags: Mekân/Şehir<br>---<br><br>Goliath başkenti ve bir metropol.<br>All-father ve Kolt'a tapıyorlar<br><br>Üç ana kabile var:<br>1. Frozen Fang, bu arkadaşların evcil frost dragonları var<br>2. Okyanus Baltaları, bunlar batıdaki denizci kabile<br>3. Buz Prensleri, kuzeydoğuda yaşıyorlar. Ellerinde frost giantlar var<br><br>![[Kuzey.png]]
+---
+  tags: Mekân/Şehir
+  ---
+  
+  Goliath başkenti ve bir metropol.
+  All-father ve Kolt'a tapıyorlar
+  
+  Üç ana kabile var:
+  1. Frozen Fang, bu arkadaşların evcil frost dragonları var
+  2. Okyanus Baltaları, bunlar batıdaki denizci kabile
+  3. Buz Prensleri, kuzeydoğuda yaşıyorlar. Ellerinde frost giantlar var
+  
+  ![[Kuzey.png]]

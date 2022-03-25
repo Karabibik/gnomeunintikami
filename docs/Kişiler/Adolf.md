@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Adolf|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | |<br>| **Kütük** | [[Könningsburg]]|<br>| **Münasebet** | #Münasebet/Düşman|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Könningsburg'daki demon çağıranların lideri|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Adolf|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | |
+  | **Kütük** | [[Könningsburg]]|
+  | **Münasebet** | #Münasebet/Düşman|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Könningsburg'daki demon çağıranların lideri|
+  

@@ -1,1 +1,6 @@
-Mezar taşında şöyle yazıyor:<br><br>```<br>        Ruhunu şeytana sattı cezasını çekti<br>Ey ölümlü, canına değer veriyorsan bir adım daha atma<br>```
+Mezar taşında şöyle yazıyor:
+  
+  ```
+          Ruhunu şeytana sattı cezasını çekti
+  Ey ölümlü, canına değer veriyorsan bir adım daha atma
+  ```

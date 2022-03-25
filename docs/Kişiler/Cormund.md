@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Cormund|<br>| **Soyadı** | [[Mazgan]]|<br>| **Hizip** | [[Güneş Birliği]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Paladin ([[Solsitis]])|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Müttefik|<br>| **Karakter Betimi** | 30 yaşlarında<br>uzun at kuyruklu|<br>| **İlave Notlar** | Güneş Birliği Paladini|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Cormund|
+  | **Soyadı** | [[Mazgan]]|
+  | **Hizip** | [[Güneş Birliği]]|
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Paladin ([[Solsitis]])|
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Müttefik|
+  | **Karakter Betimi** | 30 yaşlarında<br>uzun at kuyruklu|
+  | **İlave Notlar** | Güneş Birliği Paladini|
+  

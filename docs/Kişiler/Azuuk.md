@@ -1,1 +1,13 @@
-|  |  |<br>|---|---|<br>| **İsim** | Azuuk|<br>| **Soyadı** | |<br>| **Hizip** | [[Gruumsh'ın Kolları]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Orc|<br>| **Sınıf** | #Class/Fighter|<br>| **Kütük** | |<br>| **Münasebet** | #Münasebet/Düşman - Ölü|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Gruumsh'ın Kolları eski başkanı<br>[[Uliza]]'yla iş görüyordu|<br>
+|  |  |
+  |---|---|
+  | **İsim** | Azuuk|
+  | **Soyadı** | |
+  | **Hizip** | [[Gruumsh'ın Kolları]]|
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Orc|
+  | **Sınıf** | #Class/Fighter|
+  | **Kütük** | |
+  | **Münasebet** | #Münasebet/Düşman - Ölü|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Gruumsh'ın Kolları eski başkanı<br>[[Uliza]]'yla iş görüyordu|
+  

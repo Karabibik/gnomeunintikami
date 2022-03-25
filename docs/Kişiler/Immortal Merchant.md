@@ -1,1 +1,16 @@
----<br>aliases: [Tüccar]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Immortal Merchant|<br>| **Soyadı** | |<br>| **Hizip** | |<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Vampire|<br>| **Sınıf** | |<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Düşman - Ölü|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Warbonter vampir lordu|<br>
+---
+  aliases: [Tüccar]
+  ---
+  |  |  |
+  |---|---|
+  | **İsim** | Immortal Merchant|
+  | **Soyadı** | |
+  | **Hizip** | |
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Vampire|
+  | **Sınıf** | |
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Düşman - Ölü|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Warbonter vampir lordu|
+  

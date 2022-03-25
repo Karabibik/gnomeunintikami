@@ -1,1 +1,16 @@
----<br>aliases: [von Kadelsburg, Kaptan Paspas]<br>---<br>|  |  |<br>|---|---|<br>| **İsim** | Alfons|<br>| **Soyadı** | [[Beljardin]]|<br>| **Hizip** | [[Gnome'un İntikamı]]|<br>| **Cinsiyet** | Erkek|<br>| **Irk** | #Race/Human|<br>| **Sınıf** | #Class/Cleric (Knowledge) ([[Ioun]])|<br>| **Kütük** | [[Warbonter]]|<br>| **Münasebet** | #Münasebet/Parti|<br>| **Karakter Betimi** | |<br>| **İlave Notlar** | Kaypak herifin teki|<br>
+---
+  aliases: [von Kadelsburg, Kaptan Paspas]
+  ---
+  |  |  |
+  |---|---|
+  | **İsim** | Alfons|
+  | **Soyadı** | [[Beljardin]]|
+  | **Hizip** | [[Gnome'un İntikamı]]|
+  | **Cinsiyet** | Erkek|
+  | **Irk** | #Race/Human|
+  | **Sınıf** | #Class/Cleric (Knowledge) ([[Ioun]])|
+  | **Kütük** | [[Warbonter]]|
+  | **Münasebet** | #Münasebet/Parti|
+  | **Karakter Betimi** | |
+  | **İlave Notlar** | Kaypak herifin teki|
+  
