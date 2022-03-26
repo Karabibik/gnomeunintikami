@@ -3,6 +3,7 @@ site_name: Gnome'un İntikamı
 # Theme
 theme:
     name: 'material'
+    language: tr
     
     features:
       - navigation.tabs
