@@ -1,6 +1,6 @@
 ---  
 tags:
-  - hizip  
+  - Hizip  
 ---  
   
 [[Warbonter]]'de yer alan eski bir hırsız çetesi.  

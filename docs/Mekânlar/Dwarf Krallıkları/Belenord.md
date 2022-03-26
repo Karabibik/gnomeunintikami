@@ -3,7 +3,7 @@ tags:
   - Mekân/Ülke  
 ---  
   
-Altbrück kütüphanesinde şöyle bahsediliyor:  
+[[Altbrück Kütüphanesi]]'nde şöyle bahsediliyor:  
   
 - Eski bir Dwarf krallığı, 700 sene kadar önce  
 - Şu anki [[Altbrück]] civarında kurulmuşlar  

@@ -1,15 +1,18 @@
-Göklerde uçan bir mantikor bulduk indirdik  
+Göklerde uçan bir mantikor bulduk indirdik:  
+  
 - Kendileri sentient  
 - Anlaşılan Patient 0 da bu  
 - Karnından kırık bir taş çıktı.  
 	- Taşın [[Abyss]] ile bağlantısı var  
   
 Sorguya çektik şöyle diyor:  
+  
 - `"Kuzeyde bordo cübbeli iki insan (humanoid) var"`  
 	- `"Birinin derisi yeşil gibiydi"`  
 - `"Kuzeyde, nehre bir saat mesafedeler"`  
   
 Kuzeye gittik kamp alanına  
+  
 - Demon kurbağa peydah olmuş. Ondan da taş çıktı, o da kırık (conjuration enerjisi var)  
 - Yerdeki cesetler içeriden patlamış  
 - Üçü peassant, elleri bağlı. Biri diyor ki:  

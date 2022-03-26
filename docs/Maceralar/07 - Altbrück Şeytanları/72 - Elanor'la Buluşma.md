@@ -1,4 +1,4 @@
-**What she says**  
+**What she says**[^1]  
 - Demonologist  
 - [[Könningsburg]]'un 20km civarında bir ritüel yapmış  
 	- Sonra sanıyoruz [[Falona]] çarpmış  
@@ -12,4 +12,7 @@
 **Facts**  
 - KENDİNİ REZLEDİ GÖZÜMÜZÜN ÖNÜNDE  
 - Madalyonu var kara/gri (conjuration enerjisi var)  
-- Taşları arıyordu, parça parça olduklarını biliyor
+- Taşları arıyordu, parça parça olduklarını biliyor  
+  
+---  
+[^1] Sorduklarımızdan öğrendiğimiz kadarıyla. En ufak bir fikrimiz yok doğru mu yanlış mı.

@@ -1,6 +1,6 @@
 ---  
 tags:
-  - aile  
+  - Aile  
 ---  
   
 Yıllardan beri Kral ve İmparator yetiştiren, [[İmparatorluk]]'un baş hanesi.  
@@ -10,4 +10,5 @@ Bilinen üyeleri:
 - [[Harald IX]]  
 - [[Jurgen IV]]  
 - [[Jurgen V]]  
-- [[Stefan]]
+- [[Stefan]]  
+- [[Virzol III]]

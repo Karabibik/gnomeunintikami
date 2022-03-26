@@ -16,6 +16,7 @@ Soradin Devleti’nin kuzey kıyısı boyunca, pek çoğu antik çağlardan beri
   
 Soradin Federasyonu; güneyinde İmparatorluk’un [[Aedil]] eyaleti, batısında İmparatorluk’un [[Warbonter]] Eyaleti, kuzeyinde İmparator Denizi ve doğusunda [[Vahşi Orman]] ile çevirilidir. Federasyonun nüfusunun büyük kısmını, kendini ‘Soradinli’ olarak tanımlayan kuzey kıyısı şehirleri ve Soradin Kenti çevresi oluşturur. En doğuda ise İmparatorluk iki ülkeyi de ele geçirene kadar bağımsız kalmış olan ancak 1310 yılından beri Soradin Kenti’nin otoritesini tanıyan [[Rakonya]] bölgesi bulunur. Rakonya halkı, kıtanın en meşhur paralı askerleri ve maceracıları arasındadır. İmparatorluk ve [[Rand Diyarı]]'ndaki birçok seçkin aile, soyunu bu halka dayandırır. Rakonya halkı yüzyıllardır federasyonun geri kalanını Vahşi Orman’dan gelen tehditlere karşı korumaktadır.  
   
+### Ekonomi  
 [[Bolbento]] ve [[Thugton]] gibi büyük kıyı şehirleri ticaret ve askeriye ile uğraşmak isteyenlere sayısız olanak sağlasa da ülkedeki eğitim ve bilimin merkezi Soradin Kenti'dir. Şehir mühendislik dalları üzerine eğitim veren Soradin Mühendislik Akademisi ve diğer konular üzerine yoğunlaşan Kızıl Okul’a ev sahipliği yapar. İmparatorluk şehirlerindeki kadar görkemli olmasa da Soradin’de bir Ioun arşivi bulunmaktadır.  
   
 Kıyı şehirlerinde işleyen kapitalist düzen sebebiyle yetenekli kişiler daima iş bulabilirlerken, Federasyon'un merkezinde yer alan Soradin Kenti'nde istisnai durumlar dışında yalnızca ülkenin vatandaşları ve kendini kanıtlamış ailelerin üyeleri görevlendirilir.  

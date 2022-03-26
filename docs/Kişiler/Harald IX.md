@@ -10,4 +10,4 @@
 | **Kütük** | [[Könningsburg]]|  
 | **Münasebet** | |  
 | **Karakter Betimi** | |  
-| **İlave Notlar** | Fucking İmparator bitch, Jurgen V'nin oğlu|  
+| **İlave Notlar** | Fucking İmparator bitch, Jurgen V'in oğlu|  
