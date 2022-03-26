@@ -1,7 +1,5 @@
 Nerede kaldı o eski atlaslar...  
   
-  
-  
 ## Dünya Haritası  
 ![[World Map.PNG]]  
   
