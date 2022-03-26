@@ -5,7 +5,7 @@ tags:
   
 [[Mündung]]'da yer alan, eski Elf Kuleleri'ne benzeyecek şekilde yapılmış yeni kuleler. Deniz tarafından başlayarak saat yönünde:  
   
-# Okyanus Mızrağı  
+## Okyanus Mızrağı  
 [[Celebryl]] Kulesi de deniyor  
 Aynı zamanda deniz feneri olarak da çalışıyor  
 Kral ile kraliçe burada kalıyor  
@@ -30,7 +30,6 @@ Gözetleme kulesi gibi
 Orman elflerinin temsilcisi (mevcut [[Elva]]) kalıyor  
   
 ## Güneş Kulesi  
-  
 Diğerlerinden farklı, alçak (15m) (dışardan öyle görünüyor, aslında 30m yukarda)  
 Etrafında demir parmaklık var  
 [[Delador]] ile [[Esiatel]] kullanıyor burayı
