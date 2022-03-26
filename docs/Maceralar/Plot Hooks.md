@@ -12,7 +12,7 @@ Mavi elfler var üstünde, kısa yeşil saçlı
 Her şeyi aldılar  
 Dalgalar gemiyi devirdi, fıçıya tutunup zor kurtardım  
   
-### Slayer  
+### [[Slayer]]  
 Söylenene göre Mündung'un güneyinde küçük bir kasabaki kışlayı basıp içerideki subay ile 6-7 askeri öldürmüş 2-3 hafta önce  
   
 ## After Yousa  
@@ -53,6 +53,8 @@ Tüm major plane'lerden bir parça gerekiyor:
 - [ ] Shadowfell  
 - [ ] Celestial  
 - [ ] Fiendish  
+  
+  
   
 ### Ryld  
 Rand Diyarı'nın batısındaki Yenta adında küçük bir kasabada sanırım

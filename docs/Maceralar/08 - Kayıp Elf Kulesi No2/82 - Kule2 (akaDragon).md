@@ -1,4 +1,4 @@
-Philip, Elva ve Harrion içeri atlıyor  
+Philip, [[Elva]] ve Harrion içeri atlıyor  
   
 Elva içeri girince bir garipleşiyor  
 - Gözleri mavi/yeşil iken turuncu oluyor  

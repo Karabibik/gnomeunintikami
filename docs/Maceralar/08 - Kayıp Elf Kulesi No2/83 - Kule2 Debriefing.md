@@ -6,18 +6,18 @@
   
 Son kırmızı ejderha 1000 sene önce görüldü. Harrion biliyor ki:  
 - Bundan 1700 yıl kadar önce doğudakilerin çoğunu chromaticler yönetiyordu  
-- Dragon wars'ta iktidar savaşı sırasında chromaticlerin bir kısmı kırmızı ejderhalara sadık kaldı, bir kısmı isyan etti  
-- Ejderhaların kralı "Dağ Eriten Sorad"a isyan ettiler işte bir kısmı  
+- Dragon Wars'ta iktidar savaşı sırasında chromaticlerin bir kısmı kırmızı ejderhalara sadık kaldı, bir kısmı isyan etti  
+- Ejderhaların kralı "Dağ Eriten [[Sorad]]"a isyan ettiler işte bir kısmı  
 - Metalikler kargaşadan faydalanıp iki tarafa da saldırdı  
 - Halk da biraz saldırdı  
 - İmparatorluk da biraz dahil oldu ama az  
 - Kırmızılar extinct sanılıyordu  
   
-Celeste diyor ki  
+Celeste diyor ki:  
 - `"Evet bir sıkıntı var, teleport da çalışmayacak gibiydi. Magical linelar farklıydı biraz.`  
 - `"High magic zone sanırım burası"`  
 	  
-Alfons'u yileştirmeye çalışırken:  
+Alfons'u iyileştirmeye çalışırken:  
 - `"Alfons'un üstünde başka bir varlık hissettim"`  
   
 # Delador'la Toplantı  
@@ -57,7 +57,7 @@ Delador: `"Böyle bir mass modify memory büyüsü mümkün değil."`
 Elva: `"Siz ne bileceksiniz? O çok sevdiğiniz high magic'i bile unuttunuz."`  
   
 Tinrel: `"Söyledikleri eksik ve yanlış."`  
-- And casually mentions killsg us just for hearing everything  
+- And casually mentions killing us just for hearing everything  
   
 # Delador Afterparty  
 Bizi erişilemez gibi bir dağın tepesine getirdi. Önümüzde şehir var.  

@@ -1,4 +1,4 @@
-Agnes beni gizli Altbrück kütüphanesine götürüyor  
+[[Agnes]] beni gizli [[Altbrück Kütüphanesi]]'ne götürüyor  
 	- `"Buradan Alfons'un haberi yok, söyleme. Portal araştırması yapabilirsin.`  
   
 - Cilt cilt günlük var:  
@@ -8,5 +8,5 @@ Agnes beni gizli Altbrück kütüphanesine götürüyor
 - Devil summoning ritual tanımlı **"ASLA KULLANMAYIN"**  
 	- 300 goldluk tütsü + 3lvl slot gerekiyor  
 		- Adını bildiğin bir devil'i (demon yazmışım?) çağırıp eksiksiz pazarlık yaptırıyor  
-	- Çok tehlikeli olduğu için hepsini yok etmiş Frans  
-	- Könüngsburg'da, Dragan'a tapanları bastığı evde bulmuş
+	- Çok tehlikeli olduğu için hepsini yok etmiş [[Frans]]  
+	- [[Könningsburg]]'da, [[Dragan]]'a tapanları bastığı evde bulmuş

@@ -1,7 +1,7 @@
 **What she says**  
 - Demonologist  
-- Könningsburg'un 20km civarında bir ritüel yapmış  
-	- Sonra sanıyoruz Falona çarpmış  
+- [[Könningsburg]]'un 20km civarında bir ritüel yapmış  
+	- Sonra sanıyoruz [[Falona]] çarpmış  
   
 **Flashbacks**  
 - Aynı anda Rand Diyarı, Soradin ve İmparator'un suikaste uğradığı Kara Gece'nin ertesi günü imparator Warbonter'e gelmiş  

@@ -10,16 +10,16 @@ Ilımlı iklimi, geniş hinterlandı ve Pava Adası'nın sağladığı korunakl�
   
 Şehir, tarih boyunca evcilleştirilmemiş doğu arazilerine yapılan keşif ve fetih seferlerinin merkez noktası olmuştur ancak 700 yıl kadar önce İmparatorluğun karanlık çağında Rand Diyarı’nın organize olmasından sonra bu sefer ters yönde bir sefer ile şehir yağmalanmıştır. O günden bu güne Mündung ve Randa arasında bir rekabet vardır ve şehir pek çok kez sıcak çatışmaya dönüşmeyen gerginliklerin ortasında kalmıştır.  
   
-Barış zamanlarında doğu-batı ticareti Pava Adası ile Mündung limanı arasında yer alan ve açık okyanustan çok daha güvenli olan Pava kanalı üzerinden yürür. Pek çok ticari gemi köken aldıkları ülkenin İmparatorluk'a olan tarihî güvensiz tavrını bir limanda daha kâr edebilmek adına görmezden gelir ve yolları üzerinde Mündung’da durur. Nedendir bilinmez şehir ahalisi ticaretle pek ilgilenmez ve gemilerden kendi ihtiyaçlarından fazlasını satın almazlar. Yine de tavernalarda Soradin şarabı, Warbonter birası veya Rand viskisi asla bitmez. Şehrin ekonomik faaliyetleri arasında balıkçılık da unutulmamalıdır. Her yıl yaz sonunda yeni inşa edilen balıkçı tekneleri büyük bir kutlama ile suya indirilir ve pek çok cesur imparatorluk vatandaşı şanslarını denize karşı denemek üzere denizlere açılır. Mündung, İmparatorluk başkentleri arasında en düşük okur-yazar oranlarından birine sahiptir ve kendi yönetici ihtiyacını karşılayacak kadar bürokrat yetiştirmek dışında eğitim ile pek ilgilenmez. Ancak Güneş Birliği’nin High Elf harabelerine ilgisinden dolayı şehre kurduğu büyük bir merkezi vardır. Burada bazı şanslı balıkçı veya tüccar çocukları büyü ve tarih öğrenebilir.  
+Barış zamanlarında doğu-batı ticareti Pava Adası ile Mündung limanı arasında yer alan ve açık okyanustan çok daha güvenli olan Pava kanalı üzerinden yürür. Pek çok ticari gemi köken aldıkları ülkenin İmparatorluk'a olan tarihî güvensiz tavrını bir limanda daha kâr edebilmek adına görmezden gelir ve yolları üzerinde Mündung’da durur. Nedendir bilinmez şehir ahalisi ticaretle pek ilgilenmez ve gemilerden kendi ihtiyaçlarından fazlasını satın almazlar. Yine de tavernalarda Soradin şarabı, Warbonter birası veya Rand viskisi asla bitmez. Şehrin ekonomik faaliyetleri arasında balıkçılık da unutulmamalıdır. Her yıl yaz sonunda yeni inşa edilen balıkçı tekneleri büyük bir kutlama ile suya indirilir ve pek çok cesur imparatorluk vatandaşı şanslarını denize karşı denemek üzere denizlere açılır. Mündung, İmparatorluk başkentleri arasında en düşük okur-yazar oranlarından birine sahiptir ve kendi yönetici ihtiyacını karşılayacak kadar bürokrat yetiştirmek dışında eğitim ile pek ilgilenmez. Ancak [[Güneş Birliği]]’nin High Elf harabelerine ilgisinden dolayı şehre kurduğu büyük bir merkezi vardır. Burada bazı şanslı balıkçı veya tüccar çocukları büyü ve tarih öğrenebilir.  
   
 Şehirde İmparatorluk genelinde takip edilen ana tanrı olan Solsitis’e ek olarak denizlerdeki fırtınaları kontrol eden Keira ve hasatın verimli olmasını sağlayan Mellora’ya adanmış tapınaklar mevcuttur.  
   
-Delador ve Celebryl yeni anlaşma yaptılar  
+Delador ve [[Celebryl]] yeni anlaşma yaptılar  
 	araştırmayı Esiatel sürdürecek  
 	  
 Celebryl eski high elf klanı burada kalmış bir tek onlar	  
 	Diğer dört klan insan saldırılarında tamamen yok edildi, adları bile hatırlanmıyor  
 	Celebryl ikinci nesi klanlardan  
-	Orijinallerden biri Erawand  
+	Orijinallerden biri [[Erawand]]  
 	  
 	![[Mündung.png]]

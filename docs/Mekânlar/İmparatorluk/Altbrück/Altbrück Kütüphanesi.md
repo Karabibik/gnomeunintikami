@@ -6,7 +6,7 @@ tags:
 [[Altbrück]]'te, kalenin derinlerinde gizli bir kütüphane.  
   
 - Kütüphane bir garip  
-- Yalnızca Beljardin izniyle girilebiliyor  
+- Yalnızca [[Beljardin]] izniyle girilebiliyor  
 - Daha önce görmediğim, ünversiteye ait gibi magical booklar var  
   
 Kütüphane tarihi:  

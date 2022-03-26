@@ -8,7 +8,7 @@ Ay Işığı Kapısı:
 	Doğa dayandıkça Ardenior dayanır  
 ```  
 	  
-"Ardenior"  
+"[[Ardenior]]"  
 - Buradaki elflerle alakalı bir isim, eski krallığın adı  
   
 İkinci kapı:  
@@ -20,8 +20,8 @@ Ay Işığı Kapısı:
 	Ve inancını sağlam tut  
 ```  
   
-Iverius'un Ruh Yayı  
+[[Iverius]]'un Ruh Yayı  
 - Ruh silahı elindeyken ölürsen bu plane'e bağlı kalıyor ruhun  
 - Broken soul bow (non magical şu an)  
 - Üstünde rünler var, adı ve birkaç magic  
-- The Great Forest'ta yetişen kara araç odunu
+- The [[Great Forest]]'ta yetişen kara araç odunu

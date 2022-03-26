@@ -1,26 +1,40 @@
-# Notebook  
-`"Bu seneki deneyler başarılı olmadı, herhangi bir entity ile iletişim kuramadım. Dönüşümü tamamlamak istiyorsam tek yolu Tüccar'ın kanı ama bulamayacak olursam Shadowfell güçleri ya da Dragan da dönüşümü tamamlayabilir."`  
+En son Yousa'yı sobeliyoruz tabii  
+  
+## Notebook  
+```  
+"Bu seneki deneyler başarılı olmadı, herhangi bir entity ile iletişim kuramadım. Dönüşümü tamamlamak istiyorsam tek yolu Tüccar'ın kanı ama bulamayacak olursam Shadowfell güçleri ya da Dragan da dönüşümü tamamlayabilir."  
+```  
   
 - Orb'u communication için kullanıyormuş  
   
-`"Uliza'yı ne kadar oyalarım bilmiyorum, onu kandırdığımdan şüpheleniyor."`  
+```  
+"Uliza'yı ne kadar oyalarım bilmiyorum, onu kandırdığımdan şüpheleniyor."  
+```  
   
-`"Warbrof orklara silah götürmeye çalışırken öldü."`  
-`"Azuuk başarısız oldu."`  
+```  
+"Warbrof orklara silah götürmeye çalışırken öldü."  
+"Azuuk başarısız oldu."  
+```  
   
-`"Ormanın Hanımı'yla iletişimde sekte oldu. Uliza mağaraya girip ejderha yavrusunu kaçırmış."`  
+```  
+"Ormanın Hanımı'yla iletişimde sekte oldu. Uliza mağaraya girip ejderha yavrusunu kaçırmış."  
+```  
   
 - Hagleri öldürürken bizi ve özel isimle Maelia'yı görüyor  
 - Bizi Uliza'yı öldürmede kullanacaktı  
 - Uliza her şeyini yakmış, `"Altbrück'te bir işim kalmadı."`  
 - Vincent'ın yerini aynadaki demon'dan öğrenmiş.  
-	- Glabrezu orcus'a çalışıyormuş  
+	- Glabrezu Orcus'a çalışıyormuş  
   
-`"Ayna sürekli konuşup beni Orcus'a ayartmaya çalışıyor, son çare olarak kullanılabilir."`  
+```  
+"Ayna sürekli konuşup beni Orcus'a ayartmaya çalışıyor, son çare olarak kullanılabilir."  
+```  
   
-`"Kanı bulabileceğim sağlam bir ipucu var, Wabronter'den çıkıp..."`  
+```  
+"Kanı bulabileceğim sağlam bir ipucu var, Wabronter'den çıkıp..."  
+```  
   
-# Loot  
+## Loot  
 Cloak of the Bat -> Philip  
 	- Karanlıkta saklanmayı kolaylaştıran, bir süreliğine yarasa olmasını sağlayan pelerin  
 	- Gün ışığı altında çalışmıyor  
@@ -39,7 +53,7 @@ Demon Mirror -> Alfons
 İnce, siyah kapaklı defter -> Alfons  
   
 Ring of Protection -> Alfons  
-	AC+1, ST+1, rare, attunement  
+	- AC+1, ST+1, rare, attunement  
   
 Biraz daha küçük ahşap kutu, kilitli  
 	- 200cc vial var  
@@ -65,6 +79,6 @@ Koyu lacivert kapaklı grimoire -> Harrion
 | Ray of Sickness     |                 |                |                 |  
   
 Notlar, kağıtlar vs -> Vincent  
-	Immortal Merchant'la ilgili notlar  
+	- Immortal Merchant'la ilgili notlar  
   
 Holy Symbol of Solsitis

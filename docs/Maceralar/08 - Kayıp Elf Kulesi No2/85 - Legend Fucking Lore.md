@@ -9,7 +9,7 @@
 * Çevresinde birkaç Elf daha var  
 	* Gözlerinden, ağızlarından, burunlarından mavimsi beyaz ışık çıkıyor  
 	* Chanting hâlindeler, elfçeye benziyor  
-	* ?? sanırım Stormforger'ı yaratıyorlar  
+	* ?? sanırım [[Tinrel|Stormforger]]'ı yaratıyorlar  
 * Altar parlamaya başlıyor  
 	* Yanında ayakta başka bir kadın var  
 		* Raven black saçlı kadın, elfler arasında nadir  
@@ -18,8 +18,8 @@
 	* Enerji onda birleşiyor  
   
 # Görü 2  
-- Görüntü bulanıklaşıp geri geliyor  
-	- O zaman aralığında o kadar büyük yoğunlukta magic var ki parazit yapıyor  
+Görüntü bulanıklaşıp geri geliyor  
+	-  O zaman aralığında o kadar büyük yoğunlukta magic var ki parazit yapıyor  
   
 - Halkayı oluşturan elfler yerde  
 - Altar çatlamış  
@@ -49,7 +49,7 @@ Stormforger'ın anılarındaki en önemli an
 - Stormforger, üstünde yine war attire var  
 	- Biraz daha eskimiş üstü, zaman geçmiş belli ki  
 - Yağmurun ortasında uçuyor, uzayan bir ova ve yanında bir göl var  
-- Muhtemelen antik köningsburg'a doğru uçuyor  
+- Muhtemelen antik [[Könningsburg]]'a doğru uçuyor  
 	- Delador'la çıktığımız yerden görünüyor gibi  
 - Uçarken bir anda ivme sıfırlanıyor  
 	- Öfkeyle intentful giderken bir anda boşa alıyor  

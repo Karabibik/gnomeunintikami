@@ -1,4 +1,4 @@
-Ölümsüz Tüccar'ın mahzenden çıkan loot:  
+[[Immortal Merchant]]'ın mahzenden çıkan loot:  
   
 1. bütçe raporu  
 2. kase, içi çeşitli renkli gemlerle dolu  

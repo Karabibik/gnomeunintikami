@@ -2,7 +2,7 @@ Göklerde uçan bir mantikor bulduk indirdik
 - Kendileri sentient  
 - Anlaşılan Patient 0 da bu  
 - Karnından kırık bir taş çıktı.  
-	- Taşın Abyss ile bağlantısı var  
+	- Taşın [[Abyss]] ile bağlantısı var  
   
 Sorguya çektik şöyle diyor:  
 - `"Kuzeyde bordo cübbeli iki insan (humanoid) var"`  
@@ -20,4 +20,4 @@ Kuzeye gittik kamp alanına
 - Tiefling'in üstünde harita var, 5-6 yer işaretlenmiş çarpıyla. Gene Raise Dead...  
 	- `"Ritüeli tamamladık"`  
 	- `"Könningsburg'da olacak devamı"`  
-	- Liderlerinin adı Adolf, o da Könningsburg'da
+	- Liderlerinin adı [[Adolf]], o da Könningsburg'da

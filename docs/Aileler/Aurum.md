@@ -3,6 +3,5 @@ tags:
   - family  
 ---  
   
-Bilinen aile üyeleri:  
-  
+Bilinen üyeleri:  
 - [[Goldrum]]

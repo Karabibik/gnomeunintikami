@@ -1,10 +1,10 @@
-Tinrel hakkında Legend Lore atmak için kütüphanelere dağılıyoruz.  
+[[Tinrel]] hakkında Legend Lore atmak için kütüphanelere dağılıyoruz.  
   
   
-- 2021 yılındayız Könningsburg takviminde  
+- 2021 yılındayız [[Könningsburg]] takviminde  
 - Milat, Könningsburg'un başkent ilan edildiği yıl  
 - İlk 200-300 yıl boyunca kral rütbesinde biri tarafından yönetiliyor  
-	- Yönetici hanedan Voldrun, 2300 senedir aynı  
+	- Yönetici hanedan [[Voldrun]], 2300 senedir aynı  
 - 216 yılına kadar krallık statüsünde  
 	- Sonra kral herhangi bir varisi olmadan kayboluyor  
 	- İç savaş oluyor  
@@ -15,7 +15,7 @@ Tinrel hakkında Legend Lore atmak için kütüphanelere dağılıyoruz.
 	- Neredeyse tüm büyüleri yapıyor  
 	- Savaş alanında yenilmez  
 - Elfler, krallık döneminde fethediliyor  
-	- Mündung'un eski Elfçe adı Corellia  
+	- [[Mündung]]'un eski Elfçe adı Corellia  
 	- Kitaplarda propaganda var bir sürü  
 		- Elflerin yaşadığı yer insanların  
 		- Elfler istilacı  
