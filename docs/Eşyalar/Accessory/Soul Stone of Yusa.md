@@ -1,3 +1,8 @@
+---  
+tags:
+  - Eşya  
+---  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Soul Stone of Yusa|  

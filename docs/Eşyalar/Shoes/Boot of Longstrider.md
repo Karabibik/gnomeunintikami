@@ -1,3 +1,8 @@
+---  
+tags:
+  - Eşya  
+---  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Boot of Longstrider|  

@@ -1,3 +1,8 @@
+---  
+tags:
+  - Eşya  
+---  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Adamantine Reinforced Armor|  

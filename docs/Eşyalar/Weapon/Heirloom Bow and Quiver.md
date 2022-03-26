@@ -1,3 +1,8 @@
+---  
+tags:
+  - Eşya  
+---  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Heirloom Bow and Quiver|  

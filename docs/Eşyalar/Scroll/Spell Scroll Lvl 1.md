@@ -1,3 +1,8 @@
+---  
+tags:
+  - Eşya  
+---  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Spell Scroll Lvl 1|  
