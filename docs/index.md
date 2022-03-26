@@ -6,13 +6,14 @@ Bu oyun; "Gnome'un İntikamı" adlı paralı asker grubunda bir araya gelmeyi ba
 
 - ^^Mert Topaloğlu^^
 
-**Oyuncular**:
+**Vagabonds**:
 
 - ^^Berkay Şahinoğlu^^ _as_ ==Harrion *"the Handy"*== (Tiefling Wizard)
 - ^^Ertuğrul Mola^^ _as_ ==Alfons *"Kaptan Paspas"* Beljardin== (Human Cleric)
 - ^^İlkin Ünal^^ _as_ ==Philip *"the Sharp"*== (Human Rogue)
 
-**Eski Oyuncular**:
+**Ex Vagabonds**:
+
 - ^^Onur^^ _as_ ==Vandrad== (Dwarf Paladin)
 - ^^Berke^^ _as_ ==Granmyr== (Dwarf)
 - ^^Beril^^ _as_ ==Nadia== (Monk)
