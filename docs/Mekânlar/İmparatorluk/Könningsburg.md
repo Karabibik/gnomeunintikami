@@ -10,7 +10,7 @@ Könningsburg, kuruluşu ile ilgili belki de en net bilgi olan [[İmparatorluk]]
   
 [[Berser Gölü]]’nden ayrılıp okyanusa kadar akan [[Haulus Nehri]]’nin kıyılarını ilk yerleşim yerleri olarak seçtiler ve kısa sürede Voldrun hanedanının bilgeliğinden faydalanmak isteyen insanların buraya akın etmesi ile bölgede büyük bir insan yerleşimi oluştu. Antik Voldrun krallarının [[Hercel Dağı]] eteklerine bu yerleşimi gören görkemli bir kale kurması ve burayı evleri ilan etmesi üzerine Könningsburg adı ilk kez ortaya çıktı. Birkaç yüzyıl sonra Kral [[Virzol III]], ilkbahar gündönümünde Könningsburg’u bütün dünyanın başkenti ilan edip bu olayı takvimin ilk günü olarak kabul ettiğinde o günden sonra Könningsburg Krallığı olarak bilinecek ve bütün dünyayı bayrağı altında toplamaya çalışacak politik yapı ortaya çıkmış oldu.  
   
-Krallık 1000 yılı aşkın zaman önce yıkılmış olsa da Könningsburg hâlâ Voldrun hanedanı yöneticilerinin İmparatorluklarını kontrol ettikleri şehirdir ve dünyanın hemen her yerinde hâlâ Könningsburg takvimi kullanılır.  
+Krallık 1000 yılı aşkın zaman önce yıkılmış olsa da Könningsburg hâlâ Voldrun hanedanı yöneticilerinin İmparatorluklarını kontrol ettikleri şehirdir ve dünyanın hemen her yerinde hâlâ Könningsburg takvimi kullanılır. Bu takvime göre yılbaşı 21 Mart, bir yıl 360 gün ve 12 aydan oluşur.  
   
 ## Coğrafya  
 Şehir para kazanmanın ve harcamanın sayısız yollarıyla doludur. Ücretli dövüşlerin düzenlendiği arenalar, maden çalışmaları, dünyanın her yerinden gelen ürünlerin satıldığı dükkânlar ve soyluların her türlü kaprisini karşılamaya çalışan daha pek çok sektör şehirde herkesin her an yapabilecek bir şeyler bulabilmesini sağlar.  

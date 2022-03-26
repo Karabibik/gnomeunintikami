@@ -19,7 +19,7 @@
   
 # Görü 2  
 Görüntü bulanıklaşıp geri geliyor  
-	-  O zaman aralığında o kadar büyük yoğunlukta magic var ki parazit yapıyor  
+-  O zaman aralığında o kadar büyük yoğunlukta magic var ki parazit yapıyor  
   
 - Halkayı oluşturan elfler yerde  
 - Altar çatlamış  

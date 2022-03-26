@@ -1,0 +1,9 @@
+|  |  |  
+|---|---|  
+| **İsim** | Command Animal|  
+| **Okul** | |  
+| **Fiyat** | 125gp|  
+| **Rarity** | |  
+| **Kimde** | |  
+| **Menşei** | Potions General|  
+| **İşlev** | (1h)|  

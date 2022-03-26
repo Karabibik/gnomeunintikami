@@ -4,7 +4,7 @@ tags:
 ---  
   
   
-## After Azuuk  
+## After 02  
   
 ### Ateş Saçan Dev Kaplumbağa  
 Denizin altından geldi  
@@ -13,12 +13,13 @@ Her şeyi aldılar
 Dalgalar gemiyi devirdi, fıçıya tutunup zor kurtardım  
   
 ### [[Slayer]]  
-Söylenene göre Mündung'un güneyinde küçük bir kasabaki kışlayı basıp içerideki subay ile 6-7 askeri öldürmüş 2-3 hafta önce  
+Söylenene göre [[Mündung]]'un güneyinde küçük bir kasabaki kışlayı basıp içerideki subay ile 6-7 askeri öldürmüş 2-3 hafta önce  
   
-## After Yousa  
+  
+## After 04  
   
 ### Slayer  
-Özellikle Könningsburg çevresinde ara ara belirip local otoriteleri öldürmüş  
+Özellikle [[Könningsburg]] çevresinde ara ara belirip local otoriteleri öldürmüş  
 local soylu, haydut şefi, zenginler vs  
   
 ### İmparatorluk Denizi  
@@ -29,19 +30,20 @@ Korsan aktivitesinde artış var
 Resident forces artıyor  
 ilginç şekilde goliathlar ilgisiz kalmış, umursamamışlar  
   
-### Soradin  
+### [[Soradin]]  
 Güneyindeki dağlarda gizlenemeyecek boyutta askerî bir aktivite var  
   
   
-## After Ryld  
-### Vincent  
+## After 06  
+### [[Vincent]]  
 Ortalarda yok  
   
 ### Goblin Horde  
-Altbrück'ü pas geçerek yumuşak hedeflere saldırmayı seçti  
-Giderek büyümeyi istiyorlar, batıda Dotnau'yu vurup devam edecekler  
+[[Altbrück]]'ü pas geçerek yumuşak hedeflere saldırmayı seçti  
+Giderek büyümeyi istiyorlar, batıda [[Dotnau]]'yu vurup devam edecekler  
   
-## After Tower #2  
+  
+## After 08  
 ### One Spell to Find Them All  
 Tüm major plane'lerden bir parça gerekiyor:  
 - Plane of  
@@ -49,12 +51,10 @@ Tüm major plane'lerden bir parça gerekiyor:
 	- [ ] Fire  
 	- [ ] Air  
 	- [ ] Earth  
-- [x] Fey Wilds (Philip Fey'de topladığı bitkileri verdi)  
-- [ ] Shadowfell  
+- [x] [[Fey Wilds]] (Philip Fey'de topladığı bitkileri verdi)  
+- [ ] [[Shadowfell]]  
 - [ ] Celestial  
 - [ ] Fiendish  
   
-  
-  
 ### Ryld  
-Rand Diyarı'nın batısındaki Yenta adında küçük bir kasabada sanırım
+Celeste: `"Rand Diyarı'nın batısındaki Yenta adında küçük bir kasabada sanırım"`

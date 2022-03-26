@@ -7,7 +7,7 @@
 | **Cinsiyet** | Erkek|  
 | **Irk** | Orc|  
 | **Sınıf** | Fighter|  
-| **Kütük** | |  
+| **Kütük** | [[Altbrück]]|  
 | **Münasebet** | Düşman - Ölü|  
 | **Karakter Betimi** | |  
 | **İlave Notlar** | Gruumsh'ın Kolları eski başkanı<br>[[Uliza]]'yla iş görüyordu|  

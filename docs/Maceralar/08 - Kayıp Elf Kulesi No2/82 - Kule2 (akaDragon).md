@@ -5,10 +5,12 @@ Elva içeri girince bir garipleşiyor
 - Bir de fazlaca kibarlaşıyor  
 	  
 Elva dönüşüm geçirdikten sonra diyor ki:  
+```  
 - Evet, yolunu kestim gelecek adamın. Önemli bir şey yaptığınızı hissettim  
 - Burada paha biçilirden önemli şeyler var  
 - İnsanlar saldırdı ama bize saldırmadılar  
-	- Materyal plane'de oldu saldırı  
+- Materyal plane'de oldu saldırı  
+```  
   
 Eline/taşa dokununca dünyanın köklerine giden bir ağaç gördüm (reenkarnasyon)  
 - bazıları tanıdık çok fazla orman  

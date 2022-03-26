@@ -1,13 +1,19 @@
-Kutsal Ağaçlar yolunda ormanda ölü Drowlara rastgeldik  
-	- [[Uliza]] öldürdü, `"Peşimden gelmeyin, vururum"` diyor  
-	- Cesetlerin boyunlarında siyah choker var  
+Kutsal Ağaçlar yolunda ormanda ölü Drowlara rast geldik:  
+  
+- [[Uliza]] imiş, `"Peşimden gelmeyin, vururum"` diyor  
+- Cesetlerin boyunlarında siyah choker var  
 	- Büyücünün kalbinin üstünde siyah hançer simgesi var  
 	- Savaşçınınkindeyse siyah longsword  
-	- Raise Dead pls:  
-		- Matriarch'ı tehlikeye atıyor Uliza  
-		- Eilistraeci değil ama geri dönmeye çalışıyor  
-		- "Demonlarla neden kontak kuruyor?" Güç için  
-		- Şehre girerse matriarch ve tüm takipçileri Lloth'un gözünden düşecek  
+  
+Raise Dead pls:  
+  
+- `"Uliza'yı neden avlıyorsunuz?"`  
+	- Matriarch'ı tehlikeye atıyor  
+- Eilistraeci değil ama geri dönmeye çalışıyor  
+- `"Demonlarla neden kontak kuruyor?"`  
+	- Güç için`  
+- `"Güç kazanırsa ne olacak?"`  
+	- Şehre girerse matriarch ve tüm takipçileri Lloth'un gözünden düşecek  
   
 O sırada Rensa'ya uğruyoruz  
 	- Büyük bir yere eklenecek bir magic yapıyor  
@@ -33,7 +39,8 @@ Uliza'yla İletişim
 	Bu sefer ben de elimden geleni ardıma koymam  
 ```  
   
-Kasabadan çıkmasına yardım etmemiz karşılığında taşı verecek  
-	Drowlar kasabanın etrafını sarmış  
-		Elite drow ranger, gloomstalker, half chokerlı  
-		Ceketinde longsword var
+Kasabadan çıkmasına yardım etmemiz karşılığında taşı verecek:  
+	  
+- Drowlar kasabanın etrafını sarmış  
+	- Elite drow ranger, gloomstalker, half chokerlı  
+	- Ceketinde longsword var

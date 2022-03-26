@@ -1,1 +1,1 @@
-[[Gnome'un İntikamı]], Kutsal Ağaçlar kabilesi ve Altbrück kuvvetlerinin yardımıyla bir gece ansızın BAM BAM BAM
+[[Gnome'un İntikamı]], [[Kutsal Ağaçlar]] kabilesi ve [[Altbrück]] kuvvetlerinin yardımıyla bir gece ansızın BAM BAM BAM
