@@ -1,6 +1,6 @@
 ---  
 tags:
-  - faction  
+  - hizip  
 ---  
   
 [[Warbonter]]'de yer alan eski bir hırsız çetesi.  

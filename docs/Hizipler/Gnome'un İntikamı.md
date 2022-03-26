@@ -1,6 +1,6 @@
 ---  
 tags:
-  - faction  
+  - hizip  
 ---  
   
 Aklı başında paralı asker grubu. Mevcut üyeleri:  

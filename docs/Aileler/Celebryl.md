@@ -1,6 +1,6 @@
 ---  
 tags:
-  - family  
+  - aile  
 ---  
   
 Bilinen üyeleri:  

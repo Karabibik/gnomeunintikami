@@ -1,6 +1,6 @@
 ---  
 tags:
-  - family  
+  - aile  
 ---  
   
 [[Tamdro]]'da yaşayan ve hatta eski başrahibenin de mensup olduğu aile.  

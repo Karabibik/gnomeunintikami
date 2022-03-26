@@ -1,6 +1,6 @@
 ---  
 tags:
-  - family  
+  - aile  
 ---  
   
 [[Tamdro]]'da yaşayan bir aile.
