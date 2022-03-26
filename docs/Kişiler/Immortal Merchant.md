@@ -1,6 +1,8 @@
 ---  
-aliases: [Tüccar]  
+tags:
+  - Tüccar  
 ---  
+# Immortal Merchant   
 |  |  |  
 |---|---|  
 | **İsim** | Immortal Merchant|  

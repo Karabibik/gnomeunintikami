@@ -1,6 +1,8 @@
 ---  
-aliases: [the Sharp]  
+tags:
+  - the Sharp  
 ---  
+# Philip   
 |  |  |  
 |---|---|  
 | **İsim** | Philip|  

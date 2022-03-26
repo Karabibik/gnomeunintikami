@@ -1,3 +1,4 @@
+# Maglubiyet   
 |  |  |  
 |---|---|  
 | **İsim** | Maglubiyet|  

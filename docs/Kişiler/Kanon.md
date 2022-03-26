@@ -1,6 +1,8 @@
 ---  
-aliases: [Kanlı]  
+tags:
+  - Kanlı  
 ---  
+# Kanon   
 |  |  |  
 |---|---|  
 | **İsim** | Kanon|  

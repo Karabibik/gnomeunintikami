@@ -1,6 +1,8 @@
 ---  
-aliases: [Altın altın]  
+tags:
+  - Altın altın  
 ---  
+# Goldrum Aurum  
 |  |  |  
 |---|---|  
 | **İsim** | Goldrum|  

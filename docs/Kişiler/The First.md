@@ -1,6 +1,8 @@
 ---  
-aliases: [İlk]  
+tags:
+  - İlk  
 ---  
+# The First   
 |  |  |  
 |---|---|  
 | **İsim** | The First|  

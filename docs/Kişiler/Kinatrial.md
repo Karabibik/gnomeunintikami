@@ -1,6 +1,9 @@
 ---  
-aliases: [Kina, Altın Kasırga]  
+tags:
+  - Kina
+  - Altın Kasırga  
 ---  
+# Kinatrial   
 |  |  |  
 |---|---|  
 | **İsim** | Kinatrial|  

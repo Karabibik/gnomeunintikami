@@ -1,6 +1,8 @@
 ---  
-aliases: [Kör Tanrı]  
+tags:
+  - Kör Tanrı  
 ---  
+# Ioun   
 |  |  |  
 |---|---|  
 | **İsim** | Ioun|  

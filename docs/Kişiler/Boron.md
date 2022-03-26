@@ -1,6 +1,8 @@
 ---  
-aliases: [Bor Teker]  
+tags:
+  - Bor Teker  
 ---  
+# Boron Tyre  
 |  |  |  
 |---|---|  
 | **İsim** | Boron|  

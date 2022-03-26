@@ -1,6 +1,8 @@
 ---  
-aliases: [Pina]  
+tags:
+  - Pina  
 ---  
+# Pinatrial   
 |  |  |  
 |---|---|  
 | **İsim** | Pinatrial|  

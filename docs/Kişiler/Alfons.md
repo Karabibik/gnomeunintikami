@@ -1,6 +1,9 @@
 ---  
-aliases: [von Kadelsburg, Kaptan Paspas]  
+tags:
+  - von Kadelsburg
+  - Kaptan Paspas  
 ---  
+# Alfons Beljardin  
 |  |  |  
 |---|---|  
 | **İsim** | Alfons|  

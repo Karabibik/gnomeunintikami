@@ -1,6 +1,8 @@
 ---  
-aliases: [Emenike]  
+tags:
+  - Emenike  
 ---  
+# Emerik   
 |  |  |  
 |---|---|  
 | **İsim** | Emerik|  

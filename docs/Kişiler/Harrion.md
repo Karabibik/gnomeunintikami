@@ -1,6 +1,9 @@
 ---  
-aliases: [Hünerli, Handy]  
+tags:
+  - Hünerli
+  - Handy  
 ---  
+# Harrion   
 |  |  |  
 |---|---|  
 | **İsim** | Harrion|  

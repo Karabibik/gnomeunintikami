@@ -1,3 +1,4 @@
+# Palatis   
 |  |  |  
 |---|---|  
 | **İsim** | Palatis|  

@@ -16,20 +16,21 @@ Köşesinde [[Mellora]] tapınağı var
 Dışı mavi renkli  
 Dışında ağaçlar var, etrafını sarmaşık gibi sarmalıyor  
   
-# Sanatkâr Kulesi  
+## Sanatkâr Kulesi  
 En kısa olanı  
   
-# Zanaatkâr Kulesi  
+## Zanaatkâr Kulesi  
 Çok yüksek değil, hangar gibi  
   
-# Asker Kulesi  
+## Asker Kulesi  
 Magic user asker yetiştiriyorlar  
   
-# Ay Kulesi  
+## Ay Kulesi  
 Gözetleme kulesi gibi  
 Orman elflerinin temsilcisi (mevcut [[Elva]]) kalıyor  
   
-# Güneş Kulesi  
+## Güneş Kulesi  
+  
 Diğerlerinden farklı, alçak (15m) (dışardan öyle görünüyor, aslında 30m yukarda)  
 Etrafında demir parmaklık var  
 [[Delador]] ile [[Esiatel]] kullanıyor burayı

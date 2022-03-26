@@ -1,3 +1,4 @@
+# Aldrich   
 |  |  |  
 |---|---|  
 | **İsim** | Aldrich|  

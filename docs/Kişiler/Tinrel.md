@@ -1,6 +1,8 @@
 ---  
-aliases: [Stormforger]  
+tags:
+  - Stormforger  
 ---  
+# Tinrel Celebryl  
 |  |  |  
 |---|---|  
 | **İsim** | Tinrel|  

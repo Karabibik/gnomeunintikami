@@ -1,6 +1,8 @@
 ---  
-aliases: [Koca Mathis]  
+tags:
+  - Koca Mathis  
 ---  
+# Mathis   
 |  |  |  
 |---|---|  
 | **İsim** | Mathis|  

@@ -1,6 +1,8 @@
 ---  
-aliases: [Ryld]  
+tags:
+  - Ryld  
 ---  
+# John Ryld   
 |  |  |  
 |---|---|  
 | **İsim** | John Ryld|  

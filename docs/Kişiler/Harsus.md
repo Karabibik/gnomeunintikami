@@ -1,6 +1,8 @@
 ---  
-aliases: [Şehit Tanrı]  
+tags:
+  - Şehit Tanrı  
 ---  
+# Harsus   
 |  |  |  
 |---|---|  
 | **İsim** | Harsus|  

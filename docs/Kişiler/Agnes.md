@@ -1,6 +1,8 @@
 ---  
-aliases: [Çelik Kontes]  
+tags:
+  - Çelik Kontes  
 ---  
+# Agnes Beljardin  
 |  |  |  
 |---|---|  
 | **İsim** | Agnes|  

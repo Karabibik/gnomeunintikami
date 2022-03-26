@@ -1,6 +1,10 @@
 ---  
-aliases: [Yousa, Yurov Gaston, Supran]  
+tags:
+  - Yousa
+  - Yurov Gaston
+  - Supran  
 ---  
+# Hal Web   
 |  |  |  
 |---|---|  
 | **İsim** | Hal Web|  
