@@ -15,4 +15,4 @@
 - Taşları arıyordu, parça parça olduklarını biliyor  
   
 ---  
-[^1] Sorduklarımızdan öğrendiğimiz kadarıyla. En ufak bir fikrimiz yok doğru mu yanlış mı.
+[^1]: Sorduklarımızdan öğrendiğimiz kadarıyla. En ufak bir fikrimiz yok doğru mu yanlış mı.
