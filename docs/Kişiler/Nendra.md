@@ -2,11 +2,11 @@
 |---|---|  
 | **İsim** | Nendra|  
 | **Soyadı** | |  
-| **Hizip** | |  
+| **Hizip** | [[Eilistraeciler]]|  
 | **Cinsiyet** | Kadın|  
 | **Irk** | Drow|  
 | **Sınıf** | Cleric|  
 | **Kütük** | [[Soradin]]|  
 | **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
-| **İlave Notlar** | [[Eilistrae]]cilerin başrahibesi|  
+| **İlave Notlar** | Eilistraecilerin başrahibesi|  

@@ -2,7 +2,7 @@
 |---|---|  
 | **İsim** | Nilton|  
 | **Soyadı** | |  
-| **Hizip** | |  
+| **Hizip** | [[Eilistraeciler]]|  
 | **Cinsiyet** | Erkek|  
 | **Irk** | Drow|  
 | **Sınıf** | |  
