@@ -13,7 +13,9 @@
 3) `"Nereye gidecektiniz iş bitince?"`  
 	- Senin yanına gelecektik  
   
-4) (kaçırdım burayı ???)  
+4) (kaçırdım burayı ???[^1])  
   
 5) `"Kim bu eski dostlar?"`  
-	- Bizden önceki çetesi, isimlerini bilmiyoruz
+	- Bizden önceki çetesi, isimlerini bilmiyoruz  
+  
+[^1]: Citation needed

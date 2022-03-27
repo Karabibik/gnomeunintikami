@@ -7,6 +7,8 @@
   
 - Devil summoning ritual tanımlı **"ASLA KULLANMAYIN"**  
 	- 300 goldluk tütsü + 3lvl slot gerekiyor  
-		- Adını bildiğin bir devil'i (demon yazmışım?) çağırıp eksiksiz pazarlık yaptırıyor  
+		- Adını bildiğin bir devil'i (demon yazmışım?[^1]) çağırıp eksiksiz pazarlık yaptırıyor  
 	- Çok tehlikeli olduğu için hepsini yok etmiş [[Frans]]  
-	- [[Könningsburg]]'da, [[Dragan]]'a tapanları bastığı evde bulmuş
+	- [[Könningsburg]]'da, [[Dragan]]'a tapanları bastığı evde bulmuş  
+  
+[^1]: Citation needed

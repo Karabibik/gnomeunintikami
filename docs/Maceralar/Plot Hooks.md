@@ -22,7 +22,7 @@ Söylenene göre [[Mündung]]'un güneyinde küçük bir kasabaki kışlayı bas
 Özellikle [[Könningsburg]] çevresinde ara ara belirip local otoriteleri öldürmüş  
 local soylu, haydut şefi, zenginler vs  
   
-### İmparator Denizi  
+### [[İmparator Denizi]]  
 Korsan aktivitesinde artış var  
   
 ### Behind Enemy Lines  
@@ -33,7 +33,7 @@ ilginç şekilde goliathlar ilgisiz kalmış, umursamamışlar
 ### [[Soradin]]  
 Güneyindeki dağlarda gizlenemeyecek boyutta askerî bir aktivite var  
   
-[[Rumours04.webp]]  
+![[Rumours04.webp]]  
   
 ## After 06  
 ### [[Vincent]]  

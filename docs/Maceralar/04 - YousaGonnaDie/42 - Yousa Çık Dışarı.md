@@ -5,4 +5,6 @@
 Celeste, yardımlara karşılık bizden görev yapmamızı istiyor  
 - Harsus'un Kupası: Normalde bir artefakt, birkaç sene önce çalınmış. Bunu bir yerden bulup mümkünse Dük'ün sarayına yerleştireceğiz.  
 - Bunu Harrion kabul etmiyor.  
-- Başka bir görev veriyor (ne yapmıştık yav?)
+- Başka bir görev veriyor [^1]  
+  
+[^1]: Citation needed

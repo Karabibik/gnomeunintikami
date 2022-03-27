@@ -5,7 +5,7 @@ tags:
   
 Table of Content  
   
-[[41 - Altbrück Kütüphanesinde]]  
+[[41 - Yousa ile Tanışma]]  
 [[42 - Yousa Çık Dışarı]]  
 [[43 - Yousa Scry, Again]]  
 [[44 - Vincent Ayyuka]]  
