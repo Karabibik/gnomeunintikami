@@ -1,3 +1,7 @@
 .md-typeset table:not([class]) th {
 	min-width: 3rem;
 }
+
+.md-typeset table th[role=columnheader][aria-sort=ascending]:after {
+	display: none;
+}
