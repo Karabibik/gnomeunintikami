@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Potion of Hill Giant Strength|  
 | **Okul** | |  
-| **Fiyat** | 250gp|  
+| **Fiyat** | 250 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  

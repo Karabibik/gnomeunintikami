@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Spell Scroll Lvl 2|  
 | **Okul** | |  
-| **Fiyat** | 100gp|  
+| **Fiyat** | 100 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  

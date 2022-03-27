@@ -5,10 +5,10 @@ tags:
   
 |  |  |  
 |---|---|  
-| **İsim** | Greater HP Potion|  
+| **İsim** | HP Potion (x5)|  
 | **Okul** | |  
-| **Fiyat** | 100 gp|  
+| **Fiyat** | 200 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  
-| **İşlev** | 2 HD + CON|  
+| **İşlev** | 1 HD + CON|  

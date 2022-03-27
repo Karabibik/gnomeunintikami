@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Potions of Growth|  
 | **Okul** | |  
-| **Fiyat** | 250gp|  
+| **Fiyat** | 250 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | |  

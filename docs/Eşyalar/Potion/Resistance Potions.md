@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Resistance Potions|  
 | **Okul** | |  
-| **Fiyat** | 200gp|  
+| **Fiyat** | 200 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  

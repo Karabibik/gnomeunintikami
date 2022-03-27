@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Boots of Spiderclimb|  
 | **Okul** | |  
-| **Fiyat** | 250gp|  
+| **Fiyat** | 250 gp|  
 | **Rarity** | Uncommon|  
 | **Kimde** | [[Philip]]|  
 | **Menşei** | Vilenor Mazgan|  

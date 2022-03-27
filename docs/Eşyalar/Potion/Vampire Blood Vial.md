@@ -11,4 +11,4 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Altbrück]]|  
 | **Menşei** | Hal Web|  
-| **İşlev** | Blood of Merchant|  
+| **İşlev** | Blood of Immortal Merchant|  

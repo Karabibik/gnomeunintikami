@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Pearl of Power|  
 | **Okul** | |  
-| **Fiyat** | 300gp|  
+| **Fiyat** | 300 gp|  
 | **Rarity** | |  
 | **Kimde** | [[Alfons]]|  
 | **Menşei** | |  

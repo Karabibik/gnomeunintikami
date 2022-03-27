@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Flame Potion|  
 | **Okul** | |  
-| **Fiyat** | 150gp|  
+| **Fiyat** | 150 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  

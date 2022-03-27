@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Charm Potion|  
 | **Okul** | |  
-| **Fiyat** | 130gp|  
+| **Fiyat** | 130 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  

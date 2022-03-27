@@ -7,8 +7,8 @@ tags:
 |---|---|  
 | **İsim** | Holy Hand Grenade|  
 | **Okul** | |  
-| **Fiyat** | 100gp|  
+| **Fiyat** | 100 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  
-| **İşlev** | 80ft range, CON15, rad 20ft, 8d6 Radiant|  
+| **İşlev** | Range: 80ft<br>Save: CON15<br>Damage: 20ft radius, 8d6 Radiant|  

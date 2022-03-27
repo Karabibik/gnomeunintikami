@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Drow Longbow|  
 | **Okul** | |  
-| **Fiyat** | 25gp|  
+| **Fiyat** | 25 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | |  

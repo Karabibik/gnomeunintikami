@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Periapt of Wound Closure|  
 | **Okul** | |  
-| **Fiyat** | 190gp|  
+| **Fiyat** | 190 gp|  
 | **Rarity** | Uncommon|  
 | **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  

@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Command Animal|  
 | **Okul** | |  
-| **Fiyat** | 125gp|  
+| **Fiyat** | 125 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  

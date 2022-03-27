@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Amulet of Mage Armor|  
 | **Okul** | |  
-| **Fiyat** | 150gp|  
+| **Fiyat** | 150 gp|  
 | **Rarity** | Common|  
 | **Kimde** | [[Harrion]]|  
 | **Menşei** | Vilenor Mazgan|  

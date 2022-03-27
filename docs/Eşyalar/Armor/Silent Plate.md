@@ -11,4 +11,4 @@ tags:
 | **Rarity** | Common|  
 | **Kimde** | [[Gina]]|  
 | **Menşei** | Laboratuvar|  
-| **İşlev** | Heavy Plate Armor, No Disa. on stealth|  
+| **İşlev** | Heavy Plate Armor<br>No Disadv. on stealth|  

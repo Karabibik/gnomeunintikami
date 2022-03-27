@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Cape of Wabronter|  
 | **Okul** | |  
-| **Fiyat** | 2600gp|  
+| **Fiyat** | 2600 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  

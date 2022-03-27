@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | HP Potion|  
 | **Okul** | |  
-| **Fiyat** | 50gp, 200gp/5|  
+| **Fiyat** | 50 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  

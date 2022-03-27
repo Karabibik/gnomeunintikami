@@ -7,7 +7,7 @@ tags:
 |---|---|  
 | **İsim** | Lesser Drow Longsword|  
 | **Okul** | |  
-| **Fiyat** | 50gp|  
+| **Fiyat** | 50 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | |  
