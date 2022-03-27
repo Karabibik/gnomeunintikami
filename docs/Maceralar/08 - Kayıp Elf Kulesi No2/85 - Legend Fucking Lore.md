@@ -1,6 +1,8 @@
   
   
-# Görü 1  
+[[Tinrel|Stormforger]] hakkında Legend Lore atıyor [[Alfons]], yürü be aslanım.  
+  
+## Görü 1  
 - Deniz kenarında yeşil arazi, çimenlik var  
 	- Kumsalla denizin tam sınırında  
 * Altar'ın üstünde yatan kadın bir high elf var  
@@ -9,7 +11,7 @@
 * Çevresinde birkaç Elf daha var  
 	* Gözlerinden, ağızlarından, burunlarından mavimsi beyaz ışık çıkıyor  
 	* Chanting hâlindeler, elfçeye benziyor  
-	* ?? sanırım [[Tinrel|Stormforger]]'ı yaratıyorlar  
+	* ?? sanırım Stormforger'ı yaratıyorlar  
 * Altar parlamaya başlıyor  
 	* Yanında ayakta başka bir kadın var  
 		* Raven black saçlı kadın, elfler arasında nadir  
@@ -17,7 +19,7 @@
 		* Siyah/mavi elbise/cübbe karışımı rahat/fonksiyonel ve zarif bir şey giyiyor  
 	* Enerji onda birleşiyor  
   
-# Görü 2  
+## Görü 2  
 Görüntü bulanıklaşıp geri geliyor  
 -  O zaman aralığında o kadar büyük yoğunlukta magic var ki parazit yapıyor  
   
@@ -28,7 +30,7 @@ Görüntü bulanıklaşıp geri geliyor
 	- Biraz sessiz kalıp ağlamaya başlıyor  
 	- Sonra çığlık atıyor hıçkırarak elfe `"NASIL OLUR, NEDEN"` diye bağırıyor  
   
-# Görü 3  
+## Görü 3  
 Başka bir görüntü geliyor  
   
 - Bulutlar giderek büyüyor, içlerine dalıyorsun  
@@ -43,7 +45,7 @@ Başka bir görüntü geliyor
 - Shit hits the fan, elektrik hits the army  
   
   
-# Görü 4  
+## Görü 4  
 Stormforger'ın anılarındaki en önemli an  
   
 - Stormforger, üstünde yine war attire var  
@@ -61,7 +63,7 @@ Stormforger'ın anılarındaki en önemli an
 	- Bulutlar aralanıyor ama hareketi bitirmeden duruyor  
 - Etrafına bakıp Elfçe `"Nasıl?"` diyor ve bitiriyor  
   
-# Görü 5  
+## Görü 5  
 4 ile bağlantılı  
   
 - Şaşkın şekilde bir noktaya bakıyor  
@@ -69,7 +71,7 @@ Stormforger'ın anılarındaki en önemli an
 	- Kraterden gökyüzüne akan bir silindir var  
 		- Simsiyah bir silindir, gün ışığı da girmiyor gibi  
   
-# Görü 6  
+## Görü 6  
 * Günlük güneşlik bir hava  
 * Yine war attire ama farklı attire  
 - Büyük ovaların üstünde uçuyorsun  

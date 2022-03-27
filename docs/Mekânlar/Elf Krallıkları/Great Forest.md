@@ -1,7 +1,7 @@
----  
-aliases: [Büyük Orman]  
+---
 tags:
-  - Mekân/Ülke  
+  - Büyük Orman
+  - Mekân/Ülke
 ---  
   
 İmparatorluk'un güneyinde kalan, şu an mevcut Orman Elfleri'nin ülkesi.  

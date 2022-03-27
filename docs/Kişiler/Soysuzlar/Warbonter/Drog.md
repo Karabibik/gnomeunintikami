@@ -10,4 +10,4 @@
 | **Kütük** | [[Warbonter]]|  
 | **Münasebet** | Müttefik|  
 | **Karakter Betimi** | |  
-| **İlave Notlar** | Mora'nın Güzellikleri koruması|  
+| **İlave Notlar** | [[Mora'nın Güzellikleri]] koruması|  

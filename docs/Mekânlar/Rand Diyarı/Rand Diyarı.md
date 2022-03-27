@@ -1,4 +1,4 @@
----  
+---
 tags:
-  - Mekân/Ülke  
+  - Mekân/Ülke
 ---

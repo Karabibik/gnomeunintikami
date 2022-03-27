@@ -1,4 +1,4 @@
----  
+---
 tags:
-  - Mekân/Kasaba  
+  - Mekân/Kasaba
 ---

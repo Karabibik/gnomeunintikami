@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Aile  
+  - Aile
 ---  
   
 [[Soradin|Soradin Federasyonu]]'nun baş hanedanı.  

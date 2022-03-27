@@ -1,7 +1,7 @@
----  
+---
 tags:
   - Kina
-  - Altın Kasırga  
+  - Altın Kasırga
 ---  
 # Kinatrial   
 |  |  |  

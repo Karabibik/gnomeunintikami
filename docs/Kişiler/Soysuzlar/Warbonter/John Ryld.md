@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Ryld  
+  - Ryld
 ---  
 # John Ryld   
 |  |  |  

@@ -1,5 +1,5 @@
----  
-aliases: [Wild Forest]  
+---
 tags:
-  - Mekân/Ülke  
+  - Wild Forest
+  - Mekân/Ülke
 ---

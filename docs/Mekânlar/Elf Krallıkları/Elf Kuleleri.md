@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Mekân  
+  - Mekân
 ---  
   
 Elfler geçmişte hem materyal düzlem hem de [[Fey Wilds]]'ta yer alan, gidip gelebilen, kuleler yapmışlar. İmparatorluk'la savaş sırasında Fey'e yollanıyorlar korumak için ama şu an neredeler kimse bilmiyor. Girişin Fey'den olduğu tahmin ediliyor.  

@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Aile  
+  - Aile
 ---  
   
 [[Tamdro]]'nun güvenliğinden sorumlu hanedan idi  

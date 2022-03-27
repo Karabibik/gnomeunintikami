@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Kanlı  
+  - Kanlı
 ---  
 # Kanon   
 |  |  |  

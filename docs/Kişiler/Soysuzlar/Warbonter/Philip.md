@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - the Sharp  
+  - the Sharp
 ---  
 # Philip   
 |  |  |  

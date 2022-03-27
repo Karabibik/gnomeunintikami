@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Mekân/Şehir  
+  - Mekân/Şehir
 ---  
   
 Doğunun incisi olarak da anılan Aedil tarihi bilinen en eski insan şehridir. [[Voldrun]] hanedanının ilk uğradığı bölge olarak bilinir.  

@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Hizip  
+  - Hizip
 ---  
   
 Aklı başında paralı asker grubu. Mevcut üyeleri:  

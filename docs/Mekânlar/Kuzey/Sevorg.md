@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Mekân/Şehir  
+  - Mekân/Şehir
 ---  
   
 Goliath başkenti ve bir metropol.  

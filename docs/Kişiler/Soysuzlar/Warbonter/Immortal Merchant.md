@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Tüccar  
+  - Tüccar
 ---  
 # Immortal Merchant   
 |  |  |  

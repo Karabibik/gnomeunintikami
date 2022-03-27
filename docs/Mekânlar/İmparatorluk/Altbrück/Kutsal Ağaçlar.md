@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Mekân/Köy  
+  - Mekân/Köy
 ---  
   
 Ormandaki azınlıkların kurduğu bir topluluk. İçinde half orc, halfling, elf ve insan toplulukları var. Şu an iç işlerinde özgür ama kâğıt üstünde [[Altbrück]]'e bağlı.  

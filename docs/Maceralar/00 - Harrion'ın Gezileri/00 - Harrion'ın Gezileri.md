@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Macera  
+  - Macera
 ---  
   
 Anası babası madenci esnaf, clockwork işler yapıyorlar.  

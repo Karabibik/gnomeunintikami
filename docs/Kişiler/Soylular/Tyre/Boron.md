@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Bor Teker  
+  - Bor Teker
 ---  
 # Boron Tyre  
 |  |  |  

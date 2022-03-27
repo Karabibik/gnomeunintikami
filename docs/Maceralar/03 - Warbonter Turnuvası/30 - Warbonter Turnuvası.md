@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Macera  
+  - Macera
 ---  
   
 ## Takım Karşılaşmaları  

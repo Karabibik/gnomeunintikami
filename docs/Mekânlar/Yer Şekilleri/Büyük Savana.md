@@ -1,4 +1,4 @@
----  
+---
 tags:
-  - Mekân/Bölge  
+  - Mekân/Bölge
 ---  

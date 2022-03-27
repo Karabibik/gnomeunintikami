@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Mekân/Ülke  
+  - Mekân/Ülke
 ---  
   
 [[Altbrück Kütüphanesi]]'nde şöyle bahsediliyor:  

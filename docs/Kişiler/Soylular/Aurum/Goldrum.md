@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Altın altın  
+  - Altın altın
 ---  
 # Goldrum Aurum  
 |  |  |  

@@ -1,6 +1,5 @@
 [[Tinrel]] hakkında Legend Lore atmak için kütüphanelere dağılıyoruz.  
   
-  
 - 2021 yılındayız [[Könningsburg]] takviminde  
 - Milat, Könningsburg'un başkent ilan edildiği yıl  
 - İlk 200-300 yıl boyunca kral rütbesinde biri tarafından yönetiliyor  

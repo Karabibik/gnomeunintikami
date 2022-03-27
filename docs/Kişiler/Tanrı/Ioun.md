@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Kör Tanrı  
+  - Kör Tanrı
 ---  
 # Ioun   
 |  |  |  

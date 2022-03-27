@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Aile  
+  - Aile
 ---  
   
 Yıllardan beri Kral ve İmparator yetiştiren, [[İmparatorluk]]'un baş hanesi.  

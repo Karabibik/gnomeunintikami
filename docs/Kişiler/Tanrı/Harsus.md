@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Şehit Tanrı  
+  - Şehit Tanrı
 ---  
 # Harsus   
 |  |  |  

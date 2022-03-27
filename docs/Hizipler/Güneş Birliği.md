@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Hizip  
+  - Hizip
 ---  
   
 [[İmparatorluk]]'a bağlı; her türlü Wizard, Paladin ve bilimum istihbarat biriminin bulunduğu askerî organizasyon.  

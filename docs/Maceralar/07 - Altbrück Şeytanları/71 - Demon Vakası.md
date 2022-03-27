@@ -15,7 +15,7 @@ Kuzeye gittik kamp alanına
   
 - Demon kurbağa peydah olmuş. Ondan da taş çıktı, o da kırık (conjuration enerjisi var)  
 - Yerdeki cesetler içeriden patlamış  
-- Üçü peassant, elleri bağlı. Biri diyor ki:  
+- Üçü peasant, elleri bağlı. Biri diyor ki:  
 	- `"Bizi evden kaçırdı bu bordo cübbeliler"`  
 - Mantikorun tarif ettiği bordo cübbelilerin elleri bağlı değil  
 - İnsan (Mats) diyor ki:  

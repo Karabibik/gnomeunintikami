@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Mekân/Şehir  
+  - Mekân/Şehir
 ---  
   
 Günümüzde Könningsburg dünyanın en büyük ve en önemli şehridir. İmparatorluk Saraylar Bölgesi, [[Güneş Birliği]] Merkezi ve Tanrı Kral Katedrali gibi pek çok devasa yapıya, kıtadaki en büyük pazarlara ve başka hiçbir yerde görülmemiş bir nüfusa sahip olan şehir imparatorluk vatanseverleri için bunların hepsinin toplamından çok daha önemlidir. Şehir insan medeniyetinin merkezi olarak görülür ve pek çok sakini için Könningsburg’un adeta kutsal bir değeri vardır. 700 yılı aşkın süre önce şehrin Rand askerleri tarafından yağmalanması hâlâ pek çok kişinin unutamadığı bir olaydır.   

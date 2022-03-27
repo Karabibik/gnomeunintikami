@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Mekân/Şehir  
+  - Mekân/Şehir
 ---  
   
 Bölgede ilk yerleşimin kim tarafından ne zaman yapıldığı bilinmiyor ama 2.500 yılı aşkın süredir bölgede common dil konuşan insanların yaşadığı bir şehir varlığı biliniyor. [[İmparatorluk]]'a ait ilk yazılı kaynaklarda **Warbon Şehri**, Kuzeybatı Kıyısı şehir devletleri liginin bir parçası olarak görülüyor ([[Agnon Ligi]]). 153 yılında İmparatorluk tarafından askerî bir zafer ile çevre bölgelerle beraber fethedilen şehir yüzyıllar boyunca bağımsızlık ruhunu korudu ve bulduğu her fırsatta isyan bayrağı kaldırdı. Şehrin bu isyankâr ruhu, yapılan yönetim reformları sayesinde 1571 yılında tekrar imparatorluk topraklarına katılıp kendi adıyla anılan eyaletin başkenti olmasıyla bitmiştir.  

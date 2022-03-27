@@ -1,7 +1,7 @@
----  
+---
 tags:
   - von Kadelsburg
-  - Kaptan Paspas  
+  - Kaptan Paspas
 ---  
 # Alfons Beljardin  
 |  |  |  

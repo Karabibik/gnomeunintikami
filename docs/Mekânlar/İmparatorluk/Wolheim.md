@@ -1,6 +1,6 @@
----  
+---
 tags:
-  - Mekân/Kasaba  
+  - Mekân/Kasaba
 ---  
   
 Adı "Yün diyarı" anlamına geliyor  

@@ -1,5 +1,6 @@
-# Eve Dönüş  
+Tüm maceralardan sonra ejderya ile birlikte eve dönüyoruz  
   
+## Eve Dönüş  
 * Buradaki büyük ağaçta da ilk kuledeki gibi teleport kristali var  
 * Aynı kesik onu da kesmiş, hatta ağacı da slashlemiş  
 * Ağaç çok eski kesilmiş, iyileşmeye çalışmış amma olmamış  
@@ -20,7 +21,7 @@ Celeste diyor ki:
 Alfons'u iyileştirmeye çalışırken:  
 - `"Alfons'un üstünde başka bir varlık hissettim"`  
   
-# Delador'la Toplantı  
+## Delador'la Toplantı  
 Elva: `"Sen oradaydın, Stormforger..."`  
   
 * Bunu duyan Tinrel Elva'ya tek atmaya girişir, Delador herkesi ayırır.  
@@ -59,7 +60,7 @@ Elva: `"Siz ne bileceksiniz? O çok sevdiğiniz high magic'i bile unuttunuz."`
 Tinrel: `"Söyledikleri eksik ve yanlış."`  
 - And casually mentions killing us just for hearing everything  
   
-# Delador Afterparty  
+## Delador Afterparty  
 Bizi erişilemez gibi bir dağın tepesine getirdi. Önümüzde şehir var.  
 - Çember gibi çevrili surla  
 - Wabronter'in 5 katı kadar falan  
