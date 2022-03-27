@@ -22,7 +22,7 @@ Söylenene göre [[Mündung]]'un güneyinde küçük bir kasabaki kışlayı bas
 Özellikle [[Könningsburg]] çevresinde ara ara belirip local otoriteleri öldürmüş  
 local soylu, haydut şefi, zenginler vs  
   
-### İmparatorluk Denizi  
+### İmparator Denizi  
 Korsan aktivitesinde artış var  
   
 ### Behind Enemy Lines  
@@ -33,6 +33,7 @@ ilginç şekilde goliathlar ilgisiz kalmış, umursamamışlar
 ### [[Soradin]]  
 Güneyindeki dağlarda gizlenemeyecek boyutta askerî bir aktivite var  
   
+[[Rumours04.webp]]  
   
 ## After 06  
 ### [[Vincent]]  
@@ -46,6 +47,7 @@ Giderek büyümeyi istiyorlar, batıda [[Dotnau]]'yu vurup devam edecekler
 ## After 08  
 ### One Spell to Find Them All  
 Tüm major plane'lerden bir parça gerekiyor:  
+  
 - Plane of  
 	- [ ] Water  
 	- [ ] Fire  

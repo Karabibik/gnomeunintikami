@@ -3,4 +3,4 @@ tags:
   - War of Extinction
 ---  
   
-Olan olmuş, biten bitmiş.
+İmparatorluk ile Elfler arasında geçen bir savaş olduğu dışında bir bilgimiz yok.
