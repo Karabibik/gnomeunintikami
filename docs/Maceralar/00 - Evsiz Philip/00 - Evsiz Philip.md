@@ -1,6 +1,4 @@
 ---
-tags:
-  - Macera
 ---  
   
 Doğma [[Altbrück]], büyüme [[Warbonter]] uşağı. [[Evsiz Uşaklar]], [[John Ryld]] tarafından Harsus'un Kupası'nı çalmakla suçlanıp idam emri verilene kadar [[Colt]] ve [[Buck]] ile takılıyordu. Kaçıp yollara düştü ve soluğu [[Soradin]]'de aldı.  

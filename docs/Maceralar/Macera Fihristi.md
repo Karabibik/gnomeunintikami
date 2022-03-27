@@ -1,11 +1,7 @@
 ---
-tags:
-  - Macera
 ---  
   
 [[Gnome'un İntikamı]] adlı paralı asker grubunun çeşitli yer ve zamanlarda karışmış olduğu olayların sıralı tam listesi  
-  
-Table of Content  
   
 [[10 - Belenord Harabeleri]]  
 [[20 - Gruums'ın Kolları]]  

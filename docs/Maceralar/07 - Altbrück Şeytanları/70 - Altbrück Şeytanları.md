@@ -1,6 +1,4 @@
 ---
-tags:
-  - Macera
 ---  
   
 Table of Contents  
