@@ -8,14 +8,14 @@ Nerede kaldı o eski atlaslar...
 ## İmparatorluk  
   
 ### Könningsburg  
-![[Könningsburg.png]]  
+![[Könningsburg.webp]]  
   
 ### Warbonter  
 #### Şehir  
-![[Warbonter.png]]  
+![[Warbonter.webp]]  
   
 #### Civar Köyler  
-![[Warbonter Countryside.png]]  
+![[Warbonter Countryside.webp]]  
   
 ### Mündung  
-![[Mündung.png]]  
+![[Mündung.webp]]  

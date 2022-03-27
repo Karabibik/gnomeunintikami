@@ -4,6 +4,6 @@ tags:
 ---  
   
 ## Takım Karşılaşmaları  
-![[Tournament_Team.png]]  
+![[Tournament_Team.webp]]  
 ## 1v1 Maçlar  
-![[Tournament_1v1.png]]
+![[Tournament_1v1.webp]]

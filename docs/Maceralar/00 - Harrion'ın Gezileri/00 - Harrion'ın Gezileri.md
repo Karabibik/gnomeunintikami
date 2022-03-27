@@ -19,4 +19,4 @@ Belki, bir ümit, orası daha azınlıklarla dolu bir yer olduğundan kendine ye
   
 Son durak olarak oradan [[Warbonter]]'e varıyor. Burada üniversitede öyle resmî bir öğrenci olmuyor ama derslere girip falan eğitiyor kendini. Welcome to level 1!!!!  
   
-![[Travel Map.png]]
+![[Travel Map.webp]]

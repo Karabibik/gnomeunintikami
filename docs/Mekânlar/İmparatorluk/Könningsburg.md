@@ -27,4 +27,4 @@ Bütün bu zenginliğin bir yan etkisi olarak şehirde uzun zamandır oldukça e
 ### Azınlıklar  
 Halfling ve gnome mahalleleri dar sokakları ve alçak tavanlı binaları ile dikkat çeker. İnsanların arasına karışmış yaşayan yarı-elfler ve bayağı elfler kimsenin yadırgadığı manzaralar değildir. Madenlere yakın yaşayan pek çok cüce topluluğu bulunabileceği gibi, nadiren de olsa şehrin sunabileceği heyecanlardan geri kalmak istemeyen eski elflere bile rastlamak mümkündür.  
   
-![[Könningsburg.png]]
+![[Könningsburg.webp]]

@@ -12,4 +12,4 @@ All-father ve Kolt'a tapıyorlar
 - Okyanus Baltaları, bunlar batıdaki denizci kabile  
 - Buz Prensleri, kuzeydoğuda yaşıyorlar. Ellerinde frost giantlar var  
   
-![[Kuzey.png]]
+![[Kuzey.webp]]

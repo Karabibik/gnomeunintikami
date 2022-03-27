@@ -12,4 +12,4 @@ Kabilenin başı (şef) kurt totemi oluyor hep, şu an [[Ghokk]]
 	  
 Büyük iki kabile hâlinde toplanılmış druidler ve diğer azınlıklar  
   
-![[Kutsal Ağaçlar Köyü.png]]
+![[Kutsal Ağaçlar Köyü.webp]]

@@ -31,4 +31,4 @@ Mündung, İmparatorluk başkentleri arasında en düşük okur-yazar oranların
   
 Eski high-elf klanlarından geriye bir tek Celebryl klanı kalmış, o da aslında ikincil klanlardan. Diğer dört ana klan insan saldırılarında tamamen yok edilmiş, biri hariç adları bile hatırlanmıyor. O hatırlanan biri de [[Erawand]].  
   
-![[Mündung.png]]
+![[Mündung.webp]]

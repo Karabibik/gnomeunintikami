@@ -15,4 +15,4 @@ Merdivenle üst kata çıkılıyor
 	Duvarlarda büyülü eşyalar ve kitaplıklar gırla  
 	Bir tane de sokağa bakan balkon var  
   
-![[Celeste'nin Evi.png]]
+![[Celeste'nin Evi.webp]]
