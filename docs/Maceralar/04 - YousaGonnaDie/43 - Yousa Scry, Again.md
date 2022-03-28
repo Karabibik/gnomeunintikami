@@ -1,6 +1,7 @@
 Celeste Scry denemesi #2  
   
-Yousa: `"Nasılsın? Uzun zamandır görüşemedik, iyi saklandın"`  
+Yousa:  
+>"Nasılsın? Uzun zamandır görüşemedik, iyi saklandın"  
   
 Karşısındaki tarif:  
 - 30 yaşlarında  

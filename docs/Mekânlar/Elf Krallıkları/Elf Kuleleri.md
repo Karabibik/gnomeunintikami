@@ -9,4 +9,5 @@ Elfler geçmişte hem materyal düzlem hem de [[Fey Wilds]]'ta yer alan, gidip g
   
 Tower1 (akaGoblins): [[Mündung]] ovalarındaki bir dağın yamacında bir kapı belirdiğini görmüş köylüler.  
   
-Tower2 (akaDragon): `"Yıldız haritasından çıkan bilgilere göre güneydoğu tarafında bir yerlerde olması lazım."` dedi Celeste.
+Tower2 (akaDragon): Celeste diyor ki  
+> "Yıldız haritasından çıkan bilgilere göre güneydoğu tarafında bir yerlerde olması lazım."

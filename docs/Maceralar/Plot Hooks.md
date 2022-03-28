@@ -57,4 +57,5 @@ Tüm major plane'lerden bir parça gerekiyor:
 - [ ] Fiendish  
   
 ### Ryld  
-Celeste: `"Rand Diyarı'nın batısındaki Yenta adında küçük bir kasabada sanırım"`
+Celeste:  
+> "Rand Diyarı'nın batısındaki Yenta adında küçük bir kasabada sanırım"

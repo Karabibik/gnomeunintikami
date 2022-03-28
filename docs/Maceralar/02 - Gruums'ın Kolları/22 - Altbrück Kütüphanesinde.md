@@ -1,5 +1,5 @@
 [[Agnes]] beni gizli [[Altbrück Kütüphanesi]]'ne götürüyor  
-	- `"Buradan Alfons'un haberi yok, söyleme. Portal araştırması yapabilirsin.`  
+> "Buradan Alfons'un haberi yok, söyleme de. Portal araştırması yapabilirsin."  
   
 - Cilt cilt günlük var:  
 	- Demon, devil ve undead şeklinde kategorilenmiş  

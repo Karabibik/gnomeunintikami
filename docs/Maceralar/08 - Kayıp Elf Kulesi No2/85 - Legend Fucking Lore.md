@@ -96,5 +96,6 @@ Stormforger'ın anılarındaki en önemli an
 		- Benzer bir aurası var, bir tık daha az, gözler de benzer, benzer zırhı var  
 		- ??are they siblings, are they fucking, or both??  
 - Kısa bir sessizlikten sonra adam: `"Her şey hazır mı?"` diye soruyor  
-- Stormforger adaya bakıp: `"Sizin taraf hazırsa ben üstüme düşeni yapmaya hazırım"` diyor  
+- Stormforger adaya bakıp:  
+> "Sizin taraf hazırsa ben üstüme düşeni yapmaya hazırım"  
 - Kadın da `"Başlayalım o zaman"` diyip Stormforger'a sağa doğru işaret ediyor

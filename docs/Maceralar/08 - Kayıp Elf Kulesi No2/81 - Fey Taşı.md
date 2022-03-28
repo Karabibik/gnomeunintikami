@@ -20,24 +20,20 @@ O sırada Rensa'ya uğruyoruz
 	- Ne kadar enerji koyarsan o kadar büyüyor  
   
 Uliza'yla İletişim  
-```  
-	Gnome'un intikamı'ndan  
-	Fey'e gidip gelmemiz gerek  
-	Drowlarla zorda olduğunu biliyoruz  
-	Nüfuzlu yardım tanıyoruz  
-	Zaman mekân söyle konuşalım  
-	İstediğini verebiliriz  
-	25 kelime hakkın var  
-```  
+> Gnome'un intikamı'ndan  
+> Fey'e gidip gelmemiz gerek  
+> Drowlarla zorda olduğunu biliyoruz  
+> Nüfuzlu yardım tanıyoruz  
+> Zaman mekân söyle konuşalım  
+> İstediğini verebiliriz  
+> 25 kelime hakkın var  
   
-```  
-	Beklenmedik oldu  
-	Gün batımında Wolheim'de olucam  
-	Durum tehlikeli  
-	Hazırlıklı gelin  
-	Eğer beni şüphelendirirseniz  
-	Bu sefer ben de elimden geleni ardıma koymam  
-```  
+> Beklenmedik oldu  
+> Gün batımında Wolheim'de olucam  
+> Durum tehlikeli  
+> Hazırlıklı gelin  
+> Eğer beni şüphelendirirseniz  
+> Bu sefer ben de elimden geleni ardıma koymam  
   
 Kasabadan çıkmasına yardım etmemiz karşılığında taşı verecek:  
 	  

@@ -7,9 +7,9 @@ Göklerde uçan bir mantikor bulduk indirdik:
   
 Sorguya çektik şöyle diyor:  
   
-- `"Kuzeyde bordo cübbeli iki insan (humanoid) var"`  
-	- `"Birinin derisi yeşil gibiydi"`  
-- `"Kuzeyde, nehre bir saat mesafedeler"`  
+> "Kuzeyde bordo cübbeli iki insan (humanoid) var"  
+>     "Birinin derisi yeşil gibiydi"  
+> "Kuzeyde, nehre bir saat mesafedeler"  
   
 Kuzeye gittik kamp alanına  
   

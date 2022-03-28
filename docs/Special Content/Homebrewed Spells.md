@@ -1,22 +1,4 @@
   
-Fikir 1) color based damage  
-Fikir 2) necrodancer  
-  
-## Harrion's Hoops  
-*2nd-level Abjuration*  
-  
-***Casting Time:*** 1 action  
-***Range:*** 60 feet  
-***Components:*** V, S, M (one big or four small rocks)  
-***Duration:*** Concentration, up to 1 minute  
-  
-You create 4 translucent circular shields turning around the target(s) you choose. You can distribute these shields in any combination among your allies. Each shield provides 1d4+3 temporary hit points, equal for each and determined after choosing targets, to its bearer and vanishes when it depletes.  
-  
-You can use your bonus action to transfer any active shields with their remaining hit points to another target.  
-  
-***At Higher Levels:*** You can create an additional shield for each slot level above 2nd.  
-  
-  
 ## Harrion's Hoots  
 *3rd-level Abjuration*  
   
@@ -30,19 +12,30 @@ her korna atıyorum 1 ya da 2 ekler ve kullanıldıkça yok olur
 ya da şey la düşünsene, adam sana dominate etmeye çalışıyor, atamıyor, kornalar adama dönüp "düüüüüüüüt" yapıyor :D  
 save'i tutturursan reaction olarak adama korna çalabilmeyi de ekleyelim :D :D  
   
+## Harrion's Hoops   
+| |  
+|---|  
+| *2nd-level Abjuration* |  
+| ***Casting Time:*** 1 action |  
+| ***Range:*** 60 feet |  
+| ***Components:*** V, S, M (one big or four small rocks) |  
+| ***Duration:*** Concentration, up to 1 minute |  
+| You create 4 translucent circular shields turning around the target(s) you choose. You can distribute these shields in any combination among your allies. Each shield provides 1d4+3 temporary hit points, equal for each and determined after choosing targets, to its bearer and vanishes when it depletes. |  
+| You can use your bonus action to transfer any active shields with their remaining hit points to another target. |  
+| ***At Higher Levels:*** You can create an additional shield for each slot level above 2nd. |  
   
-## Rensa’s Penta Lightning  
-*4th-level Evocation*  
   
-***Casting Time:*** 1 action  
-***Range:*** 60 ft  
-***Components:*** V, S, M (A metal rod made of a conductive element)  
-***Duration:*** Instantaneous  
+| ## Rensa’s Penta Lightning |  
+|---|  
+| *4th-level Evocation* |  
+| ***Casting Time:*** 1 action |  
+| ***Range:*** 60 ft |  
+| ***Components:*** V, S, M (A metal rod made of a conductive element) |  
+| ***Duration:*** Instantaneous |  
+| Raising your spell focus above your head, 5 orbs of electrical energy appears around the caster and five bolts of lightning rapidly strike up to five enemies the caster can see within a range of 60 feet. Each target must make a Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much damage on a successful one. |  
+| Alternatively, all five bolts of lightning can instead converge toward a single target, dealing 12d6 lightning damage on a failed save, or half as much damage on a successful one. |  
   
-Raising your spell focus above your head, 5 orbs of electrical energy appears around the caster and five bolts of lightning rapidly strike up to five enemies the caster can see within a range of 60 feet. Each target must make a Dexterity saving throw, taking 8d6 lightning damage on a failed save, or half as much damage on a successful one.  
-  
-Alternatively, all five bolts of lightning can instead converge toward a single target, dealing 12d6 lightning damage on a failed save, or half as much damage on a successful one.  
-  
+---  
   
 ## Harrion's Heat Pump  
 *6th-level Evocation*  
@@ -56,6 +49,7 @@ You put the material component for the spell on the ground which emits radial wa
   
 PS: Triggerlamayı bonus actionla mı yapayım yoksa her tur kendiliğinden mi triggerlansın?  
   
+---  
   
 ## Harrion's Fallout / Dance of Ice and Fire  
 *6th-level Evocation*  
@@ -69,6 +63,7 @@ You sprew forth eight balls of ice and fire to air which guides themselves to th
   
 ***At Higher Levels:*** You create an two additional balls for each slot level above 6th.  
   
+---  
   
 ## Queen's Lightning Barrage  
 *8th-level Evocation*  
