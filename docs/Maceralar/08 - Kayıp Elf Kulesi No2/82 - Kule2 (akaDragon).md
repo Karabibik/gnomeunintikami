@@ -1,3 +1,8 @@
+---
+tags:
+  - stub
+---  
+  
 Philip, [[Elva]] ve Harrion içeri atlıyor  
   
 Elva içeri girince bir garipleşiyor  

@@ -1,6 +1,7 @@
 ---
 tags:
   - Mekân/Plane
+  - stub
 ---  
   
 Demonların bölgesi. Full chaotic evül.  

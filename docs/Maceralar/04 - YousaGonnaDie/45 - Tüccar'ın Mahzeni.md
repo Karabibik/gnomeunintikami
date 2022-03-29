@@ -1,3 +1,8 @@
+---
+tags:
+  - stub
+---  
+  
 [[Immortal Merchant]]'ın mahzenden çıkan loot:  
   
 1. bütçe raporu  

@@ -1,3 +1,8 @@
+---
+tags:
+  - stub
+---  
+  
 En son Yousa'yı sobeliyoruz tabii  
   
 ## Notebook  

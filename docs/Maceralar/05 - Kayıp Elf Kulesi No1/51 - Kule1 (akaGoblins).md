@@ -1,3 +1,8 @@
+---
+tags:
+  - stub
+---  
+  
 Ay Işığı Kapısı:  
   
 > Solsitis'in güneşi  

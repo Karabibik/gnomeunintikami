@@ -1,4 +1,5 @@
 ---
 tags:
   - Mekân/Bölge
+  - stub
 ---

@@ -1,3 +1,8 @@
+---
+tags:
+  - stub
+---  
+  
 [[Morg]] öldü ~~(tüh)~~. Alfons Raise Dead ile sorguya çekti:  
   
 1) `"Eşgalini ver adamın!"`  

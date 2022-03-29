@@ -1,6 +1,7 @@
 ---
 tags:
   - Hizip
+  - stub
 ---  
   
 [[Warbonter]]'de yer alan eski bir hırsız çetesi.  

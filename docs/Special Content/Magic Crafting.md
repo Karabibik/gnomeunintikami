@@ -5,7 +5,6 @@ Belli gücün üstündeki eşyalar ile belirli seviyeden yüksek büyülerin kul
 Kitaba büyü geçmek = $\frac{2hr + 50gp}{level}$  
   
 ## Magic Items  
-  
 | Rarity    | Level | Cost (gp) | Duration (days) |  
 |-----------|:-----:|:---------:|:---------------:|  
 | Common    |       |   50-100  |       1-2       |  

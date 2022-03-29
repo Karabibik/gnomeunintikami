@@ -1,3 +1,8 @@
+---
+tags:
+  - stub
+---  
+  
 **What she says**[^1]  
   
 - Demonologist  

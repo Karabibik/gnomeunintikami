@@ -1,3 +1,8 @@
+---
+tags:
+  - stub
+---  
+  
 Dönüşte [[Tinrel]] bir hışımla giriyor içeri  
   
 Tinrel:  

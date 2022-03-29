@@ -1,6 +1,7 @@
 ---
 tags:
   - Aile
+  - stub
 ---  
   
 İmparatorluk'taki soylu ailelerden biri. [[Warbonter]]'in ortasında genişçe bir malikâneleri var.  

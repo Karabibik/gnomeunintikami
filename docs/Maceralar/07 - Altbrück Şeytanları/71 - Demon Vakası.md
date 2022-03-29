@@ -1,3 +1,8 @@
+---
+tags:
+  - stub
+---  
+  
 Göklerde uçan bir mantikor bulduk indirdik:  
   
 - Kendileri sentient  
