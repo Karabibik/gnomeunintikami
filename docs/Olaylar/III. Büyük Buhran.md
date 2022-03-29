@@ -1,4 +1,4 @@
-[[Soradin|Soradin Federasyonu]], [[Rand Diyarı]] ve ~~affedersiniz~~ elflerin el ele vermesiyle İmparatorluk savaşta yenilmiş ve buhrana sürüklenmiştir. Hatta	Randlar [[Könningsburg]]'a kadar girmiş, şehri yağmalamış ve diğer ordular yetişemeden şehirden ayrılmışlardır.  
+[[Soradin|Soradin Federasyonu]], [[Rand Diyarı]] ve ~~affedersiniz~~ elflerin el ele vermesiyle [[İmparatorluk]] savaşta yenilmiş ve buhrana sürüklenmiştir. Hatta	Rand askerleri [[Könningsburg]]'a kadar girmiş, şehri yağmalamış ve diğer ordular yetişemeden şehirden ayrılmışlardır.  
   
 Top sesleri saraydan duyulmaya başladığı sırada kraliyet ozanının kaleminden çıkan şu dörtlükler kendine önemli bir yer edinmiş, yıllar sonra bile o günleri anlatmak için derslerde okutulmuştur:  
   
@@ -11,5 +11,5 @@ Top sesleri saraydan duyulmaya başladığı sırada kraliyet ozanının kalemin
 >_Ne hayasızca tehaşşüd ki ufuklar kapalı!  
 >Nerde -gösterdiği vahşetle "Bu, bir Rakonyalı!"  
 >Dedirir- yırtıcı, his yoksulu, sırtlan kümesi  
->Varsa gelmiş, açılıp mahpesi, yahud kafesi!>_  
+>Varsa gelmiş, açılıp mahpesi, yahud kafesi!_  
 >

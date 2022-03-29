@@ -5,10 +5,10 @@
 ## After 02  
   
 ### Ateş Saçan Dev Kaplumbağa  
-Denizin altından geldi  
-Mavi elfler var üstünde, kısa yeşil saçlı  
-Her şeyi aldılar  
-Dalgalar gemiyi devirdi, fıçıya tutunup zor kurtardım  
+> Denizin altından geldi  
+> Mavi elfler var üstünde, kısa yeşil saçlı  
+> Her şeyi aldılar  
+> Dalgalar gemiyi devirdi, fıçıya tutunup zor kurtardım  
   
 ### [[Slayer]]  
 Söylenene göre [[Mündung]]'un güneyinde küçük bir kasabaki kışlayı basıp içerideki subay ile 6-7 askeri öldürmüş 2-3 hafta önce  
@@ -17,8 +17,7 @@ Söylenene göre [[Mündung]]'un güneyinde küçük bir kasabaki kışlayı bas
 ## After 04  
   
 ### Slayer  
-Özellikle [[Könningsburg]] çevresinde ara ara belirip local otoriteleri öldürmüş  
-local soylu, haydut şefi, zenginler vs  
+Özellikle [[Könningsburg]] çevresinde ara ara belirip soylu, haydut şefi, zenginler gibi local otoriteleri öldürmüş  
   
 ### [[İmparator Denizi]]  
 Korsan aktivitesinde artış var  
@@ -58,4 +57,4 @@ Tüm major plane'lerden bir parça gerekiyor:
   
 ### Ryld  
 Celeste:  
-> "Rand Diyarı'nın batısındaki Yenta adında küçük bir kasabada sanırım"
+> "Rand Diyarı'nın batısındaki [[Yenta]] adında küçük bir kasabada sanırım"

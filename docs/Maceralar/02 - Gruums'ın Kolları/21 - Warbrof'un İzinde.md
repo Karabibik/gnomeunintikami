@@ -5,5 +5,4 @@
 - Bunları iki gün önce bıraktı  
   
 [[Kutsal Ağaçlar]]  
-- Bunlar [[Gruumsh]]'ı sevmiyorlar  
-		  
+- Bunlar [[Gruumsh]]'ı sevmiyorlar

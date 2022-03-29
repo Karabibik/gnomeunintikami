@@ -3,6 +3,8 @@ tags:
   - Aile
 ---  
   
+İmparatorluk'taki soylu ailelerden biri. [[Warbonter]]'in ortasında genişçe bir malikâneleri var.  
+  
 Bilinen üyeleri:  
-- [[Celeste]]  
+- [[Celeste]] (hane başı)  
 - [[Rensa]]

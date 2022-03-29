@@ -15,6 +15,8 @@ Ilımlı iklimi, geniş hinterlandı ve [[Pava Adası]]'nın sağladığı korun
   
 Batısında Rand Diyarı, güneyinde [[Hannog]] eyaleti, doğusunda [[Warbonter]] eyaleti ve kuzeyinde okyanus yer alır.  
   
+![[Mündung.webp]]  
+  
 ### Ekonomi  
 Barış zamanlarında doğu-batı ticareti Pava Adası ile Mündung limanı arasında yer alan ve açık okyanustan çok daha güvenli olan Pava kanalı üzerinden yürür. Pek çok ticari gemi köken aldıkları ülkenin İmparatorluk'a olan tarihî güvensiz tavrını bir limanda daha kâr edebilmek adına görmezden gelir ve yolları üzerinde Mündung’da durur. Nedendir bilinmez şehir ahalisi ticaretle pek ilgilenmez ve gemilerden kendi ihtiyaçlarından fazlasını satın almazlar. Yine de tavernalarda [[Soradin]] şarabı, Warbonter birası veya Rand viskisi asla bitmez.  
   
@@ -31,4 +33,3 @@ Mündung, İmparatorluk başkentleri arasında en düşük okur-yazar oranların
   
 Eski high-elf klanlarından geriye bir tek Celebryl klanı kalmış, o da aslında ikincil klanlardan. Diğer dört ana klan insan saldırılarında tamamen yok edilmiş, biri hariç adları bile hatırlanmıyor. O hatırlanan biri de [[Erawand]].  
   
-![[Mündung.webp]]
