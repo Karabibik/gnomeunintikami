@@ -1,13 +1,13 @@
 # IV. Jurgen Voldrun  
 |  |  |  
 |---|---|  
-| **İsim** | Jurgen IV|  
-| **Soyadı** | [[Voldrun]]|  
-| **Hizip** | |  
-| **Cinsiyet** | Erkek|  
-| **Irk** | Human|  
-| **Sınıf** | |  
-| **Kütük** | [[Könningsburg]]|  
-| **Münasebet** | |  
-| **Karakter Betimi** | |  
-| **İlave Notlar** | Halstein'ın babası<br>Tahtı iki kere kaçırmış elinden|  
+| **İsim** | Jurgen IV |  
+| **Soyadı** | [[Voldrun]] |  
+| **Hizip** |  |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | Human |  
+| **Sınıf** |  |  
+| **Kütük** | [[Könningsburg]] |  
+| **Münasebet** |  |  
+| **Karakter Betimi** |  |  
+| **İlave Notlar** | Halstein'ın babası<br>Tahtı iki kere kaçırmış elinden |  

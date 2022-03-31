@@ -5,6 +5,7 @@ tags:
   
 **What she says**[^1]  
   
+- Adı [[Elanor]]  
 - Demonologist  
 - [[Könningsburg]]'un 20km civarında bir ritüel yapmış  
 	- Sonra sanıyoruz [[Falona]] çarpmış  

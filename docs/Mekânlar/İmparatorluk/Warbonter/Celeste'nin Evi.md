@@ -3,6 +3,8 @@ tags:
   - Mekân
 ---  
   
+[[Celeste]] Revenir'in [[Warbonter]]'deki evi.  
+  
 Girişte bir hol var. Orada Soradin, Rand ve Warseir'den eserler var:  
 	**Ahşap heykel:** Yerli halkların birinden alınma  
 	**Random resim:** Buz ve kar kaplı bir yer. muhtemelen Kuzey, eskiden insanlarınken alınmış  
