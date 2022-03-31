@@ -1,31 +1,14 @@
----
-tags:
-  - stub
----  
+En son Yousa'yı sobeliyoruz tabii (Uliza söylüyor?)[^1]. [[Warbonter]]'in doğusundaki harabelerin orada olacakmış gece. Yanımızda [[Lucian]] ve [[Saubia]] ile yola çıkıyoruz.  
   
-En son Yousa'yı sobeliyoruz tabii  
+Epey sıkıntılı bir dövüşün ardından geberip gidiyor piç kurusu. Özetle:  
+- Philip aynayı devre dışı bırakıyor  
+- İkizler *Slow* atıp yavaşlatıyor  
+- Yousa `"Yeter lan"` diyip Alfons'u boynundan tutup kaldırıyor  
+- Saubia *Subtle Spell* kullanıp Alfons'u kurtarıyor  
+- Sonra bam bam bam  
   
-## Notebook  
->"Bu seneki deneyler başarılı olmadı, herhangi bir entity ile iletişim kuramadım. Dönüşümü tamamlamak istiyorsam tek yolu Tüccar'ın kanı ama bulamayacak olursam Shadowfell güçleri ya da Dragan da dönüşümü tamamlayabilir."  
+*Dome* atıp kısa bir dinleniyoruz. O sırada Agnes geliyor, onunla birlikte geri şehre dönüyoruz.  
   
-- Orb'u communication için kullanıyormuş  
+Yolda dilenci kılığında [[Uliza]] yanaşıyor, Philip'le konuşup ayrılıyorlar. Nihayetinde defteri o harabelerdeki açık bir portaldan içeri atmamızı istiyor, dediğini yapıp kurtuluyoruz.  
   
-> "Uliza'yı ne kadar oyalarım bilmiyorum, onu kandırdığımdan şüpheleniyor."  
-  
-  
-> "Warbrof orklara silah götürmeye çalışırken öldü."  
-> "Azuuk başarısız oldu."  
-  
-> "Ormanın Hanımı'yla iletişimde sekte oldu. Uliza mağaraya girip ejderha yavrusunu kaçırmış."  
-  
-- Hagleri öldürürken bizi ve özel isimle Maelia'yı görüyor  
-- Bizi Uliza'yı öldürmede kullanacaktı  
-- Uliza her şeyini yakmış,  
-> "Altbrück'te bir işim kalmadı."  
-- Vincent'ın yerini aynadaki demon'dan öğrenmiş.  
-	- Glabrezu Orcus'a çalışıyormuş  
-  
-> "Ayna sürekli konuşup beni Orcus'a ayartmaya çalışıyor, son çare olarak kullanılabilir."  
-  
-> "Kanı bulabileceğim sağlam bir ipucu var, Wabronter'den çıkıp..."  
-  
+[^1]: Citation needed

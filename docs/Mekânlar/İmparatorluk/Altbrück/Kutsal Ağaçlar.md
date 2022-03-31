@@ -14,4 +14,4 @@ Büyük iki kabile hâlinde toplanılmış druidler ve diğer azınlıklar
   
 ![[Kutsal Ağaçlar Köyü.webp]][^1]  
   
-[^1]:  Kızıl Kanon tarafından köyün temsili görünüşü
+[^1]:  "Köyün temsili görünüşü", courtesy of Kızıl Kanon 

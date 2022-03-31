@@ -13,5 +13,5 @@ Karşısındaki tarif:
 Yousa ile diğer vampir döğüşüyor  
 - Yousa dövüyor.  
 - Karşısındakinin boynunda bir zincir, zincirde anahtar var.  
-- Anahtarı ve A4 boyutlarında bir kasayı alıp Dimension Door atıyor  
+- Anahtarı ve A4 boyutlarında bir kasayı alıp *Dimension Door* atıyor  
 - Lağımlarda bir dakika kadar koşup kayboluyor

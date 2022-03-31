@@ -1,8 +1,3 @@
----
-tags:
-  - stub
----  
-  
 Philip, [[Elva]] ve Harrion içeri atlıyor  
   
 Elva içeri girince bir garipleşiyor  
@@ -16,43 +11,32 @@ Elva dönüşüm geçirdikten sonra diyor ki:
 > - Materyal plane'de oldu saldırı  
   
 Eline/taşa dokununca dünyanın köklerine giden bir ağaç gördüm (reenkarnasyon)  
-- bazıları tanıdık çok fazla orman  
+- bazıları tanıdık, çok fazla orman var  
 - bazı savaş alanları  
 - birbirlerine yardım etmeye çalışıyorlar  
 - kan revan  
 - diller var ama ne dili hiçbir fikrin yok  
 - binlerce karede konuşulan binlerce dil var  
   
+Harrion time dilation'ı fark edip not tutmaya başlıyor.[^1]  
+  
 Kuzeybatıda ağaçların arasında hareket eden bir şeyler var, siyah büyük bir şeyler  
 - Bize doğru geliyor gibiler  
 - At boyutlarında, panter tarzı bir şey  
   
-Ejderhanın sağ gözünde derin bir kesik var  
+Celeste'ye haber verip ortadaki alana doğru gidiyoruz. Ortada biri küçük biri büyük ağaç var ve ikisinin ortasında da birer taş var. Küçük ağaçtaki taş, büyük ağaçtakinden daha küçük, 40cm falan dikdörtgen şeklinde. Büyük ağaca yaklaşınca bir ejderha sesi geliyor:  
+> "Bu kokuları tanıyorum"  
+  
+Ejderhanın sağ gözünde derin bir kesik var. Yavruyken çarpıştığımız ejderha. Başta biraz anlaşmaya çalışıyoruz ama Harrion köşeye sıkışınca şimşeği basıyor. Combat ensues:  
+- Ejderha lair actionlarını kullanıp ortalığı cehenneme çeviriyor  
+- Harrion yatıp yatıp diriliyor  
+- Elva tekrar taşa dokunup super saiyan'a dönüşüyor ve o da lair action kullanmaya başlıyor.  
+- Ortalıkta ışıklar parlıyor ve Alfons bir japon balığına dönüşüyor (Wisdom 0)  
+- `"Beam us up, Elva"` diyoruz, komple adayı ışınlıyor  
   
 Elva'ya bir daha dokunduğumda elinde taş varken  
 - Düzlükler alabildiğine cesetle kaplı  
 - Binalar var yıkılmış taş, ahşap yanıyor  
 - Karşımda siyah zırhlı biri var, elindeki kılıcı saplıyor bana  
   
-Küçük ağaçtaki taş, büyük ağaçtakinden daha küçük, 40cm falan dikdörtgen şeklinde  
-  
-## Fey Logbook  
-  
-_t_: Fey Time  
-_T_: Material Time  
-  
-### t = 0 / T = 19.00  
-Giriş yaptık Philip ile Harrion  
-Elva dönüşüm geçirdi bir süre  
-Elva'ya dokununca önceki hayatlarını gördüm (wis=22)  
-Philip Elva'ya dokunup 2-3 saatlik anılarını kaybetti (wis=1)  
-Time stone portal'dan yarım metre ötede çalışmıyor  
-  
-### t += 5-10dk / T = 19.16  
-Alfons giriş yaptı  
-Portal'ı kapattık  
-  
-### t += 30-45dk  
-Göldeki adaya geldik  
-  
-![[Kule2.webp]]
+[^1]: Bkz: [[83 - Fey Logbook|Fey Logbook]]

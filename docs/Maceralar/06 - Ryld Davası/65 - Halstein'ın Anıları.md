@@ -2,7 +2,7 @@
   
 - [[Gaspard Louis]]'yi de çok çok severmiş. Güvenlik sorumlusu yapmış, en güvendiği yerleri vermiş buna. Hiç kusur işlememiş.  
   
-- [[Agnes]] doğduğu sıra Gaspard dükün yanına gitmiş  
+- Agnes doğduğu sıra Gaspard dükün yanına gitmiş  
 	- Dük buna: `"Erkek olsa da adını Alfons koysan güzel olurdu"` demiş  
   
 - Gaspard öldüğünde baronluk Agnes'e önerilmiş  

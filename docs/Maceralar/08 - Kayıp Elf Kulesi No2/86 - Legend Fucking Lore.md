@@ -1,6 +1,6 @@
   
   
-[[Tinrel|Stormforger]] hakkında Legend Lore atıyor [[Alfons]], yürü be aslanım.  
+[[Tinrel|Stormforger]] hakkında *Legend Lore* atıyor [[Alfons]], yürü be aslanım.  
   
 ## Görü 1  
 - Deniz kenarında yeşil arazi, çimenlik var  
@@ -42,8 +42,7 @@ Başka bir görüntü geliyor
 - Kaybedilen savaşın sonu gibi bir alana yaklaşıyor  
 	- Elfler oraya kadar çekilmişler kayıp vere vere  
 - İnsan ordusunun üstünden uçup ardına bakıyor  
-- Shit hits the fan, elektrik hits the army  
-  
+- Shit hits the fan, şimşek hits the army  
   
 ## Görü 4  
 Stormforger'ın anılarındaki en önemli an  

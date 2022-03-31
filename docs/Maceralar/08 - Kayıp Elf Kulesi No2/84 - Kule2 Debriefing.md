@@ -15,7 +15,7 @@ Son kırmızı ejderha 1000 sene önce görüldü. Harrion biliyor ki:
 - Kırmızılar extinct sanılıyordu  
   
 Celeste diyor ki:  
-> - "Evet bir sıkıntı var, teleport da çalışmayacak gibiydi. Magical linelar farklıydı biraz.  
+> - "Evet bir sıkıntı var, teleport da çalışmayacak gibiydi. Magical linelar farklıydı biraz."  
 > - "High magic zone sanırım burası"  
 	  
 Alfons'u iyileştirmeye çalışırken:  
@@ -57,15 +57,16 @@ Delador:
 Elva:   
 > "Siz ne bileceksiniz? O çok sevdiğiniz high magic'i bile unuttunuz."  
   
-Tinrel: `"Söyledikleri eksik ve yanlış."`  
+Tinrel:  
+> "Söyledikleri eksik ve yanlış."  
 - And casually mentions killing us just for hearing everything  
   
 ## Delador Afterparty  
 Bizi erişilemez gibi bir dağın tepesine getirdi. Önümüzde şehir var.  
 - Çember gibi çevrili surla  
-- Wabronter'in 5 katı kadar falan  
+- Warbonter'in 5 katı kadar falan  
 - Gölün kıyısı boyunca kasabalar var  
 THIS IS KÖNNINGSBURG  
   
 Delador:  
-> Elf anılarının başladığı net bir zaman çizgisi var"
+> "Elf anılarının başladığı net bir zaman çizgisi var"

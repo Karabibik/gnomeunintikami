@@ -20,6 +20,7 @@
 | [[Glaive of Vengence]] | Weapon | Rare |  |  |  
 | [[God's Gaze]] | Accessory |  |  | Holy Symbol of Ioun |  
 | [[Greater HP Potion]] | Potion |  | 100 | 2 HD + CON |  
+| [[Harsus'un Kupası]] | Artefact |  |  |  |  
 | [[Heirloom Bow and Quiver]] | Weapon |  |  | Magical, auto-replace ammo after 1min |  
 | [[Holy Hand Grenade]] | Grenade |  | 100 | Range: 80ft<br>Save: CON15<br>Damage: 20ft radius, 8d6 Radiant |  
 | [[HP Potion]] | Potion |  | 50 | 1 HD + CON |  
