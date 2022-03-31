@@ -37,6 +37,10 @@ Elva'ya bir daha dokunduğumda elinde taş varken
 Küçük ağaçtaki taş, büyük ağaçtakinden daha küçük, 40cm falan dikdörtgen şeklinde  
   
 ## Fey Logbook  
+  
+_t_: Fey Time  
+_T_: Material Time  
+  
 ### t = 0 / T = 19.00  
 Giriş yaptık Philip ile Harrion  
 Elva dönüşüm geçirdi bir süre  
@@ -51,7 +55,4 @@ Portal'ı kapattık
 ### t += 30-45dk  
 Göldeki adaya geldik  
   
-  
-  
-  
-  
+![[Kule2.webp]]
