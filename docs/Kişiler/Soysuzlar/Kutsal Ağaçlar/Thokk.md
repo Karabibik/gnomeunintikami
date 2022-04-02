@@ -11,3 +11,5 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Eskiden paralı askerlik yapmış, herkesten güçlü savaşçı, champion |  
+  
+![[Thokk_forge.webp]]

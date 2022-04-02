@@ -11,3 +11,5 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Mert'in eski karakteri<br>Orman elfleriyle bir bağı var |  
+  
+![[Taftial_roll.webp]]

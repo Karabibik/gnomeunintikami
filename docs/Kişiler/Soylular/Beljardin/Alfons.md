@@ -16,3 +16,5 @@ tags:
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Kaypak herifin teki |  
+  
+![[Alfons_forge.webp]]

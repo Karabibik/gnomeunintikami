@@ -15,3 +15,5 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Alfons'un ablası<br>5 Yıldır Altbrück'ü yönetiyor |  
+  
+![[Agnes_roll.webp]]

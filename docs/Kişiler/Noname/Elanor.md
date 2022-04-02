@@ -11,3 +11,5 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sarışın |  
 | **İlave Notlar** | Demonologist, diriliyor abla, meczup, unutuyor ölünce |  
+  
+![[Elanor_roll.webp]]

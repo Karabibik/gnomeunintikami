@@ -3,8 +3,9 @@ tags:
   - Hizip
 ---  
   
-Aklı başında paralı asker grubu. Mevcut üyeleri:  
+Aklı başında paralı asker grubu.  
   
-1. [[Alfons]] "Kaptan Paspas" Beljardin (Başgan)  
-2. "Hünerli" [[Harrion]]  
-3. [[Philip]] "the Sharp"
+| Başgan               | Üye                   | Üye                  |  
+| :--------------------: | :---------------------: | :--------------------: |  
+| ![[Alfons_mini.webp]] | ![[Harrion_mini.webp]] | ![[Philip_mini.webp]] |  
+| [[Alfons]] "Kaptan Paspas" Beljardin | "Hünerli" [[Harrion]] | [[Philip]] "the Sharp" |

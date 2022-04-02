@@ -14,4 +14,4 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Evsiz Uşaklar]]dandı<br>[[Soradin]]'e kaçtı<br>Eski altbrück baronunu öldürdü<br>[[Agnes]] bunu kendi koruması ve ajanı yaptı<br>Şu an [[Hara]] ile münasebette |  
+| **İlave Notlar** | Evsiz Uşaklar'dandı<br>[[Soradin]]'e kaçtı<br>Eski altbrück baronunu öldürdü<br>[[Agnes]] kendi koruması ve ajanı yaptı<br>Şu an [[Hara]] ile münasebette |  
