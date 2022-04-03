@@ -8,11 +8,12 @@ Bu oyun; **[[Gnome'un İntikamı]]** adlı paralı asker grubunda bir araya gelm
   
 **Vagabonds**:  
   
-| Oyuncu | Karakter | Irk | Sınıf |  
-|---|---|---|---|  
-| ^^Berkay Şahinoğlu^^ | Harrion *"the Handy"* | Tiefling | Wizard |  
-| ^^Ertuğrul Mola^^ | Alfons *"Kaptan Paspas"* Beljardin | Human | Cleric |  
-| ^^İlkin Ünal^^ | Philip *"the Sharp"* | Human | Rogue |  
+|                Başgan                |           Üye           |          Üye           |  
+|:------------------------------------:|:-----------------------:|:----------------------:|  
+| ![[Alfons_mini.webp]]| ![[Harrion_mini.webp]]| ![[Philip_mini.webp]]|  
+| ^^Ertuğrul Mola^^ | ^^Berkay Şahinoğlu^^ | ^^İlkin Ünal^^ |  
+| [[Alfons]] *"Kaptan Paspas"* Beljardin | [[Harrion]] *"the Handy"* | [[Philip]] *"the Sharp"* |  
+| Level 9 - Human Cleric | Level 9 - Tiefling Wizard | Level 9 - Human Rogue |  
   
 **Ex Vagabonds**:  
   

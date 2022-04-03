@@ -1,4 +1,4 @@
-Bir yerden bilgi geliyor [^1]  
+Bir yerden bilgi geliyor (muhtemelen Colt) [^1]  
   
 - [[Herrman]] adlı biri var  
 - Mündung'dan yola çıkan "Doğu Esintisi" adlı bir gemiyle buraya geliyor  
