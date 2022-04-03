@@ -7,7 +7,7 @@ tags:
   
 <div class="row">  
   
-<div class="column">  
+<div class="column" markdown>  
   
 |  |  |  
 |---|---|  
@@ -24,7 +24,7 @@ tags:
   
 </div>  
   
-<div class="column">  
+<div class="column" markdown>  
   
 ![[Alfons_forge.webp]]  
   
