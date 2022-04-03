@@ -1,3 +1,7 @@
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Lucian   
 |  |  |  
 |---|---|  
@@ -11,3 +15,9 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Boynunda yarım güneş sembolü var |  
 | **İlave Notlar** | Arena çığırtkanı, [[Vincent]]'ın uşağı<br>Annesi half-devil |  
+  
+</div>  
+<div class="column" markdown>  
+![[Lucian_portrait.webp]]  
+</div>  
+</div>

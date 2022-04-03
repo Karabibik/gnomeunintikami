@@ -3,6 +3,10 @@ tags:
   - Hünerli
   - Handy
 ---  
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Harrion   
 |  |  |  
 |---|---|  
@@ -17,4 +21,8 @@ tags:
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Büyü öğrenmek için yola çıkıp neler neler gördü amk gnome'u<br>Şu ara [[Güneş Birliği]] yardakçısı |  
   
-![[Harrion_forge.webp]]
+</div>  
+<div class="column" markdown>  
+![[Harrion_portrait.webp]]  
+</div>  
+</div>

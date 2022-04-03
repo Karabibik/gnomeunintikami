@@ -2,6 +2,10 @@
 tags:
   - Çelik Kontes
 ---  
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Agnes Beljardin  
 |  |  |  
 |---|---|  
@@ -16,4 +20,8 @@ tags:
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Alfons'un ablası<br>5 Yıldır Altbrück'ü yönetiyor |  
   
-![[Agnes_roll.webp]]
+</div>  
+<div class="column" markdown>  
+![[Agnes_portrait.webp]]  
+</div>  
+</div>

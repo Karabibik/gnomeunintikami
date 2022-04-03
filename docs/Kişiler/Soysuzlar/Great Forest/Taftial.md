@@ -1,3 +1,7 @@
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Taftial   
 |  |  |  
 |---|---|  
@@ -12,4 +16,8 @@
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Mert'in eski karakteri<br>Orman elfleriyle bir bağı var |  
   
-![[Taftial_roll.webp]]
+</div>  
+<div class="column" markdown>  
+![[Taftial_portrait.webp]]  
+</div>  
+</div>

@@ -1,3 +1,7 @@
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Elanor   
 |  |  |  
 |---|---|  
@@ -12,4 +16,8 @@
 | **Karakter Betimi** | Sarışın |  
 | **İlave Notlar** | Demonologist, diriliyor abla, meczup, unutuyor ölünce |  
   
-![[Elanor_roll.webp]]
+</div>  
+<div class="column" markdown>  
+![[Elanor_portrait.webp]]  
+</div>  
+</div>

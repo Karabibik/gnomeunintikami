@@ -1,3 +1,7 @@
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Thokk   
 |  |  |  
 |---|---|  
@@ -12,4 +16,8 @@
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Eskiden paralı askerlik yapmış, herkesten güçlü savaşçı, champion |  
   
-![[Thokk_forge.webp]]
+</div>  
+<div class="column" markdown>  
+![[Thokk_portrait.webp]]  
+</div>  
+</div>

@@ -2,6 +2,10 @@
 tags:
   - Pina
 ---  
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Pinatrial   
 |  |  |  
 |---|---|  
@@ -15,3 +19,9 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | [[Kinatrial]]'nın kardeşi, demirci, utangaç otistik<br>Balyoz + Breastplate giyiyor |  
+  
+</div>  
+<div class="column" markdown>  
+![[Pinatrial_portrait.webp]]  
+</div>  
+</div>

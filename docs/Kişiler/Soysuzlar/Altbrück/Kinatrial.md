@@ -3,6 +3,10 @@ tags:
   - Kina
   - Altın Kasırga
 ---  
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Kinatrial   
 |  |  |  
 |---|---|  
@@ -16,3 +20,9 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Her yerine mücevher takmış |  
 | **İlave Notlar** | Mücevherci, [[Pinatrial]]'nın kardeşi |  
+  
+</div>  
+<div class="column" markdown>  
+![[Kinatrial_portrait.webp]]  
+</div>  
+</div>

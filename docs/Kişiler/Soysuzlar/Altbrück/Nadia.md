@@ -1,3 +1,7 @@
+  
+<div class="row" markdown>  
+<div class="column" markdown>  
+  
 # Nadia   
 |  |  |  
 |---|---|  
@@ -11,3 +15,9 @@
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir |  
+  
+</div>  
+<div class="column" markdown>  
+![[Nadia_portrait.webp]]  
+</div>  
+</div>
