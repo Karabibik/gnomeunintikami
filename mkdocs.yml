@@ -50,6 +50,7 @@ markdown_extensions:
   - meta
   - footnotes
   - tables
+  - md_in_html
   
 plugins:
   - search
