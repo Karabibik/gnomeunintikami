@@ -1,8 +1,8 @@
+# Elanor   
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
-# Elanor   
 |  |  |  
 |---|---|  
 | **İsim** | Elanor |  

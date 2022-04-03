@@ -4,11 +4,11 @@ tags:
   - Yurov Gaston
   - Supran
 ---  
+# Hal Web   
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
-# Hal Web   
 |  |  |  
 |---|---|  
 | **İsim** | Hal Web |  

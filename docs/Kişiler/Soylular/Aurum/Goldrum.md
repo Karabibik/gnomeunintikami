@@ -2,11 +2,11 @@
 tags:
   - Altın altın
 ---  
+# Goldrum Aurum  
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
-# Goldrum Aurum  
 |  |  |  
 |---|---|  
 | **İsim** | Goldrum |  

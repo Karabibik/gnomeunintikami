@@ -2,11 +2,11 @@
 tags:
   - Çelik Kontes
 ---  
+# Agnes Beljardin  
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
-# Agnes Beljardin  
 |  |  |  
 |---|---|  
 | **İsim** | Agnes |  

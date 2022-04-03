@@ -1,8 +1,8 @@
+# Taftial   
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
-# Taftial   
 |  |  |  
 |---|---|  
 | **İsim** | Taftial |  

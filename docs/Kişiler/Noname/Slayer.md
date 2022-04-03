@@ -1,8 +1,8 @@
+# Slayer   
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
-# Slayer   
 |  |  |  
 |---|---|  
 | **İsim** | Slayer |  

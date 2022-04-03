@@ -1,8 +1,8 @@
+# Thokk   
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
-# Thokk   
 |  |  |  
 |---|---|  
 | **İsim** | Thokk |  

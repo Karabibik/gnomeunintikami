@@ -3,11 +3,11 @@ tags:
   - Kina
   - Altın Kasırga
 ---  
+# Kinatrial   
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
-# Kinatrial   
 |  |  |  
 |---|---|  
 | **İsim** | Kinatrial |  
