@@ -1,6 +1,6 @@
 # Vagabonds of Warbonter  
   
-Bu oyun; **[[Gnome'un İntikamı]]** adlı paralı asker grubunda bir araya gelmeyi başarmış bir ^^ex-gnome^^, bir ^^ex-conman^^ ve bir ^^ex-suikastçı^^ nın hikâyesini anlatmaktadır.  
+Bu oyun; **[[Gnome'un İntikamı]]** adlı paralı asker grubunda bir araya gelmeyi başarmış bir ^^ex-conman^^, bir ^^ex-gnome^^ ve bir ^^ex-suikastçı^^ nın hikâyesini anlatmaktadır.  
   
 **DM**:  
   

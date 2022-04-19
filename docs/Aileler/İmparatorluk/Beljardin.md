@@ -4,9 +4,9 @@ tags:
   - stub
 ---  
   
-Adı "Güzel Bahçe" anlamına geliyor, sembolleri de gül/çiçek zaten.  
+Adı "Güzel Bahçe" anlamına geliyor, sembolleri de gül/çiçek zaten. [[Rakonya]]lı olduklarını iddia ediyorlar.  
   
-Bilinen üyeleri:  
+![[Beljardin_tree.svg]]  
 - [[Agnes]]  
 - [[Alfons]]  
 - [[Alfons I]]  
