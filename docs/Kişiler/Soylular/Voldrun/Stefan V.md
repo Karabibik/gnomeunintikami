@@ -1,7 +1,7 @@
-# Stefan Voldrun  
+# V. Stefan Voldrun  
 |  |  |  
 |---|---|  
-| **İsim** | Stefan |  
+| **İsim** | Stefan V |  
 | **Soyadı** | [[Voldrun]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  

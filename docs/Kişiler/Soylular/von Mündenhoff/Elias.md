@@ -1,8 +1,8 @@
-# Elias   
+# Elias von Mündenhoff  
 |  |  |  
 |---|---|  
 | **İsim** | Elias |  
-| **Soyadı** |  |  
+| **Soyadı** | [[von Mündenhoff]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  

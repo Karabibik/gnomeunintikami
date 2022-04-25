@@ -1,13 +1,13 @@
-# Emilia   
+# Marc   
 |  |  |  
 |---|---|  
-| **İsim** | Emilia |  
+| **İsim** | Marc |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Mündung dükü [[Elias]]'ın kız kardeşi<br>on numara parti lokali başkanı |  
+| **İlave Notlar** | Mündung - 3'ün kaptanı |  

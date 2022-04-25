@@ -11,7 +11,7 @@
 > Dalgalar gemiyi devirdi, fıçıya tutunup zor kurtardım  
   
 ### [[Slayer]]  
-Söylenene göre [[Mündung]]'un güneyinde küçük bir kasabaki kışlayı basıp içerideki subay ile 6-7 askeri öldürmüş 2-3 hafta önce  
+Söylenene göre [[Mündung]]'un güneyinde küçük bir kasabadaki kışlayı basıp içerideki subay ile 6-7 askeri öldürmüş 2-3 hafta önce  
   
   
 ## After 04  
@@ -55,6 +55,3 @@ Tüm major plane'lerden bir parça gerekiyor:
 - [ ] Celestial  
 - [ ] Fiendish  
   
-### Ryld  
-Celeste:  
-> "Rand Diyarı'nın batısındaki [[Yenta]] adında küçük bir kasabada sanırım"

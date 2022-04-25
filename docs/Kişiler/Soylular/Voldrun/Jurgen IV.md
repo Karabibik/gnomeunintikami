@@ -10,4 +10,4 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Halstein'ın babası<br>Tahtı iki kere kaçırmış elinden |  
+| **İlave Notlar** | Halstein'ın babası |  

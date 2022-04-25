@@ -5,7 +5,7 @@ tags:
   
 |  |  |  
 |---|---|  
-| **İsim** | Potions of Growth|  
+| **İsim** | Potion of Growth|  
 | **Okul** | |  
 | **Fiyat** | 250 gp|  
 | **Rarity** | |  

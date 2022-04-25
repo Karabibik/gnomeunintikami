@@ -32,7 +32,7 @@
 | [[Periapt of Wound Closure]] | Accessory | Uncommon | 190 | Stabilize if dead (attunement) |  
 | [[Potion of Hill Giant Strength]] | Potion |  | 250 | 21 STR (1h) |  
 | [[Potion of Mental Fortitude]] | Potion |  |  | 10min, wisdom save with advantage |  
-| [[Potions of Growth]] | Potion |  | 250 | Size x2, STR check adv, melee +1d4 |  
+| [[Potion of Growth]] | Potion |  | 250 | Size x2, STR check adv, melee +1d4 |  
 | [[Resistance Potions]] | Potion |  | 200 | (1h) |  
 | [[Ring of Protection]] | Accessory | Rare |  | AC +1, Saving +1 (attunement) |  
 | [[Robe of Mage Armor]] | Armor | Uncommon | 500 | Permanent Mage Armor |  
@@ -44,3 +44,6 @@
 | [[Spell Scroll Lvl 3]] | Scroll |  | 250 | Standart scroll |  
 | [[Vampire Blood Vial]] | Potion |  |  | Blood of Immortal Merchant |  
 | [[Weaker Drow Staff of Power]] | Weapon |  | 2000 | 6 Charges , resets on long rest.<br>attunement from a Sorcerer, Warlock or Wizard<br>+1 bonus to Attack and Damage<br>Power Strike: 1 charge, extra 1d6 force damage<br>- Silent Image, Disguise Self, Cause Fear, Sleep: level 1, 1 charge<br>- Darkness : level 2, 2 charges |  
+| [[Elixir of Health]] | Potion |  | 1500 | Remove all conditions |  
+| [[Grease Oil]] | Potion |  | 200 | Application: 10min<br>1) Üstüne sür -> Freedom of movement: 8hr<br>2) Yere dök -> Grease spell |  
+| [[Potion of Fire Breath]] | Potion |  | 200 | DC13 Dex, half on save<br>30ft range, single target<br>4d6 fire damage<br>1 hr time or 3 use |  
