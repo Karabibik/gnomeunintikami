@@ -3,4 +3,4 @@ tags:
   - Mekân/Kasaba
 ---  
   
-Limanı bulunan bir yerleşke
+[[Dwarf Krallıkları]]'na dahil, limanı bulunan bir yerleşke

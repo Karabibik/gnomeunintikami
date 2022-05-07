@@ -5,7 +5,7 @@ tags:
   
 [[Altbrück Kütüphanesi]]'nde şöyle bahsediliyor:  
   
-- Eski bir Dwarf krallığı, 700 sene kadar önce  
+- Eski bir [[Dwarf Krallıkları|Dwarf Krallığı]], 700 sene kadar önce  
 - Şu anki [[Altbrück]] civarında kurulmuşlar  
 - İmparatorluk takvimi ile 351 yılında ele geçirilmiş  
 - Politika ve askeriyede önemli güç sahibiymiş  

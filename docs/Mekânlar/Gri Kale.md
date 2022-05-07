@@ -3,6 +3,8 @@ tags:
   - Mekân/Şehir
 ---  
   
+[[Lawless Lands]] sınırında bir yapı.  
+  
 - Ne zaman yapıldığı bilinmiyor, zamanla eskitilemiyor, yapıya zarar verilemiyor.  
 - %100 magical bariyer var, içi dışı birbirini etkileyemiyor.  
 - Druid, ranger, paladin, warlock ve cleric spelleri çalışmıyor.  

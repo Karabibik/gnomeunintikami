@@ -53,5 +53,4 @@ Tüm major plane'lerden bir parça gerekiyor:
 - [x] [[Fey Wilds]] (Philip Fey'de topladığı bitkileri verdi)  
 - [ ] [[Shadowfell]]  
 - [ ] Celestial  
-- [ ] Fiendish  
-  
+- [ ] Fiendish

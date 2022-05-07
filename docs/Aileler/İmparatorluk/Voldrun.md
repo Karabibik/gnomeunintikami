@@ -12,5 +12,5 @@ Bilinen üyeleri:
 - [[Harald IX]]  
 - [[Jurgen IV]]  
 - [[Jurgen V]]  
-- [[Stefan]]  
+- [[Stefan V]]  
 - [[Virzol III]]
