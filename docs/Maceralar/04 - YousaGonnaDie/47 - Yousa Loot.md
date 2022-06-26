@@ -1,3 +1,6 @@
+---
+---  
+  
 ## Loot  
 [[Cloak of the Bat]] -> Philip  
 - Karanlıkta saklanmayı kolaylaştıran, bir süreliğine yarasa olmasını sağlayan pelerin  

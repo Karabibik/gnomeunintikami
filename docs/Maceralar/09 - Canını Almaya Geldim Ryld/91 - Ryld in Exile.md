@@ -1,3 +1,6 @@
+---
+---  
+  
 Celeste:  
 > "Rand Diyarı'nın batısındaki [[Yenta]] adında küçük bir kasabada gördüm korumalarını."  
   
@@ -10,7 +13,4 @@ Celeste:
 	- Ya da Mündung'a gidip oradan gemiyle  
   
   
-Goldrum ile konuşup Cüce Krallıkları'ndaki tünelden geçmeyi kararlaştırıyoruz. Halstein'ın da izniyle yola çıkıyoruz.  
-  
-- Celeste bizi Mündung'a ışınlıyor.  
-- Emilia, [[Surdibi]]'ne gidecek gemiyi (Mündung-3) ayarlıyor
+Goldrum ile konuşup Cüce Krallıkları'ndaki tünelden geçmeyi kararlaştırıyoruz. Halstein'ın da izniyle yola çıkıyoruz.

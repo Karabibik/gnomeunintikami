@@ -1,3 +1,6 @@
+---
+---  
+  
 - Dede Alfons ([[Alfons I]]), [[Halstein]]'a çok yardım etmiş Halstein [[Warbonter]]'e ilk atandığında  
   
 - [[Gaspard Louis]]'yi de çok çok severmiş. Güvenlik sorumlusu yapmış, en güvendiği yerleri vermiş buna. Hiç kusur işlememiş.  

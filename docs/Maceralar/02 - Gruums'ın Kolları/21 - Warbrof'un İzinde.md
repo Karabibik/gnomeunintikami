@@ -1,3 +1,6 @@
+---
+---  
+  
 [[Warbrof]] diye biri var  
 - Kuzeybatıya 2 saat yolda, ormanda, malların yanında saklanıyor  
 - 6-7 kişiler  

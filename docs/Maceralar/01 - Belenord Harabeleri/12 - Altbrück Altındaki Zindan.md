@@ -1,3 +1,6 @@
+---
+---  
+  
 Eski [[Belenord]] krallığından olduğunu öğrendiğimiz bir yere giriyoruz. İçeride bir construct ile savaşıp bir mezar odası buluyoruz.  
   
 Mezar taşında şöyle yazıyor:  

@@ -1,4 +1,5 @@
-  
+---
+---  
   
 [[Tinrel|Stormforger]] hakkında *Legend Lore* atıyor [[Alfons]], yürü be aslanım.  
   

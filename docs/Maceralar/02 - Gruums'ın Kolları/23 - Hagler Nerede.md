@@ -1,3 +1,6 @@
+---
+---  
+  
 Yanlarına [[Kanon]] ile [[Maelia]]'yı alan ekip, yakınlardaki bir mağarayı incelemek için yola çıkar.  
   
 Yolda bir trol çıktı, `"KILL IT WITH FIRE!"` çığırışları eşliğinde öldürüp mağaraya girdiler. Orada ilüzyonla gizlenmiş bir yer bulup içeri daldılar.  

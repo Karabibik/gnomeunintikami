@@ -1,3 +1,6 @@
+---
+---  
+  
 Bir yerden bilgi geliyor (muhtemelen Colt) [^1]  
   
 - [[Herrman]] adlı biri var  

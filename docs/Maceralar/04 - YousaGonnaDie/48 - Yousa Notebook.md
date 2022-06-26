@@ -1,3 +1,6 @@
+---
+---  
+  
 ## Notebook  
 Uliza bu defterin içine bakmamamızı ve hemen kendisine vermemizi söylüyor. `"Yoksa anlaşma yatar"` diyor.  
 - Biz ne yapıyoruz? Defteri forgeluyoruz :D  

@@ -1,3 +1,6 @@
+---
+---  
+  
 Dağların batısında bir yer var görece büyük, Ulksred  
   
 Rand'lar yaralandıklarında çok hızlı iyileşiyorlar  

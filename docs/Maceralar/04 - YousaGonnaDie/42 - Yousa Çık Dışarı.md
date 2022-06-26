@@ -1,3 +1,6 @@
+---
+---  
+  
 [[Celeste]]'den yardım, Scry denemeleri  
 - İlk aratınca "zırhlı haliyle, cübbe giymiş görünüyor"  
 - 140 yıllık bir parşömen var insanların adı yazıyor. Laboratuvar çalışanları, dört kaptanın adı geçiyor, biri "[[Hal Web]]"  

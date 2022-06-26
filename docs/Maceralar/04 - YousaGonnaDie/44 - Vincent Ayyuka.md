@@ -1,3 +1,6 @@
+---
+---  
+  
 [[30 - Warbonter Turnuvası|Warbonter Turnuvası]]'nda çıkıp zaferimizi Yousa'ya adıyoruz  
 - Yürek mi yedik, nasıl aklımıza geldi, niye oldu hiçbir fikrim yok  
 - Arena çığırtkanları bu diğer vampirin adamı çıkıyor ve bizi buluşturuyorlar ~~(cue the info dump)~~  

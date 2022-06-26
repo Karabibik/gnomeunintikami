@@ -1,3 +1,6 @@
+---
+---  
+  
 İlk girişte bir werewolf çıkıyor. Harrion'ı ısırıyor ama çok sorun olmuyor.  
   
 Mağara gibi bir ortam var, tepede bir açıklık var. Muhtemelen gelen diğer yaratıklar oradan gelmiş. Bir de kulenin arkasında bir tünel var.  

@@ -1,3 +1,6 @@
+---
+---  
+  
 Fark etmediğimiz ya da bilmediğimiz ilk iki karşılaşma:  
   
 1) Kina'nın dükkanında Philip'in pickpocket etmeye çalıştığı adam "Gaston"  
