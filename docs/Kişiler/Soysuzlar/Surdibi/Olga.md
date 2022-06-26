@@ -7,7 +7,7 @@
 | **Cinsiyet** | Kadın |  
 | **Irk** | Dwarf |  
 | **Sınıf** |  |  
-| **Kütük** |  |  
+| **Kütük** | [[Surdibi]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Tamara'nın kardeşi |  
+| **İlave Notlar** | [[Tamara]]'nın kız kardeşi |  

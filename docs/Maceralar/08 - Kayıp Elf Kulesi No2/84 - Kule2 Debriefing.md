@@ -50,7 +50,7 @@ Tinrel:
   
 Elva:  
 > - Senin gibi koruyucuyla yaşayacağımıza onurumuzla ölseydik.  
-> - Elflerin aklından silindi insanların yaptığı zulümler, War of Sorrows...  
+> - Elflerin aklından silindi insanların yaptığı zulümler, [[War of Sorrows]]...  
 > - Tinrel sildi herkesin hafızasını.  
 > - Ön saflardakileri bizzat öldürdü insan imparatorla anlaşıp.  
   

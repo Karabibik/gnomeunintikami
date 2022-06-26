@@ -14,7 +14,7 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Plate armorlu, hafif adımlı abla, 13 lebel<br>[[Surdibi]]'ne, kız kardeşinin düğününe gidiyor |  
+| **İlave Notlar** | Plate armorlu, hafif adımlı abla, 13 lebel<br>[[Surdibi]]'ne, kız kardeşi [[Olga]]'nın düğününe gidiyor |  
   
 </div>  
 <div class="column" markdown>  
