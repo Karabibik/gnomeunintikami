@@ -4,7 +4,7 @@
 | **İsim** | Hara |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Erkek |  
+| **Cinsiyet** | GAY |  
 | **Irk** |  |  
 | **Sınıf** |  |  
 | **Kütük** |  |  

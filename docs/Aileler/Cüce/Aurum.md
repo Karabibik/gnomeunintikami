@@ -3,7 +3,7 @@ tags:
   - Aile
 ---  
   
-Yedi cüce krallığından birini yöneten aile.  
+Yedi cüce krallığından [[Aurelia]]'yı yöneten aile.  
   
 Bilinen üyeleri:  
 - [[Goldrum]]

@@ -1,7 +1,4 @@
 ---
-tags:
-  - Macera
-  - stub
 ---  
   
 Arcanayla kafayı bozuyor  

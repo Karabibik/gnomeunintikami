@@ -7,7 +7,7 @@
 | **Cinsiyet** | Kadın |  
 | **Irk** | Dwarf |  
 | **Sınıf** |  |  
-| **Kütük** | [[Surdibi]] |  
+| **Kütük** | [[Dobrovia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | [[Tamara]]'nın kız kardeşi |  

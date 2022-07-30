@@ -4,7 +4,7 @@
 | **İsim** | Dragan |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** |  |  
+| **Cinsiyet** | Erkek |  
 | **Irk** |  |  
 | **Sınıf** |  |  
 | **Kütük** |  |  

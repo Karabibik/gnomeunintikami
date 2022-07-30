@@ -3,11 +3,11 @@
 | [[All-father]] |  |  | Giant-Goliath tanrısı |  
 | [[Annam]] |  |  | Ana giant tanrısı |  
 | [[Corellion]] | Erkek | Elf | Ana elf tanrısı |  
-| [[Dragan]] |  |  | EVÜL |  
+| [[Dragan]] | Erkek |  | EVÜL |  
 | [[Eilistrae]] | Kadın | Elf | Drowların aydınlık tanrısı, drowlar çok bilmez, öğretilmez<br>Corellion ile Lloth'un çocuğu, ihanete katılmamış, dark elflere iyilik göstermek istiyor<br>Rahibeleri insan kasabalarına hediye götürüp senede bir yaratık avlar |  
 | [[Falona]] | Kadın |  | chaotic good, Solsitis'in üçlüsünden<br>tapınakta yeri var ama sadece hürmeten, etkisini (chaotic ama iyi) hissettirip gidiyor |  
 | [[Gruumsh]] | Erkek | Orc | Ork tanrısı |  
-| [[Hara]] | Erkek |  | neutral good, Solsitis'in üçlüsünden<br>zor durumdakilere yol gösteren ve Solsitis adına haberci |  
+| [[Hara]] | GAY |  | neutral good, Solsitis'in üçlüsünden<br>zor durumdakilere yol gösteren ve Solsitis adına haberci |  
 | [[Harlaus]] | Erkek |  | Ölülerin ruhlarını koruyor<br>Tapınılması yasak değil ama çok tapınanı yok |  
 | [[Harsus]] | Erkek |  | Dragan öldürmüş<br>tanrılar kralı |  
 | [[Ioun]] | Kadın |  | Alfons'un tanrısı<br>Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini |  

@@ -11,10 +11,10 @@
 | **Cinsiyet** | Kadın |  
 | **Irk** | Dwarf |  
 | **Sınıf** | Fighter (Psi Warrior) |  
-| **Kütük** | [[Mündung]] |  
+| **Kütük** | [[Dobrovia]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** |  |  
-| **İlave Notlar** | Plate armorlu, hafif adımlı abla, 13 lebel<br>[[Surdibi]]'ne, kız kardeşi [[Olga]]'nın düğününe gidiyor |  
+| **Karakter Betimi** | Plate armorlu, hafif adımlı |  
+| **İlave Notlar** | 13 lebel, [[Ioun]] takipçisi<br>[[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe gidiyor<br>Küçükken ayrılmış, ailesi kızgın |  
   
 </div>  
 <div class="column" markdown>  
