@@ -1,7 +1,6 @@
 ---
 tags:
   - Mekân/Şehir
-  - stub
 ---  
   
 [[İmparatorluk]]'un [[Soradin]] sınırına en yakın yerleşkelerinden. 2021 yılında şehir statüsüne yükseltildi. Şehrin mevcut yöneticisi [[Agnes|Çelik Kontes]] Agnes Beljardin.  

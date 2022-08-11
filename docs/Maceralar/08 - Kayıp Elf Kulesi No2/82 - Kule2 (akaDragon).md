@@ -22,6 +22,7 @@ Eline/taşa dokununca dünyanın köklerine giden bir ağaç gördüm (reenkarna
 - binlerce karede konuşulan binlerce dil var  
   
 Harrion time dilation'ı fark edip not tutmaya başlıyor.[^1]  
+Philip etraftan ot topluyor lazım olur diye.  
   
 Kuzeybatıda ağaçların arasında hareket eden bir şeyler var, siyah büyük bir şeyler  
 - Bize doğru geliyor gibiler  

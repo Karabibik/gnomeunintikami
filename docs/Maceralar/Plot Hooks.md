@@ -50,7 +50,9 @@ Tüm major plane'lerden bir parça gerekiyor:
 	- [ ] Fire  
 	- [ ] Air  
 	- [ ] Earth  
-- [x] [[Fey Wilds]] (Philip Fey'de topladığı bitkileri verdi)  
+- [x] [[Fey Wilds]] [^1]  
 - [ ] [[Shadowfell]]  
 - [ ] Celestial  
-- [ ] Fiendish
+- [ ] Fiendish  
+  
+[^1]: Philip Fey'de topladığı bitkileri verdi, bkz: [[82 - Kule2 (akaDragon)]]

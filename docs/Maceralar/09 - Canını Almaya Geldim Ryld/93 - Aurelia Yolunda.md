@@ -1,6 +1,6 @@
 Surdibi'ne indikten sonra hem varsa bir bounty almak hem de bilgilendirmek adına komutana gidiyoruz.  
   
-Çeşitli Vagabondluklar (meaning lies and deceit) yaptıktan sonra [[Hange]] ve [[Teagan]] bizi Aurelia'ya gidecek bir karavanı korumakla görevlendiriyor.  
+Çeşitli Vagabondluklar (meaning lies and deceit) yaptıktan sonra [[Hange]] ve [[Teagan]] bizi [[Aurelia]]'ya gidecek bir karavanı korumakla görevlendiriyor.  
   
 Gece Tamara'yla aynı handa kalıyoruz, diyoruz sen de gel. Ertesi sabah onunla birlikte yola koyuluyoruz.  
   
