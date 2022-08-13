@@ -6,7 +6,7 @@
 | **Hizip** | [[Ryld Çetesi]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** |  |  
+| **Sınıf** | Fighter |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  

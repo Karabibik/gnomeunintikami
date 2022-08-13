@@ -7,7 +7,7 @@
 | **Cinsiyet** | Kadın |  
 | **Irk** | Dwarf |  
 | **Sınıf** |  |  
-| **Kütük** | [[Belenord]] |  
+| **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Rannok'un karısı |  

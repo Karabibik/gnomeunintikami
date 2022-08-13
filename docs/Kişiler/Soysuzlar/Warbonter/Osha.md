@@ -9,5 +9,5 @@
 | **Sınıf** | Monk |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
-| **Karakter Betimi** | kumral uzun saçlı kadın |  
+| **Karakter Betimi** | uzun saçlı kumral kadın |  
 | **İlave Notlar** | John Ryld'ın sekreteri |  

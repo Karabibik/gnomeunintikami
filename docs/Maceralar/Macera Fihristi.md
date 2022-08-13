@@ -3,7 +3,7 @@
   
 [[Gnome'un İntikamı]] adlı paralı asker grubunun çeşitli yer ve zamanlarda karışmış olduğu olayların sıralı tam listesi  
   
-[[10 - Belenord Harabeleri]]  
+[[10 - Belanord Harabeleri]]  
 [[20 - Gruums'ın Kolları]]  
 [[30 - Warbonter Turnuvası]]  
 [[40 - Operasyon Yousa]]  

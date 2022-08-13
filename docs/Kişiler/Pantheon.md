@@ -16,6 +16,7 @@
 | [[Lloth]] | Kadın | Drow | Ana drow tanrısı |  
 | [[Maglubiyet]] |  | Goblin | Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş |  
 | [[Mellora]] |  |  | Doğa tanrıçası |  
+| [[Moradin]] | Erkek | Dwarf | Dwarfların ana tanrısı<br>Sembolü örs ve çekiç |  
 | [[Palatis]] | Erkek |  | lawful good, Solsitis'in üçlüsünden<br>karanlığın köküne kibrit suyu, düzen sağlıyor |  
 | [[Solsitis]] |  |  | Güneş Birliği ve imparatorluk'un ana tanrısı |  
 | [[Tiamat]] |  | Dragon | Ejderhaların tanrısı |  

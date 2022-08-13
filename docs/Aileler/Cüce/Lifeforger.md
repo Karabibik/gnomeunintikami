@@ -3,7 +3,7 @@ tags:
   - Aile
 ---  
   
-[[Belenord]] krallığının yönetici hanedanı.  
+[[Belanord]] krallığının yönetici hanedanı.  
 ![[Lifeforger_tree.svg]]  
 Bilinen üyeleri:  
 - [[Banlord]]  

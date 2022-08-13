@@ -7,7 +7,7 @@
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dwarf |  
 | **Sınıf** | Wizard |  
-| **Kütük** | [[Belenord]] |  
+| **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Rannok'un kardeşi |  
