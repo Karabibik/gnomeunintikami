@@ -3,7 +3,7 @@
 |---|---|  
 | **İsim** | Sessiz |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Cult of the Dragon]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn |  
 | **Sınıf** |  |  

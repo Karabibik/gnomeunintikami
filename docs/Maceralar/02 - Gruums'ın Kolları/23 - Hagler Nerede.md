@@ -16,6 +16,4 @@ Yolda bir trol çıktı, `"KILL IT WITH FIRE!"` çığırışları eşliğinde �
 - Küre  
 	- Şeytan meytan olabilir içinde diye hemen [[Altbrück Kütüphanesi]]'ne koyduk  
 	- ~~Keşke bi identify ataydık...~~  
-- Bir resurrection[^1] scroll'u  
-  
-[^1]: Citation needed
+- 1x Scroll of *Reincarnate*

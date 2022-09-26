@@ -3,8 +3,11 @@
   
 - Celeste bizi Mündung'a ışınlıyor.  
 - Emilia, [[Surdibi]]'ne gidecek gemiyi (Mündung-3) ayarlıyor.  
+	- Mündung'daki Güneş Birliği deposundan çalınanların bilgisini istiyoruz  
+		- 1x Büyük anti-divination  
+		- 1 Kasa, Büyülü patlayıcı  
   
-Yola çıktıktan 3-5 gün sonra  
+_Yola çıktıktan 3-5 gün sonra_  
   
 ## Random Encounter 1  
 (1d20 = 18)  

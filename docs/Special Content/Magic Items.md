@@ -18,7 +18,7 @@
 | [[Fey Stone]] | Accessory |  |  |  |  
 | [[Flame Potion]] | Potion |  | 150 | Bonus action, DEX13 4d6 Fire (x3) |  
 | [[Forever White Coat]] | Armor |  |  | Auto repaired, always clean |  
-| [[Frost Rune Greataxe]] | Weapon |  |  | Greataxe +1<br>6 charge/day<br>Damage atınca max 3 charge kullabiliyor<br>Charge başına 1d8 frost damage |  
+| [[Frost Rune Greataxe]] | Weapon | Uncommon | 400 | Greataxe +1<br>6 charge/day<br>Damage atınca max 3 charge kullabiliyor<br>Charge başına 1d8 frost damage |  
 | [[Gaze of the Desperate]] | Accessory |  |  | 60ft nightvision if none, +30 if exists<br>no disadvantage on dim and darkness |  
 | [[Glaive of Vengence]] | Weapon | Rare |  |  |  
 | [[God's Gaze]] | Accessory |  |  | Holy Symbol of Ioun |  
@@ -49,3 +49,4 @@
 | [[Spell Scroll Lvl 3]] | Scroll |  | 250 | Standart scroll |  
 | [[Vampire Blood Vial]] | Potion |  |  | Blood of Immortal Merchant |  
 | [[Weaker Drow Staff of Power]] | Weapon |  | 2000 | 6 Charges , resets on long rest.<br>attunement from a Sorcerer, Warlock or Wizard<br>+1 bonus to Attack and Damage<br>Power Strike: 1 charge, extra 1d6 force damage<br>- Silent Image, Disguise Self, Cause Fear, Sleep: level 1, 1 charge<br>- Darkness : level 2, 2 charges |  
+| [[Hammer of Dwarven Friendship]] | Weapon | Uncommon |  | When holding this weapon, the wielder can understand and speak Dwarven. Inlaid in the hammer itself is a small red gem that emits a faint glow when dwarven ale is near. |  

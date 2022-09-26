@@ -1,5 +1,6 @@
 ---
 tags:
+  - Altınya,Altınistan
   - Mekân/Ülke
 ---  
   

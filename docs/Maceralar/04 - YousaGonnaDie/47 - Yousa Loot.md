@@ -7,7 +7,6 @@
 - Gün ışığı altında çalışmıyor  
   
 2x Smoke Screen -> Philip  
-  
 250 gp + 23cp -> Philip  
   
 [[Demon Mirror]] -> Alfons	  
