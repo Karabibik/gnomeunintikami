@@ -20,3 +20,16 @@ Henüz hiç kimse dünyanın etrafını dolaşmamış olsa da akademik çevreler
   
 ### Mündung  
 ![[Mündung.webp]]  
+  
+## Kuzey Krallıkları  
+  
+### Antik El Yazması  
+![[Kuzey Krallıkları.webp]]  
+  
+### Aurelia  
+![[Aurelia.webp]]  
+  
+## Rand Diyarı  
+  
+### Yenta  
+![[Yenta Countryside.webp]]
