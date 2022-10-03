@@ -14,7 +14,7 @@ tags:
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dwarf |  
-| **Sınıf** | Spellcaster |  
+| **Sınıf** | Sorcerer (Draconic) |  
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Full dwarf beard, mohawk saçlı<br>Boynundan şakaklara kadar altın rengi pullu<br>Gözleri de altın rengi |  

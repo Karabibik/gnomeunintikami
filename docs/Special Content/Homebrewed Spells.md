@@ -67,3 +67,4 @@
 | ***Duration:*** Instantenous |  
 | You put the material component for the spell on the ground which emits radial waves of cold and fire. At the start of your each turn choose the hot and cold sides. Plate pumps a heat or cold wave from those sides which deal 8d10 damage to any creature in its range of 60ft. Creatures on the path make a Dex save for fire and Con save for cold damage and take half the damage on a successful save. |  
 | PS: Triggerlamayı bonus actionla mı yapayım yoksa her tur kendiliğinden mi triggerlansın? |  
+  

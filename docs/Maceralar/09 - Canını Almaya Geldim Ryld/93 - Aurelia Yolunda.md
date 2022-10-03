@@ -16,7 +16,7 @@ Alfons tanrısını arıyor ama meşgul çalıyor.
   
 Philip uçup kaçıp damage üstüne damage koyuyor.  
   
-Myrmidon'dan *heart of earth elemental* çıkıyor. Celeste'yle konuşuyoruz, `Dönüşte getirirsiniz ama sakın bir şey olmasın.` diyor.  
+Myrmidon'dan *heart of earth elemental* çıkıyor. Celeste'yle konuşuyoruz, `"Dönüşte getirirsiniz ama sakın bir şey olmasın."` diyor.  
   
 ## Deep Roads'a Giriş  
   

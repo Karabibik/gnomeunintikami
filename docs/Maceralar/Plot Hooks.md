@@ -49,10 +49,11 @@ Tüm major plane'lerden bir parça gerekiyor:
 	- [ ] Water  
 	- [ ] Fire  
 	- [ ] Air  
-	- [ ] Earth  
+	- [ ] Earth[^2]  
 - [x] [[Fey Wilds]] [^1]  
 - [ ] [[Shadowfell]]  
 - [ ] Celestial  
 - [ ] Fiendish  
   
-[^1]: Philip Fey'de topladığı bitkileri verdi, bkz: [[82 - Kule2 (akaDragon)]]
+[^1]: Philip Fey'de topladığı bitkileri verdi, bkz: [[82 - Kule2 (akaDragon)]]  
+[^2]: Earth myrmydon'dan aldığımız gem'i vereceğiz, bkz: [[93 - Aurelia Yolunda]]

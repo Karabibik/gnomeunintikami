@@ -9,6 +9,6 @@ tags:
 | **Okul** | |  
 | **Fiyat** | 300 gp|  
 | **Rarity** | |  
-| **Kimde** | [[Alfons, Tamara]]|  
+| **Kimde** | [[Alfons]], [[Tamara]]|  
 | **Menşei** | Dragon's Hoard|  
 | **İşlev** | Provides dwarven ale|  

@@ -17,10 +17,10 @@ Biz hediye şarapları çıkarıp verirken yandaki Rand askerleri gelip yavşıy
 Sonra ne oldu ne bitti derken Goldrum bizim beyaz ejderhaları kestiğimizi öğrenip heykelin üstüne methiyemizi dizmek ve "**Karlsefni**" unvanı vermek istediğini söylüyor. O sırada Klatros ile karşılaşmamızın muhabbeti de dönüyor ve diyor ki:  
 > "Biraz bekleyin, sizinle tanışmayı çok isteyecek ve sizin de tanışmak isteyeceğinizi düşündüğüm birini tanıyorum."  
   
-"`Aman adımız çıkmasın, büyük birileri bizimle tanışmak isteyince iyi şeyler olmuyor`" falan diyoruz da adam kalkıp gidiyor iki saate burada buluşuruz diye. Biz de biraz etrafta dolaşıp dönüyoruz hana.  
+`"Aman adımız çıkmasın, büyük birileri bizimle tanışmak isteyince iyi şeyler olmuyor"` falan diyoruz da adam kalkıp gidiyor iki saate burada buluşuruz diye. Biz de biraz etrafta dolaşıp dönüyoruz hana.  
   
 ## The Summoning  
-Goldrum'un odasında kimse yok, "`Kapayın gözlerinizi, birini çağıracağım`" diyor. Odanın ortasında high elf görünümlü bir kadın beliriyor, adı [[Auramonar|Mona]] imiş. Klatros ile maceramız hakkında detay soruyor, biz çok detay veremediğimizden Alfons'un zihninden görmek istiyor direkt. Gayet iyi niyetli bir varlık gibi bir hava veriyor ama anılarına bakarken Alfons'un kafası karışıp kırmızı ejderha ile ilk karşılaşmamızı gösteriyor.  
+Goldrum'un odasında kimse yok, `"Kapayın gözlerinizi, birini çağıracağım"` diyor. Odanın ortasında high elf görünümlü bir kadın beliriyor, adı [[Auramonar|Mona]] imiş. Klatros ile maceramız hakkında detay soruyor, biz çok detay veremediğimizden Alfons'un zihninden görmek istiyor direkt. Gayet iyi niyetli bir varlık gibi bir hava veriyor ama anılarına bakarken Alfons'un kafası karışıp kırmızı ejderha ile ilk karşılaşmamızı gösteriyor.  
   
 İki taraf da lan noluyo deyip beş dakika mola alıyor. Biz lan ne gördü, nasıl toparlarız diye konuşurken teleport edilmeye zorlanıyoruz. Direnmeyi deniyoruz ama fail...  
   

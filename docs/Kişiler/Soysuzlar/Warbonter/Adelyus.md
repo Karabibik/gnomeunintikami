@@ -6,7 +6,7 @@
 | **Hizip** | [[Güneş Birliği]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Wizard |  
+| **Sınıf** | Wizard (War Mage) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  

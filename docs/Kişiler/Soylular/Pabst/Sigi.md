@@ -6,7 +6,7 @@
 | **Hizip** | [[Güneş Birliği]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Wizard |  
+| **Sınıf** | Wizard (Abjuration) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 65 yaşlarında |  

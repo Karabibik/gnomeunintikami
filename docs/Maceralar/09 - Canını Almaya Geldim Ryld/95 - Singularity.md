@@ -67,15 +67,15 @@ A: Başta bir sikke kadardı.
   
 ## Mood Swings  
   
-Yapacak bir şey yok, mukadderat... "`You do what you do, fate will find you` " diyerek bizi salıyor. Gitmeden önce altın bir para veriyor, müttefikleri bunu tanır diye. Soradin'deki paralara benziyor, ejderha kafası var üstünde ama normal Soradin paralarından farklı.  
+Yapacak bir şey yok, mukadderat... `"You do what you do, fate will find you"` diyerek bizi salıyor. Gitmeden önce altın bir para veriyor, müttefikleri bunu tanır diye. Soradin'deki paralara benziyor, ejderha kafası var üstünde ama normal Soradin paralarından farklı.  
   
-Geri dönüyoruz, [[Auramonar]] gerektiğinde buraya ulaşabilelim diye Harrion'a *Teleport Scroll* verip sigil'i ezberletiyor. Acaba bizi çağırdığı gibi Ryld'ı da çağırabilir mi diye düşünüyoruz ama bağlantı sadece Goldrum'un odasınaymış. Tam gitmeden önce Goldrum "`Arkadaşlara hayatlarındaki en güzel manzaralardan birini göreceklerinin sözünü vermiştim.`" diyor, ufak bir iknadan sonra kadın tam ejderha formuna dönüşüp bizi mest ediyor.  
+Geri dönüyoruz, Auramonar gerektiğinde buraya ulaşabilelim diye Harrion'a *Teleport Scroll* verip sigil'i ezberletiyor. Acaba bizi çağırdığı gibi Ryld'ı da çağırabilir mi diye düşünüyoruz ama bağlantı sadece Goldrum'un odasınaymış. Tam gitmeden önce Goldrum `"Arkadaşlara hayatlarındaki en güzel manzaralardan birini göreceklerinin sözünü vermiştim."` diyor, ufak bir iknadan sonra kadın tam ejderha formuna dönüşüp bizi mest ediyor.  
   
-Hana dönünce Tamara soruyor ejderha var mıydı diye, altın olduğunu öğrenince "`Birkaç Gümüş'le bozuğuz da, gençlik işte...`" diyor da alamıyoruz ağzından dahasını.  
+Hana dönünce Tamara soruyor ejderha var mıydı diye, altın olduğunu öğrenince `"Birkaç Gümüş'le bozuğuz da, gençlik işte..."` diyor da alamıyoruz ağzından dahasını.  
   
 Festivale gidiyoruz, yemek içmek gırla. Hatta Alfons elf kız bile kaldırıyor. Kazı yarışması başlayınca Goldrum'un önerisiyle Harrion ile Philip 100'er gold Vaigar'a basıyor ama Urmgrul yarışmanın anasını ağlatıp kazanıyor. Alfons da flyting yarışmasına giriyor ama Tamara'ya yeniliyor. Tamara daha da devam edip şampiyon oluyor.  
   
-Ertesi gün hem bir şeyler buluruz hem de Krallık'tan çıkarken cebimizdeki para sorun olmasın diye eritiriz diye alışverişe gidiyoruz. Goldrum diyor benim kuzen var Dragon's Hoard'un sahibi diye. Çok da güzel eşyalar var ama her şey acayip pahalı. Tamara sürekli dwarven ale çıkaran bir [[Mug of Dwarven Ale|kupa]] alıyor. Biz de business venture olarak alıyoruz bir tane.[^4]  
+Ertesi gün hem bir şeyler buluruz hem de Krallık'tan çıkarken cebimizdeki para sorun olmasın diye eritiriz düşüncesiyle alışverişe gidiyoruz. Goldrum diyor benim kuzen var [[Dragon's Hoard]]'un sahibi diye. Çok da güzel eşyalar var ama her şey acayip pahalı. Tamara sürekli dwarven ale çıkaran bir [[Mug of Dwarven Ale|kupa]] alıyor. Biz de business venture olarak alıyoruz bir tane.[^4]  
   
 ![[Tournament_Flyting.svg]]  
   
