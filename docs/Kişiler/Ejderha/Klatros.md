@@ -5,7 +5,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | Dragon |  
+| **Irk** | Dragon(Green) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Fey Wilds]] |  
 | **Münasebet** |  |  

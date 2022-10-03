@@ -5,9 +5,9 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | Dragonborn |  
+| **Irk** | Dragonborn(Red) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
-| **Karakter Betimi** | Kırmızı |  
+| **Karakter Betimi** |  |  
 | **İlave Notlar** | General Shop satıcısı |  

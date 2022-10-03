@@ -20,11 +20,13 @@ Sonra ne oldu ne bitti derken Goldrum bizim beyaz ejderhaları kestiğimizi öğ
 "`Aman adımız çıkmasın, büyük birileri bizimle tanışmak isteyince iyi şeyler olmuyor`" falan diyoruz da adam kalkıp gidiyor iki saate burada buluşuruz diye. Biz de biraz etrafta dolaşıp dönüyoruz hana.  
   
 ## The Summoning  
-Goldrum'un odasında kimse yok, "`Kapayın gözlerinizi, birini çağıracağım`" diyor. Odanın ortasında high elf görünümlü bir kadın beliriyor, adı [[Mona]] imiş. Klatros ile maceramız hakkında detay soruyor, biz çok detay veremediğimizden Alfons'un zihninden görmek istiyor direkt. Gayet iyi niyetli bir varlık gibi bir hava veriyor ama anılarına bakarken Alfons'un kafası karışıp kırmızı ejderha ile ilk karşılaşmamızı gösteriyor.  
+Goldrum'un odasında kimse yok, "`Kapayın gözlerinizi, birini çağıracağım`" diyor. Odanın ortasında high elf görünümlü bir kadın beliriyor, adı [[Auramonar|Mona]] imiş. Klatros ile maceramız hakkında detay soruyor, biz çok detay veremediğimizden Alfons'un zihninden görmek istiyor direkt. Gayet iyi niyetli bir varlık gibi bir hava veriyor ama anılarına bakarken Alfons'un kafası karışıp kırmızı ejderha ile ilk karşılaşmamızı gösteriyor.  
   
 İki taraf da lan noluyo deyip beş dakika mola alıyor. Biz lan ne gördü, nasıl toparlarız diye konuşurken teleport edilmeye zorlanıyoruz. Direnmeyi deniyoruz ama fail...  
   
-Duvarları raflar, rafları kitap dolu bir odadayız. Odanın kapısı tavanda. Yerde teleport çemberi var. Etrafta da genel olarak bir büyü aurası var. Önümüzde bir adam var ama kimdir, necidir, hangi ırktandır ~~(please not a dragon)~~ hiçbir fikrimiz yok. Kendisini "Buradaki cücelerin babası [[Praetor Aurelion]]" olarak tanıtıyor ~~(definitely a dragon...)~~. Alıyor eline sazı başlıyor anlatmaya:  
+Kubbe şeklinde bir yerdeyiz, yarıçapı 50 metre kadar. Duvarları raflar, rafları kitap dolu. Odanın girişi olabilecek tek şey tavandaki altıgen şeklinde kapı. Biz de altıgen şeklinde bir mermerin üstündeyiz. Yerde teleport çemberi var, zeminin kalanı altın sanıyoruz. Etrafta genel olarak bir büyü aurası var, sular ters akıyor (*ya da biz tersiz?*).  
+  
+Önümüzde bir adam var ama kimdir, necidir, hangi ırktandır ~~(please not a dragon)~~ hiçbir fikrimiz yok. Kendisini "Buradaki cücelerin babası [[Praetor Aurelion]]" olarak tanıtıyor ~~(definitely a dragon...)~~. Alıyor eline sazı başlıyor anlatmaya:  
   
 > "Sizi buraya bu şekilde getirdiğim için özür dilerim ama belirli sebeplerle *lair*'imden çıkamıyorum, şu an şehrin altındayız.  
 >   

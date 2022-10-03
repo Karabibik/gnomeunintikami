@@ -24,6 +24,7 @@
 | [[God's Gaze]] | Accessory |  |  | Holy Symbol of Ioun |  
 | [[Grease Oil]] | Potion |  | 200 | Application: 10min<br>1) Üstüne sür -> Freedom of movement: 8hr<br>2) Yere dök -> Grease spell |  
 | [[Greater HP Potion]] | Potion |  | 100 | 2 HD + CON |  
+| [[Hammer of Dwarven Friendship]] | Weapon | Uncommon |  | When holding this weapon, the wielder can understand and speak Dwarven. Inlaid in the hammer itself is a small red gem that emits a faint glow when dwarven ale is near. |  
 | [[Harsus'un Kupası]] | Artefact |  |  |  |  
 | [[Heirloom Bow and Quiver]] | Weapon |  |  | Magical, auto-replace ammo after 1min |  
 | [[Holy Hand Grenade]] | Grenade |  | 100 | Range: 80ft<br>Save: CON15<br>Damage: 20ft radius, 8d6 Radiant |  
@@ -32,6 +33,7 @@
 | [[Lesser Drow Longsword]] | Weapon |  | 50 | magical, +1, 5dk'dan uzun süre güneşte kalırsa gone |  
 | [[Magical Candle]] | Accessory |  |  | Yan diyince yanan mum |  
 | [[Mask of Underwater Action]] | Mask | Rare |  | Darkvision + Waterbreathing (attunement) |  
+| [[Mug of Dwarven Ale]] | Accessory |  | 300 | Provides dwarven ale |  
 | [[Pearl of Power]] | Accessory |  | 300 | Action, 3- spell slot refill per day |  
 | [[Periapt of Wound Closure]] | Accessory | Uncommon | 190 | Stabilize if dead (attunement) |  
 | [[Potion of Fire Breath]] | Potion |  | 200 | DC13 Dex, half on save<br>30ft range, single target<br>4d6 fire damage<br>1 hr time or 3 use |  
@@ -49,4 +51,3 @@
 | [[Spell Scroll Lvl 3]] | Scroll |  | 250 | Standart scroll |  
 | [[Vampire Blood Vial]] | Potion |  |  | Blood of Immortal Merchant |  
 | [[Weaker Drow Staff of Power]] | Weapon |  | 2000 | 6 Charges , resets on long rest.<br>attunement from a Sorcerer, Warlock or Wizard<br>+1 bonus to Attack and Damage<br>Power Strike: 1 charge, extra 1d6 force damage<br>- Silent Image, Disguise Self, Cause Fear, Sleep: level 1, 1 charge<br>- Darkness : level 2, 2 charges |  
-| [[Hammer of Dwarven Friendship]] | Weapon | Uncommon |  | When holding this weapon, the wielder can understand and speak Dwarven. Inlaid in the hammer itself is a small red gem that emits a faint glow when dwarven ale is near. |  

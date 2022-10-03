@@ -5,9 +5,9 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | Dragon |  
+| **Irk** | Dragon(Red) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Soradin]] |  
-| **Münasebet** |  |  
+| **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | Ejderha kralı, elder drake |  

@@ -1,7 +1,11 @@
-# Vahşi Sena   
+---
+tags:
+  - Vahşi
+---  
+# Sena   
 |  |  |  
 |---|---|  
-| **İsim** | Vahşi Sena |  
+| **İsim** | Sena |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
