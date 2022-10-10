@@ -75,11 +75,10 @@ Hana dönünce Tamara soruyor ejderha var mıydı diye, altın olduğunu öğren
   
 Festivale gidiyoruz, yemek içmek gırla. Hatta Alfons elf kız bile kaldırıyor. Kazı yarışması başlayınca Goldrum'un önerisiyle Harrion ile Philip 100'er gold Vaigar'a basıyor ama Urmgrul yarışmanın anasını ağlatıp kazanıyor. Alfons da flyting yarışmasına giriyor ama Tamara'ya yeniliyor. Tamara daha da devam edip şampiyon oluyor.  
   
-Ertesi gün hem bir şeyler buluruz hem de Krallık'tan çıkarken cebimizdeki para sorun olmasın diye eritiriz düşüncesiyle alışverişe gidiyoruz. Goldrum diyor benim kuzen var [[Dragon's Hoard]]'un sahibi diye. Çok da güzel eşyalar var ama her şey acayip pahalı. Tamara sürekli dwarven ale çıkaran bir [[Mug of Dwarven Ale|kupa]] alıyor. Biz de business venture olarak alıyoruz bir tane.[^4]  
+Ertesi gün hem bir şeyler buluruz hem de Krallık'tan çıkarken cebimizdeki para sorun olmasın diye eritiriz düşüncesiyle alışverişe gidiyoruz. Goldrum diyor benim kuzen var [[Dragon's Hoard]]'un sahibi diye. Çok da güzel eşyalar var ama her şey acayip pahalı. Tamara sürekli dwarven ale çıkaran bir [[Mug of Dwarven Ale|kupa]] alıyor. Biz de business venture olarak alıyoruz bir tane.  
   
 ![[Tournament_Flyting.svg]]  
   
 [^1]: Tahmin mi fact mi?  
 [^2]: Citation needed  
-[^3]: Tam betimlemeyi hatırlayamadım.  
-[^4]: Başka bir şey aldık mı?
+[^3]: Tam betimlemeyi hatırlayamadım.

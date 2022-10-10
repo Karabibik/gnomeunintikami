@@ -131,3 +131,14 @@
 | ***Components:*** V, S, M (a simple elastic band) |  
 | ***Duration:*** Concentration, up to 1 minute |  
 | You create a magical link between two targets inside range. The link can be positive or negative.<br>A *positive link* provides both targets +10 feet of movement, half of any healing on one target is transferred to the other but the link fades if the distance between targets exceeds 30 feet.<br>A *negative link* limits the distance between the targets to 30 feet and causes half of any damage on one target to be transferred to the other. (Bunun save'i nasıl olcak aq?)|  
+  
+## Harpoon of the Golden Monarch  
+| |  
+|---|  
+| *4th-level conjuration* |  
+| ***Casting Time:*** 1 action |  
+| ***Range:*** 60 feet |  
+| ***Components:*** V, S, M (a golden miniature of a harpoon) |  
+| ***Duration:*** up to 1 minute |  
+| You conjure a golden colored harpoon made of magical energy. When you throw the harpoon it travels on a straight line (5 ft wide) to the range of the spell, passing through anything but total cover.<br>Any creature on harpoons path must succeed on a wisdom saving throw against your spell save dc or it takes 4d8 force damage and is bound by a On a failed save creature is bound by a weightless, translucent golden chain to the point you casted the spell. On successful save target takes half damage and is not harpooned.<br>Chain is 60 ft long and creature can move freely within the radius but needs to break to chain in order to leave the radius. Chain also stops teleportation attempts and planar travel. Any spell short of a wish spell used to move out of spells radius can not be casted while chain is intact.<br>A creature can repeat the wisdom save at the end of its turn, breaking the chain on a successful save.<br>You can move between throws. A creature can be impaled by more than one harpoon but any harpoon beyond the fist one deals only 2d8 dmg. Each harpoon on a creature adds +1 to dc for breaking the chains.<br>Each harpoon beyond the fist reduces the affected creatures ms by 10 ft |  
+| ***At Higher Levels:*** If cast on 6th or 7th lvl, spell creates 2 harpoons and range is 80 ft. ıf cast on 8th or 9th lvl spell creates 3 harpoons and range is 100 ft. |
