@@ -5,4 +5,4 @@
   
 Colt yanımızda yakalanmasın diye yarı yolda bizden ayrılıyor ve kanalizasyonda diğer tarafa uzaklaşıyor.  
   
-Biz bir odaya dalıyoruz içeride Ryld'ın yanındaki subay ve sekreteri var. Sekreteri bizi kandırıyor esirim diye, monkmuş meğer yaklaşmaya çalışmış sadece. Bizi bir güzel dövüyorlar. O sırada Ryld kaçıyor tabii. Neyse ki bizi öldüremeden destek kuvvetler yetişiyor.
+Biz bir odaya dalıyoruz içeride Ryld'ın yanındaki [[Boswan|subay]] ve [[Osha|sekreteri]] var. Sekreteri bizi kandırıyor esirim diye, monkmuş meğer yaklaşmaya çalışmış sadece. Bizi bir güzel dövüyorlar. O sırada Ryld kaçıyor tabii. Neyse ki bizi öldüremeden destek kuvvetler yetişiyor.

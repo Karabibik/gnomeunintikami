@@ -1,9 +1,9 @@
 ---
 ---  
   
-Auramonar bizi çağırdı, gideceğiniz yere yaklaştırabilirim diyerek. Biz de hayhay diyerek kabul ettik. Önce Alfons bir *Scry* attı önden, bir toplantı yapacaklarmış onu ve birkaç güne ihtiyaçları olduğunu öğreniyoruz. Philip ile Alfons disguise yaptılar, Harrion *Alter Self* attı kendine.  
+Auramonar bizi çağırdı, gideceğiniz yere yaklaştırabilirim diyerek. Biz de hayhay diyerek kabul ettik. Önce Alfons bir *Scry* attı önden, bir toplantı yapacaklarmış onu ve birkaç güne ihtiyaçları olduğunu öğreniyoruz.  
   
-Madem birkaç güne bir şeyler olacak, Ulskred'e değil doğrudan Yenta'ya gidelim orada bir handa uyuruz diye düşünerek exhaustion yemiş, spell slotlarımız harcanmış hâlde ışınlanmayı istedik.  
+Madem birkaç güne bir şeyler olacak, Ulskred'e değil doğrudan Yenta'ya gidelim orada bir handa uyuruz diye düşünerek exhaustion yemiş, spell slotlarımız harcanmış hâlde ışınlanmayı istedik. Philip ile Alfons disguise yaptılar, Harrion *Alter Self* attı kendine.  
   
 ## Guess What  
   
