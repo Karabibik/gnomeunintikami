@@ -1,15 +1,15 @@
 ---
 ---  
   
-Auramonar bizi çağırdı, gideceğiniz yere yaklaştırabilirim diyerek. Biz de hayhay diyerek kabul ettik. Önce Alfons bir *Scry* attı önden, bir toplantı yapacaklarmış onu ve birkaç güne ihtiyaçları olduğunu öğreniyoruz.  
+Auramonar bizi çağırdı, gideceğiniz yere yaklaştırabilirim diyerek. Biz de hayhay diyerek kabul ettik. Alfons gitmeden önce *Scry* attı. Bir toplantı yapacaklarını, birkaç güne ihtiyaçları olduğunu ve gemiyle gideceklerini öğreniyoruz. Herkes tedirgin, Boswan'ın yanındaki mor tiefling de discontent.  
   
-Madem birkaç güne bir şeyler olacak, Ulskred'e değil doğrudan Yenta'ya gidelim orada bir handa uyuruz diye düşünerek exhaustion yemiş, spell slotlarımız harcanmış hâlde ışınlanmayı istedik. Philip ile Alfons disguise yaptılar, Harrion *Alter Self* attı kendine.  
+Madem birkaç güne bir şeyler olacak, [[Ulskred]]'e değil doğrudan Yenta'ya gidelim orada bir handa uyuruz diye düşünerek exhaustion yemiş, spell slotlarımız harcanmış hâlde ışınlanmayı istedik. Philip ile Alfons disguise yaptılar, Harrion *Alter Self* attı kendine.  
   
 ## Guess What  
   
 TOPLANTININ ORTASINA IŞINLANDIK  
   
-Üç grup var, hepsi birden ayaklanıyor. İçlerinden biri [[Boswan]]. Bir half-orc `"İhanete uğradık!"` diyerek yanındaki ogreyle birlikte Boswan'a saldırıyor ama eleniyorlar, arkalarından birileri evleri yakmaya başlıyor.  
+Üç grup var, hepsi birden ayaklanıyor. İçlerinden biri [[Boswan]]. Bir half-orc `"İhanete uğradık, Randlara sattılar!"` diyerek yanındaki ogreyle birlikte Boswan'a saldırıyor ama eleniyorlar, arkalarından birileri evleri yakmaya başlıyor.  
   
 Harrion herkese *Invisibility* atıp kaçırmaya çalışıyor. Aslında kaçıyorlar da ama arkadan çok hızlı biri yaklaşıyor. Yanında oturduğu banktan bir adam kalkıp büyük binaya giriyor. Sonradan kadının [[Osha]] olduğu ortaya çıkıyor. Yanındaki adam da Ryld olabilir.  
   

@@ -6,7 +6,7 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dwarf |  
-| **Sınıf** | Monk |  
+| **Sınıf** | Monk (Level 5) |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  

@@ -6,8 +6,8 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Paladin (Devotion) ([[Solsitis]]) |  
+| **Sınıf** | Paladin (Devotion) ([[Solsitis]]) (Level 8+) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Eski vampir avcısı, 8-9 level |  
+| **İlave Notlar** | Eski vampir avcısı |  

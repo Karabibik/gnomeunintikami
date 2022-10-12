@@ -10,7 +10,7 @@
 | **Hizip** | [[Güneş Birliği]] |  
 | **Cinsiyet** | Kadın |  
 | **Irk** | Human |  
-| **Sınıf** | Wizard |  
+| **Sınıf** | Wizard (Level 7+) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 17-18 yaşlarında, güzel |  

@@ -10,11 +10,11 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Kadın |  
 | **Irk** | Dwarf |  
-| **Sınıf** | Fighter (Psi Warrior) |  
+| **Sınıf** | Fighter (Psi Warrior) - Cleric [[Ioun]] (Level 13) |  
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Plate armorlu, hafif adımlı |  
-| **İlave Notlar** | 13 lebel, [[Ioun]] takipçisi<br>[[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe gidiyor<br>Küçükken ayrılmış, ailesi kızgın |  
+| **İlave Notlar** | [[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe gidiyor<br>Küçükken ayrılmış, ailesi kızgın |  
   
 </div>  
 <div class="column" markdown>  

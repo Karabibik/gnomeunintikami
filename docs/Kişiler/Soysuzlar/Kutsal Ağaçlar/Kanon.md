@@ -10,7 +10,7 @@ tags:
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Halfling |  
-| **Sınıf** | Barbarian |  
+| **Sınıf** | Barbarian (Level 5) |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** | Teni kırmızı, kıllar kırmızı |  

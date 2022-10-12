@@ -10,7 +10,7 @@
 | **Hizip** | [[Güneş Birliği]] |  
 | **Cinsiyet** | Kadın |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric |  
+| **Sınıf** | Cleric (Level 10+) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40lı yaşlarda<br>beyazımsı sarışın, gözler bal rengi<br>Protect from divination kolyesi var |  

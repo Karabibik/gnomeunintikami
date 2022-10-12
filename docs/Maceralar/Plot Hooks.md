@@ -46,14 +46,16 @@ Giderek büyümeyi istiyorlar, batıda [[Dotnau]]'yu vurup devam edecekler
 Tüm major plane'lerden bir parça gerekiyor:  
   
 - Plane of  
-	- [ ] Water  
-	- [ ] Fire  
+	- [ ] Water[^4]  
+	- [ ] Fire[^3]  
 	- [ ] Air  
 	- [ ] Earth[^2]  
-- [x] [[Fey Wilds]] [^1]  
+- [x] [[Fey Wilds]][^1]  
 - [ ] [[Shadowfell]]  
 - [ ] Celestial  
 - [ ] Fiendish  
   
 [^1]: Philip Fey'de topladığı bitkileri verdi, bkz: [[82 - Kule2 (akaDragon)]]  
-[^2]: Earth myrmydon'dan aldığımız gem'i vereceğiz, bkz: [[93 - Aurelia Yolunda]]
+[^2]: Earth myrmydon'dan aldığımız gem'i vereceğiz, bkz: [[93 - Aurelia Yolunda]]  
+[^3]: Muhtemel kaynak: Soradin dağları  
+[^4]: Muhtemel kaynak: İmparatorluk denizi

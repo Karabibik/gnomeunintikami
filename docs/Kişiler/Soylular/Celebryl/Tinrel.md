@@ -14,7 +14,7 @@ tags:
 | **Hizip** |  |  
 | **Cinsiyet** | Kadın |  
 | **Irk** | HighElf |  
-| **Sınıf** | Sorcerer (Storm) |  
+| **Sınıf** | Sorcerer (Storm) (Level 15+) |  
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Etrafında yıldırımlar dönüyor<br>doğal taşlardan taç takıyor |  

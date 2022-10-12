@@ -10,4 +10,4 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Alfons]]un kuşu. BİR SUS ULAN, küfürbaz haydo + hero complex |  
+| **İlave Notlar** | [[Alfons]]'un kuşu. BİR SUS ULAN, küfürbaz haydo + hero complex |  

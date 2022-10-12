@@ -15,7 +15,7 @@ tags:
 | **Hizip** | [[Gnome'un İntikamı]] |  
 | **Cinsiyet** | Kadın (eski Erkek) |  
 | **Irk** | Tiefling(eskiGnome) |  
-| **Sınıf** | Wizard (War Mage) |  
+| **Sınıf** | Wizard (War Mage) (Level 10) |  
 | **Kütük** | [[Warseir]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
