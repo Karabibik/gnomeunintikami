@@ -13,4 +13,12 @@ TOPLANTININ ORTASINA IŞINLANDIK
   
 Harrion herkese *Invisibility* atıp kaçırmaya çalışıyor. Aslında kaçıyorlar da ama arkadan çok hızlı biri yaklaşıyor. Yanında oturduğu banktan bir adam kalkıp büyük binaya giriyor. Sonradan kadının [[Osha]] olduğu ortaya çıkıyor. Yanındaki adam da Ryld olabilir.  
   
-Osha saniyede 9819507 kere saldırarak Harrion'ın konsantrasyonunu bozuyor ve görünmezlik düşüyor. Kadın yine hem Harrion'ı hem Philip'i devre dışı bırakıyor stun atarak. Alfons yanımızdaki bir Goliath'a *Geas* atarak şartları eşitlemek istiyor ama Goliath nat19-20 atarak direniyor. Harrion da o arada *Jerome's Hand* ile Osha'yı kilitlemek istiyor ama Osha nat20 atarak kurtuluyor. Neyse ki Alfons Osha'yı kör ediyor ve Philip Goliath'ı kaçırıyor da topuk topuk deyip kaçıyoruz.
+Osha saniyede 9819507 kere saldırarak Harrion'ın konsantrasyonunu bozuyor ve görünmezlik düşüyor. Kadın yine hem Harrion'ı hem Philip'i devre dışı bırakıyor stun atarak. Alfons yanımızdaki bir Goliath'a *Geas* atarak şartları eşitlemek istiyor ama Goliath nat19-20 atarak direniyor. Harrion da o arada *Jerome's Hand* ile Osha'yı kilitlemek istiyor ama Osha nat20 atarak kurtuluyor. Neyse ki Alfons Osha'yı kör ediyor ve Philip Goliath'ı kaçırıyor da topuk topuk deyip kaçıyoruz.  
+  
+## Welcome to the Jungle  
+  
+(\**We've got fun and games...*\*)  
+  
+Kaçıyoruz kaçmasına da ortalık orman. Oturup soluklanacak bir yer buluyoruz ama Philip adamları kaçırmamak için şehre yaklaşıyor.  
+  
+Orada önce bir gruba yakalanıyor, onlardan kaçayım derken yolu şaşırıyor, zehirli bir bitkiye yakalanıp bayılıyor. İki saat kadar sonra onu buluyoruz tabii ama etrafta yaklaşan *Shambling Mound*'lara takılıyor. Az bir combat sonrası onları da atlatıyoruz. İki gün sonunda *Dome* atıp long rest alabiliyoruz. Orada da Alfons nöbet sırasında uyuyakalıyor ama neyse ki bir şey olmuyor.
