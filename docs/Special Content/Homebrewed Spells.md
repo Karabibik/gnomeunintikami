@@ -2,9 +2,9 @@
 ## Approved  
   
 ### Harrion's Hoops   
-| |  
-|---|  
 | *2nd-level abjuration* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 60 feet |  
 | ***Components:*** V, S, M (one big or four small rocks) |  
@@ -14,9 +14,9 @@
 | ***At Higher Levels:*** You can create an additional shield for each slot level above 2nd. |  
   
 ### Rensa’s Penta Lightning  
-| |  
-|---|  
 | *4th-level evocation* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 60 ft |  
 | ***Components:*** V, S, M (A metal rod made of a conductive element) |  
@@ -25,9 +25,9 @@
 | Alternatively, all five bolts of lightning can instead converge toward a single target, dealing 12d6 lightning damage on a failed save, or half as much damage on a successful one. |  
   
 ### Queen's Lightning Barrage  
-| |  
-|---|  
 | *8th-level evocation* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 500 feet |  
 | ***Components:*** S |  
@@ -38,9 +38,9 @@
 | By spending 2 orbs, you can enhance the effects if the lightning strike. Range is doubled to 1000 feet. If used this way, spell deals 8d8 lightning damage and 2d8 thunder damage respectively. |  
   
 ### Harpoon of the Golden Monarch  
-| |  
-|---|  
 | *4th-level conjuration* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 60 feet |  
 | ***Components:*** V, S, M (a golden miniature of a harpoon) |  
@@ -49,9 +49,9 @@
 | ***At Higher Levels:*** If cast on 6th or 7th level, spell creates 2 harpoons and range is 80 feet. If cast on 8th or 9th level spell creates 3 harpoons and range is 100 feet. |  
   
 ### Harrion's Iceball   
-| |  
-|---|  
 | *3rd-level evocation* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 120 feet |  
 | ***Components:*** V, S, M (horn of a white dragon) |  
@@ -62,9 +62,9 @@
 ## Work-in-Progress  
   
 ### Harrion's Hoots  
-| |  
-|---|  
 | *2nd-level abjuration* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 60 feet |  
 | ***Components:*** V, S, M (a simple whistle) |  
@@ -73,9 +73,9 @@
 | ***At Higher Levels:*** The number of targets increase by one for each slot level above 2nd. |  
   
 ### Harrion's Fallout / Dance of Ice and Fire  
-| |  
-|---|  
 | *5th-level evocation* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 90 feet |  
 | ***Components:*** V, S |  
@@ -84,9 +84,9 @@
 | ***At Higher Levels:*** You create an two additional balls for each slot level above 5th. |  
   
 ### Harrion's Heat Pump  
-| |  
-|---|  
 | *6th-level evocation* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 30 feet |  
 | ***Components:*** V, S, M (a flat metal plate) |  
@@ -95,9 +95,9 @@
 | PS: Triggerlamayı bonus actionla mı yapayım yoksa her tur kendiliğinden mi triggerlansın? |  
   
 ### Harrion's Duplicator  
-| |  
-|---|  
 | *5th-level illusion* |  
+|---|  
+| |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 60 feet |  
 | ***Components:*** V, S, M (sparkles) |  
@@ -105,9 +105,9 @@
 | You create a shimmering, translucent wall on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick.<br>When the wall appears, each creature within its area and each target that pass through the wall must make a Charisma saving throw. On a failed save, a replica of the creature is created and the creature's move speed is halved until the next round. On success, move speed is still halved but the replica is not produced. Creatures bigger than Medium size get +1 to save for every size level.<br>The replica:<br> - Has the same equipment with the target<br> - Has a quarter of the target's HP<br> - Has its turn right after the original<br> - Can only use the weapon in its hand to attack, cannot use spells or tactics<br> - Can only move and attack to its original. |  
   
 ### Harrion's Retardant  
-| |  
-|---|  
 | *2nd-level conjuration* |  
+|---|  
+|  |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 30 feet |  
 | ***Components:*** V, M (a piece of mud) |  
@@ -115,9 +115,9 @@
 | You cast a blob of mud to the 20 feet radius area. Movement speed of the targets that fail to make a Dexterity saving throw is decreased by 5 feet for two rounds or the next successfull save.<br>In addition, any fire damage dealt to the target is increased by one dice. Consecutive uses of this spell stack.|  
   
 ### Harrion's Binding Link  
-| |  
-|---|  
 | *3rd-level evocation* |  
+|---|  
+|  |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 60 feet |  
 | ***Components:*** V, S, M (a simple elastic band) |  
@@ -127,9 +127,9 @@
 ## Modified or Banned  
   
 ### Harrion's Static Leash  
-| |  
-|---|  
 | *4th-level conjuration* |  
+|---|  
+|  |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 60 feet |  
 | ***Components:*** V, S, M (a link of a chain) |  
@@ -138,14 +138,12 @@
 | ***At Higher Levels:*** Radius increases by 10 feet and damage increases 1d8 for each slot level above 4th. |  
   
 ### Harrion's Rupture  
-| |  
-|---|  
 | *3rd-level necromancy* |  
+|---|  
+|  |  
 | ***Casting Time:*** 1 action |  
 | ***Range:*** 60 feet |  
 | ***Components:*** S, M (any slashing / piercing weapon) |  
 | ***Duration:*** Instantenous |  
 | Make a ranged spell attack against the target. On success, you open a rupture at the side of the target and deal 1d8 slashing / piercing damage. The target can close the wound by a successful Medicine check at his round and subsequent rounds. While the wound is open, target takes 1d6 slashing / piercing damage for each 5 feet travelled. |  
-| ***At Higher Levels:*** Damage increases 1d6 for each slot level above 3rd. |  
-  
-![[Spellz.pdf]]
+| ***At Higher Levels:*** Damage increases 1d6 for each slot level above 3rd. |
