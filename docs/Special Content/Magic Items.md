@@ -1,5 +1,5 @@
 | İsim | Tür | Rarity | Fiyat [gp] | İşlev |  
-| --- | --- | --- | --- | --- |  
+| --- |:---:|:---:|:---:| --- |  
 | [[Adamantine Reinforced Armor]] | Armor |  |  | Adamantin parçalı zırh |  
 | [[Amulet of Mage Armor]] | Accessory | Common | 150 | Bonus action, Mage Armor |  
 | [[Arrow Breaker Cape]] | Cape | Common |  | AC +2 vs projectile (attunement) |  

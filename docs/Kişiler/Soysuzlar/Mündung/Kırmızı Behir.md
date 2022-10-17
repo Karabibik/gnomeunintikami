@@ -5,7 +5,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | Vampire |  
+| **Irk** | Vampire(Behir) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  

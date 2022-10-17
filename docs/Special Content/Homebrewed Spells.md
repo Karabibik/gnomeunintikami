@@ -146,4 +146,6 @@
 | ***Components:*** S, M (any slashing / piercing weapon) |  
 | ***Duration:*** Instantenous |  
 | Make a ranged spell attack against the target. On success, you open a rupture at the side of the target and deal 1d8 slashing / piercing damage. The target can close the wound by a successful Medicine check at his round and subsequent rounds. While the wound is open, target takes 1d6 slashing / piercing damage for each 5 feet travelled. |  
-| ***At Higher Levels:*** Damage increases 1d6 for each slot level above 3rd. |
+| ***At Higher Levels:*** Damage increases 1d6 for each slot level above 3rd. |  
+  
+![[Spellz.pdf]]
