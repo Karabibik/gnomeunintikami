@@ -1,7 +1,7 @@
   
   
 ## Behir  
-![Behir](Behir.webp){ align=left }  
+![[Behir.webp]]{ align=left }  
   
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   
@@ -12,7 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Dragon  
   
 ### Gold Dragon  
-![[Dragon_Gold.webp]]  
+![[Dragon_Gold.webp]]{ align=left }  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   
 ### Green Dragon  
 ![[Dragon_Green.webp]]  
@@ -90,7 +91,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Spawn  
 ![[Vampire_Spawn.webp]]  
 ## Wraith  
-![Wraith](Wraith.webp){ align=left }  
+![[Wraith.webp]]{ align=left }  
   
 Çoğu şeye dirençli. Force damage vurmakta yarar var.  
   
@@ -99,6 +100,6 @@ Bkz: [[51 - Kule1 (akaGoblins)]]
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   
 ## Zombie  
-![Zombie](Zombie.webp){ align=right }  
+![[Zombie.webp]]{ align=right }  
   
 Sıradan thrash mob. Yousa'nın inine giderken evin etrafında belirmişlerdi.  
