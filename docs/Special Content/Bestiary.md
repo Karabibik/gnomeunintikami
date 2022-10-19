@@ -1,119 +1,104 @@
-## Encountered  
   
-### Dragon  
   
-#### Ancient Green Dragon  
-![[ancientgreen.webp]]  
-(has lair actions)  
+## Behir  
+![Behir](Behir.webp){ align=left }  
   
-#### Red Dragon Wyrmling  
-![[RedWyrmling.webp]]  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   
-#### Young Red Dragon  
-![[RedYoung.webp]]  
+## Demon  
+### Glabrezu  
+![[Glabrezu.webp]]  
   
-#### Adult Gold Dragon  
-![[Gold_Adult.webp]]  
+## Dragon  
   
-#### Ancient Gold Dragon  
-![[Gold_Ancient.webp]]  
+### Gold Dragon  
+![[Dragon_Gold.webp]]  
   
-#### Young White Dragon  
-![[White_Young.webp]]  
+### Green Dragon  
+![[Dragon_Green.webp]]  
   
-### Drider  
+### Red Dragon  
+![[Dragon_Red.webp]]  
+  
+### White Dragon  
+![[Dragon_White.webp]]  
+  
+## Drider  
 ![[Drider.webp]]  
   
-### Elemental  
+## Drow  
+### Elite Warrior  
+![[Drow.webp]]  
   
-#### Earth  
+## Elemental  
   
+### Air  
+![[Elemental_Air.webp]]  
   
-### Myrmidon  
+### Earth  
+![[Elemental_Earth.webp]]  
   
-#### Earth  
+### Fire  
+![[Elemental_Fire.webp]]  
   
-### Drow (Elite Warrior?)  
-  
-  
-### Svirfneblin  
-  
-  
-### Ghost / Wraith?  
-  
-  
-### Goblin  
+### Water  
+![[Elemental_Water.webp]]  
   
   
-### Helmed Horror?  
+## Goblin  
+![[Goblin.webp]]  
+## Hag  
+### Green  
+![[Hag_Green.webp]]  
   
+## Helmed Horror  
+![[Helmed_Horror.webp]]  
+## Homunculus  
+![[Homunculus.webp]]  
   
-### Hag (Green)  
+## Hydra  
+![[Hydra.webp]]  
+## Kobold  
+![[Kobold.webp]]  
+## Lycanthrope  
+### Wererat  
+![[Wererat.webp]]  
+### Werewolf  
+![[Werewolf.webp]]  
+## Manticore  
+![[Manticore.webp]]  
+## Myrmidon  
+### Earth  
+![[Myrmidon_Earth.webp]]  
+## Ogre  
+![[Ogre.webp]]  
+## Orc  
+![[Orc.webp]]  
+## Shambling Mound  
+![[ShamblingMound.webp]]  
+## Svirfneblin  
+![[Svirfneblin.webp]]  
+## Troll  
+![[Troll.webp]]  
+## Umber Hulk  
+![[UmberHulk.webp]]  
   
+## Vampire  
   
-### Homunculus  
-![[homunc.webp]]  
+![[Vampire.webp]]  
   
-### Hydra  
+### Spawn  
+![[Vampire_Spawn.webp]]  
+## Wraith  
+![Wraith](Wraith.webp){ align=left }  
   
+Çoğu şeye dirençli. Force damage vurmakta yarar var.  
   
-### Kobold  
+Bkz: [[51 - Kule1 (akaGoblins)]]  
   
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   
-### Lycanthrope (Wererat, Werewolf)  
+## Zombie  
+![Zombie](Zombie.webp){ align=right }  
   
-  
-### Manticore  
-  
-  
-### Ogre  
-  
-  
-### Orc  
-  
-  
-### Shambling Mound  
-  
-  
-### Troll  
-  
-  
-### Umber Hulk  
-  
-  
-### Vampire (Spawn)  
-  
-  
-### Zombie  
-  
-  
-## Rumoured  
-  
-### Behir  
-![[behir.webp]]  
-  
-  
-### Demon  
-  
-#### Glabrezu  
-![[glabrezu.webp]]  
-  
-### Dragon  
-  
-#### Ancient Red Dragon  
-  
-### Elemental  
-  
-#### Air  
-  
-  
-#### Fire  
-  
-  
-#### Water  
-  
-  
-  
-### Vampire  
-  
-for %i in (*.png) do magick convert %i -trim -fuzz 2.5%% -transparent White %~ni.webp && del %i
+Sıradan thrash mob. Yousa'nın inine giderken evin etrafında belirmişlerdi.  
