@@ -5,8 +5,8 @@ tags:
   
 Ejderhaların, materyal düzlemde bir zamanlar tanrılarla birlikte yürüdüğü ve tanrılar ayrıldıktan sonra tüm kıtaya hakim oldukları bilinen bir gerçek. Tiranlıklarının sonsuza kadar sürmemesinin tek sebebi ise kendi aralarında yaşadıkları çatışmalar. Daha iyi niyetli metalik ejderhalar ile hükümdar renkli ejderhalar arasında yaşanan çatışma sonucunda (dünya halklarının da yardımıyla) ejderha egemenliği son bulsa da ejderhaların gücü hâlâ zihinlerde. Bu iki kategorinin bilinen türleri aşağıda olmakla birlikte çok daha fazlası olabileceği yüksek bir ihtimal:  
   
-**Metalik**: Altın - Gümüş - Bronz - Bakır - Pirinç - Demir  
-**Renkli**: Kırmızı - Siyah - Mavi - Yeşil - Beyaz  
+**Metalik**: *Altın - Gümüş - Bronz - Bakır - Pirinç - Demir*  
+**Renkli**: *Kırmızı - Siyah - Mavi - Yeşil - Beyaz*  
   
 Tüm ejderhaların birkaç ortak özelliği ise şöyle sıralanabilir:  
   
@@ -18,7 +18,9 @@ Tüm ejderhaların birkaç ortak özelliği ise şöyle sıralanabilir:
 ## Gold Dragon  
 ![[Dragon_Gold.webp]]{ align=right }  
   
-Altın ejderhalar... *Le Superbe, le Magnifique...* Böylesi bir ihtişam nasıl tarif edilir, nasıl kelimelere dökülür bilmiyorum ama bu muhteşem yaratıkların etkisi altında kalmak; kişinin, hayatında yaşayabileceği en güzel duygulardan biri. Daima yardım etmeye hazır altın ejderhalar ile muhabbet etmek ise özel bir onur.   
+Altın ejderhalar... *Le Superbe, le Magnifique...*  
+  
+Böylesi bir ihtişam nasıl tarif edilir, nasıl kelimelere dökülür bilmiyorum ama bu muhteşem yaratıkların etkisi altında kalmak; kişinin, hayatında yaşayabileceği en güzel duygulardan biri. Daima yardım etmeye hazır altın ejderhalar ile muhabbet etmek ise özel bir onur.   
   
 Kendi istekleri üzere (ve dünyanın istikbali adına) rahatsız edilmeden yaşamaya devam etmeleri için mesken yerleri hakkında bilgi vermekten çekinsek de okuyucu; metalik ejderhaların en güçlülerinin, dünyada altının en bol bulunduğu ve en ihtişamlı yerlerde yaşadıklarını tahmin ederse yanılmaz. İnleriyle inanılmaz büyülü bağlar kurmaları dolayısıyla çevreleri de nasibini alıyor.  
   
@@ -31,9 +33,10 @@ Yazar, Fey'in, üstündeki etkileri sebebiyle karşılaşmayı çok hatırlamıy
 ![[Dragon_Green.webp]]  
   
 ## Red Dragon  
-![[Dragon_Red.webp]]{ align=right }  
   
 Renkli ejderhaların, hatta tüm ejderhaların efendileri...  
+  
+![[Dragon_Red.webp]]{ align=right }  
   
 Kırmızı ejderhalar; ateş nefesleri ve devasa cüsselerinin de yardımıyla ejderhalar çağında dünyayı avuçlarına almış ve sıradan yaratıklar bir yana, diğer tüm ejderhalar üstünde bile hüküm sürmüş. Ateşe olan büyüsel yatkınlıkları dolayısıyla yavruları bile ateşe dayanıklı. Akla, bu yatkınlıklarının onları buz temelli saldırılara açık bırakması gibi kolayca düşülebilecek bir tuzak düşünce gelebilir ama bu, akla gelen son düşünce olabilir.  
   
@@ -41,8 +44,8 @@ Kırmızı ejderhaların soylarının, [[Sorad|Dağ Eriten Sorad]]'ın ölümüy
   
 Kırmızı ejderhaların en ünlüsü olan Dağ Eriten Sorad'ın, Soradin'e isim babalığı yaptığı biliniyor. Sorad, ölümsüzlüğe ulaşma yolunda ilk adımları atarak tahtının bulunduğu Soradin Dağları'nın tepesinde, dağdaki hiç bitmeyen volkanik aktivitenin de kaynağı olan, Plane of Fire'a bir kapı açmış ve kendini bu düzleme bağlamaya çalışmış. Öldürülmeye çalışıldığında günlerce savaşsa da nihayetinde yenilmiş olması, planlarının tamamen sonuca ulaşmadığını gösteriyor. Yenilgisinde, aldığı fiziksel yaraların yanısıra ruhuna da saldırılmasının da önemli rol oynadığı belirtiliyor.  
   
-## Silver Dragon  
 ![[Dragon_Silver.webp]]{ align=right }  
+## Silver Dragon  
   
 Doğrudan karşılaşma olmadı ama bu iyi yürekli metalik ejderhaların bile yeterince kızdırıldıkları zaman aksileşebildikleri onaylandı.  
   
