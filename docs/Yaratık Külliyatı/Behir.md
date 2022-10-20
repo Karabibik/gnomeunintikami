@@ -2,9 +2,8 @@
 tags:
   - Yaratık
 ---  
+[[44 - Vincent Ayyuka|Vincent ile ilk konuşmamız]] sırasında [[Kırmızı Behir]] adında, sağ kalan tam vampirlerden birinin Mündung'da olduğunu öğrendik. Hem vampir hem de behir olması dolayısıyla kazandığı özellikleri tahmin etmek güç. Temkinli yaklaşılmalı.  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+Behirler hakkında bildiğimiz, "elektrik" temelli canlılar oldukları. "Yıldırım kusuyor" şeklinde betimlenmesi, ejderha nefesine benzeyen bir gücü olduğunu gösteriyor. Bu "el yapımı" türün fertleri, neyse ki üreyemiyor.  
   
 ![[Behir.webp]]

@@ -5,6 +5,5 @@ tags:
   
 ## Glabrezu  
 ![[Glabrezu.webp]]{ align=left }  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+[[Demon Mirror||Alfons'un aynası]]ndaki şeytan da bunlardan biri. "Demon" kategorisinde olmaları sebebiyle kötücül kaos canlıları oldukları kesin. [[46 - Yousa Sobe|Yousa ile son savaşımızda]] aynadan iletişime geçmesi ve büyü yapabilmesi ise büyülü güçleri olduğunu gösteriyor. Bunların yanında ayartıcı özellikleri olması sebebiyle savaşta zihin korumasına önem verilmeli.

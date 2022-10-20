@@ -5,7 +5,7 @@
 | **Intelligence** | 5 |  
 | **Proficiency** | 4 |  
 | **Arcana** | 9 |  
-| **Scribe Profit** | %40 |  
+| **Scribe Profit** | 40% |  
   
 Yukarıdaki değerler baz alınarak hesaplandığı üzere, farklı seviyeler için scroll yazmanın getirdiği kazanç aşağıdaki gibidir:  
   
