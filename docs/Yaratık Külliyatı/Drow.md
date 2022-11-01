@@ -5,8 +5,8 @@ tags:
   
 Bir ırkın tümünün fıtratının kötücül olduğunu belirtmenin ahlaki yanlışlığı, iş drowlara gelince istisnaya izin veriyor. Zira bilindiği kadarıyla, Lloth'un Corellion'a ihanet edip elf cennetinden sürülmesiyle Lloth'a bağlı elfler de sürülüp Drow ırkını oluşturmuş.  
   
-<figure markdown>  
-  ![[Drow_Elite.webp]]{ align=left }  
+<figure style="float: right" markdown>  
+  ![[Drow_Elite.webp]]  
   <figcaption>A Drow Elite warrior</figcaption>  
 </figure>  
   
@@ -14,8 +14,8 @@ Kara tenli bu topluluk genelde Underdark'ta yaşar ve anaerkil yapıya sahiptir.
   
 Karanlıkla sürekli iç içe oldukları için tüm üyelerinin karanlıkta görme ve büyüyle karanlık alanlar oluşturma gibi özellikleri vardır. Bunun dışında Fey atalarından gelen özelliklerini de korurlar. Savaşçıları pusu ve suikast taktikleri kullandığı için tatar yayı ve kısa kılıç kullanır.  
   
-<figure markdown>  
-  ![[Drow_Mage.webp]]{ align=right }  
+<figure style="float: left" markdown>  
+  ![[Drow_Mage.webp]]  
   <figcaption>A male Drow Mage</figcaption>  
 </figure>  
   

@@ -1,7 +1,6 @@
 ---
 tags:
   - Aile
-  - stub
 ---  
   
 Mündung'un yönetici ailesi.  

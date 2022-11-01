@@ -1,7 +1,6 @@
 ---
 tags:
   - Hizip
-  - stub
 ---  
   
 [[Lloth]]'un öğretilerini reddedip, yerine Drowlara daha iyiliğin yolunu gösteren tanrıça [[Eilistrae]]'nin takipçileri.  

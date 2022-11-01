@@ -1,7 +1,6 @@
 ---
 tags:
   - Mekân/Ülke
-  - stub
 ---  
   
 İmparatorluk'un batı komşusu.  
