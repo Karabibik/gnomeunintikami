@@ -14,11 +14,6 @@ Kara tenli bu topluluk genelde Underdark'ta yaşar ve anaerkil yapıya sahiptir.
   
 Karanlıkla sürekli iç içe oldukları için tüm üyelerinin karanlıkta görme ve büyüyle karanlık alanlar oluşturma gibi özellikleri vardır. Bunun dışında Fey atalarından gelen özelliklerini de korurlar. Savaşçıları pusu ve suikast taktikleri kullandığı için tatar yayı ve kısa kılıç kullanır.  
   
-<figure style="float: left" markdown>  
-  ![[Drow_Mage.webp]]  
-  <figcaption>A male Drow Mage</figcaption>  
-</figure>  
-  
 Lakin yeryüzündeki (ve altındaki) barışçıl tüm ırkların (en azından tanıyanların) düşman bellediği Drowların içinden bile, çok nadir de olsa, barışçıl yollarla yaşamak isteyenler çıkabilir. Bu bireyler genelde, Drow öğretilerinde adı çok geçmese de tanrılarından biri olan Eilistrae'nin yolunu izler. Bu [[Eilistraeciler]], dünyada bazı iyi Drowların da olduğunu göstermek amacıyla ritüel olarak yeryüzündeki canavarları öldürmek ve zor durumdaki topluluklara hediye şeklinde yardım bırakmak gibi adetler edinmiştir.  
   
 ## Drider  
