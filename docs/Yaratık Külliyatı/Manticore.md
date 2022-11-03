@@ -3,8 +3,8 @@ tags:
   - Yaratık
 ---  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+Altbrück tarafında [[71 - Demon Vakası|şeytanlarla uğraştığımız]] sırada karşılaştık. O sırada demonic etkilerle güçlenmiş olduğundan gördüğümüz özelliklerin yaratığa mı demonlara mı atfedileceğini tam bilemiyoruz. Her türlü hazırlıklı olunmalı.  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+Pençeleri ve ağzı ile yakın dövüşe tutuşmanın dışında uçarken kuyruğundaki dikenlerle de uzaktan saldırabilen bu yaratığı mümkünse dar alanlara çekmek ya da paralize etmek en doğru seçim. Bir kere de bir ağacın gölgesine sığınıp diğer bir ağaca "ışınlandığına" şahit olduk ama bu büyük ihtimalle demonic özelliklerinin bir tezahürü.  
   
 ![[Manticore.webp]]

@@ -3,8 +3,10 @@ tags:
   - Yaratık
 ---  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+***KILL IT WITH FIRE!***  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+Suyu seven yaratıklar olan [[73 - Hidra|hydralar]], inlerini nemli yerlerde yapmayı tercih eder ve suda hareket edebilirler. Buralara saklandıklarında takip edilmeleri zordur.  
+  
+Görüldüğünde ilk fark edilen şey, her biri bağımsız hareket edebilen birden fazla kafası olması. Ağızlarından alevler çıkmıyor belki ama her kafanın saldırısı acıtıyor. En önemli kısmı ise normal yollarla kesilen her bir kafanın yerine iki tanesinin belirmesi. Yani pata küte saldırarak sadece işi zorlaştırmış olursunuz. Bunun yerine ateş büyüleri (hatta belki meşale?) ile saldırarak kafaların yenilenmesini engelleyebilirsiniz. Tüm bunlara rağmen, tamamen öldürmesi zor yaratıklar.  
   
 ![[Hydra.webp]]

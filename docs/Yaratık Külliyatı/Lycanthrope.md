@@ -3,14 +3,13 @@ tags:
   - Yaratık
 ---  
   
-## Wererat  
-![[Wererat.webp]]{ align=right }  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+Hayvana dönüşmekle lanetlenen (yetenek kazanan?) bu yaratıkların, formuna büründükleri hayvanlardan tek farkları var o da biraz daha dayanıklı olmaları. Yalnızca büyülü ya da gümüşle kaplanmış silahlarla yaralanabiliyorlar. Çarpışırken en çok dikkat edilmesi gereken yerleri ise ağızları, zira lanetlerini ısırık yoluyla bulaştırıyorlar.  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
-  
-## Werewolf  
-![[Werewolf.webp]]{ align=left }  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+<figure style="float: right" markdown>  
+  ![[Wererat.webp]]  
+  <figcaption>Usta Splinter</figcaption>  
+</figure>  
+<figure style="float: left" markdown>  
+  ![[Werewolf.webp]]  
+  <figcaption>Werewolf</figcaption>  
+</figure>
