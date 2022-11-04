@@ -1,6 +1,7 @@
 ---
 tags:
   - Yaratık
+  - Medium
   - Fey
   - Evil
 ---  
