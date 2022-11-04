@@ -1,9 +1,10 @@
 ---
 tags:
   - Yaratık
+  - Large
+  - Evil
 ---  
   
 ![[UmberHulk.webp]]{ align=right }  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+Yine genelde Underdark'ta yaşayan bir canlı. [[50 - Kayıp Elf Kulesi No1|Gördüğümüzde]], gnomelar tarafından tünel kazmak için kullanılıyordu. Cüssesi, pençeleri ve çene pençeleri(?) ile zaten büyük bir avantajı var ama o gözleri... Gözlerine bakınca istemsiz bir korku kaplıyor içini. Tabii bakmadan saldırmaya çalışmak da her zaman bir seçenek, illa bir yerine denk gelir.

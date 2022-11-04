@@ -1,6 +1,8 @@
 ---
 tags:
   - Yaratık
+  - Humanoid
+  - Evil
 ---  
   
 Bir ırkın tümünün fıtratının kötücül olduğunu belirtmenin ahlaki yanlışlığı, iş drowlara gelince istisnaya izin veriyor. Zira bilindiği kadarıyla, Lloth'un Corellion'a ihanet edip elf cennetinden sürülmesiyle Lloth'a bağlı elfler de sürülüp Drow ırkını oluşturmuş.  

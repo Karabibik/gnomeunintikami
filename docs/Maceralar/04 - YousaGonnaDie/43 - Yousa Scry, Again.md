@@ -1,7 +1,7 @@
 ---
 ---  
   
-Celeste Scry denemesi #2  
+Celeste *Scry* denemesi #2  
   
 Yousa:  
 >"Nasılsın? Uzun zamandır görüşemedik, iyi saklandın"  

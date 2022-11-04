@@ -1,6 +1,8 @@
 ---
 tags:
   - Yaratık
+  - Large
+  - Neutral
 ---  
   
 Farklı düzlemlerde, bu düzlemlerin özelliklerinin cisimleşmiş hâli olan yaratıklar bulunduğu bilinen bir gerçek. Öğrenilenlere göre, dünyamızdaki farklı bölgelerin bu düzlemlere görece "yakınlığı" bulunuyor. Bu bölgeler coğrafi özellikleri dolayısıyla mı düzlemlere yakın yoksa düzlemlere yakınlıkları mı coğrafyayı etkilemiş bilemiyoruz. Ancak yakın olunan düzlemden oraya çeşitli yaratıkların geçebilmesi mümkün.  

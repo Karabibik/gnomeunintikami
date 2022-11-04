@@ -1,6 +1,7 @@
 ---
 tags:
   - Yaratık
+  - Large
 ---  
   
 Altbrück tarafında [[71 - Demon Vakası|şeytanlarla uğraştığımız]] sırada karşılaştık. O sırada demonic etkilerle güçlenmiş olduğundan gördüğümüz özelliklerin yaratığa mı demonlara mı atfedileceğini tam bilemiyoruz. Her türlü hazırlıklı olunmalı.  

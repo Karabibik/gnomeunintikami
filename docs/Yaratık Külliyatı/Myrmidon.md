@@ -1,6 +1,8 @@
 ---
 tags:
   - Yaratık
+  - Medium
+  - Neutral
 ---  
   
 ## Earth Myrmidon  

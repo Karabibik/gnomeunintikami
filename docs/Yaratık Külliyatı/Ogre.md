@@ -1,6 +1,8 @@
 ---
 tags:
   - Yaratık
+  - Large
+  - Evil
 ---  
   
 ![[Ogre.webp]]{ align=left }  

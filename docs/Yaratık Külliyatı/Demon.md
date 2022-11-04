@@ -1,6 +1,8 @@
 ---
 tags:
   - Yaratık
+  - Chaotic
+  - Evil
 ---  
   
 ## Glabrezu  

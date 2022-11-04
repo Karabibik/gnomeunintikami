@@ -1,6 +1,9 @@
 ---
 tags:
   - Yaratık
+  - Medium
+  - Construct
+  - Neutral
 ---  
   
 ![[Helmed_Horror.webp]]{ align=left }  

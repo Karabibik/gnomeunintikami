@@ -1,6 +1,8 @@
 ---
 tags:
   - Yaratık
+  - Fey
+  - Evil
 ---  
   
 Klasik öykülerdeki "kötü kalpli cadılar" var ya? İşte onlar bunlar.  

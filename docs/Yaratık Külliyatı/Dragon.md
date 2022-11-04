@@ -1,6 +1,8 @@
 ---
 tags:
   - Yaratık
+  - Large
+  - Huge
 ---  
   
 Ejderhaların, materyal düzlemde bir zamanlar tanrılarla birlikte yürüdüğü ve tanrılar ayrıldıktan sonra tüm kıtaya hakim oldukları bilinen bir gerçek. Tiranlıklarının sonsuza kadar sürmemesinin tek sebebi ise kendi aralarında yaşadıkları çatışmalar. Daha iyi niyetli metalik ejderhalar ile hükümdar renkli ejderhalar arasında yaşanan çatışma sonucunda (dünya halklarının da yardımıyla) ejderha egemenliği son bulsa da ejderhaların gücü hâlâ zihinlerde. Bu iki kategorinin bilinen türleri aşağıda olmakla birlikte çok daha fazlası olabileceği yüksek bir ihtimal:  

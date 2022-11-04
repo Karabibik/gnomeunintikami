@@ -1,6 +1,9 @@
 ---
 tags:
   - Yaratık
+  - Small
+  - Humanoid
+  - Evil
 ---  
   
 ![[Kobold.webp]]{ align=left }  

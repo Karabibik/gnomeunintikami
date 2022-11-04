@@ -1,9 +1,11 @@
 ---
 tags:
   - Yaratık
+  - Small
+  - Humanoid
+  - Good
 ---  
   
 ![[Svirfneblin.webp]]{ align=right }  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
+Underdark'ta yaşasa da ilginç olarak iyimser olan derin bölge gnomeları, karanlığa fazlaca uyum sağlamış yaratıklardır. Underdark'ta hayatta kalabilmek için çeşitli yöntemler geliştirmişler tabii. Karanlıkta kartal gibi gören bu yaratıkların saklanmak için de farklı büyülü özellikleri var. Çok zeki yaratıklar aslında ama...

@@ -9,4 +9,5 @@ Table of Content
 [[44 - Vincent Ayyuka]]  
 [[45 - Tüccar'ın Mahzeni]]  
 [[46 - Yousa Sobe]]  
-[[47 - Yousa Loot]]
+[[47 - Yousa Loot]]  
+[[48 - Yousa Notebook]]
