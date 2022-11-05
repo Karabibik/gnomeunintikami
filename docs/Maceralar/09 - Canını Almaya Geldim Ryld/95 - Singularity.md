@@ -25,10 +25,10 @@ Praetor:
 Acaba Klatros'tan mı yardım alıyor, Klatros bunu kullanıyor mu diye bir tartışıyoruz. İhtimal dışı değil ama iki parti adına da tehlikeli bir oyun.  
   
 Harrion:  
-> "Fey'de klatros'un hükmü geçmeyen, kımızı ejderhanın fark edilmeden yaşayabileceği yerler var mı?"  
+> "Fey'de Klatros'un hükmü geçmeyen, kımızı ejderhanın fark edilmeden yaşayabileceği yerler var mı?"  
   
 Praetor:  
-> "Tabii, Archfeyler ve onların domainleri var. Onlar haricinde Court of Summer ve  Court of Winter var."  
+> "Tabii, Archfeyler ve onların domainleri var. Onlar haricinde Court of Summer ve Court of Winter var."  
   
 O arada bir yerde konuşmada `"Ben doğduğumda Ioun daha tanrı değildi"` diyor.[^2]  
   

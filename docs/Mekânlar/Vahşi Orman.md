@@ -2,5 +2,6 @@
 tags:
   - Wild Forest
   - Mekân/Ülke
-  - stub
----
+---  
+  
+[[Soradin]]'in doğusunda bulunan ve Soradin'in odun ihtiyacını karşıladığı orman.

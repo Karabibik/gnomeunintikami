@@ -8,4 +8,6 @@
 - Bunları iki gün önce bıraktı  
   
 [[Kutsal Ağaçlar]]  
-- Bunlar [[Gruumsh]]'ı sevmiyorlar
+- Bunlar [[Gruumsh]]'ı sevmiyorlar  
+  
+Yanımıza Kutsal Ağaçlar kabilesinden Thokk'u alıp Warbrof'un izini sürüyoruz. Nihayetinde elebaşını öldürüp Sessiz'i esir alıyoruz.

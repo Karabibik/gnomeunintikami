@@ -2,9 +2,8 @@
 tags:
   - Büyük Orman
   - Mekân/Ülke
-  - stub
 ---  
   
 İmparatorluk'un güneyinde kalan, şu an mevcut Orman Elfleri'nin ülkesi.  
   
-İçeriye neredeyse kimseyi almıyorlar.
+İçeriye neredeyse kimseyi almıyorlar, bu yüzden neredeyse hiçbir şey de bilmiyoruz.

@@ -1,5 +1,6 @@
 ---
 tags:
   - Hizip
-  - stub
----
+---  
+  
+Çok bir bilgimiz yok ama kıtada ticareti döndüren lonca.
