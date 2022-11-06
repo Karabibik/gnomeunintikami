@@ -6,7 +6,7 @@
 | **Hizip** | [[Ryld Çetesi]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** |  |  
+| **Sınıf** | Wizard (Evocation) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  

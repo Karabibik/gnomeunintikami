@@ -3,7 +3,7 @@
 |---|---|  
 | **İsim** | Vincent |  
 | **Soyadı** |  |  
-| **Hizip** | [[Güneş Birliği]] |  
+| **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Vampire |  
 | **Sınıf** |  |  

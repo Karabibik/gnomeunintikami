@@ -1,7 +1,3 @@
----  
-Aliases: [Dağ Eriten]  
----  
-  
 # Sorad   
 |  |  |  
 |---|---|  
