@@ -18,7 +18,7 @@ Aklı başında paralı asker grubu.
 >\- Bir Warbonter soylusu  
   
 >*Yardımları sayesinde kervanımız Elementallere yem olmaktan kurtuldu.*  
->\- Aurelia rotasında bir kervanbaşı  
+>\- Aurelia yolunda bir kervanbaşı  
   
 >*Altbrück ormanlarında güreşecek canavar bırakmadılar...*  
 >\- Kutsal Ağaçlar kabilesi temsilcisi  
