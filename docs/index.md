@@ -12,7 +12,7 @@ Bu oyun; **[[Gnome'un İntikamı]]** adlı paralı asker grubunda bir araya gelm
 |:------------------------------------:|:-----------------------:|:----------------------:|:---:|  
 | ![[Alfons_mini.webp]]| ![[Harrion_mini.webp]]| ![[Philip_mini.webp]]|![[Muzog_mini.webp]]  
 | ^^Ertuğrul Mola^^ | ^^Berkay Şahinoğlu^^ | ^^İlkin Ünal^^ | ^^Fatih Hamit Pervanlar^^ |  
-| [[Alfons]] *"Kaptan Paspas"* Beljardin | [[Harrion]] *"the Handy"* | [[Philip]] *"the Sharp"* | *"^^Oç^^"* [[Muzog]] Vargenoğlu  
+| [[Alfons]] *"Kaptan Paspas"* Beljardin | [[Harrion]] *"the Handy"* | [[Philip]] *"the Sharp"* | *"~~Oç~~"* [[Muzog]] Vargenoğlu  
 | Human Cleric | Tiefling Wizard | Human Rogue | Dragonborn Barbarian |  
   
 **Ex Vagabonds**:  
