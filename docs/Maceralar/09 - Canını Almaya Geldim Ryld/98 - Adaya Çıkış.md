@@ -13,6 +13,7 @@ Tanışma faslından sonra dragonborn'un adının [[Muzok]] olduğunu, aslında 
   
 ```  
 1) Adada bulunan ganimetin dörtte biri Muzok Vargenoğlu'na ait olacak.  
-2) Muzok Vargenoğlu'nun burada ölmesi hâlinde, üzerindeki her şey Vargenoğlu Potion'a teslim edilecek.  
+2) Muzok Vargenoğlu'nun burada ölmesi hâlinde, üzerindeki her şey  
+   Vargenoğlu Potion'a teslim edilecek.  
 -- Vallaioun Billaioun  
 ```

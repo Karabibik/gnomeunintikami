@@ -1,7 +1,6 @@
----
-tags:
-  - Hizip
-  - stub
+---  
+tags:  
+  - Hizip  
 ---  
   
 Ejderhalara tapan arkadaşlar. En aktif oldukları yer Soradin dağları. Adlarını duyduğumuz birkaç yer:  
