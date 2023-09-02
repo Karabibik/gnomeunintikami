@@ -2,14 +2,14 @@
 tags:
   - Oç
 ---  
-# Muzok Vargenoğlu  
+# Muzog Vargenoğlu  
   
 <div class="row" markdown>  
 <div class="column" markdown>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Muzok |  
+| **İsim** | Muzog |  
 | **Soyadı** | [[Vargenoğlu]] |  
 | **Hizip** | [[Gnome'un İntikamı]] |  
 | **Cinsiyet** | Erkek |  
@@ -22,6 +22,6 @@ tags:
   
 </div>  
 <div class="column" markdown>  
-![[Muzok_portrait.webp]]  
+![[Muzog_portrait.webp]]  
 </div>  
 </div>
