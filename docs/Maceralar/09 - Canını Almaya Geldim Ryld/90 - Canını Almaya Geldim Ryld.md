@@ -9,4 +9,5 @@ Table of Content
 [[94 - Cebri Teleport]]  
 [[95 - Singularity]]  
 [[96 - No One Expects the Rand Inquisition]]  
-[[97 - Trash ve Mob]]
+[[97 - Trash ve Mob]]  
+[[98 - Adaya Çıkış]]

@@ -1,6 +1,6 @@
 # Vagabonds of Warbonter  
   
-Bu oyun; **[[Gnome'un İntikamı]]** adlı paralı asker grubunda bir araya gelmeyi başarmış bir ^^ex-conman^^, bir ^^ex-gnome^^ ve bir ^^ex-suikastçı^^ nın hikâyesini anlatmaktadır.  
+Bu oyun; **[[Gnome'un İntikamı]]** adlı paralı asker grubunda bir araya gelmeyi başarmış bir ^^ex-conman^^, bir ^^ex-gnome^^, bir ^^ex-suikastçı^^ ve bir ^^ex-kalfa^^ nın hikâyesini anlatmaktadır.  
   
 **DM**:  
   
@@ -8,12 +8,12 @@ Bu oyun; **[[Gnome'un İntikamı]]** adlı paralı asker grubunda bir araya gelm
   
 **Vagabonds**:  
   
-|                Başgan                |           Üye           |          Üye           |  
-|:------------------------------------:|:-----------------------:|:----------------------:|  
-| ![[Alfons_mini.webp]]| ![[Harrion_mini.webp]]| ![[Philip_mini.webp]]|  
-| ^^Ertuğrul Mola^^ | ^^Berkay Şahinoğlu^^ | ^^İlkin Ünal^^ |  
-| [[Alfons]] *"Kaptan Paspas"* Beljardin | [[Harrion]] *"the Handy"* | [[Philip]] *"the Sharp"* |  
-| Human Cleric | Tiefling Wizard | Human Rogue |  
+|                Başgan                |           Üye           |          Üye           |Üye|  
+|:------------------------------------:|:-----------------------:|:----------------------:|:---:|  
+| ![[Alfons_mini.webp]]| ![[Harrion_mini.webp]]| ![[Philip_mini.webp]]|![[Muzok_mini.webp]]  
+| ^^Ertuğrul Mola^^ | ^^Berkay Şahinoğlu^^ | ^^İlkin Ünal^^ | ^^Fatih Hamit Pervanlar^^ |  
+| [[Alfons]] *"Kaptan Paspas"* Beljardin | [[Harrion]] *"the Handy"* | [[Philip]] *"the Sharp"* | *"Oç"* [[Muzok]] Vargenoğlu  
+| Human Cleric | Tiefling Wizard | Human Rogue | Dragonborn Barbarian |  
   
 **Ex Vagabonds**:  
   
