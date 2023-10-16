@@ -52,3 +52,4 @@
 | [[Spell Scroll Lvl 3]] | Scroll |  | 250 | Standart scroll |  
 | [[Vampire Blood Vial]] | Potion |  |  | Blood of Immortal Merchant |  
 | [[Weaker Drow Staff of Power]] | Weapon |  | 2000 | 6 Charges , resets on long rest.<br>attunement from a Sorcerer, Warlock or Wizard<br>+1 bonus to Attack and Damage<br>Power Strike: 1 charge, extra 1d6 force damage<br>- Silent Image, Disguise Self, Cause Fear, Sleep: level 1, 1 charge<br>- Darkness : level 2, 2 charges |  
+| [[Gizemli Balta]] | Weapon |  |  | Açıklanmıyor |  

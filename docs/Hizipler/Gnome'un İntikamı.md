@@ -5,12 +5,12 @@ tags:
   
 Aklı başında paralı asker grubu.  
   
-|                Başgan                |           Üye           |          Üye           |  
-|:------------------------------------:|:-----------------------:|:----------------------:|  
-| ![[Alfons_mini.webp]]| ![[Harrion_mini.webp]]| ![[Philip_mini.webp]]|  
-| ^^Ertuğrul Mola^^ | ^^Berkay Şahinoğlu^^ | ^^İlkin Ünal^^ |  
-| [[Alfons]] *"Kaptan Paspas"* Beljardin | [[Harrion]] *"the Handy"* | [[Philip]] *"the Sharp"* |  
-| Human Cleric | Tiefling Wizard | Human Rogue |  
+|                Başgan                |           Üye           |          Üye           |Üye|  
+|:------------------------------------:|:-----------------------:|:----------------------:|:---:|  
+| ![[Alfons_mini.webp]]| ![[Harrion_mini.webp]]| ![[Philip_mini.webp]]|![[Muzog_mini.webp]]  
+| ^^Ertuğrul Mola^^ | ^^Berkay Şahinoğlu^^ | ^^İlkin Ünal^^ | ^^Fatih Hamit Pervanlar^^ |  
+| [[Alfons]] *"Kaptan Paspas"* Beljardin | [[Harrion]] *"the Handy"* | [[Philip]] *"the Sharp"* | *"~~Oç~~"* [[Muzog]] Vargenoğlu  
+| Human Cleric | Tiefling Wizard | Human Rogue | Dragonborn Barbarian |  
   
 Çeşitli referanslar:  
   

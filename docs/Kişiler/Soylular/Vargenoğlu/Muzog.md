@@ -11,7 +11,7 @@ tags:
 |---|---|  
 | **İsim** | Muzog |  
 | **Soyadı** | [[Vargenoğlu]] |  
-| **Hizip** | [[Gnome'un İntikamı]] |  
+| **Hizip** | [[Gnome'un İntikamı]], [[Cult of the Dragon]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn |  
 | **Sınıf** | Barbarian |  

@@ -1,4 +1,6 @@
----
+---  
+tags:  
+  - Macera  
 ---  
   
 Mark'la buluştuk. Trash'in kafayı bedene az buçuk birleştirdik, sonra Alfons bastı büyüyü diriltti adamı. Ha harika mı oldu, hayır ama yaşıyor en azından.  
@@ -9,11 +11,11 @@ Karaya vurduklarında balina, Thalassar'ın kendi formuna dönüşmeye başladı
   
 Yüz numara işlerini bitirip dome atalım kayalıkların oradan sesler gelmeye başladı. Saklandık tabii, bir baktık bir behir can hıraş geliyor. Dövüne dövüne içinden bir dragonborn çıkardı, anladık ki bu adam **öfkeli**. Kim necidir bilmediğimizden önce bekledik, durum kritikleşince `"Sıkıntı olursa adamı alırız her türlü"` diyerek ortaya atlayıp behiri bertaraf ettik.  
   
-Tanışma faslından sonra dragonborn'un adının [[Muzog]] olduğunu, aslında Sardon'da babadan potion dükkânını devralacakken buraya [[Verdan]] diye bir elebaşını öldürmeye geldiğini ama macera sırasında ekibindeki herkesin öldüğünü ve geri dönmek için bir yolu olmadığını öğrendik. Ryld hakkında da biraz bilgi aldık ve bize yardım etmesi karşılığında onu Warbonter'e götürebileceğimizi söyledik. Hemen bir anlaşma hazırlandı:  
+Tanışma faslından sonra dragonborn'un adının [[Muzog]] olduğunu, aslında Sardon'da bir potion dükkânı devralacakken buraya [[Verdan]] diye bir elebaşını öldürmeye geldiğini ama macera sırasında ekibindeki herkesin öldüğünü ve geri dönmek için bir yolu olmadığını öğrendik. Ryld hakkında da biraz bilgi aldık ve bize yardım etmesi karşılığında onu Warbonter'e götürebileceğimizi söyledik. Hemen bir anlaşma hazırlandı:  
   
 ```  
 1) Adada bulunan ganimetin dörtte biri Muzog Vargenoğlu'na ait olacak.  
 2) Muzog Vargenoğlu'nun burada ölmesi hâlinde, üzerindeki her şey  
    Vargenoğlu Potion'a teslim edilecek.  
--- Vallaioun Billaioun  
+-- Vallioun Billioun  
 ```
