@@ -55,7 +55,7 @@ Tüm major plane'lerden bir parça gerekiyor:
 - [ ] Celestial  
 - [ ] Fiendish  
   
-[^1]: Philip Fey'de topladığı bitkileri verdi, bkz: [[82 - Kule2 (akaDragon)]]  
-[^2]: Earth myrmydon'dan aldığımız gem'i vereceğiz, bkz: [[93 - Aurelia Yolunda]]  
+[^1]: Philip Fey'de topladığı bitkileri verdi, bkz: [[0802 - Kule2 (akaDragon)]]  
+[^2]: Earth myrmydon'dan aldığımız gem'i vereceğiz, bkz: [[0903 - Aurelia Yolunda]]  
 [^3]: Muhtemel kaynak: Soradin dağları  
 [^4]: Muhtemel kaynak: İmparatorluk denizi

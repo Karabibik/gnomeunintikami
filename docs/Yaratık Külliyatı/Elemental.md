@@ -11,7 +11,7 @@ Farklı düzlemlerde, bu düzlemlerin özelliklerinin cisimleşmiş hâli olan y
 ![[Elemental_Earth.webp]]{ align=left }  
   
   
-Cüce Krallıkları bölgesi, belli ki *Plane of Earth* ile bu tarz bir ilişkiye sahip. [[93 - Aurelia Yolunda|Aurelia yolunda]] bizim ve öğrendiğimize göre ara sıra kervanların da çeşitli karşılaşmaları olması bunun bir göstergesi.  
+Cüce Krallıkları bölgesi, belli ki *Plane of Earth* ile bu tarz bir ilişkiye sahip. [[0903 - Aurelia Yolunda|Aurelia yolunda]] bizim ve öğrendiğimize göre ara sıra kervanların da çeşitli karşılaşmaları olması bunun bir göstergesi.  
   
 Başta herhangi bir kayadan farksız görünen toprak elementallerini uzaktan fark edebilmek gerçekten çok zor. Yakındayken bile büyü tespiti yapmadan fark anlaşılmıyor. O yüzden arazide daima tetikte gezmek en mantıklısı.  
   

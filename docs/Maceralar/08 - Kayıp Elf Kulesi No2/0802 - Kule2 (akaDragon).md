@@ -43,4 +43,4 @@ Elva'ya bir daha dokunduğumda elinde taş varken
 - Binalar var yıkılmış taş, ahşap yanıyor  
 - Karşımda siyah zırhlı biri var, elindeki kılıcı saplıyor bana  
   
-[^1]: Bkz: [[83 - Fey Logbook|Fey Logbook]]
+[^1]: Bkz: [[0803 - Fey Logbook|Fey Logbook]]

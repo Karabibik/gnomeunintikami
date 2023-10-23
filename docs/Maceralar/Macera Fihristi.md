@@ -3,15 +3,15 @@
   
 [[Gnome'un İntikamı]] adlı paralı asker grubunun çeşitli yer ve zamanlarda karışmış olduğu olayların sıralı tam listesi  
   
-[[10 - Belanord Harabeleri]]  
-[[20 - Gruums'ın Kolları]]  
-[[30 - Warbonter Turnuvası]]  
-[[40 - Operasyon Yousa]]  
-[[50 - Kayıp Elf Kulesi No1]]  
-[[60 - Ryld Davası]]  
-[[70 - Altbrück Şeytanları]]  
-[[80 - Kayıp Elf Kulesi No2]]  
-[[90 - Canını Almaya Geldim Ryld]]  
-[[100 - Kabuslar vs Şaplak]]  
+[[0100 - Belanord Harabeleri]]  
+[[0200 - Gruums'ın Kolları]]  
+[[0300 - Warbonter Turnuvası]]  
+[[0400 - Operasyon Yousa]]  
+[[0500 - Kayıp Elf Kulesi No1]]  
+[[0600 - Ryld Davası]]  
+[[0700 - Altbrück Şeytanları]]  
+[[0800 - Kayıp Elf Kulesi No2]]  
+[[0900 - Canını Almaya Geldim Ryld]]  
+[[1000 - Kabuslar vs Şaplak]]  
   
 A. [[Plot Hooks]]

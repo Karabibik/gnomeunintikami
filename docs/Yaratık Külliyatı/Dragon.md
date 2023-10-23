@@ -28,7 +28,7 @@ Kendi istekleri üzere (ve dünyanın istikbali adına) rahatsız edilmeden yaş
   
 ## Green Dragon  
   
-Yalnızca bir defaya mahsus, o da bu düzlemde olmamak üzere yeşil ejderhaların varlığına tanık olduk. [[21 - Warbrof'un İzinde|Uliza'yı ilk görüşümüzde]] Fey Wilds'ta takip ederken karşımıza çıktı Klatros.  
+Yalnızca bir defaya mahsus, o da bu düzlemde olmamak üzere yeşil ejderhaların varlığına tanık olduk. [[0201 - Warbrof'un İzinde|Uliza'yı ilk görüşümüzde]] Fey Wilds'ta takip ederken karşımıza çıktı Klatros.  
   
 Yazar, Fey'in, üstündeki etkileri sebebiyle karşılaşmayı çok hatırlamıyor ama oradaki diğer şahıslar Klatros'un inanılmaz bir boyutta ve korkutucu olduğu konusunda hemfikir. Renkli ejderhalardan olmasına rağmen işine yaramamız sebebiyle bizi sağ bırakması da daha büyük planları olduğuna işaret. Sonradan öğrendiğimize göre ise Klatros, ruhunu bir şekilde Fey ile birleştirerek ölümsüzlüğe ulaşmış (teyit edilmedi). Bunun ona ne gibi güçler kazandırmış olabileceği ise bilinmiyor.  
   
@@ -42,7 +42,7 @@ Renkli ejderhaların, hatta tüm ejderhaların efendileri...
   
 Kırmızı ejderhalar; ateş nefesleri ve devasa cüsselerinin de yardımıyla ejderhalar çağında dünyayı avuçlarına almış ve sıradan yaratıklar bir yana, diğer tüm ejderhalar üstünde bile hüküm sürmüş. Ateşe olan büyüsel yatkınlıkları dolayısıyla yavruları bile ateşe dayanıklı. Akla, bu yatkınlıklarının onları buz temelli saldırılara açık bırakması gibi kolayca düşülebilecek bir tuzak düşünce gelebilir ama bu, akla gelen son düşünce olabilir.  
   
-Kırmızı ejderhaların soylarının, [[Sorad|Dağ Eriten Sorad]]'ın ölümüyle birlikte tükendiği düşünülüyordu. Ancak son gelişmeler, dünyada hâlâ bir kırmızının yaşadığını gösteriyor. Kırmızı ejderhaların, fiziksel güçlerinin yanısıra, ejderhalar üzerindeki doğal hükümleri sebebiyle, dünyada dolaşması önemli bir tehlike. Zira kırmızıların geri geldiğini duyan diğer metalik ejderhaların ona biat etmeye yanaşmaları ve dünyayı bir ejderha savaşına daha sürüklemeleri işten bile değil. Bu sebeple bu yavrunun olabildiğince erken öldürülmesi elzem. Henüz yavru iken [[11 - Ejderyayla Dans|Altbrück mağaralarında]], en son ise Soradin'e giderken görüldü.  
+Kırmızı ejderhaların soylarının, [[Sorad|Dağ Eriten Sorad]]'ın ölümüyle birlikte tükendiği düşünülüyordu. Ancak son gelişmeler, dünyada hâlâ bir kırmızının yaşadığını gösteriyor. Kırmızı ejderhaların, fiziksel güçlerinin yanısıra, ejderhalar üzerindeki doğal hükümleri sebebiyle, dünyada dolaşması önemli bir tehlike. Zira kırmızıların geri geldiğini duyan diğer metalik ejderhaların ona biat etmeye yanaşmaları ve dünyayı bir ejderha savaşına daha sürüklemeleri işten bile değil. Bu sebeple bu yavrunun olabildiğince erken öldürülmesi elzem. Henüz yavru iken [[0101 - Ejderyayla Dans|Altbrück mağaralarında]], en son ise Soradin'e giderken görüldü.  
   
 Kırmızı ejderhaların en ünlüsü olan Dağ Eriten Sorad'ın, Soradin'e isim babalığı yaptığı biliniyor. Sorad, ölümsüzlüğe ulaşma yolunda ilk adımları atarak tahtının bulunduğu Soradin Dağları'nın tepesinde, dağdaki hiç bitmeyen volkanik aktivitenin de kaynağı olan, Plane of Fire'a bir kapı açmış ve kendini bu düzleme bağlamaya çalışmış. Öldürülmeye çalışıldığında günlerce savaşsa da nihayetinde yenilmiş olması, planlarının tamamen sonuca ulaşmadığını gösteriyor. Yenilgisinde, aldığı fiziksel yaraların yanısıra ruhuna da saldırılmasının da önemli rol oynadığı belirtiliyor.  
   

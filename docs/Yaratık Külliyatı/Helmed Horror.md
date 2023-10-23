@@ -8,7 +8,7 @@ tags:
   
 ![[Helmed_Horror.webp]]{ align=left }  
   
-[[12 - Altbrück Altındaki Zindan|Altbrück altındaki zindanda]] karşılaştığımız bu yapı çeşitli büyülü özelliklere sahip ve dikkatli yaklaşılması gerekiyor.  
+[[0102 - Altbrück Altındaki Zindan|Altbrück altındaki zindanda]] karşılaştığımız bu yapı çeşitli büyülü özelliklere sahip ve dikkatli yaklaşılması gerekiyor.  
   
 Öncelikle metalden yapılma olduğu için fazlasıyla dayanıklı, elindeki kalkan ve uzun kılıçla ise saldırı kabiliyetleri geniş. Mahir bir dövüşçü gibi davranılıp mümkünse yakın dövüşe girilmemeli.  
   
