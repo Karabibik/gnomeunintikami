@@ -8,7 +8,7 @@ tags:
 | **İsim** | Harsus'un Kupası|  
 | **Okul** | |  
 | **Fiyat** | |  
-| **Rarity** | |  
+| **Rarity** | Legendary|  
 | **Kimde** | |  
 | **Menşei** | |  
 | **İşlev** | |  

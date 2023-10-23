@@ -11,4 +11,4 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Elanor]]|  
 | **Menşei** | Elanor|  
-| **İşlev** | 60ft nightvision if none, +30 if exists<br>no disadvantage on dim and darkness|  
+| **İşlev** | 60ft nightvision if none, +30 if exists<br>No disadvantage on dim and darkness|  

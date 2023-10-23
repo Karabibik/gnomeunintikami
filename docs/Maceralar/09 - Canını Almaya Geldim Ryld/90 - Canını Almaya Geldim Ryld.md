@@ -10,4 +10,6 @@ Table of Content
 [[95 - Singularity]]  
 [[96 - No One Expects the Rand Inquisition]]  
 [[97 - Trash ve Mob]]  
-[[98 - Adaya Çıkış]]
+[[98 - Adaya Çıkış]]  
+[[99 - Fireworks]]  
+[[910 - Adanın En Yırtıcı Hayvanı]]  

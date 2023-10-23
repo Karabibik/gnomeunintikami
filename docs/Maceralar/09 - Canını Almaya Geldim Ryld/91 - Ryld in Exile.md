@@ -12,4 +12,4 @@ Celeste:
 	- Ya ışınlanarak  
 	- Ya da Mündung'a gidip oradan gemiyle  
   
-Goldrum ile konuşup Cüce Krallıkları'ndaki tünelden geçmeyi kararlaştırıyoruz. Halstein'ın da izniyle yola çıkıyoruz.
+Goldrum ile konuşup Cüce Krallıkları'ndaki tünelden geçmeyi kararlaştırıyoruz. Halstein'ın da izniyle [[John Ryld]]'ı yakalamak için yola çıkıyoruz.

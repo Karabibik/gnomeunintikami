@@ -11,4 +11,4 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Elanor]]|  
 | **Menşei** | |  
-| **İşlev** | bonus action:<br>- deal 10 damage to yourself<br>+ gain resistance to all damage|  
+| **İşlev** | Bonus action:<br>- Deal 10 damage to yourself<br>+ Gain resistance to all damage|  
