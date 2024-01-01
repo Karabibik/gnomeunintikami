@@ -6,9 +6,9 @@ tags:
 |  |  |  
 |---|---|  
 | **İsim** | Ring of Protection|  
-| **Okul** | |  
+| **Okul** | Abjuration|  
 | **Fiyat** | |  
 | **Rarity** | Rare|  
-| **Kimde** | [[Alfons]]|  
+| **Kimde** | [[Alfons]], [[Muzog]], [[Harrion]]|  
 | **Menşei** | Hal Web|  
 | **İşlev** | AC +1, Saving +1 (attunement)|  

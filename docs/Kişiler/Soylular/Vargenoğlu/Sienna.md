@@ -8,6 +8,6 @@
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Sardon]] |  
-| **Münasebet** | NPC |  
+| **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
 | **İlave Notlar** | [[Muzog]]'un bir dostu<br>Vargenoğlu Potionculuk sahibi |  

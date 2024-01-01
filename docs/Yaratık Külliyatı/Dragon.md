@@ -30,8 +30,9 @@ Kendi istekleri üzere (ve dünyanın istikbali adına) rahatsız edilmeden yaş
   
 Yalnızca bir defaya mahsus, o da bu düzlemde olmamak üzere yeşil ejderhaların varlığına tanık olduk. [[0201 - Warbrof'un İzinde|Uliza'yı ilk görüşümüzde]] Fey Wilds'ta takip ederken karşımıza çıktı Klatros.  
   
-Yazar, Fey'in, üstündeki etkileri sebebiyle karşılaşmayı çok hatırlamıyor ama oradaki diğer şahıslar Klatros'un inanılmaz bir boyutta ve korkutucu olduğu konusunda hemfikir. Renkli ejderhalardan olmasına rağmen işine yaramamız sebebiyle bizi sağ bırakması da daha büyük planları olduğuna işaret. Sonradan öğrendiğimize göre ise Klatros, ruhunu bir şekilde Fey ile birleştirerek ölümsüzlüğe ulaşmış (teyit edilmedi). Bunun ona ne gibi güçler kazandırmış olabileceği ise bilinmiyor.  
+Bir de öğrenildiğine göre [[Dışlanmışlar Adası]]'nda [[Ranacor]]   
   
+Yazar, Fey'in, üstündeki etkileri sebebiyle karşılaşmayı çok hatırlamıyor ama oradaki diğer şahıslar Klatros'un inanılmaz bir boyutta ve korkutucu olduğu konusunda hemfikir. Renkli ejderhalardan olmasına rağmen işine yaramamız sebebiyle bizi sağ bırakması da daha büyük planları olduğuna işaret. Sonradan öğrendiğimize göre ise Klatros, ruhunu bir şekilde Fey ile birleştirerek ölümsüzlüğe ulaşmış (teyit edilmedi). Bunun ona ne gibi güçler kazandırmış olabileceği ise bilinmiyor.  
 ![[Dragon_Green.webp]]  
   
 ## Red Dragon  

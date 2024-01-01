@@ -4,7 +4,7 @@
 | **İsim** | Orcus |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** |  |  
+| **Cinsiyet** | Erkek |  
 | **Irk** |  |  
 | **Sınıf** |  |  
 | **Kütük** | [[Abyss]] |  

@@ -4,8 +4,8 @@
 | **İsim** | Hara |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | GAY |  
-| **Irk** |  |  
+| **Cinsiyet** |  |  
+| **Irk** | GAY |  
 | **Sınıf** |  |  
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  

@@ -10,7 +10,7 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Kadın |  
 | **Irk** | Dwarf |  
-| **Sınıf** | Fighter (Psi Warrior) - Cleric [[Ioun]] (Level 13) |  
+| **Sınıf** | Fighter (Psi Warrior), Cleric [[Ioun]] (Level 13) |  
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Plate armorlu, hafif adımlı |  

@@ -15,7 +15,7 @@ tags:
 | **Hizip** | [[Gnome'un İntikamı]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric (Knowledge) ([[Ioun]]) (Level 10) |  
+| **Sınıf** | Cleric (Knowledge) ([[Ioun]]) (Level 11) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  

@@ -6,7 +6,7 @@ tags:
 |  |  |  
 |---|---|  
 | **İsim** | Boots of Spiderclimb|  
-| **Okul** | |  
+| **Okul** | Transmutation|  
 | **Fiyat** | 250 gp|  
 | **Rarity** | Uncommon|  
 | **Kimde** | [[Philip]]|  

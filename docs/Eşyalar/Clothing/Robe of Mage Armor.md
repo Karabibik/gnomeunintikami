@@ -6,9 +6,9 @@ tags:
 |  |  |  
 |---|---|  
 | **İsim** | Robe of Mage Armor|  
-| **Okul** | |  
+| **Okul** | Abjuration|  
 | **Fiyat** | 500 gp|  
 | **Rarity** | Uncommon|  
-| **Kimde** | |  
+| **Kimde** | [[Harrion]]|  
 | **Menşei** | Vilenor Mazgan|  
 | **İşlev** | Permanent Mage Armor|  

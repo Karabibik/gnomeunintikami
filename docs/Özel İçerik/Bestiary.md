@@ -26,3 +26,4 @@ tags:
 | [[Vampire]]         | Medium |     Evil     |  Undead   |  
 | [[Wraith]]          | Medium |     Evil     |  Undead   |  
 | [[Zombie]]          | Medium |     Evil     | Humanoid  |  
+| [[Red Wanker]]          | Large  |              | Humanoid          |  

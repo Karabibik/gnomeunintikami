@@ -12,6 +12,6 @@
 [[0700 - Altbrück Şeytanları]]  
 [[0800 - Kayıp Elf Kulesi No2]]  
 [[0900 - Canını Almaya Geldim Ryld]]  
-[[1000 - Kabuslar vs Şaplak]]  
+[[1000 - Yet Another Tournament]]  
   
 A. [[Plot Hooks]]

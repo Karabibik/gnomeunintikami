@@ -6,7 +6,7 @@ tags:
 |  |  |  
 |---|---|  
 | **İsim** | Amulet of Mage Armor|  
-| **Okul** | |  
+| **Okul** | Abjuration|  
 | **Fiyat** | 150 gp|  
 | **Rarity** | Common|  
 | **Kimde** | [[Harrion]]|  

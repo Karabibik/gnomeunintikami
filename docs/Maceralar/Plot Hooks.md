@@ -40,7 +40,6 @@ Ortalarda yok
 [[Altbrück]]'ü pas geçerek yumuşak hedeflere saldırmayı seçti  
 Giderek büyümeyi istiyorlar, batıda [[Dotnau]]'yu vurup devam edecekler  
   
-  
 ## After 08  
 ### One Spell to Find Them All  
 Tüm major plane'lerden bir parça gerekiyor:  
@@ -49,13 +48,15 @@ Tüm major plane'lerden bir parça gerekiyor:
 	- [ ] Water[^4]  
 	- [ ] Fire[^3]  
 	- [ ] Air  
-	- [ ] Earth[^2]  
+	- [x] Earth[^2]  
 - [x] [[Fey Wilds]][^1]  
 - [ ] [[Shadowfell]]  
-- [ ] Celestial  
-- [ ] Fiendish  
+- [x] Celestial[^6]  
+- [x] Fiendish[^5]  
   
 [^1]: Philip Fey'de topladığı bitkileri verdi, bkz: [[0802 - Kule2 (akaDragon)]]  
 [^2]: Earth myrmydon'dan aldığımız gem'i vereceğiz, bkz: [[0903 - Aurelia Yolunda]]  
 [^3]: Muhtemel kaynak: Soradin dağları  
-[^4]: Muhtemel kaynak: İmparatorluk denizi
+[^4]: Muhtemel kaynak: İmparatorluk denizi  
+[^5]: Celeste bulmuş  
+[^6]: Eoha kubbesinde bulduğumuz ilahi oklar, bkz: [[0913 - Sırma Saçlının Düşüşü]]

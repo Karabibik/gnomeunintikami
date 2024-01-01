@@ -10,7 +10,7 @@ tags:
 | **Hizip** | [[Gnome'un İntikamı]], [[Evsiz Uşaklar]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Rogue (Assassin) (Level 10) |  
+| **Sınıf** | Rogue (Assassin) (Level 11) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  

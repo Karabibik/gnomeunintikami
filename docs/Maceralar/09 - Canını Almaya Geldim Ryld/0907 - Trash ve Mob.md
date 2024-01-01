@@ -27,10 +27,10 @@ Mark, Boswan'ın mekânına girince önce boğazına kılıç dayanıyor ama son
 - Kaçtıktan sonra Ryld delirmiş  
 - Muhtemelen elindeki eşya lanetli  
 - Eşya camekanlı bir kafesteki kuş tüyü ama rünlü (anti-divination sağlıyor)  
-- Ryld adaya gidince psikopatlaşmış, Osha'ya göre "içindekileri dışarı çıkarmış"  
+- Ryld [[Dışlanmışlar Adası|adaya]] gidince psikopatlaşmış, Osha'ya göre "içindekileri dışarı çıkarmış"  
 - Adadaki herkesi kılıçtan geçirip kendi etrafında adam toplamış 20-30 kadar ama Boswan'ın dediğine göre bizzat tehlikeli değiller  
 - Bunlar da Ryld'dan kaçıp buraya gelmişler, zaten gidicilermiş  
   
-Alfons bir ara "Ben bu adamla içki masasına otururum, iletir misin" diyor da iletemiyoruz tabii, ehe.  
+Alfons bir ara `"Ben bu adamla içki masasına otururum, iletir misin"` diyor da iletemiyoruz tabii, ehe.  
   
 Neyse buradaki dramayı bitiriyoruz. Mark ile Boswan da gemiler gelene kadar kan dökülmemesi için anlaşıyor. Biz Mark'la geceyarısı buluşma ayarlıyoruz, hem  Alfons Trash'i diriltecek hem de Mark bize adaya gitmek için bir kayık getirecek.

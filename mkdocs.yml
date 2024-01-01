@@ -12,6 +12,7 @@ theme:
       - navigation.top
       - header.autohide
       - announce.dismiss
+      - content.tooltips
       
     palette:
 
@@ -23,6 +24,7 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - abbr
   - footnotes
   - attr_list
   - pymdownx.arithmatex:
@@ -34,6 +36,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.snippets
   - pymdownx.tasklist:
       custom_checkbox: true
   - toc:
