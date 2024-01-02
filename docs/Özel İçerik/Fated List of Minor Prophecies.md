@@ -2,10 +2,10 @@
 | ---- | ---- | ---- |  
 | Artificer's Apprentice | Help create a magic item |  |  
 | Cataclysmic Caster | Kill 10 targets with a single spell |  |  
-| Circle Master | Learn 5 different teleportation circle runes |  |  
+| Circle Master | Learn 5 different teleportation circle runes | Harrion (2/5) |  
 | Class Clash Champion | Fight with people from each class |  |  
 | Destructive Force | Deal 1000 damage in a single fight |  |  
-| Divine Diplomat | Contact all major gods |  |  
+| Divine Diplomat | Contact all major gods | Philip (3/5) |  
 | Dragon's Connoisseur | Meet each type of dragon |  |  
 | Dwarven Kingdoms Rediscovered | Re-discover the lost Dwarven Kingdoms |  |  
 | Elemental Annihilator | Deal every elemental damage in a single fight |  |  
@@ -24,5 +24,5 @@
 | Tower Tracker  | Re-discover all 5 Elf towers | Party effort (2/5) |  
 | Wizarding World Tour | Visit each major wizard school | Harrion (2/5) |  
   
-  [def1]: < > "İmparatorluk, Soradin Federasyonu, Rand Diyarı, Warseir, Güneş Adaları, Kuzey, Büyük Orman"  
-  [ach1]: < > "Kolandir'in Baltası"
+  [def1]: <javascript:void(0)> "İmparatorluk, Soradin Federasyonu, Rand Diyarı, Warseir, Güneş Adaları, Kuzey, Büyük Orman"  
+  [ach1]: <#0> "Kolandir'in Baltası"
