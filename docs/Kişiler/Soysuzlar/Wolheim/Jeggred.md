@@ -10,4 +10,7 @@
 | **Kütük** | [[Wolheim]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 50 yaşında kaçtı, 250 yıldır falan dışarıda |  
-| **İlave Notlar** | Kendini öldürecekken [[Nendra]] kurtardı |  
+  
+  
+!!! note "İlave Notlar"  
+	Kendini öldürecekken [[Nendra]] kurtardı  

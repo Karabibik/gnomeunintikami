@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Ana drow tanrısı |  
+  
+  
+!!! note "İlave Notlar"  
+	Ana drow tanrısı  

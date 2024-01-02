@@ -10,4 +10,8 @@
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Mor |  
-| **İlave Notlar** | Etrafı bilen, suç organizatörü<br>Boswan'ın etrafındaki adamlardan |  
+  
+  
+!!! note "İlave Notlar"  
+	Etrafı bilen, suç organizatörü  
+	Boswan'ın etrafındaki adamlardan  

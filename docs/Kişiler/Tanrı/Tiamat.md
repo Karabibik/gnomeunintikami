@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Ejderhaların tanrısı |  
+  
+  
+!!! note "İlave Notlar"  
+	Ejderhaların tanrısı  

@@ -1,8 +1,6 @@
 # Thokk   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Thokk |  
@@ -14,10 +12,9 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Eskiden paralı askerlik yapmış, herkesten güçlü savaşçı, champion |  
   
-</div>  
-<div class="column" markdown>  
 ![[Thokk_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Eskiden paralı askerlik yapmış, herkesten güçlü savaşçı, champion  

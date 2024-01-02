@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada |  
+  
+  
+!!! note "İlave Notlar"  
+	Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada  

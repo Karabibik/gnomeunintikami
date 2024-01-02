@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | John Ryld'ın adamı, muhafızlara pusu kurdurttu |  
+  
+  
+!!! note "İlave Notlar"  
+	John Ryld'ın adamı, muhafızlara pusu kurdurttu  

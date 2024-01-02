@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Onurcan'ın karakteri |  
+  
+  
+!!! note "İlave Notlar"  
+	Onurcan'ın karakteri  

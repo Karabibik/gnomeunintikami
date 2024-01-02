@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik |  
+  
+  
+!!! note "İlave Notlar"  
+	Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik  

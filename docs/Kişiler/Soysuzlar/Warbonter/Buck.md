@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Philip'in Evsiz Uşaklarından |  
+  
+  
+!!! note "İlave Notlar"  
+	Philip'in Evsiz Uşaklarından  

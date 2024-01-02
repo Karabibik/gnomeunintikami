@@ -1,8 +1,6 @@
 # Saubia   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Saubia |  
@@ -14,10 +12,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Karizma 25, feci alımlı<br>Boynunda yarım güneş sembolü var |  
-| **İlave Notlar** | Arena çığırtkanı, [[Vincent]]'ın uşağı<br>Annesi half-devil |  
   
-</div>  
-<div class="column" markdown>  
 ![[Saubia_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Arena çığırtkanı, [[Vincent]]'ın uşağı  
+	Annesi half-devil  

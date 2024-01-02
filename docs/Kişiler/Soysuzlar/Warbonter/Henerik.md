@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Katı görüşlü, rogue sevmeyen adam |  
+  
+  
+!!! note "İlave Notlar"  
+	Katı görüşlü, rogue sevmeyen adam  

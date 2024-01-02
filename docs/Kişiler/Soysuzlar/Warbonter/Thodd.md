@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Warbonter turnuvasında karşılaştık |  
+  
+  
+!!! note "İlave Notlar"  
+	Warbonter turnuvasında karşılaştık  

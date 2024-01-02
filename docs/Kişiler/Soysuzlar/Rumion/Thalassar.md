@@ -1,8 +1,6 @@
 # Thalassar   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Thalassar |  
@@ -14,10 +12,9 @@
 | **Kütük** | [[Rumion]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sol gözü yok, elinde bir asa ve ucunda mavi gem var |  
-| **İlave Notlar** | Rüyalar üstünde güç sahibi bir deniz elfi, nihayet fiziksel bir bedene tekrar kavuştu |  
   
-</div>  
-<div class="column" markdown>  
 ![[Thalassar_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Rüyalar üstünde güç sahibi bir deniz elfi, nihayet fiziksel bir bedene tekrar kavuştu  

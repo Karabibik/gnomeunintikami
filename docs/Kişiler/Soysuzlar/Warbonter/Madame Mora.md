@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Mora'nın Güzellikleri]], kerhane işletmecisi |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Mora'nın Güzellikleri]], kerhane işletmecisi  

@@ -5,9 +5,7 @@ tags:
 ---  
 # Harrion   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Harrion |  
@@ -19,10 +17,10 @@ tags:
 | **Kütük** | [[Warseir]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Büyü öğrenmek için yola çıkıp neler neler gördü gnome oğlu gnome<br>Şu ara [[Güneş Birliği]] yardakçısı |  
   
-</div>  
-<div class="column" markdown>  
 ![[Harrion_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Büyü öğrenmek için yola çıkıp neler neler gördü gnome oğlu gnome  
+	Şu ara [[Güneş Birliği]] yardakçısı  

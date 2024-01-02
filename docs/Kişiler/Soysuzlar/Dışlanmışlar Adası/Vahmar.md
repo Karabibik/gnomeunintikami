@@ -10,4 +10,8 @@
 | **Kütük** | [[Dışlanmışlar Adası]] |  
 | **Münasebet** | NPC - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Pleb olmayan bir arbalet ustası<br>Alfons *Geas* atıp yanımıza almıştı, öldü gitti zavallıcık |  
+  
+  
+!!! note "İlave Notlar"  
+	Pleb olmayan bir arbalet ustası  
+	Alfons *Geas* atıp yanımıza almıştı, öldü gitti zavallıcık  

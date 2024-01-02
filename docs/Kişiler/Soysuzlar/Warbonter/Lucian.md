@@ -1,8 +1,6 @@
 # Lucian   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Lucian |  
@@ -14,10 +12,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Boynunda yarım güneş sembolü var |  
-| **İlave Notlar** | Arena çığırtkanı, [[Vincent]]'ın uşağı<br>Annesi half-devil |  
   
-</div>  
-<div class="column" markdown>  
 ![[Lucian_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Arena çığırtkanı, [[Vincent]]'ın uşağı  
+	Annesi half-devil  

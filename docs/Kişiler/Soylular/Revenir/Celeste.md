@@ -1,8 +1,6 @@
 # Celeste Revenir  
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Celeste |  
@@ -14,10 +12,9 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40lı yaşlarda<br>beyazımsı sarışın, gözler bal rengi<br>Protect from divination kolyesi var |  
-| **İlave Notlar** | Üniversitede Divination profu, hanenin reisi |  
   
-</div>  
-<div class="column" markdown>  
 ![[Celeste_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Üniversitede Divination profu, hanenin reisi  

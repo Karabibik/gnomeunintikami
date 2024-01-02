@@ -4,9 +4,7 @@ tags:
 ---  
 # Agnes Beljardin  
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Agnes |  
@@ -18,10 +16,10 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Alfons'un ablası<br>5 Yıldır Altbrück'ü yönetiyor |  
   
-</div>  
-<div class="column" markdown>  
 ![[Agnes_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Alfons'un ablası  
+	5 Yıldır Altbrück'ü yönetiyor  

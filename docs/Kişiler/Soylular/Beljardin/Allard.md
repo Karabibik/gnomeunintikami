@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 7 yaşında çocuk |  
-| **İlave Notlar** | Alfons'un evlatlık yeğeni |  
+  
+  
+!!! note "İlave Notlar"  
+	Alfons'un evlatlık yeğeni  

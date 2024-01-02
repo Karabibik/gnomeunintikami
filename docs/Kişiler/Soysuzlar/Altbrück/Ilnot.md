@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Bir boynuzu kırık |  
-| **İlave Notlar** | Fırıncı |  
+  
+  
+!!! note "İlave Notlar"  
+	Fırıncı  

@@ -10,4 +10,8 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Halstein'ın ikizi, üç dakika büyük<br>20 yaşında ölmüş |  
+  
+  
+!!! note "İlave Notlar"  
+	Halstein'ın ikizi, üç dakika büyük  
+	20 yaşında ölmüş  

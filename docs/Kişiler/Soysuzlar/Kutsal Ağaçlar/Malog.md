@@ -10,4 +10,7 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Gerizekalı, geyik totemi |  
+  
+  
+!!! note "İlave Notlar"  
+	Gerizekalı, geyik totemi  

@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Tapınak rahibesi, Philip'e gıcık |  
+  
+  
+!!! note "İlave Notlar"  
+	Tapınak rahibesi, Philip'e gıcık  

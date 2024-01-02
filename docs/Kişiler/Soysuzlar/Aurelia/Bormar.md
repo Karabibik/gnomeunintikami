@@ -10,4 +10,7 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Goldrum'un demircisi |  
+  
+  
+!!! note "İlave Notlar"  
+	Goldrum'un demircisi  

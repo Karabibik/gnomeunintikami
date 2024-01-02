@@ -4,9 +4,7 @@ tags:
 ---  
 # Goldrum Aurum  
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Goldrum |  
@@ -18,10 +16,12 @@ tags:
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Full dwarf beard, mohawk saçlı<br>Boynundan şakaklara kadar altın rengi pullu<br>Gözleri de altın rengi |  
-| **İlave Notlar** | [[Aurum]] Krallığı prensi, büyükbabası yedi cüce krallığından birini yönetiyor<br>Goliathlara karşı çok yardımı dokunmuş<br>Pullarını eskiden cücelere önderlik eden bir ejderiyadan almış<br>Komple siyah/altın ve pahalı giyiniyor |  
   
-</div>  
-<div class="column" markdown>  
 ![[Goldrum_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	[[Aurum]] Krallığı prensi, büyükbabası yedi cüce krallığından birini yönetiyor  
+	Goliathlara karşı çok yardımı dokunmuş  
+	Pullarını eskiden cücelere önderlik eden bir ejderiyadan almış  
+	Komple siyah/altın ve pahalı giyiniyor  

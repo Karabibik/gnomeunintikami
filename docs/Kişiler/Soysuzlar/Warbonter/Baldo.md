@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Turnuvada yendiğimiz bir adam |  
+  
+  
+!!! note "İlave Notlar"  
+	Turnuvada yendiğimiz bir adam  

@@ -14,4 +14,7 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Warbonter vampir lordu |  
+  
+  
+!!! note "İlave Notlar"  
+	Warbonter vampir lordu  

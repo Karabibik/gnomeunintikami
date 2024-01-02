@@ -10,4 +10,8 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Dwarfların ana tanrısı<br>Sembolü örs ve çekiç |  
+  
+  
+!!! note "İlave Notlar"  
+	Dwarfların ana tanrısı  
+	Sembolü örs ve çekiç  

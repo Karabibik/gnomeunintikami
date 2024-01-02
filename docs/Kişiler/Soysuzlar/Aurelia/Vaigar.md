@@ -10,4 +10,7 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Tünel kazma yarışmasına girdi, bayıldı |  
+  
+  
+!!! note "İlave Notlar"  
+	Tünel kazma yarışmasına girdi, bayıldı  

@@ -13,4 +13,5 @@ Adı "Güzel Bahçe" anlamına geliyor, sembolleri de gül/çiçek zaten. [[Rako
 - [[Allard-Mom]]  
 - [[Frans]]  
 - [[Gaspard Louis]]  
-- [[Jasqueman]]
+- [[Jasqueman]]  
+- [[Jeanne]]

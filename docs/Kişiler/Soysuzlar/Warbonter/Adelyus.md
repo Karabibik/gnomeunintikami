@@ -10,4 +10,8 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Alfons]]'un ustası, eski evocation kürsü başkanı<br>[[Abyss]]'e girmeye çalışmış sanırım? |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Alfons]]'un ustası, eski evocation kürsü başkanı  
+	[[Abyss]]'e girmeye çalışmış sanırım?  

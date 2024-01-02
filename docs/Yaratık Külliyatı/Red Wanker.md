@@ -3,7 +3,7 @@ tags:
   - Yaratık  
   - Large  
 ---  
-![[RedWanker.jpeg]]{ align=right }  
+![[RedWanker.webp]]{ align=right }  
   
 Eşine sık rastlanmayan, ardında fosil bile bırakmayan bir mutant. Doğal olarak peyda olmadığı belli bu yaratık, ilk bakışta fazla gelişkin bir primata[^1] benziyor. Bu formunu bozan en büyük faktörler ise eşlerine göre fazla gelişmiş sol yarısı ile özellikle gözlerindeki kırmızı parıltı.  
   

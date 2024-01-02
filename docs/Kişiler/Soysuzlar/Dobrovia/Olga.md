@@ -10,4 +10,7 @@
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Tamara]]'nın kız kardeşi |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Tamara]]'nın kız kardeşi  

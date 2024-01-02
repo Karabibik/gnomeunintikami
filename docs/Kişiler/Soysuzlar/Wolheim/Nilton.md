@@ -10,4 +10,7 @@
 | **Kütük** | [[Wolheim]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Jeggred]]'in oğlu |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Jeggred]]'in oğlu  

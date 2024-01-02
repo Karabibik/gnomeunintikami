@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | EVÜL |  
+  
+  
+!!! note "İlave Notlar"  
+	EVÜL  

@@ -10,4 +10,8 @@
 | **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Belanord ve dünyanın en büyük silah ustası<br>Banlord'un babası, Umman'ın kocası, Talog'un kardeşi |  
+  
+  
+!!! note "İlave Notlar"  
+	Belanord ve dünyanın en büyük silah ustası  
+	Banlord'un babası, Umman'ın kocası, Talog'un kardeşi  

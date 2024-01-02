@@ -10,4 +10,8 @@
 | **Kütük** | [[Sardon]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Muzog]]'un bir dostu<br>Vargenoğlu Potionculuk sahibi |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Muzog]]'un bir dostu  
+	Vargenoğlu Potionculuk sahibi  

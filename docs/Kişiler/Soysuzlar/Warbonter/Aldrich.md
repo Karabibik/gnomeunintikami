@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Guard captain |  
+  
+  
+!!! note "İlave Notlar"  
+	Guard captain  

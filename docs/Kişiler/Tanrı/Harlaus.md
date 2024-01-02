@@ -10,4 +10,8 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Ölülerin ruhlarını koruyor<br>Tapınılması yasak değil ama çok tapınanı yok |  
+  
+  
+!!! note "İlave Notlar"  
+	Ölülerin ruhlarını koruyor  
+	Tapınılması yasak değil ama çok tapınanı yok  

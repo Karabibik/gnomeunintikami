@@ -14,4 +14,7 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Paralı asker, shadowbroker |  
+  
+  
+!!! note "İlave Notlar"  
+	Paralı asker, shadowbroker  

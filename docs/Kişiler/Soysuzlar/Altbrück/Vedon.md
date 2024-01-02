@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Kambur, göbekli, kirli sakallı, kel, meymenetsiz |  
-| **İlave Notlar** | Eskici, grumpy herif |  
+  
+  
+!!! note "İlave Notlar"  
+	Eskici, grumpy herif  

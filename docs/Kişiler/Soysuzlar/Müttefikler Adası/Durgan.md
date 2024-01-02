@@ -10,4 +10,7 @@
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Müttefikler adasının akademik lideri |  
+  
+  
+!!! note "İlave Notlar"  
+	Müttefikler adasının akademik lideri  

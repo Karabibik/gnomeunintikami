@@ -10,4 +10,8 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Dragoncüceborn |  
-| **İlave Notlar** | [[Dragon's Hoard]] işletmesinin sahibi<br>[[Goldrum]]'un kuzeni |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Dragon's Hoard]] işletmesinin sahibi  
+	[[Goldrum]]'un kuzeni  

@@ -10,4 +10,7 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Ortanca boylu, uzun beyaz sakallı |  
-| **İlave Notlar** | Amk bombacısı, barutçubaşı |  
+  
+  
+!!! note "İlave Notlar"  
+	Amk bombacısı, barutçubaşı  

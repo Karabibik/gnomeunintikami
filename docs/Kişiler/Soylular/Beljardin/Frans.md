@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Eski vampir avcısı |  
+  
+  
+!!! note "İlave Notlar"  
+	Eski vampir avcısı  

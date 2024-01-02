@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | John Ryld'a bağlı hareket eden çetelerin başı |  
+  
+  
+!!! note "İlave Notlar"  
+	John Ryld'a bağlı hareket eden çetelerin başı  

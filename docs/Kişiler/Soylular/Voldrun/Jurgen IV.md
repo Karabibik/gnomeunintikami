@@ -10,4 +10,7 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Halstein'ın babası |  
+  
+  
+!!! note "İlave Notlar"  
+	Halstein'ın babası  

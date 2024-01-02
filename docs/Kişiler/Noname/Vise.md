@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Yara bantlı gözlü |  
+  
+  
+!!! note "İlave Notlar"  
+	Yara bantlı gözlü  

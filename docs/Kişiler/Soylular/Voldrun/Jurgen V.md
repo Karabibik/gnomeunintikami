@@ -10,4 +10,7 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | 56 yaşında 2005'te öldü, Stefan'ın oğlu |  
+  
+  
+!!! note "İlave Notlar"  
+	56 yaşında 2005'te öldü, Stefan'ın oğlu  

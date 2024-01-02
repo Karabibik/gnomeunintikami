@@ -14,4 +14,8 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Alfons'un tanrısı<br>Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini |  
+  
+  
+!!! note "İlave Notlar"  
+	Alfons'un tanrısı  
+	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini  

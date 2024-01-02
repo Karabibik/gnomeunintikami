@@ -10,4 +10,8 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Üniversite yanındaki açık büfeci cüce<br>steel hide klanından |  
+  
+  
+!!! note "İlave Notlar"  
+	Üniversite yanındaki açık büfeci cüce  
+	steel hide klanından  

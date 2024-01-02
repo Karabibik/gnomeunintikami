@@ -10,4 +10,7 @@
 | **Kütük** | [[Soradin]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Eilistraecilerin başrahibesi |  
+  
+  
+!!! note "İlave Notlar"  
+	Eilistraecilerin başrahibesi  

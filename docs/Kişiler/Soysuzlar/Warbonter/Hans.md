@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Guard, [[John Ryld]]'a karşı çıktı |  
+  
+  
+!!! note "İlave Notlar"  
+	Guard, [[John Ryld]]'a karşı çıktı  

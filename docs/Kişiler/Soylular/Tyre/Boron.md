@@ -14,4 +14,8 @@ tags:
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Yetkili bir abi<br>Celeste ile arası çok iyi değil sanki (kimin iyi ki?) |  
+  
+  
+!!! note "İlave Notlar"  
+	Yetkili bir abi  
+	Celeste ile arası çok iyi değil sanki (kimin iyi ki?)  

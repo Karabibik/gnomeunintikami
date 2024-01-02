@@ -10,4 +10,7 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Shadowguard üyesi teğmen |  
+  
+  
+!!! note "İlave Notlar"  
+	Shadowguard üyesi teğmen  

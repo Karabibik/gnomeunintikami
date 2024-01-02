@@ -4,9 +4,7 @@ tags:
 ---  
 # Tinrel Celebryl  
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Tinrel |  
@@ -18,10 +16,10 @@ tags:
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Etrafında yıldırımlar dönüyor<br>doğal taşlardan taç takıyor |  
-| **İlave Notlar** | Motherfucking Kraliçe, aldı yürüyor yarabbim<br>Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi |  
   
-</div>  
-<div class="column" markdown>  
 ![[Tinrel_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Motherfucking Kraliçe, aldı yürüyor yarabbim  
+	Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi  

@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Bira Nehri]] hancılarından |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Bira Nehri]] hancılarından  

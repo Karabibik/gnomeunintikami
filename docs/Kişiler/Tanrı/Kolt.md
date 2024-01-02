@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Goliath tanrısı |  
+  
+  
+!!! note "İlave Notlar"  
+	Goliath tanrısı  

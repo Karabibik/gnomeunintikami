@@ -14,4 +14,7 @@ tags:
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Tünel kazma yarışması şampiyonu |  
+  
+  
+!!! note "İlave Notlar"  
+	Tünel kazma yarışması şampiyonu  

@@ -10,4 +10,9 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Adelyus]]'un dükkân ortağı<br>Soylu aileden ama üçüncü kuşak<br>Ryld'dan memnun değil |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Adelyus]]'un dükkân ortağı  
+	Soylu aileden ama üçüncü kuşak  
+	Ryld'dan memnun değil  

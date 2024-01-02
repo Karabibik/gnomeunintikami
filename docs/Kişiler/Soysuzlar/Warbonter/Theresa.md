@@ -10,4 +10,8 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Ioun]] kütüphanesi başkanı, rahibe<br>Ryld'dan memnun değil |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Ioun]] kütüphanesi başkanı, rahibe  
+	Ryld'dan memnun değil  

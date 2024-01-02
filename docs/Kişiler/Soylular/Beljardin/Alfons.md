@@ -5,9 +5,7 @@ tags:
 ---  
 # Alfons Beljardin  
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Alfons |  
@@ -19,10 +17,9 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Kaypak herifin teki |  
   
-</div>  
-<div class="column" markdown>  
 ![[Alfons_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Kaypak herifin teki  

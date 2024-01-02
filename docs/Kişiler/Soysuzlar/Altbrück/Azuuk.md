@@ -10,4 +10,8 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Gruumsh'ın Kolları eski başkanı<br>[[Uliza]]'yla iş görüyordu |  
+  
+  
+!!! note "İlave Notlar"  
+	Gruumsh'ın Kolları eski başkanı  
+	[[Uliza]]'yla iş görüyordu  

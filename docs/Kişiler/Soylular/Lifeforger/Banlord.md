@@ -10,4 +10,7 @@
 | **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Rannok'un oğlu |  
+  
+  
+!!! note "İlave Notlar"  
+	Rannok'un oğlu  

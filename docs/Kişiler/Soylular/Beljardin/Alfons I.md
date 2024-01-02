@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Alfons'un dedesinin babası |  
+  
+  
+!!! note "İlave Notlar"  
+	Alfons'un dedesinin babası  

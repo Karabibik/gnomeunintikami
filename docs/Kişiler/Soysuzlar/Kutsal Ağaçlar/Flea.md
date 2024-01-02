@@ -10,4 +10,7 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Kutsal Ağaçlar Druidcibaşı |  
+  
+  
+!!! note "İlave Notlar"  
+	Kutsal Ağaçlar Druidcibaşı  

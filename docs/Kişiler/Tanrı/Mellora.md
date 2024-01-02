@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Doğa tanrıçası |  
+  
+  
+!!! note "İlave Notlar"  
+	Doğa tanrıçası  

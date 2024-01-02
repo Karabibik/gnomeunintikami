@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Allard'ın annesi |  
+  
+  
+!!! note "İlave Notlar"  
+	Allard'ın annesi  

@@ -4,9 +4,7 @@ tags:
 ---  
 # Pinatrial   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Pinatrial |  
@@ -18,10 +16,10 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Kinatrial]]'nın kardeşi, demirci, utangaç otistik<br>Balyoz + Breastplate giyiyor |  
   
-</div>  
-<div class="column" markdown>  
 ![[Pinatrial_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	[[Kinatrial]]'nın kardeşi, demirci, utangaç otistik  
+	Balyoz + Breastplate giyiyor  

@@ -14,4 +14,8 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Giant araştırmacısı<br>[[Vincent]]'ın eski arkadaşı |  
+  
+  
+!!! note "İlave Notlar"  
+	Giant araştırmacısı  
+	[[Vincent]]'ın eski arkadaşı  

@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | General Shop satıcısı |  
+  
+  
+!!! note "İlave Notlar"  
+	General Shop satıcısı  

@@ -10,4 +10,7 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Kaplan totemi |  
+  
+  
+!!! note "İlave Notlar"  
+	Kaplan totemi  

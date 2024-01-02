@@ -10,4 +10,7 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Sağ kalan tam vampir |  
+  
+  
+!!! note "İlave Notlar"  
+	Sağ kalan tam vampir  

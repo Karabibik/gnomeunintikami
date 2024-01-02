@@ -10,4 +10,7 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Könningsburg'u dünyanın başkenti ilan eden Kral |  
+  
+  
+!!! note "İlave Notlar"  
+	Könningsburg'u dünyanın başkenti ilan eden Kral  

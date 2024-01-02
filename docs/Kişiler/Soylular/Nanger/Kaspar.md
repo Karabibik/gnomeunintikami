@@ -10,4 +10,7 @@
 | **Kütük** | [[Aedil]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Wizard rektör |  
+  
+  
+!!! note "İlave Notlar"  
+	Wizard rektör  

@@ -10,4 +10,8 @@
 | **Kütük** | [[Sevorg]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Goliath high-chief'i<br>Frost giant şefini yenip üç kabileyi de buyruk altına almış |  
+  
+  
+!!! note "İlave Notlar"  
+	Goliath high-chief'i  
+	Frost giant şefini yenip üç kabileyi de buyruk altına almış  

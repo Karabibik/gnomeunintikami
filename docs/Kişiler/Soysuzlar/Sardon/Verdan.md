@@ -10,4 +10,7 @@
 | **Kütük** | [[Sardon]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Sardon'lu crime boss |  
+  
+  
+!!! note "İlave Notlar"  
+	Sardon'lu crime boss  

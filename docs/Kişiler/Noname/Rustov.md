@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Her şeyi bildiği söylenen abi |  
+  
+  
+!!! note "İlave Notlar"  
+	Her şeyi bildiği söylenen abi  

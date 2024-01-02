@@ -10,4 +10,7 @@
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | sarışın, hançerli |  
-| **İlave Notlar** | Boswan'ın etrafındaki adamlardan |  
+  
+  
+!!! note "İlave Notlar"  
+	Boswan'ın etrafındaki adamlardan  

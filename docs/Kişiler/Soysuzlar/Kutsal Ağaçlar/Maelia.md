@@ -1,8 +1,6 @@
 # Maelia   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Maelia |  
@@ -14,10 +12,9 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 230 yaşında |  
-| **İlave Notlar** | Kartal totemi |  
   
-</div>  
-<div class="column" markdown>  
 ![[Maelia_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Kartal totemi  

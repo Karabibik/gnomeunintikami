@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Agnes]]'in koruması, sadık |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Agnes]]'in koruması, sadık  

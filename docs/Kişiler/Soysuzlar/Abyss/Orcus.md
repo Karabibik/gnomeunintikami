@@ -10,4 +10,7 @@
 | **Kütük** | [[Abyss]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Abyss lordu |  
+  
+  
+!!! note "İlave Notlar"  
+	Abyss lordu  

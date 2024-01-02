@@ -14,4 +14,8 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Dragan öldürmüş<br>Tanrılar kralı |  
+  
+  
+!!! note "İlave Notlar"  
+	Dragan öldürmüş  
+	Tanrılar kralı  

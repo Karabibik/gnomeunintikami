@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 2 metre boyunda, kaslı adam<br>Yaldır yaldır parlayan yekpare çekici var |  
-| **İlave Notlar** | Vanguard captain |  
+  
+  
+!!! note "İlave Notlar"  
+	Vanguard captain  

@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 35-40 yaşlarında |  
-| **İlave Notlar** | [[Celeste]]'nin yaveri |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Celeste]]'nin yaveri  

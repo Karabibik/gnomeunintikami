@@ -10,4 +10,7 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Kutsal Ağaçlar reisi, Kurt totemi |  
+  
+  
+!!! note "İlave Notlar"  
+	Kutsal Ağaçlar reisi, Kurt totemi  

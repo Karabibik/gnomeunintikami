@@ -14,4 +14,7 @@ tags:
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** | Teni kırmızı, kıllar kırmızı |  
-| **İlave Notlar** | Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz |  
+  
+  
+!!! note "İlave Notlar"  
+	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz  

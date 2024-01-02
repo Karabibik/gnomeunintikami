@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Kırık çıkıkçı |  
+  
+  
+!!! note "İlave Notlar"  
+	Kırık çıkıkçı  

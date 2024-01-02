@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş |  
+  
+  
+!!! note "İlave Notlar"  
+	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş  

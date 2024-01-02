@@ -1,8 +1,6 @@
 # Tamara   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Tamara |  
@@ -14,10 +12,10 @@
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Plate armorlu, hafif adımlı |  
-| **İlave Notlar** | [[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe gidiyor<br>Küçükken ayrılmış, ailesi kızgın |  
   
-</div>  
-<div class="column" markdown>  
 ![[Tamara_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	[[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe gidiyor  
+	Küçükken ayrılmış, ailesi kızgın  

@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Ana elf tanrısı |  
+  
+  
+!!! note "İlave Notlar"  
+	Ana elf tanrısı  

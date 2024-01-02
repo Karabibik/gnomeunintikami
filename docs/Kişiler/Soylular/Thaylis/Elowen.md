@@ -1,4 +1,6 @@
 # Elowen Thaylis  
+  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Elowen |  
@@ -10,4 +12,10 @@
 | **Kütük** | [[Mageocracy]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Yaşı Delador'a yakın ve ona karşı durabilen nadir kişilerden<br>Mageocracy'nin başı |  
+  
+![[Elowen_portrait.webp]]  
+</div>  
+  
+!!! note "İlave Notlar"  
+	Yaşı Delador'a yakın ve ona karşı durabilen nadir kişilerden  
+	Mageocracy'nin başı  

@@ -10,4 +10,8 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | 30 yaşlarında |  
-| **İlave Notlar** | [[Beer Mire]] hanının işletmecisi<br>Thieves' cant'e hakim. |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Beer Mire]] hanının işletmecisi  
+	Thieves' cant'e hakim.  

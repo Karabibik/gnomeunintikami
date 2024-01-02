@@ -1,8 +1,6 @@
 # Teagan Redwyne  
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Teagan |  
@@ -14,10 +12,10 @@
 | **Kütük** | [[Surdibi]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | koyu kahve saçlı, bakımlı sivri sakallı<br>yeşil gözlü<br>keanu reeves gibi |  
-| **İlave Notlar** | kırmızı tabardı var, üzerinde ejderya kafası<br>elindeki glaive tamamen kırmızı, tahta olması gereken yer bile metalik parlıyor |  
   
-</div>  
-<div class="column" markdown>  
 ![[Teagan_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	kırmızı tabardı var, üzerinde ejderya kafası  
+	elindeki glaive tamamen kırmızı, tahta olması gereken yer bile metalik parlıyor  

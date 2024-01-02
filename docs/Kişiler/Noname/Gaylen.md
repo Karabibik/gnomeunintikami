@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Orta seviye hırsız |  
+  
+  
+!!! note "İlave Notlar"  
+	Orta seviye hırsız  

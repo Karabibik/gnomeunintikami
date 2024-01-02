@@ -10,4 +10,7 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Mündung - 3'ün kaptanı |  
+  
+  
+!!! note "İlave Notlar"  
+	Mündung - 3'ün kaptanı  

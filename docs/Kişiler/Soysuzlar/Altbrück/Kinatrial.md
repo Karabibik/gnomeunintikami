@@ -5,9 +5,7 @@ tags:
 ---  
 # Kinatrial   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Kinatrial |  
@@ -19,10 +17,9 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Her yerine mücevher takmış |  
-| **İlave Notlar** | Mücevherci, [[Pinatrial]]'nın kardeşi |  
   
-</div>  
-<div class="column" markdown>  
 ![[Kinatrial_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Mücevherci, [[Pinatrial]]'nın kardeşi  

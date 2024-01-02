@@ -10,4 +10,7 @@
 | **Kütük** | [[Fey Wilds]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Kalan tek elder chromatic dragon, green dragonların kralı |  
+  
+  
+!!! note "İlave Notlar"  
+	Kalan tek elder chromatic dragon, green dragonların kralı  

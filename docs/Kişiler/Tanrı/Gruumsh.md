@@ -10,4 +10,7 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Ork tanrısı |  
+  
+  
+!!! note "İlave Notlar"  
+	Ork tanrısı  

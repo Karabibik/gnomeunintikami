@@ -10,4 +10,7 @@
 | **Kütük** | [[Soradin]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Ejderha kralı, elder drake |  
+  
+  
+!!! note "İlave Notlar"  
+	Ejderha kralı, elder drake  

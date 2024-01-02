@@ -16,4 +16,7 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Uzun saçlı kumral kadın |  
-| **İlave Notlar** | John Ryld'ın sekreteri |  
+  
+  
+!!! note "İlave Notlar"  
+	John Ryld'ın sekreteri  

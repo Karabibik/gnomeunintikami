@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Berke'nin karakteri |  
+  
+  
+!!! note "İlave Notlar"  
+	Berke'nin karakteri  

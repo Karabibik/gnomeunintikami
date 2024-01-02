@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Alfons'un babası |  
+  
+  
+!!! note "İlave Notlar"  
+	Alfons'un babası  

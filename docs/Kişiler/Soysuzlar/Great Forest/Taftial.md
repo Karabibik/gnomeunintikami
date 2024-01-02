@@ -1,8 +1,6 @@
 # Taftial   
   
-<div class="row" markdown>  
-<div class="column" markdown>  
-  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Taftial |  
@@ -14,10 +12,10 @@
 | **Kütük** | [[Great Forest]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Mert'in eski karakteri<br>Orman elfleriyle bir bağı var |  
   
-</div>  
-<div class="column" markdown>  
 ![[Taftial_portrait.webp]]  
 </div>  
-</div>
+  
+!!! note "İlave Notlar"  
+	Mert'in eski karakteri  
+	Orman elfleriyle bir bağı var  

@@ -10,4 +10,7 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Değirmenci |  
+  
+  
+!!! note "İlave Notlar"  
+	Değirmenci  

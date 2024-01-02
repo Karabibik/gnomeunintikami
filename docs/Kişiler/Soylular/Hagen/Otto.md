@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Karısından dolayı [[Alfons]]'a tilt |  
+  
+  
+!!! note "İlave Notlar"  
+	Karısından dolayı [[Alfons]]'a tilt  

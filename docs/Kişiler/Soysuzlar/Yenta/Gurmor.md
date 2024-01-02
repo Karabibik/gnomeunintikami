@@ -10,4 +10,8 @@
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Sıradan goliath işte<br>Mark'ın adamı |  
+  
+  
+!!! note "İlave Notlar"  
+	Sıradan goliath işte  
+	Mark'ın adamı  

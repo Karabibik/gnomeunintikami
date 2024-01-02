@@ -10,4 +10,7 @@
 | **Kütük** | [[Sardon]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Beyaz |  
-| **İlave Notlar** | [[Muzog]]'u tarikatçılardan kaçıran bir dost, adı "yedi" demek |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Muzog]]'u tarikatçılardan kaçıran bir dost, adı "yedi" demek  

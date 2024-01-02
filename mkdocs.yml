@@ -15,8 +15,6 @@ theme:
       - content.tooltips
       
     palette:
-
-    # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: red
@@ -45,6 +43,8 @@ markdown_extensions:
   - footnotes
   - tables
   - md_in_html
+  - admonition
+  - pymdownx.details
   
 plugins:
   - search

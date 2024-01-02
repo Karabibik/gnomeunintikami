@@ -1,11 +1,6 @@
 # Renate Roth  
   
-<div class="grid" markdown>  
-  
-  
-</div>  
 <div class="grid cards" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Renate |  
@@ -17,7 +12,11 @@
 | **Kütük** | [[Hannog]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Aslında bayağı yaşlı ama elf kanı var diyorlar |  
-| **İlave Notlar** | Wizard rektör<br>Bazen tekme tokat dövüyor, efsane<br>Delador'un sağ kolu |  
   
 ![[Renate_portrait.webp]]  
-</div>
+</div>  
+  
+!!! note "İlave Notlar"  
+	Wizard rektör  
+	Bazen tekme tokat dövüyor, efsane  
+	Delador'un sağ kolu  

@@ -10,4 +10,8 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | lawful good, [[Solsitis]]'in üçlüsünden<br>karanlığın köküne kibrit suyu, düzen sağlıyor |  
+  
+  
+!!! note "İlave Notlar"  
+	lawful good, [[Solsitis]]'in üçlüsünden  
+	karanlığın köküne kibrit suyu, düzen sağlıyor  

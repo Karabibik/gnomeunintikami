@@ -10,4 +10,8 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Delador]]'un çırağı, Delador bi ara buna sinirlenince perma slow atmış<br>19. High Mage |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Delador]]'un çırağı, Delador bi ara buna sinirlenince perma slow atmış  
+	19. High Mage  

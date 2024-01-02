@@ -10,4 +10,7 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40larında |  
-| **İlave Notlar** | [[Balık Kovası]] hanının işletmecisi |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Balık Kovası]] hanının işletmecisi  

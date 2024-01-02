@@ -10,4 +10,7 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | Könningsburg'daki demon çağıranların lideri |  
+  
+  
+!!! note "İlave Notlar"  
+	Könningsburg'daki demon çağıranların lideri  

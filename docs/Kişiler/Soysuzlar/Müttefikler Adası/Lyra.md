@@ -10,4 +10,7 @@
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** |  |  
+  
+  
+!!! note "İlave Notlar"  
+	  

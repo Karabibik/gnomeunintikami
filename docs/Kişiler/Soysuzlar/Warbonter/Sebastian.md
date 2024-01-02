@@ -10,4 +10,7 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | [[Beljardin]] kahyası |  
+  
+  
+!!! note "İlave Notlar"  
+	[[Beljardin]] kahyası  

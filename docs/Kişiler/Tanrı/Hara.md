@@ -10,4 +10,8 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
-| **İlave Notlar** | neutral good, [[Solsitis]]'in üçlüsünden<br>zor durumdakilere yol gösteren ve Solsitis adına haberci |  
+  
+  
+!!! note "İlave Notlar"  
+	neutral good, [[Solsitis]]'in üçlüsünden  
+	zor durumdakilere yol gösteren ve Solsitis adına haberci  
