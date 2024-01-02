@@ -1,6 +1,7 @@
 ---
 tags:
   - Eşya
+  - Attunement
 ---  
   
 |  |  |  
@@ -11,4 +12,4 @@ tags:
 | **Rarity** | Rare|  
 | **Kimde** | [[Alfons]], [[Muzog]], [[Harrion]]|  
 | **Menşei** | Hal Web|  
-| **İşlev** | AC +1, Saving +1 (attunement)|  
+| **İşlev** | AC +1, Saving +1|  

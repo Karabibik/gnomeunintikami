@@ -1,6 +1,7 @@
 ---
 tags:
   - Eşya
+  - Attunement
 ---  
   
 |  |  |  
@@ -11,4 +12,4 @@ tags:
 | **Rarity** | Uncommon|  
 | **Kimde** | [[Harrion]]|  
 | **Menşei** | Pinatrial|  
-| **İşlev** | Movement +10 (attunement)|  
+| **İşlev** | Movement +10|  

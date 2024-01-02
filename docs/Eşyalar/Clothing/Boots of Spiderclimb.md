@@ -1,6 +1,7 @@
 ---
 tags:
   - Eşya
+  - Attunement
 ---  
   
 |  |  |  
@@ -11,4 +12,4 @@ tags:
 | **Rarity** | Uncommon|  
 | **Kimde** | [[Philip]]|  
 | **Menşei** | Vilenor Mazgan|  
-| **İşlev** | Spiderman (attunement)|  
+| **İşlev** | Spiderman|  

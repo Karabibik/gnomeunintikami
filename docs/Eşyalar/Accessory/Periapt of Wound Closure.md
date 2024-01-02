@@ -1,6 +1,7 @@
 ---
 tags:
   - Eşya
+  - Attunement
 ---  
   
 |  |  |  
@@ -11,4 +12,4 @@ tags:
 | **Rarity** | Uncommon|  
 | **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  
-| **İşlev** | Stabilize if dead (attunement)|  
+| **İşlev** | Stabilize if dead|  

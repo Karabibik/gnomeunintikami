@@ -1,6 +1,7 @@
 ---
 tags:
   - Eşya
+  - Attunement
 ---  
   
 |  |  |  
@@ -11,4 +12,4 @@ tags:
 | **Rarity** | Rare|  
 | **Kimde** | [[Philip]]|  
 | **Menşei** | Hag Mağarası|  
-| **İşlev** | Darkvision + Waterbreathing (attunement)|  
+| **İşlev** | Darkvision + Waterbreathing|  

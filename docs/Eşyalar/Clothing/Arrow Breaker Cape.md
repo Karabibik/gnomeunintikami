@@ -1,6 +1,7 @@
 ---
 tags:
   - Eşya
+  - Attunement
 ---  
   
 |  |  |  
@@ -11,4 +12,4 @@ tags:
 | **Rarity** | Common|  
 | **Kimde** | [[Harrion]]|  
 | **Menşei** | Warbroth|  
-| **İşlev** | AC +2 vs projectile (attunement)|  
+| **İşlev** | AC +2 vs projectile|  

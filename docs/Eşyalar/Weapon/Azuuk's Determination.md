@@ -1,6 +1,7 @@
 ---
 tags:
   - Eşya
+  - Attunement
 ---  
   
 |  |  |  
@@ -11,4 +12,4 @@ tags:
 | **Rarity** | Rare|  
 | **Kimde** | [[Kanon]]|  
 | **Menşei** | Azuuk|  
-| **İşlev** | Longsword +1, Misty Step (attunement)|  
+| **İşlev** | Longsword +1, Misty Step|  

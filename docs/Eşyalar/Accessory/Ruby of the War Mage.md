@@ -1,6 +1,7 @@
 ---
 tags:
   - Eşya
+  - Attunement
 ---  
   
 |  |  |  
@@ -11,4 +12,4 @@ tags:
 | **Rarity** | Common|  
 | **Kimde** | |  
 | **Menşei** | |  
-| **İşlev** | Attached become spell focus (attunement)|  
+| **İşlev** | Attached become spell focus|  
