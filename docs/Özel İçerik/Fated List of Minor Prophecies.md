@@ -24,6 +24,5 @@
 | Tower Tracker  | Re-discover all 5 Elf towers | Party effort (2/5) |  
 | Wizarding World Tour | Visit each major wizard school | Harrion (2/5) |  
   
-    
-  [def1]: İmparatorluk, Soradin Federasyonu, Rand Diyarı, Warseir, Güneş Adaları, Kuzey, Büyük Orman  
-  [ach1]: Kolandir'in Baltası
+  [def1]: < > "İmparatorluk, Soradin Federasyonu, Rand Diyarı, Warseir, Güneş Adaları, Kuzey, Büyük Orman"  
+  [ach1]: < > "Kolandir'in Baltası"
