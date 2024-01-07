@@ -1,1 +1,1 @@
-<embed src="../Dragons_of_Brohwar.pdf" width="100%" height="1000px" type="application/pdf">
+<embed src="../Dragons_of_Brohwar.pdf" width="100%" height="100%" type="application/pdf">

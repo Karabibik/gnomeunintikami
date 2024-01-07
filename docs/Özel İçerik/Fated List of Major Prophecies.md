@@ -14,5 +14,5 @@
 | Tight Embrace | Be formally accepted to the [[Great Forest]] |  |  
 | Tower Tracker | Re-discover all 5 Elf towers | Ongoing (2/5) |  
   
-[ach1]: "Belanord"  
-[ach2]: "Arela, Aric, Corbin"  
+[ach1]: (Belanord)  
+[ach2]: (Arela, Aric, Corbin)  

@@ -3,6 +3,9 @@ tags:
   - Zekeriya
 ---  
 # Zarathia   
+  
+<div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Zarathia |  
@@ -14,6 +17,15 @@ tags:
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 1.80 civarında boyu |  
+  
+  
+=== "Zarathia"  
+	![[Zarathia_1.webp]]  
+  
+=== "Possessed"  
+	![[Zarathia_2.webp]]  
+</div>  
+  
   
   
 !!! note "İlave Notlar"  

@@ -28,11 +28,11 @@
 | Waltzing on the Rooftops | Learn 5 different teleportation circle runes | Harrion [(2/5)][ach1] |  
 | Wizarding World Tour | Visit all major [wizard schools][def10] | Harrion (3/4) |  
   
-[ach1]: <javascript:void(0)> "Warbonter Üniversitesi, Praetor'un Evi"  
-[def2]: <javascript:void(0)> "Solsitis, Dragan, Harlaus, Harsus, Keira/Mellora"  
-[def3]: <javascript:void(0)> "Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard"  
-[def4]: <javascript:void(0)> "Elemental Planes (Water, Fire, Air, Earth), Fey Wilds, Shadowfell, Celestial, Fiendish"  
-[def6]: <javascript:void(0)> "İmparatorluk, Soradin Federasyonu, Rand Diyarı, Warseir, Güneş Adaları, Kuzey, Büyük Orman, Cüce Krallıkları"  
-[ach7]: <javascript:void(0)> "Kolandir's Echo"  
-[ach9]: <javascript:void(0)> "Harrion's Hoops, Harrion's Fallout, Harpoon of the Golden Monarch"  
-[def10]: <javascript:void(0)> "Güneş Adaları, İmparatorluk, Müttefikler Adası, Soradin Federasyonu"
+[ach1]: (Warbonter Üniversitesi, Praetor'un Evi)  
+[def2]: (Solsitis, Dragan, Harlaus, Harsus, Keira/Mellora)  
+[def3]: (Barbarian, Bard, Cleric, Druid, Fighter, Monk, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard)  
+[def4]: (Elemental Planes (Water, Fire, Air, Earth), Fey Wilds, Shadowfell, Celestial, Fiendish)  
+[def6]: (İmparatorluk, Soradin Federasyonu, Rand Diyarı, Warseir, Güneş Adaları, Kuzey, Büyük Orman, Cüce Krallıkları)  
+[ach7]: (Kolandir's Echo)  
+[ach9]: (Harrion's Hoops, Harrion's Fallout, Harpoon of the Golden Monarch)  
+[def10]: (Güneş Adaları, İmparatorluk, Müttefikler Adası, Soradin Federasyonu)
