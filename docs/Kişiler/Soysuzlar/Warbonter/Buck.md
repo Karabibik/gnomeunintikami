@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Philip'in Evsiz Uşaklarından  
+	Philip'in eski ekibi Evsiz Uşaklar'da bir pleb  

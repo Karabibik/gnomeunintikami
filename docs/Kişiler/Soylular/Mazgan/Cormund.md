@@ -9,8 +9,8 @@
 | **Sınıf** | Paladin ([[Solsitis]]) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** | 30 yaşlarında<br>uzun at kuyruklu |  
+| **Karakter Betimi** | 30 yaşlarında<br>Uzun at kuyruklu |  
   
   
 !!! note "İlave Notlar"  
-	Güneş Birliği Paladini  
+	Güneş Birliği paladini  

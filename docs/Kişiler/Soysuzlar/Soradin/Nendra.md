@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Eilistraecilerin başrahibesi  
+	Eilistraecilerin başrahibesi.  

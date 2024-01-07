@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Mora'nın Güzellikleri]], kerhane işletmecisi  
+	[[Mora'nın Güzellikleri]] işletmecisi.  

@@ -9,7 +9,7 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
-| **Karakter Betimi** | Kambur, göbekli, kirli sakallı, kel, meymenetsiz |  
+| **Karakter Betimi** | Kambur, göbekli<br>Kirli sakallı, kel<br>Meymenetsiz |  
   
   
 !!! note "İlave Notlar"  

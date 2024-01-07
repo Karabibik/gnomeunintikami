@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Ölülerin ruhlarını koruyor  
-	Tapınılması yasak değil ama çok tapınanı yok  
+	Ölülerin ruhlarını koruyor. Tapınılması yasak değil ama çok tapınanı yok.  

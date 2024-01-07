@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Rannok'un kardeşi  
+	Rannok'un kardeşi.  

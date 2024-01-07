@@ -17,4 +17,4 @@
 </div>  
   
 !!! note "İlave Notlar"  
-	Eskiden paralı askerlik yapmış, herkesten güçlü savaşçı, champion  
+	Zamanında paralı askerlik yapmış, hâlâ da yapmaya devam ediyor. Herkesten güçlü, ayı totemi zaten.  

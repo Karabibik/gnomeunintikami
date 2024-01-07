@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Halstein'ın babası  
+	Halstein'ın babası.  

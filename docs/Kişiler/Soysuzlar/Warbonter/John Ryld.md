@@ -13,12 +13,8 @@ tags:
 | **Sınıf** |  |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
-| **Karakter Betimi** | 48 yaşında<br>kır saçlı<br>orta boylu |  
+| **Karakter Betimi** | 48 yaşında<br>Kır saçlı, orta boylu |  
   
   
 !!! note "İlave Notlar"  
-	Soylu, dükün sağ kolu, thiefcatcher ama içten pazarlıklı  
-	[[Evsiz Uşaklar]]a kolpa atıp kendi hırsızlarını yönetiyor  
-	Artifact çalınmış gibi yapıyor  
-	36 yaşında muhafızların başına geçti  
-	Şu an bütün illegal oplar üstünden geçiyor  
+	Soylu, dükün sağ kolu, thiefcatcher ama içten pazarlıklı. Diğer hırsızları ekarte edip kendi hırsızlarını yönetiyor. Artifact çalınmış gibi yapıyor, suçu [[Evsiz Uşaklar]]'a atıyor. 36 yaşında muhafızların başına geçti, bütün illegal oplar üstünden geçiyordu. Adalete teslim edildi.  

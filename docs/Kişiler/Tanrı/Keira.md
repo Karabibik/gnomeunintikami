@@ -4,7 +4,7 @@
 | **İsim** | Keira |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** |  |  
+| **Cinsiyet** | Kadın |  
 | **Irk** |  |  
 | **Sınıf** |  |  
 | **Kütük** |  |  
@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Deniz ve fırtına tanrısı  
+	Deniz ve fırtına tanrısı.  

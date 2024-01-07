@@ -17,5 +17,4 @@
 </div>  
   
 !!! note "İlave Notlar"  
-	Arena çığırtkanı, [[Vincent]]'ın uşağı  
-	Annesi half-devil  
+	Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan adamı.  

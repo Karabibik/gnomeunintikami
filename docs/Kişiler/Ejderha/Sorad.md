@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Ejderha kralı, elder drake  
+	Ejderha kralı, elder drake.  

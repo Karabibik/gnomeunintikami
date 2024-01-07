@@ -2,7 +2,7 @@
 tags:
   - Aile
 ---  
-İmparatorluk bünyesinde bir  aile.  
+İmparatorluk bünyesinde bir aile.  
   
 Bilinen üyeleri:  
-- [[Renate]]
+- [[Renata]]

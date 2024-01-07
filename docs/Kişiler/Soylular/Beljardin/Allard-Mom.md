@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Allard'ın annesi  
+	Allard'ın annesi ama hanedeki tek işlevi anne olmak zira reis Agnes.  

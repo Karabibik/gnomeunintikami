@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Abyss lordu  
+	Abyss lordu.  

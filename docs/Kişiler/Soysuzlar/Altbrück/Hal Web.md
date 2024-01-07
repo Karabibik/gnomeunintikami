@@ -23,4 +23,4 @@ tags:
 </div>  
   
 !!! note "İlave Notlar"  
-	Eski [[Güneş Birliği]] koruması, [[Immortal Merchant]]'ın adamı olduktan sonra kanını bulup yerine geçmek istiyordu  
+	Eski [[Güneş Birliği]] koruması. [[Immortal Merchant]]'ın adamı olduktan sonra kanını bulup yerine geçmek istiyordu. O yüzden çeşitli katakulliler çevirdi ama sonunda daed.  

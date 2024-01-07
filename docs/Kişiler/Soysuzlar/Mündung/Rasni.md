@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Amk bombacısı, barutçubaşı  
+	Küçük bombacı, barutçubaşı.  

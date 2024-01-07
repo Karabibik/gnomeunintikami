@@ -17,4 +17,4 @@ tags:
   
   
 !!! note "İlave Notlar"  
-	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz  
+	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz.  

@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	John Ryld'a bağlı hareket eden çetelerin başı  
+	John Ryld'a bağlı hareket eden çetelerin başı.  

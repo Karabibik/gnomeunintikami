@@ -13,6 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Warbonter Dükü, imparatorlukta çok meşhur. İmparatorun büyük amcası  
-	Sert mizaçlı, 60 senedir yönetici ama 20 senedir çekilmiş  
-	Tahtı iki kere kaçırmış elinden  
+	İmparator'un büyük amcası, Warbonter Dükü. İmparatorluk'ta çok meşhur. Sert mizaçlı biri. 60 senedir yönetici ama 20 senedir elini eteğini biraz çekmiş. Tahtı iki kere kaçırmış elinden.  

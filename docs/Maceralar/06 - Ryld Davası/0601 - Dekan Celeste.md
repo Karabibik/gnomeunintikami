@@ -11,7 +11,7 @@ Celeste'ye oy verme ihtimali olan kişiler:
 > "Yakın zamanda görüştük, sorun yok"  
 2) [[Kaspar]] Nanger -> Aedil rektörü, Conjuration  
 	- Celestenin en güvendiği aday  
-3) [[Renate]] Roth -> Hannog rektörü, Enchanter  
+3) [[Renata]] Roth -> Hannog rektörü, Enchanter  
 >  "Wildcard, ne oy verir bilmiyorum"  
 	  
 *Delador'un oyu 2 sayılıyor

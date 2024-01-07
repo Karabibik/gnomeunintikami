@@ -63,7 +63,7 @@ hem de büyülü silahlarını bırakıp yapıyorlar final atışlarını, phili
   
 **  
   
-halstein'ın yanında renate roth oturuyor, celeste ile agnes ikisi de geriliyor noluyor, savaşa mı geldi diye  
+halstein'ın yanında renata roth oturuyor, celeste ile agnes ikisi de geriliyor noluyor, savaşa mı geldi diye  
   
   
 **combat planları yapılıyor, turnuvaya hazırız**

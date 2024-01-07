@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Goliath tanrısı  
+	Goliath tanrısı.  

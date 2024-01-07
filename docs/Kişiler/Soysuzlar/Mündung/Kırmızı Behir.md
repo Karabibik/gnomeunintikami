@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Sağ kalan tam vampir  
+	Sağ kalan tam vampir.  

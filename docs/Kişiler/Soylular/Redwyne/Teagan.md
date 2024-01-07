@@ -11,11 +11,11 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Surdibi]] |  
 | **Münasebet** |  |  
-| **Karakter Betimi** | koyu kahve saçlı, bakımlı sivri sakallı<br>yeşil gözlü<br>keanu reeves gibi |  
+| **Karakter Betimi** | Koyu kahve saçlı, bakımlı sivri sakallı<br>Yeşil gözlü, Keanu Reeves tipli<br>Kırmızı tabard ve glaive kullanıyor |  
   
 ![[Teagan_portrait.webp]]  
 </div>  
   
 !!! note "İlave Notlar"  
-	kırmızı tabardı var, üzerinde ejderya kafası  
-	elindeki glaive tamamen kırmızı, tahta olması gereken yer bile metalik parlıyor  
+	Tabardında ejderha kafası sembolü var  
+	Elindeki glaive tamamen kırmızı, tahta olması gereken yer bile metalik parlıyor  

@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Mündung dükü [[Elias]]'ın kız kardeşi  
-	on numara parti lokali başkanı  
+	Mündung dükü [[Elias]]'ın kız kardeşi. Kardeşi gibi değil, on numara parti lokali başkanı.  

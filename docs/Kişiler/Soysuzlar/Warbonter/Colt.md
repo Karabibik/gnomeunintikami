@@ -1,3 +1,7 @@
+---
+tags:
+  - Daidan
+---  
 # Colt   
 |  |  |  
 |---|---|  
@@ -13,4 +17,4 @@
   
   
 !!! note "İlave Notlar"  
-	Philip'in Evsiz Uşaklarından  
+	Philip'in eski ekibi Evsiz Uşaklar'ın başı  

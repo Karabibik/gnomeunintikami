@@ -17,5 +17,4 @@
 </div>  
   
 !!! note "İlave Notlar"  
-	aynı gecede soradin, rand diyarı ve bir yerdeki  daha hükümdarlar öldürülmüş  
-	[[Rand Diyarı]]'ndaki katliamı bu yapmış  
+	Aynı gecede Soradin, Rand Diyarı ve İmparatorluk hükümdarları öldürülmüş. [[Rand Diyarı]]'ndaki cinayetten Slayer'ın mesul olduğu söyleniyor.  

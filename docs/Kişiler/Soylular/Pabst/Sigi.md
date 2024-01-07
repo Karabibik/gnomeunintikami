@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Üniversitede Abjuration kürsü başkanı  
-	Ryld'dan memnun değil  
+	Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.  

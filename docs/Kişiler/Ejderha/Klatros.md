@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Kalan tek elder chromatic dragon, green dragonların kralı  
+	Kalan tek elder chromatic dragon, green dragonların kralı.  

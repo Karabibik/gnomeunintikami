@@ -17,4 +17,4 @@ tags:
   
   
 !!! note "İlave Notlar"  
-	Savaştan sağ çıkan tek vampir lordu  
+	Savaştan sağ çıkan tek vampir lordu.  

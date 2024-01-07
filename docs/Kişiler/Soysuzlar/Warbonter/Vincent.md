@@ -9,10 +9,8 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** | 30 yaşlarında görünüyor<br>uzun siyah saçlı at kuyruğu |  
+| **Karakter Betimi** | 30 yaşlarında görünüyor<br>Uzun siyah at kuyruğu yapılmış saçlı |  
   
   
 !!! note "İlave Notlar"  
-	[[Immortal Merchant]]'ın katibiydi ama [[Eilistrae]] rahipleri iyileştirdi  
-	iki yüz senede bir halt öğrenememiş eski [[Güneş Birliği]] scholar'ı  
-	[[Adelyus]] yardımını istemiş Abyss'e girmek için  
+	Eski [[Güneş Birliği]] scholar'ı. Vampire dönüşünce [[Immortal Merchant]]'ın katibi olmuş. Sonrasında [[Eilistrae]] rahipleri iyileştirmiş kendisini. [[Adelyus]] kendisinden yardım istemiş Abyss'e girmek için. Ejderhalara özel ilgisi var.  

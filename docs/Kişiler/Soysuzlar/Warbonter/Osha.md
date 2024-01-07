@@ -15,8 +15,8 @@ tags:
 | **Sınıf** | Monk (Level 10+) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
-| **Karakter Betimi** | Uzun saçlı kumral kadın |  
+| **Karakter Betimi** | Uzun saçlı, kumral |  
   
   
 !!! note "İlave Notlar"  
-	John Ryld'ın sekreteri  
+	John Ryld'ın sekreteri.  

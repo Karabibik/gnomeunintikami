@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Etrafı bilen, suç organizatörü  
-	Boswan'ın etrafındaki adamlardan  
+	Etrafı bilen, suç organizatörü. Boswan'ın etrafındaki adamlardan.  

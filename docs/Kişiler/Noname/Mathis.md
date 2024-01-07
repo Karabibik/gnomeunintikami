@@ -17,5 +17,4 @@ tags:
   
   
 !!! note "İlave Notlar"  
-	Giant araştırmacısı  
-	[[Vincent]]'ın eski arkadaşı  
+	Giant araştırmacısı, [[Vincent]]'ın eski arkadaşı.  

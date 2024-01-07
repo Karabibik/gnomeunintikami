@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Muzog]]'u tarikatçılardan kaçıran bir dost, adı "yedi" demek  
+	[[Muzog]]'u tarikatçılardan kaçıran bir dost, adı "yedi" demek.  

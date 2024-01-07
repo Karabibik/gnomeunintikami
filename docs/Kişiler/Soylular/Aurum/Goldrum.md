@@ -15,13 +15,12 @@ tags:
 | **Sınıf** | Sorcerer (Draconic) (Level 7+) |  
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** | Full dwarf beard, mohawk saçlı<br>Boynundan şakaklara kadar altın rengi pullu<br>Gözleri de altın rengi |  
+| **Karakter Betimi** | Full dwarf beardlı, mohawk saçlı<br>Boynundan şakaklarına kadar altın rengi pullarla kaplı<br>Gözleri de altın rengi<br>Komple siyah/altın rengi ve pahalı kıyafetler giyiniyor |  
   
 ![[Goldrum_portrait.webp]]  
 </div>  
   
 !!! note "İlave Notlar"  
-	[[Aurum]] Krallığı prensi, büyükbabası yedi cüce krallığından birini yönetiyor  
-	Goliathlara karşı çok yardımı dokunmuş  
-	Pullarını eskiden cücelere önderlik eden bir ejderiyadan almış  
-	Komple siyah/altın ve pahalı giyiniyor  
+	[[Aurum]] Krallığı prensi, büyükbabası yedi cüce krallığından birini yönetiyor.  Hanesinin soyu altın ejderhalara dayanıyor, zaten pullu vücuduna bakınca netleşiyor olay.  
+	  
+	Goliath istilası sırasında savunmaya çok katkıda bulunmuş. Zevke sefaya düşkün, bok gibi de parası var ki harcamaktan çekinmiyor. Aurelia'nın merkezinde lüks bir hanı var.  

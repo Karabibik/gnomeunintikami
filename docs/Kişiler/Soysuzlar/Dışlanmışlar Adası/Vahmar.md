@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Pleb olmayan bir arbalet ustası  
-	Alfons *Geas* atıp yanımıza almıştı, öldü gitti zavallıcık  
+	Pleb olmayan bir arbalet ustası. Alfons *Geas* atıp yanımıza almıştı, öldü gitti zavallıcık.  

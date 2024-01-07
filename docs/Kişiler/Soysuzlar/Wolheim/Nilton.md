@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Jeggred]]'in oğlu  
+	[[Jeggred]]'in oğlu.  

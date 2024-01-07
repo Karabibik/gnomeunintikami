@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Halstein'ın ikizi, üç dakika büyük  
-	20 yaşında ölmüş  
+	Halstein'ın ikizi, üç dakika büyük olduğu için İmparator o olmuş. 20 yaşında ölmüş.  

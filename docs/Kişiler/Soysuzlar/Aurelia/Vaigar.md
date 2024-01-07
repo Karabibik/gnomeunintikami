@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Tünel kazma yarışmasına girdi, bayıldı  
+	Tünel kazma yarışmasına girdi. Rakibiyle aşık atmaya çalışırken bayıldı.  

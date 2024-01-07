@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Kutsal Ağaçlar reisi, Kurt totemi  
+	Kutsal Ağaçlar reisi, Kurt totemi.  

@@ -17,4 +17,4 @@
 </div>  
   
 !!! note "İlave Notlar"  
-	Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir  
+	Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir nerede?  

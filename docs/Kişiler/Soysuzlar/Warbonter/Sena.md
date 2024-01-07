@@ -17,4 +17,4 @@ tags:
   
   
 !!! note "İlave Notlar"  
-	Paralı asker, shadowbroker  
+	Paralı asker, shadowbroker.  

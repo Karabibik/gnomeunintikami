@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Karısından dolayı [[Alfons]]'a tilt  
+	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.  

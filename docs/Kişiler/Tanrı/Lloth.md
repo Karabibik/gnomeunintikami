@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Ana drow tanrısı  
+	Ana drow tanrısı.  

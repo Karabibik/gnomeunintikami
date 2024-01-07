@@ -17,5 +17,4 @@ tags:
   
   
 !!! note "İlave Notlar"  
-	Alfons'un tanrısı  
-	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini  
+	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini.  

@@ -1,4 +1,6 @@
 # Auramonar   
+  
+<div class="grid cards" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Auramonar |  
@@ -11,7 +13,8 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Altın sarısı saçları ve elbisesi var<br>Soluk benizli, eflatun gözlü |  
   
+![[Auramonar_portrait.webp]]  
+</div>  
   
 !!! note "İlave Notlar"  
-	[[Praetor Aurelion]]'un kızı  
-	Ekstra kibar  
+	[[Praetor Aurelion]]'un kızı. Ekseriyetle kibar.  

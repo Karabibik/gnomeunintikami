@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik  
+	Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik.  

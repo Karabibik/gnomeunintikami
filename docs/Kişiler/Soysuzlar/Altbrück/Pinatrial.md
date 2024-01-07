@@ -11,15 +11,14 @@ tags:
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Kadın |  
-| **Irk** | Elf |  
+| **Irk** | WoodElf |  
 | **Sınıf** | Cleric (Forge) |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** |  |  
+| **Karakter Betimi** | Balyoz + Breastplate |  
   
 ![[Pinatrial_portrait.webp]]  
 </div>  
   
 !!! note "İlave Notlar"  
-	[[Kinatrial]]'nın kardeşi, demirci, utangaç otistik  
-	Balyoz + Breastplate giyiyor  
+	[[Kinatrial]]'nın kardeşi demirci. Biraz utangaç, otistik bir havası var. Zorlamayın.  

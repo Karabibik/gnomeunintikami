@@ -17,5 +17,4 @@
 </div>  
   
 !!! note "İlave Notlar"  
-	Yaşı Delador'a yakın ve ona karşı durabilen nadir kişilerden  
-	Mageocracy'nin başı  
+	Yaşı Delador'a yakın ve ona karşı durabilen nadir kişilerden. Mageocracy'nin mevcut idarecisi. Rünik büyüler ve özellikle büyülü dövmeler konusundaki çalışmalarıyla biliniyor.  

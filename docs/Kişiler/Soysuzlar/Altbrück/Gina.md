@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Agnes]]'in koruması, sadık  
+	[[Agnes]]'in koruması, sadık.  

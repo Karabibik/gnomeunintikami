@@ -22,5 +22,4 @@ tags:
 </div>  
   
 !!! note "İlave Notlar"  
-	Büyü öğrenmek için yola çıkıp neler neler gördü gnome oğlu gnome  
-	Şu ara [[Güneş Birliği]] yardakçısı  
+	Büyü öğrenmek için yola çıkıp neler gördü gnome oğlu gnome (bkz: [[00 - Harrion'ın Gezileri]]). Aslında eğlencelidir de ölümle yakın münasebette olması biraz yoldan çıkardı. Olabildiğince çok gezip görmeye uğraşıyor. Karşısına niye çıkıyorsunuz…  

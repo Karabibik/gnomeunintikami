@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Beljardin]] kahyası  
+	[[Beljardin]] kahyası.  

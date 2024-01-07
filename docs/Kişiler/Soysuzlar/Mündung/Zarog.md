@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Gemiyle giderken [[Mohako]] kurtarmış denizden  
-	İyi aşçı  
+	Gemiyle giderken [[Mohako]] kurtarmış denizden. İyi aşçı.  

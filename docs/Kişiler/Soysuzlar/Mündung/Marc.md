@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Mündung - 3'ün kaptanı  
+	Mündung - 3'ün kaptanı.  

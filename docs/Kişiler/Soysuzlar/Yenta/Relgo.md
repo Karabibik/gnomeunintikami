@@ -9,8 +9,8 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
-| **Karakter Betimi** | sarışın, hançerli |  
+| **Karakter Betimi** | Sarışın, hançerli |  
   
   
 !!! note "İlave Notlar"  
-	Boswan'ın etrafındaki adamlardan  
+	Boswan'ın etrafındaki adamlardan.  

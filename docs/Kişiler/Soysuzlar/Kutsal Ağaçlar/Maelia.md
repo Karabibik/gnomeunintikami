@@ -7,7 +7,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Kadın |  
-| **Irk** | WoodElf |  
+| **Irk** | CommonElf |  
 | **Sınıf** | Barbarian, Fighter |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
@@ -17,4 +17,4 @@
 </div>  
   
 !!! note "İlave Notlar"  
-	Kartal totemi  
+	Kartal totemi. Çok görmüş geçirmiş, canavar avlamakta ustalaşmış.  

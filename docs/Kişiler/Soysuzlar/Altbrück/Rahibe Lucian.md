@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Tapınak rahibesi, Philip'e gıcık  
+	Tapınak rahibesi, Philip'e gıcık.  

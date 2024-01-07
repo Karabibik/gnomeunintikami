@@ -8,7 +8,7 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Kadın |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric ([[Falona]]?) |  
+| **Sınıf** | Warlock (Level 14) |  
 | **Kütük** |  |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sarışın |  
@@ -17,4 +17,4 @@
 </div>  
   
 !!! note "İlave Notlar"  
-	Demonologist, diriliyor abla, meczup, unutuyor ölünce  
+	Demonologist meczup. Ölüp dirilince unutuyor yaşadıklarının bir kısmını büyük ihtimalle. Falona'nın bir hizmetkârı olduğu tahmin ediliyor.  

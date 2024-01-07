@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Fucking İmparator bitch, Jurgen V'nin oğlu  
+	Fucking İmparator bitch, Jurgen V'in oğlu.  

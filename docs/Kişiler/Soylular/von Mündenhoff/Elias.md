@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Mündung]] dükü  
-	pavyoncu  
+	[[Mündung]] dükü. Pavyoncu.  

@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Güneş Birliği]] ve imparatorluk'un ana tanrısı  
+	[[Güneş Birliği]] ve İmparatorluk'un ana tanrısı.  

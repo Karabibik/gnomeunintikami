@@ -4,7 +4,7 @@ Henüz hiç kimse dünyanın etrafını dolaşmamış olsa da akademik çevreler
   
   
 ## Dünya Haritası  
-![[World Map.webp]]  
+![[World_Map.webp]]  
   
 ## İmparatorluk  
   
@@ -20,6 +20,10 @@ Henüz hiç kimse dünyanın etrafını dolaşmamış olsa da akademik çevreler
   
 ### Mündung  
 ![[Mündung.webp]]  
+  
+## Soradin  
+  
+![[Soradin.webp]]  
   
 ## Kuzey Krallıkları  
   

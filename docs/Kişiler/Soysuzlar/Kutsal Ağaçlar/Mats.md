@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş  
+	Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş.  

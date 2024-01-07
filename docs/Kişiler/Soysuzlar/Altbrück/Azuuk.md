@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Gruumsh'ın Kolları eski başkanı  
-	[[Uliza]]'yla iş görüyordu  
+	Gruumsh'ın Kolları eski başkanı. [[Uliza]]'yla iş görüyordu.  

@@ -13,6 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Drowların aydınlık tanrısı, drowlar çok bilmez, öğretilmez  
-	[[Corellion]] ile [[Lloth]]'un çocuğu, ihanete katılmamış, dark elflere iyilik göstermek istiyor  
-	Rahibeleri insan kasabalarına hediye götürüp senede bir yaratık avlar  
+	Drowların aydınlık tanrısı. Drowlar çok bilmez, öğretilmez. [[Corellion]] ile [[Lloth]]'un çocuğu, ihanete katılmamış. Dark elflere iyilik öğretmek istiyor. Rahibeleri insan kasabalarına hediye götürüp senede bir evil yaratık avlıyor mesela.  

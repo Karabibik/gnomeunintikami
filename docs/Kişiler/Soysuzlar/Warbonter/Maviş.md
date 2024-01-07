@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Üniversite yanındaki açık büfeci cüce  
-	steel hide klanından  
+	Üniversite yanındaki açık büfeci cüce, [[Steelhide]] klanından.  

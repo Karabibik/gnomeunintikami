@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Alfons]]'un aynadaki demon  
+	[[Alfons]]'un aynadaki demon.  

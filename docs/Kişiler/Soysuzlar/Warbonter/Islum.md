@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Beer Mire]] hanının işletmecisi  
-	Thieves' cant'e hakim.  
+	[[Beer Mire]] hanının işletmecisi. Thieves' cant'e hakim.  

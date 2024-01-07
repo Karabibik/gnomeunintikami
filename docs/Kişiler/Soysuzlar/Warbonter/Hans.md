@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Guard, [[John Ryld]]'a karşı çıktı  
+	Guard, [[John Ryld]]'a karşı çıktı.  

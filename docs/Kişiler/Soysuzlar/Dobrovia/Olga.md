@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Tamara]]'nın kız kardeşi  
+	[[Tamara]]'nın kız kardeşi.  

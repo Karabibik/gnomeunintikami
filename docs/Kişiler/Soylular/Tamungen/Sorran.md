@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Shadowguard üyesi teğmen  
+	Shadowguard üyesi teğmen.  

@@ -17,5 +17,4 @@
 </div>  
   
 !!! note "İlave Notlar"  
-	Mert'in eski karakteri  
-	Orman elfleriyle bir bağı var  
+	Orman elflerinde önemli bir pozisyonu var belli ki ama çok şey bilmiyoruz hakkında zira adı sadece bir kere zikredildi.  

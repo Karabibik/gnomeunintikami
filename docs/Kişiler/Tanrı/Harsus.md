@@ -17,5 +17,4 @@ tags:
   
   
 !!! note "İlave Notlar"  
-	Dragan öldürmüş  
-	Tanrılar kralı  
+	Tanrılar kralı, Dragan öldürmüş.  

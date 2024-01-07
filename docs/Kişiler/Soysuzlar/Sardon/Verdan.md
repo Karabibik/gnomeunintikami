@@ -8,7 +8,7 @@
 | **Irk** |  |  
 | **Sınıf** |  |  
 | **Kütük** | [[Sardon]] |  
-| **Münasebet** |  |  
+| **Münasebet** | NPC - Ölü |  
 | **Karakter Betimi** |  |  
   
   

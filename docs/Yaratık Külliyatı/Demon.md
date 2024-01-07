@@ -10,7 +10,7 @@ tags:
   
 [[Demon Mirror|Alfons'un aynasındaki]] şeytan da bunlardan biri. "Demon" kategorisinde olmaları sebebiyle kötücül kaos canlıları oldukları kesin. [[0406 - Yousa Sobe|Yousa ile son savaşımızda]] aynadan iletişime geçmesi ve büyü yapabilmesi ise büyülü güçleri olduğunu gösteriyor. Bunların yanında ayartıcı özellikleri olması sebebiyle savaşta zihin korumasına önem verilmeli.  
 ## Marilith  
-![[Marilith.webp]] { align=right }  
+![[Marilith.webp]]{ align=right }  
   
 Eyvahlar olsun karşısına çıkma talihsizliği yaşayanlara... Glabrezu er ise Marilith subay. Taktiksel saldırılarla çalışıyor, uçuyor kaçıyor... Altı elinde altı silah bulunması, yılan yapılı olması ve demon fıtratı hâlihazırda epeyce bilgi veriyor ama detaylandırmak iyi olur.  
   

@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Alfons'un evlatlık yeğeni  
+	Alfons'un evlatlık yeğeni. Agnes onu kendi kafasındaki şekle sokmaya çalışıyor şimdilik ama eğlenceli çocuk.  

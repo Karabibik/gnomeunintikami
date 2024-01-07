@@ -4,7 +4,7 @@
 | **İsim** | Mellora |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** |  |  
+| **Cinsiyet** | Kadın |  
 | **Irk** |  |  
 | **Sınıf** |  |  
 | **Kütük** |  |  
@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Doğa tanrıçası  
+	Doğa tanrıçası.  

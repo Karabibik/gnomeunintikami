@@ -9,8 +9,8 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** | Kil/kızıl tenli<br>kahverengi kısa saçlı |  
+| **Karakter Betimi** | Kil/kızıl tenli<br>Kahverengi kısa saçlı |  
   
   
 !!! note "İlave Notlar"  
-	Elf Queen Consort, [[Tinrel]]den daha ılımlı  
+	Elven Queen Consort, [[Tinrel]]den daha ılımlı.  

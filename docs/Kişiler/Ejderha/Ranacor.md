@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	30 sene kadar önce gümüş ejderhalar ile aralarında büyük sıkıntı çıkmış  
-	O arada bir yumurtasını kaptırmış  
+	30 sene kadar önce gümüş ejderhalar ile aralarında büyük sıkıntı çıkmış. O arada bir yumurtasını kaptırmış.  

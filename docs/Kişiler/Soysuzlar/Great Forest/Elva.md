@@ -11,12 +11,10 @@
 | **Sınıf** | Fighter, Rogue |  
 | **Kütük** | [[Great Forest]] |  
 | **Münasebet** | Düşman |  
-| **Karakter Betimi** | saçları yeşil, derisi de yeşil<br>bir gözü yeşil bir gözü mavi<br>sırtında siyah pelerin, uzun yay var<br>belinde kılıç/rapier gibi bir şey var, yeşil renkte broşu var |  
+| **Karakter Betimi** | Saçları da derisi de yeşil<br>Bir gözü yeşil, diğeri mavi<br>Sırtında siyah bir pelerin ile uzun bir yay var<br>Belinde rapier taşıyor<br>Yeşil renkte broş takıyor |  
   
 ![[Elva_portrait.webp]]  
 </div>  
   
 !!! note "İlave Notlar"  
-	Hiçbir hedefi kaçırmayan bir okçu  
-	Huntmaster+spymaster  
-	Orman elfleri ile Mündung arasında istihbarat görevi görüyor  
+	Great Forest'tan elçi olarak Mündung'a gelmiş. Hiçbir hedefi kaçırmayan bir okçu olduğu söyleniyor. Ormanda huntmaster ve spymaster olarak görev yapıyormuş. Bu sebeple burada biraz da istihbarat amaçlı olduğu düşünülüyor.  

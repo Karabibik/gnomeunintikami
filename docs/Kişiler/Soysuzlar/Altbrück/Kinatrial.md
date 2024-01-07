@@ -12,14 +12,14 @@ tags:
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Kadın |  
-| **Irk** | Elf |  
+| **Irk** | WoodElf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** | Her yerine mücevher takmış |  
+| **Karakter Betimi** | Her yerine mücevher takıştırmış |  
   
 ![[Kinatrial_portrait.webp]]  
 </div>  
   
 !!! note "İlave Notlar"  
-	Mücevherci, [[Pinatrial]]'nın kardeşi  
+	Mücevherci, [[Pinatrial]]'nın kardeşi. Great Forest'tan gelip Altbrück'e yerleşmişler. Yeni malzemelerin de yardımıyla sağlam bir büyü dükkânı açtılar oraya.  

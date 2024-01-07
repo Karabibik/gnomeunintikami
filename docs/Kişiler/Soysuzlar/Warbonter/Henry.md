@@ -9,7 +9,7 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | NPC |  
-| **Karakter Betimi** | 35-40 yaşlarında, 1.70 boylarında<br>yeşil kıyafetli, venedik tüccarı tarzı<br>hafif kelli, göbekli |  
+| **Karakter Betimi** | 35-40 yaşlarında<br>1.70 boylarında<br>Yeşil kıyafetli, venedik tüccarı tarzı<br>Hafif kelli, göbekli |  
   
   
 !!! note "İlave Notlar"  

@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Wizard rektör  
+	Wizard rektör.  

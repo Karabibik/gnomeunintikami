@@ -11,10 +11,10 @@
 | **Sınıf** | Cleric (Level 15) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** | 40lı yaşlarda<br>beyazımsı sarışın, gözler bal rengi<br>Protect from divination kolyesi var |  
+| **Karakter Betimi** | 40lı yaşlarda<br>Beyazımsı sarışın saçlı<br>Gözleri bal rengi<br>Anti-divination kolyesi var |  
   
 ![[Celeste_portrait.webp]]  
 </div>  
   
 !!! note "İlave Notlar"  
-	Üniversitede Divination profu, hanenin reisi  
+	Divination profesörü, Warbonter Üniversitesi'nin mevcut rektörü ve Revenir hanesinin reisi. Warbonter'in merkezinde bir malikânesi var, içini bilimum nadide eserle donatmış. Yeğeni Rensa'yı da kendisi gibi olması için yetiştirmeye çalışıyor.  

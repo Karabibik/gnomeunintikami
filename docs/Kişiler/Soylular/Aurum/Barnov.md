@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Dragon's Hoard]] işletmesinin sahibi  
-	[[Goldrum]]'un kuzeni  
+	[[Dragon's Hoard]] işletmesinin sahibi. [[Goldrum]]'un kuzeni.  

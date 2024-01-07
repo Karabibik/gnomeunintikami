@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Her şeyi bildiği söylenen abi  
+	Her şeyi bildiği söylenen abi.  

@@ -14,7 +14,7 @@ Raise Dead pls:
 	- Matriarch'ı tehlikeye atıyor  
 - Eilistraeci değil ama geri dönmeye çalışıyor  
 - `"Demonlarla neden kontak kuruyor?"`  
-	- Güç için`  
+	- Güç için  
 - `"Güç kazanırsa ne olacak?"`  
 	- Şehre girerse matriarch ve tüm takipçileri Lloth'un gözünden düşecek  
   

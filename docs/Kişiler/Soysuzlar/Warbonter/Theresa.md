@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Ioun]] kütüphanesi başkanı, rahibe  
-	Ryld'dan memnun değil  
+	[[Ioun]] kütüphanesi başkanı, rahibe. Ryld'dan memnun değil.  

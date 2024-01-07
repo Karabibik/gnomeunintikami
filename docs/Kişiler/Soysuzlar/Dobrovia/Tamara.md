@@ -11,11 +11,10 @@
 | **Sınıf** | Fighter (Psi Warrior), Cleric [[Ioun]] (Level 13) |  
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** | Plate armorlu, hafif adımlı |  
+| **Karakter Betimi** | Plate armorlu<br>Hafif adımlı |  
   
 ![[Tamara_portrait.webp]]  
 </div>  
   
 !!! note "İlave Notlar"  
-	[[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe gidiyor  
-	Küçükken ayrılmış, ailesi kızgın  
+	[[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe giderken tanıştık kendisiyle. Küçükken ayrılmış yurdundan, ailesi kızgın o yüzden kendisine. Bir ara da bir yerlerde Gümüş Ejderhalarla sorun yaşamış ama detaya girmedik.  

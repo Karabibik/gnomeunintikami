@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Gerizekalı, geyik totemi  
+	Gerizekalı, geyik totemi.  

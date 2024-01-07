@@ -9,8 +9,8 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Düşman |  
-| **Karakter Betimi** | iki metre boyu var |  
+| **Karakter Betimi** | İki metre boyu var |  
   
   
 !!! note "İlave Notlar"  
-	[[Warbrof]]'un sağ kolu  
+	[[Warbrof]]'un sağ kolu.  

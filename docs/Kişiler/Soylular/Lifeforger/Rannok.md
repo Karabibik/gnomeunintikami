@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Belanord ve dünyanın en büyük silah ustası  
-	Banlord'un babası, Umman'ın kocası, Talog'un kardeşi  
+	Belanord ve dünyanın en büyük silah ustası. Banlord'un babası, Umman'ın kocası, Talog'un kardeşi.  

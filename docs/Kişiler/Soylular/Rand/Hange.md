@@ -9,10 +9,8 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Surdibi]] |  
 | **Münasebet** |  |  
-| **Karakter Betimi** | 30lu yaşlarda, combat ready duruyor<br>saçları ve gözleri sapsarı (pureblood rand)<br>uzun boylu yapılı kaslı |  
+| **Karakter Betimi** | 30lu yaşlarda, combat ready<br>Saçları ve gözleri sapsarı<br>Uzun boylu, yapılı, kaslı<br>Leather armor, half plate<br>Bakımlı ve gösterişli |  
   
   
 !!! note "İlave Notlar"  
-	esmerden ziyade güneşte kalmış gibi  
-	bakımlı ve gösterişli, leather armor half plate giyiyor  
-	görev başında içki içiyor  
+	Esmerden ziyade güneşte kalmış gibi, pureblood Rand belli ki. Görev başında içki içiyor.  

@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Katı görüşlü, rogue sevmeyen adam  
+	Katı görüşlü, rogue sevmeyen adam.  

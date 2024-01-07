@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Könningsburg'u dünyanın başkenti ilan eden Kral  
+	Könningsburg'u dünyanın başkenti ilan eden Kral.  

@@ -5,6 +5,7 @@ Vagabonds şehre dönüyor
 alfons ile muzog kütüphaneye gidiyor  
   
 muzog kitap bakıyor da noluyor tam hatırlamıyorum  
+Meleğe dua etti bizimkiler sana emanet  
   
 philip tapınağa gidiyor  
   
@@ -44,6 +45,6 @@ o sırada philip agnes ile konuşurken “praetor”u tanıdıklarını alan ka�
   
   
   
-orayı tamamlayıp mündung’daki çocuğu kutsal ağaçlara götürüyorlar  
+orayı tamamlayıp mündung’daki [[Zarog]]'u kutsal ağaçlara götürüyorlar  
   
 o sırada kraliçe ile alfons arasında inanılmaz bir diyalog gerçekleşiyor, kraliçe benden habersiz gelme buraya bir daha diyor

@@ -9,10 +9,8 @@
 | **Sınıf** |  |  
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
-| **Karakter Betimi** | orta yaşlı, asker tipli |  
+| **Karakter Betimi** | Orta yaşlı, asker tipli |  
   
   
 !!! note "İlave Notlar"  
-	Yenta'yı ayakta tutmaya çalışıyor  
-	Daha önce Warbonter'de bulunmuş  
-	Sanıyoruz adamdır  
+	Yenta'yı ayakta tutmaya çalışan ADDAM. Daha önce Warbonter'de bulunmuş asker olarak.  

@@ -22,4 +22,4 @@ tags:
 </div>  
   
 !!! note "İlave Notlar"  
-	Kaypak herifin teki  
+	Kaypak herifin teki, that's it. Zamanında Warbonter'de uzun süre üçkâğıtçılık yapmış. Travmaları için bkz: [[00 - Alfons Background]]  

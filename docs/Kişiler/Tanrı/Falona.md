@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	chaotic good, [[Solsitis]]'in üçlüsünden  
-	tapınakta yeri var ama sadece hürmeten, etkisini (chaotic ama iyi) hissettirip gidiyor  
+	Chaotic good, [[Solsitis]]'in üçlüsünden. Tapınakta yeri var ama sadece hürmeten. Takipçileri üstünde etkisini (chaotic ama iyi) hissettirip gidiyor, çok durmuyor.  

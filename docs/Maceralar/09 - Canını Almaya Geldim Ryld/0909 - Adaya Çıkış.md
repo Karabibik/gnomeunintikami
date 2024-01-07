@@ -13,8 +13,8 @@ Yüz numara işlerini bitirip dome atalım derken kayalıkların oradan sesler g
 Tanışma faslından sonra dragonborn'un adının [[Muzog]] olduğunu, aslında Sardon'da bir potion dükkânı devralacakken buraya [[Verdan]] diye bir elebaşını öldürmeye geldiğini ama macera sırasında ekibindeki herkesin öldüğünü ve geri dönmek için bir yolu olmadığını öğrendik. Ryld hakkında da biraz bilgi aldık ve bize yardım etmesi karşılığında onu Warbonter'e götürebileceğimizi söyledik. Hemen bir anlaşma hazırlandı:  
   
 ```  
-1) Adada bulunan ganimetin dörtte biri Muzog Vargenoğlu'na ait olacak.  
-2) Muzog Vargenoğlu'nun burada ölmesi hâlinde, üzerindeki her şey  
-   Vargenoğlu Potion'a teslim edilecek.  
+1) Adada bulunan ganimetin dörtte biri Muzog Valgenoğlu'na ait olacak.  
+2) Muzog Valgenoğlu'nun burada ölmesi hâlinde, üzerindeki her şey  
+   Valgenoğlu Potion'a teslim edilecek.  
 -- Vallioun Billioun  
 ```

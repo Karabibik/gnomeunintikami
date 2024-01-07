@@ -8,4 +8,5 @@ Aslında ikincil klanlardan olsa da eski high-elf klanlarından geriye kalan tek
 Bilinen üyeleri:  
 - [[Esiatel]]  
 - [[Laron]]  
+- [[Lyra]]  
 - [[Tinrel]]

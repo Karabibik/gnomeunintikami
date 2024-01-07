@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Alfons]]'un kuşu. BİR SUS ULAN, küfürbaz haydo + hero complex  
+	[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.  

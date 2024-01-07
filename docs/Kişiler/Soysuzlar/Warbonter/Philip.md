@@ -17,8 +17,4 @@ tags:
   
   
 !!! note "İlave Notlar"  
-	Evsiz Uşaklar'dandı  
-	[[Soradin]]'e kaçtı  
-	Eski altbrück baronunu öldürdü  
-	[[Agnes]] kendi koruması ve ajanı yaptı  
-	Şu an [[Hara]] ile münasebette  
+	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].  

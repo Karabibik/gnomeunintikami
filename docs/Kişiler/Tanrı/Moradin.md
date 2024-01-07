@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Dwarfların ana tanrısı  
-	Sembolü örs ve çekiç  
+	Dwarfların ana tanrısı. Sembolü örs ve çekiç.  

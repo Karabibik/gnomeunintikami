@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	John Ryld'a bağlı hareket eden çetelerin ikinci başı, [[Morg]]'un kardeşi  
+	John Ryld'a bağlı hareket eden çetelerin ikinci başı, [[Morg]]'un kardeşi.  

@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	neutral good, [[Solsitis]]'in üçlüsünden  
-	zor durumdakilere yol gösteren ve Solsitis adına haberci  
+	Neutral good, [[Solsitis]]'in üçlüsünden. Zor durumdakilere yol gösteren ve Solsitis adına habercilik yapan tanrı.  

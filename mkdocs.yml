@@ -10,9 +10,7 @@ theme:
       - navigation.tabs
       - navigation.tabs.sticky
       - navigation.top
-      - header.autohide
       - announce.dismiss
-      - content.tooltips
       
     palette:
     - media: "(prefers-color-scheme: dark)"

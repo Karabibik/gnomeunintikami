@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş  
+	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş.  

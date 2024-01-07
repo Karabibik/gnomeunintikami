@@ -13,4 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	[[Balık Kovası]] hanının işletmecisi  
+	[[Balık Kovası]] hanının işletmecisi.  

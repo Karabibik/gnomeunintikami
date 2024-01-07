@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Sıradan goliath işte  
-	Mark'ın adamı  
+	Sıradan goliath işte. Mark'ın adamı.  

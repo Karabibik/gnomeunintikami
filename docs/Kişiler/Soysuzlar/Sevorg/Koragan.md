@@ -13,5 +13,4 @@
   
   
 !!! note "İlave Notlar"  
-	Goliath high-chief'i  
-	Frost giant şefini yenip üç kabileyi de buyruk altına almış  
+	Goliath high-chief'i. Frost giant şefini yenip üç kabileyi de buyruk altına almış.  
