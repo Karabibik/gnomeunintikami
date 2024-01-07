@@ -1,6 +1,7 @@
 # Corbin   
   
 <div class="grid cards" markdown>  
+- &nbsp;  
 |  |  |  
 |---|---|  
 | **İsim** | Corbin |  
@@ -13,7 +14,7 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 2 metre boyunda, kaslı adam<br>Yaldır yaldır parlayan yekpare çekici var<br>Kollarında da pazu bantları dikkat çekiyor |  
   
-![[Corbin_portrait.webp]]  
+- ![[Corbin_portrait.webp]]  
 </div>  
   
 !!! note "İlave Notlar"  
