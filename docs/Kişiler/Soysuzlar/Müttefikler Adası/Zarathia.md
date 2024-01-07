@@ -17,13 +17,13 @@ tags:
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 1.80 civarında boyu |  
-  
+{ .card }  
   
 === "Zarathia"  
-	![[Zarathia_1.webp]]  
+	![[Zarathia_2.webp]]{ .card }  
   
 === "Possessed"  
-	![[Zarathia_2.webp]]  
+	![[Zarathia_1.webp]]{ .card }  
 </div>  
   
   

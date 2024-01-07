@@ -1,7 +1,7 @@
   
 | Achievement | Description | Holder |  
 | ---- | ---- | ---- |  
-| 'Tis but a Scratch | Survive 250 damage in a single combat | Muzog? |  
+| 'Tis but a Scratch | Survive 250 damage in a single combat | [Muzog][ach8] |  
 | Apex Predator | Survive in close combat with 10 different CR10+ creatures |  |  
 | Artifact Holder | Obtain a legendary item | [Muzog][ach7] |  
 | As Prophesied | Be part of a prophecy |  |  
@@ -21,7 +21,7 @@
 | One Shot One Kill | Deal more than 100 damage to a single target in a single attack | Philip? |  
 | Perpetual Machine | Get healed more than your HP total in a single combat | Muzog? |  
 | Pride and Prejudice | Fight with people from [each class][def3] | Party effort (9/12) |  
-| Push It to the Limit | Increase one of your ability scores above 20 |  |  
+| Push It to the Limit | Permanently increase one of your ability scores above 20 |  |  
 | Speed Dial | Contact all [major gods][def2] | Philip, Harrion (1/5) |  
 | Spell Savant | Create 5 original spells | Harrion [(3/5)][ach9] |  
 | Swift Defeat | Get downed in the first round of a fight | Alfons? |  
@@ -34,5 +34,6 @@
 [def4]: <javascript:void(0)> (Elemental Planes (Water, Fire, Air, Earth), Fey Wilds, Shadowfell, Celestial, Fiendish)  
 [def6]: <javascript:void(0)> (İmparatorluk, Soradin Federasyonu, Rand Diyarı, Warseir, Güneş Adaları, Kuzey, Büyük Orman, Cüce Krallıkları)  
 [ach7]: <javascript:void(0)> (Kolandir's Echo)  
+[ach8]: <javascript:void(0)> (Red Wanker combatında)  
 [ach9]: <javascript:void(0)> (Harrion's Hoops, Harrion's Fallout, Harpoon of the Golden Monarch)  
 [def10]: <javascript:void(0)> (Güneş Adaları, İmparatorluk, Müttefikler Adası, Soradin Federasyonu)

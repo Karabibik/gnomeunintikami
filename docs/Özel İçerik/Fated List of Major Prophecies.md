@@ -10,7 +10,8 @@
 | Peace Negotiator | Prevent (or resolve) the war between two kingdoms |  |  
 | Royal Rendezvous | Meet the Emperor, current heads of Soradin and Rand |  |  
 | Shadowguard Insider | Get to know each Shadowguard captain | Ongoing [(3/5)][ach2] |  
-| There and Back Again | Survive an expedition to the [[Harabeler Çölü]]  |  |  
+| Soradead | Defeat Sorad (again) |  |  
+| There and Back Again | Survive an expedition to the [[Harabeler Çölü]] |  |  
 | Tight Embrace | Be formally accepted to the [[Great Forest]] |  |  
 | Tower Tracker | Re-discover all 5 Elf towers | Ongoing (2/5) |  
   
