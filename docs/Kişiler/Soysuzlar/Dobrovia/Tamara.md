@@ -1,8 +1,5 @@
 # Tamara   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	[[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe giderken tanıştık kendisiyle. Küçükken ayrılmış yurdundan, ailesi kızgın o yüzden kendisine. Bir ara da bir yerlerde Gümüş Ejderhalarla sorun yaşamış ama detaya girmedik.  
   
 <div class="grid" markdown>  
@@ -26,4 +23,4 @@
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Plate armorlu<br>Hafif adımlı |  
-</div></div>
+</div>

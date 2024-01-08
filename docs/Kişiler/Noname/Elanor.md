@@ -1,8 +1,5 @@
 # Elanor   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Demonologist meczup. Ölüp dirilince unutuyor yaşadıklarının bir kısmını büyük ihtimalle. Falona'nın bir hizmetkârı olduğu tahmin ediliyor.  
   
 <div class="grid" markdown>  
@@ -26,4 +23,4 @@
 | **Kütük** |  |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sarışın |  
-</div></div>
+</div>

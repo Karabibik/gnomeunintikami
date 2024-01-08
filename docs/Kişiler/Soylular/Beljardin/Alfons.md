@@ -4,10 +4,7 @@ tags:
   - Kaptan Paspas
 ---  
 # Alfons Beljardin  
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Kaypak herifin teki, that's it. Zamanında Warbonter'de uzun süre üçkâğıtçılık yapmış. Travmaları için bkz: [[00 - Alfons Background]]  
   
 <div class="grid" markdown>  
@@ -28,4 +25,4 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
-</div></div>
+</div>

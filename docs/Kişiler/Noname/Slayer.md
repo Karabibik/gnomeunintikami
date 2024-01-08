@@ -1,8 +1,5 @@
 # Slayer   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Aynı gecede Soradin, Rand Diyarı ve İmparatorluk hükümdarları öldürülmüş. [[Rand Diyarı]]'ndaki cinayetten Slayer'ın mesul olduğu söyleniyor.  
   
 <div class="grid" markdown>  
@@ -23,4 +20,4 @@
 | **Kütük** |  |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
-</div></div>
+</div>

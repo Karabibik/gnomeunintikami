@@ -1,8 +1,5 @@
 # Renata Roth  
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Hannog Üniversitesi rektörü, zaten bir de kardeşi var orada. Hannog pek merkezî bir yer olmadığından hüküm altında tutmaya ancak Renata'nın gücü yetiyor. Zira kendisi Delador'un sağ kolu ve ortamlarda adı pek şaka ile anılmayan biri. Öyle ki wizard olmasına rağmen bazen tekme tokat dövüyor milleti kral.  
   
 <div class="grid" markdown>  
@@ -26,4 +23,4 @@
 | **Kütük** | [[Hannog]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Aslında bayağı yaşlı ama elf kanı var diyorlar<br>Her tarafı zırhla kaplı |  
-</div></div>
+</div>

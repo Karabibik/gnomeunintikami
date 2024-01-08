@@ -4,10 +4,7 @@ tags:
   - Altın Kasırga
 ---  
 # Kinatrial   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Mücevherci, [[Pinatrial]]'nın kardeşi. Great Forest'tan gelip Altbrück'e yerleşmişler. Yeni malzemelerin de yardımıyla sağlam bir büyü dükkânı açtılar oraya.  
   
 <div class="grid" markdown>  
@@ -31,4 +28,4 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Her yerine mücevher takıştırmış |  
-</div></div>
+</div>

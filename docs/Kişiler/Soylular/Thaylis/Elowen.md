@@ -1,8 +1,5 @@
 # Elowen Thaylis  
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Yaşı Delador'a yakın ve ona karşı durabilen nadir kişilerden. Mageocracy'nin mevcut idarecisi. Rünik büyüler ve özellikle büyülü dövmeler konusundaki çalışmalarıyla biliniyor.  
   
 <div class="grid" markdown>  
@@ -41,4 +38,4 @@
 | **Kütük** | [[Mageocracy]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-</div></div>
+</div>

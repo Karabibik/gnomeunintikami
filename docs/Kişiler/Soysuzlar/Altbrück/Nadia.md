@@ -1,8 +1,5 @@
 # Nadia   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir nerede?  
   
 <div class="grid" markdown>  
@@ -26,4 +23,4 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
-</div></div>
+</div>

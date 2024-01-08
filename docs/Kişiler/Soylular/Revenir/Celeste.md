@@ -1,8 +1,5 @@
 # Celeste Revenir  
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Divination profesörü, Warbonter Üniversitesi'nin mevcut rektörü ve Revenir hanesinin reisi. Warbonter'in merkezinde bir malikânesi var, içini bilimum nadide eserle donatmış. Yeğeni Rensa'yı da kendisi gibi olması için yetiştirmeye çalışıyor.  
   
 <div class="grid" markdown>  
@@ -26,4 +23,4 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40lı yaşlarda<br>Beyazımsı sarışın saçlı<br>Gözleri bal rengi<br>Anti-divination kolyesi var |  
-</div></div>
+</div>

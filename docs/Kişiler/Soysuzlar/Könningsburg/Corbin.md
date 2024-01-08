@@ -1,8 +1,5 @@
 # Corbin   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Vanguard captain. Vurucu tim lazımsa tek başına yeter.  
   
 <div class="grid" markdown>  
@@ -23,4 +20,4 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 2 metre boyunda, kaslı adam<br>Yaldır yaldır parlayan yekpare çekici var<br>Kollarında da pazu bantları dikkat çekiyor |  
-</div></div>
+</div>

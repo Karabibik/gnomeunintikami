@@ -1,8 +1,5 @@
 # Thurmog   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Kırık çıkıkçı  
   
 <div class="grid" markdown>  
@@ -23,4 +20,4 @@
 | **Kütük** | [[Dwarf Krallıkları]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-</div></div>
+</div>

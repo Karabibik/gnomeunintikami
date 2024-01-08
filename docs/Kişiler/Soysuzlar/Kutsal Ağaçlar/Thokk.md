@@ -1,8 +1,5 @@
 # Thokk   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Zamanında paralı askerlik yapmış, hâlâ da yapmaya devam ediyor. Herkesten güçlü, ayı totemi zaten.  
   
 <div class="grid" markdown>  
@@ -26,4 +23,4 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-</div></div>
+</div>

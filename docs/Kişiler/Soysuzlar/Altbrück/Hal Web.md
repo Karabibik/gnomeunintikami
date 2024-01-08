@@ -5,10 +5,7 @@ tags:
   - Supran
 ---  
 # Hal Web   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Eski [[Güneş Birliği]] koruması. [[Immortal Merchant]]'ın adamı olduktan sonra kanını bulup yerine geçmek istiyordu. O yüzden çeşitli katakulliler çevirdi ama sonunda daed.  
   
 <div class="grid" markdown>  
@@ -32,4 +29,4 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** | 30-40 yaşlarında<br>1.80, yapılı, yakışıklı |  
-</div></div>
+</div>

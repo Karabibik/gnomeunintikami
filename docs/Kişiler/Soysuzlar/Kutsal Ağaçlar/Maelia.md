@@ -1,8 +1,5 @@
 # Maelia   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	Kartal totemi. Çok görmüş geçirmiş, canavar avlamakta ustalaşmış.  
   
 <div class="grid" markdown>  
@@ -26,4 +23,4 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 230 yaşında |  
-</div></div>
+</div>

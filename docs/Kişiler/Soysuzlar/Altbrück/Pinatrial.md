@@ -3,10 +3,7 @@ tags:
   - Pina
 ---  
 # Pinatrial   
-  
-<div class="grid" markdown>  
-  
-!!! note "Karakter Notları"  
+!!! note inline "Karakter Notları"  
 	[[Kinatrial]]'nın kardeşi demirci. Biraz utangaç, otistik bir havası var. Zorlamayın.  
   
 <div class="grid" markdown>  
@@ -30,4 +27,4 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Balyoz + Breastplate |  
-</div></div>
+</div>
