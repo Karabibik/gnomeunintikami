@@ -1,9 +1,6 @@
 # Ghokk   
   
-  
-!!! note inline "Karakter Notları"  
-	Kutsal Ağaçlar reisi, Kurt totemi.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Kutsal Ağaçlar reisi, Kurt totemi.  
+  
+  
+</div>

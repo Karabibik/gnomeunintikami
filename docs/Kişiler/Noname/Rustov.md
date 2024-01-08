@@ -1,9 +1,6 @@
 # Rustov   
   
-  
-!!! note inline "Karakter Notları"  
-	Her şeyi bildiği söylenen abi.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Her şeyi bildiği söylenen abi.  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # IX. Harald Voldrun  
   
-  
-!!! note inline "Karakter Notları"  
-	Fucking İmparator bitch, Jurgen V'in oğlu.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Fucking İmparator bitch, Jurgen V'in oğlu.  
+  
+  
+</div>

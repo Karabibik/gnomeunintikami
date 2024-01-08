@@ -1,9 +1,6 @@
 # Kaspar Nanger  
   
-  
-!!! note inline "Karakter Notları"  
-	Wizard rektör.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Aedil]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Wizard rektör.  
+  
+  
+</div>

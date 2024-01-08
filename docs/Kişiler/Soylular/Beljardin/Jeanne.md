@@ -1,9 +1,6 @@
 # Jeanne Beljardin  
   
-  
-!!! note inline "Karakter Notları"  
-	Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada  
+  
+  
+</div>

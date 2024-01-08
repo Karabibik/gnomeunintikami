@@ -1,9 +1,6 @@
 # Buck   
   
-  
-!!! note inline "Karakter Notları"  
-	Philip'in eski ekibi Evsiz Uşaklar'da bir pleb  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Philip'in eski ekibi Evsiz Uşaklar'da bir pleb  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Jasqueman Beljardin  
   
-  
-!!! note inline "Karakter Notları"  
-	Alfons'un dedesi  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Alfons'un dedesi  
+  
+  
+</div>

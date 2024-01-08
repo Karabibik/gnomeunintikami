@@ -1,9 +1,6 @@
 # Sorran Tamungen  
   
-  
-!!! note inline "Karakter Notları"  
-	Shadowguard üyesi teğmen.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Shadowguard üyesi teğmen.  
+  
+  
+</div>

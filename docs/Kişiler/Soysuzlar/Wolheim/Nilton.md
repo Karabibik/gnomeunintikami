@@ -1,9 +1,6 @@
 # Nilton   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Jeggred]]'in oğlu.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Wolheim]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Jeggred]]'in oğlu.  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Azram   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Bira Nehri]] hancılarından  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Bira Nehri]] hancılarından  
+  
+  
+</div>

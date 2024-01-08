@@ -1,9 +1,6 @@
 # Jeggred   
   
-  
-!!! note inline "Karakter Notları"  
-	Kendini öldürecekken [[Nendra]] kurtardı. 50 yaşında kaçtı ortamından, 250 yıldır falan dışarıda.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Wolheim]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Kendini öldürecekken [[Nendra]] kurtardı. 50 yaşında kaçtı ortamından, 250 yıldır falan dışarıda.  
+  
+  
+</div>

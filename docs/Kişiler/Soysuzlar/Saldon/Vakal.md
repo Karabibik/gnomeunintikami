@@ -1,9 +1,6 @@
 # Vakal   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Muzog]]'u tarikatçılardan kaçıran bir dost, adı "yedi" demek.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Beyaz |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Muzog]]'u tarikatçılardan kaçıran bir dost, adı "yedi" demek.  
+  
+  
+</div>

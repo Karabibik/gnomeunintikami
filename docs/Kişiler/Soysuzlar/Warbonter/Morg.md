@@ -1,9 +1,6 @@
 # Morg   
   
-  
-!!! note inline "Karakter Notları"  
-	John Ryld'a bağlı hareket eden çetelerin başı.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	John Ryld'a bağlı hareket eden çetelerin başı.  
+  
+  
+</div>

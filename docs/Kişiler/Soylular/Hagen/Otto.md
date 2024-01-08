@@ -1,9 +1,6 @@
 # Otto Hagen  
   
-  
-!!! note inline "Karakter Notları"  
-	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.  
+  
+  
+</div>

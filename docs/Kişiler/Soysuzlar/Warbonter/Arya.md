@@ -1,9 +1,6 @@
 # Arya   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Celeste]]'nin yaveri  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 35-40 yaşlarında |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Celeste]]'nin yaveri  
+  
+  
+</div>

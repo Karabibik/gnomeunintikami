@@ -1,9 +1,6 @@
 # Drog   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Mora'nın Güzellikleri]] koruması  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Mora'nın Güzellikleri]] koruması  
+  
+  
+</div>

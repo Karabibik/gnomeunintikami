@@ -1,9 +1,6 @@
 # Boswan   
   
-  
-!!! note inline "Karakter Notları"  
-	John Ryld'ın yakın koruması binbaşı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	John Ryld'ın yakın koruması binbaşı  
+  
+  
+</div>

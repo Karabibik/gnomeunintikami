@@ -1,9 +1,6 @@
 # Gaylen   
   
-  
-!!! note inline "Karakter Notları"  
-	Orta seviye hırsız  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Orta seviye hırsız  
+  
+  
+</div>

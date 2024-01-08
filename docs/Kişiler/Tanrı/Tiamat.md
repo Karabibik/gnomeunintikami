@@ -1,9 +1,6 @@
 # Tiamat   
   
-  
-!!! note inline "Karakter Notları"  
-	Ejderhaların tanrısı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Ejderhaların tanrısı  
+  
+  
+</div>

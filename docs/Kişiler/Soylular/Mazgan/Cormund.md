@@ -1,9 +1,6 @@
 # Cormund Mazgan  
   
-  
-!!! note inline "Karakter Notları"  
-	Güneş Birliği paladini  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 30 yaşlarında<br>Uzun at kuyruklu |  
+  
+  
+!!! note "Karakter Notları"  
+	Güneş Birliği paladini  
+  
+  
+</div>

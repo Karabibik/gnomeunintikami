@@ -4,10 +4,7 @@ tags:
 ---  
 # Immortal Merchant   
   
-  
-!!! note inline "Karakter Notları"  
-	Warbonter vampir lordu  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Warbonter vampir lordu  
+  
+  
+</div>

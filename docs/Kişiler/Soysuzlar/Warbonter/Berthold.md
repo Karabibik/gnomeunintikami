@@ -1,9 +1,6 @@
 # Berthold   
   
-  
-!!! note inline "Karakter Notları"  
-	John Ryld'ın adamı, muhafızlara pusu kurdurttu  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	John Ryld'ın adamı, muhafızlara pusu kurdurttu  
+  
+  
+</div>

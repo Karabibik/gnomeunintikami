@@ -1,9 +1,6 @@
 # Elara   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Great Forest]]'ın Müttefikler Adası'ndaki temsilcisi. Çok küçükken [[Ruby]]'yi de kurtarmış. Kör.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Forgunntal]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Chestnut hair<br>Emerald green eyes |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Great Forest]]'ın Müttefikler Adası'ndaki temsilcisi. Çok küçükken [[Ruby]]'yi de kurtarmış. Kör.  
+  
+  
+</div>

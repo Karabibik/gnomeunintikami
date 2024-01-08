@@ -4,10 +4,7 @@ tags:
 ---  
 # Sena   
   
-  
-!!! note inline "Karakter Notları"  
-	Paralı asker, shadowbroker.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Paralı asker, shadowbroker.  
+  
+  
+</div>

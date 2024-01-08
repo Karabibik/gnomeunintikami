@@ -1,16 +1,6 @@
 # Rensa Revenir  
-!!! note inline "Karakter Notları"  
-	Revenir hanesinin veliahtı prodigy wizard. Teyzesinin yanında gençliği hep başarı üstüne kurgulanıp baskı altında geçmiş. Beklentileri ziyadesiyle karşılamış karşılamasına da yük tabii bunlar hep. Biraz daha serbest bir ortamda istediği işi yapabilmek için eski Güneş Birliği laboratuvarının başına geçti, deneylerini orada sürdürüyor.  
   
 <div class="grid" markdown>  
-  
-=== "Rensa"  
-	![[Rensa_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Rensa_Showcase.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -23,4 +13,15 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 17-18 yaşlarında<br>Güzel kız |  
-</div>
+  
+  
+=== "Rensa"  
+	![[Rensa_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Rensa_Showcase.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Revenir hanesinin veliahtı prodigy wizard. Teyzesinin yanında gençliği hep başarı üstüne kurgulanıp baskı altında geçmiş. Beklentileri ziyadesiyle karşılamış karşılamasına da yük tabii bunlar hep. Biraz daha serbest bir ortamda istediği işi yapabilmek için eski Güneş Birliği laboratuvarının başına geçti, deneylerini orada sürdürüyor.  

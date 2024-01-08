@@ -1,9 +1,6 @@
 # I. Alfons Beljardin  
   
-  
-!!! note inline "Karakter Notları"  
-	Alfons'un dedesinin babası  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Alfons'un dedesinin babası  
+  
+  
+</div>

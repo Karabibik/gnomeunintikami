@@ -1,9 +1,6 @@
 # Sessiz   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Warbrof]]'un sağ kolu.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | İki metre boyu var |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Warbrof]]'un sağ kolu.  
+  
+  
+</div>

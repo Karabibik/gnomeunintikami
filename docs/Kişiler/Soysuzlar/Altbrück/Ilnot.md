@@ -1,9 +1,6 @@
 # Ilnot   
   
-  
-!!! note inline "Karakter Notları"  
-	Fırıncı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Bir boynuzu kırık |  
+  
+  
+!!! note "Karakter Notları"  
+	Fırıncı  
+  
+  
+</div>

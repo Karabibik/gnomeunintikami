@@ -1,9 +1,6 @@
 # Vandrad   
   
-  
-!!! note inline "Karakter Notları"  
-	Onurcan'ın karakteri  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Onurcan'ın karakteri  
+  
+  
+</div>

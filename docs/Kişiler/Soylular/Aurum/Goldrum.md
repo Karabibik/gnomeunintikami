@@ -3,20 +3,8 @@ tags:
   - Altın altın
 ---  
 # Goldrum Aurum  
-!!! note inline "Karakter Notları"  
-	[[Aurum]] Krallığı prensi, büyükbabası yedi cüce krallığından birini yönetiyor.  Hanesinin soyu altın ejderhalara dayanıyor, zaten pullu vücuduna bakınca netleşiyor olay.  
-	  
-	Goliath istilası sırasında savunmaya çok katkıda bulunmuş. Zevke sefaya düşkün, bok gibi de parası var ki harcamaktan çekinmiyor. Aurelia'nın merkezinde lüks bir hanı var.  
   
 <div class="grid" markdown>  
-  
-=== "Goldrum"  
-	![[Goldrum_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Goldrum_Showcase.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -29,4 +17,17 @@ tags:
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Full dwarf beardlı, mohawk saçlı<br>Boynundan şakaklarına kadar altın rengi pullarla kaplı<br>Gözleri de altın rengi<br>Komple siyah/altın rengi ve pahalı kıyafetler giyiniyor |  
-</div>
+  
+  
+=== "Goldrum"  
+	![[Goldrum_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Goldrum_Showcase.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	[[Aurum]] Krallığı prensi, büyükbabası yedi cüce krallığından birini yönetiyor.  Hanesinin soyu altın ejderhalara dayanıyor, zaten pullu vücuduna bakınca netleşiyor olay.  
+	  
+	Goliath istilası sırasında savunmaya çok katkıda bulunmuş. Zevke sefaya düşkün, bok gibi de parası var ki harcamaktan çekinmiyor. Aurelia'nın merkezinde lüks bir hanı var.  

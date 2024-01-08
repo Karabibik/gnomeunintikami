@@ -1,9 +1,6 @@
 # Azuuk   
   
-  
-!!! note inline "Karakter Notları"  
-	Gruumsh'ın Kolları eski başkanı. [[Uliza]]'yla iş görüyordu.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Gruumsh'ın Kolları eski başkanı. [[Uliza]]'yla iş görüyordu.  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Vise   
   
-  
-!!! note inline "Karakter Notları"  
-	Yara bantlı gözlü  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Yara bantlı gözlü  
+  
+  
+</div>

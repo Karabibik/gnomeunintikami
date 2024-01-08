@@ -1,9 +1,6 @@
 # Harlaus   
   
-  
-!!! note inline "Karakter Notları"  
-	Ölülerin ruhlarını koruyor. Tapınılması yasak değil ama çok tapınanı yok.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Ölülerin ruhlarını koruyor. Tapınılması yasak değil ama çok tapınanı yok.  
+  
+  
+</div>

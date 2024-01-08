@@ -1,9 +1,6 @@
 # Gaspard Louis Beljardin  
   
-  
-!!! note inline "Karakter Notları"  
-	Alfons'un babası  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Alfons'un babası  
+  
+  
+</div>

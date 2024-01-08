@@ -1,9 +1,6 @@
 # Frans Beljardin  
   
-  
-!!! note inline "Karakter Notları"  
-	Eski vampir avcısı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Eski vampir avcısı  
+  
+  
+</div>

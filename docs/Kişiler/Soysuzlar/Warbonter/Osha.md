@@ -6,10 +6,7 @@ tags:
 ---  
 # Osha   
   
-  
-!!! note inline "Karakter Notları"  
-	John Ryld'ın sekreteri.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -22,3 +19,10 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Uzun saçlı, kumral |  
+  
+  
+!!! note "Karakter Notları"  
+	John Ryld'ın sekreteri.  
+  
+  
+</div>

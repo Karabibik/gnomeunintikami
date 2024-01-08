@@ -1,9 +1,6 @@
 # V. Stefan Voldrun  
   
-  
-!!! note inline "Karakter Notları"  
-	Halstein'ın ikizi, üç dakika büyük olduğu için İmparator o olmuş. 20 yaşında ölmüş.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Halstein'ın ikizi, üç dakika büyük olduğu için İmparator o olmuş. 20 yaşında ölmüş.  
+  
+  
+</div>

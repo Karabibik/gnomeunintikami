@@ -1,9 +1,6 @@
 # Mori   
   
-  
-!!! note inline "Karakter Notları"  
-	Etrafı bilen, suç organizatörü. Boswan'ın etrafındaki adamlardan.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Mor |  
+  
+  
+!!! note "Karakter Notları"  
+	Etrafı bilen, suç organizatörü. Boswan'ın etrafındaki adamlardan.  
+  
+  
+</div>

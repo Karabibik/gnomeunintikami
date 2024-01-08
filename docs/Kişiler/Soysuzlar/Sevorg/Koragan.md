@@ -1,9 +1,6 @@
 # Koragan   
   
-  
-!!! note inline "Karakter Notları"  
-	Goliath high-chief'i. Frost giant şefini yenip üç kabileyi de buyruk altına almış.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Sevorg]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Goliath high-chief'i. Frost giant şefini yenip üç kabileyi de buyruk altına almış.  
+  
+  
+</div>

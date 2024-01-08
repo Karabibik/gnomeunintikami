@@ -1,9 +1,6 @@
 # Barnov Aurum  
   
-  
-!!! note inline "Karakter Notları"  
-	[[Dragon's Hoard]] işletmesinin sahibi. [[Goldrum]]'un kuzeni.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Dragoncüceborn |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Dragon's Hoard]] işletmesinin sahibi. [[Goldrum]]'un kuzeni.  
+  
+  
+</div>

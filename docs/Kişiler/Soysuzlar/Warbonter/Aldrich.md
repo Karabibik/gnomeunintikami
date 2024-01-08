@@ -1,9 +1,6 @@
 # Aldrich   
   
-  
-!!! note inline "Karakter Notları"  
-	Guard captain  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Guard captain  
+  
+  
+</div>

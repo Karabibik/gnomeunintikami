@@ -1,9 +1,6 @@
 # Bormar   
   
-  
-!!! note inline "Karakter Notları"  
-	Goldrum'un demircisi  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Goldrum'un demircisi  
+  
+  
+</div>

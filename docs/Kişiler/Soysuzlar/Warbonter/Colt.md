@@ -4,10 +4,7 @@ tags:
 ---  
 # Colt   
   
-  
-!!! note inline "Karakter Notları"  
-	Philip'in eski ekibi Evsiz Uşaklar'ın başı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Philip'in eski ekibi Evsiz Uşaklar'ın başı  
+  
+  
+</div>

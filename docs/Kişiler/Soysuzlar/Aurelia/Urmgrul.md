@@ -4,10 +4,7 @@ tags:
 ---  
 # Urmgrul   
   
-  
-!!! note inline "Karakter Notları"  
-	Tünel kazma yarışması şampiyonu  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Tünel kazma yarışması şampiyonu  
+  
+  
+</div>

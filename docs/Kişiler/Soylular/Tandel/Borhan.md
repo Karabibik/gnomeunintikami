@@ -1,9 +1,6 @@
 # Borhan Tandel  
   
-  
-!!! note inline "Karakter Notları"  
-	Turnuvada yendiğimiz bir adam  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Turnuvada yendiğimiz bir adam  
+  
+  
+</div>

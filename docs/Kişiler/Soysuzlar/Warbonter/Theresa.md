@@ -1,9 +1,6 @@
 # Theresa   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Ioun]] kütüphanesi başkanı, rahibe. Ryld'dan memnun değil.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Ioun]] kütüphanesi başkanı, rahibe. Ryld'dan memnun değil.  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Morguntrax   
   
-  
-!!! note inline "Karakter Notları"  
-	Ejderha Savaşı (1700 yıl önce) sırasında Müttefikler Adası'na çok gidip gelmiş, muhtemelen ini var ve orada ölmüş.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Ejderha Savaşı (1700 yıl önce) sırasında Müttefikler Adası'na çok gidip gelmiş, muhtemelen ini var ve orada ölmüş.  
+  
+  
+</div>

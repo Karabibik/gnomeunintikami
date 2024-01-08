@@ -1,9 +1,6 @@
 # Lyra Celebryl  
   
-  
-!!! note inline "Karakter Notları"  
-	Wizardry hocası.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Forgunntal]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Wizardry hocası.  
+  
+  
+</div>

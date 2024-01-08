@@ -1,9 +1,6 @@
 # Dranor   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Ada Yolcuları]]'na yardımcı olması için [[Lyra]]'nın önerdiği bir kişi. Güvendiği izci/kâşiflerden biriymiş.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Sarışın, soylu |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Ada Yolcuları]]'na yardımcı olması için [[Lyra]]'nın önerdiği bir kişi. Güvendiği izci/kâşiflerden biriymiş.  
+  
+  
+</div>

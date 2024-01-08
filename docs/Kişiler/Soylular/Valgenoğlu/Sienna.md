@@ -1,9 +1,6 @@
 # Sienna Valgenoğlu  
   
-  
-!!! note inline "Karakter Notları"  
-	[[Muzog]]'un bir dostu.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Muzog]]'un bir dostu.  
+  
+  
+</div>

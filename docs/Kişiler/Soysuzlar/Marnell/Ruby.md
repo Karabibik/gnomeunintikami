@@ -1,9 +1,6 @@
 # Ruby   
   
-  
-!!! note inline "Karakter Notları"  
-	Değerli şeyleri çok sever  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Marnell]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Renkli gözlü<br>Bayağı genç |  
+  
+  
+!!! note "Karakter Notları"  
+	Değerli şeyleri çok sever  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Filgo   
   
-  
-!!! note inline "Karakter Notları"  
-	Kaplan totemi  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Kaplan totemi  
+  
+  
+</div>

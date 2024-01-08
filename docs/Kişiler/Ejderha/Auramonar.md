@@ -1,13 +1,6 @@
 # Auramonar   
-!!! note inline "Karakter Notları"  
-	[[Praetor Aurelion]]'un kızı. Ekseriyetle kibar.  
   
 <div class="grid" markdown>  
-  
-=== "Auramonar"  
-	![[Auramonar_portrait.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -20,4 +13,12 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Altın sarısı saçları ve elbisesi var<br>Soluk benizli, eflatun gözlü |  
-</div>
+  
+  
+=== "Auramonar"  
+	![[Auramonar_portrait.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	[[Praetor Aurelion]]'un kızı. Ekseriyetle kibar.  

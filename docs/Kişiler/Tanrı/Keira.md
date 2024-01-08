@@ -1,9 +1,6 @@
 # Keira   
   
-  
-!!! note inline "Karakter Notları"  
-	Deniz ve fırtına tanrısı.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Deniz ve fırtına tanrısı.  
+  
+  
+</div>

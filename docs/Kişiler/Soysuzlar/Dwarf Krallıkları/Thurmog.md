@@ -1,13 +1,6 @@
 # Thurmog   
-!!! note inline "Karakter Notları"  
-	Kırık çıkıkçı  
   
 <div class="grid" markdown>  
-  
-=== "Thurmog"  
-	![[Thurmog_portrait.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -20,4 +13,12 @@
 | **Kütük** | [[Dwarf Krallıkları]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-</div>
+  
+  
+=== "Thurmog"  
+	![[Thurmog_portrait.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Kırık çıkıkçı  

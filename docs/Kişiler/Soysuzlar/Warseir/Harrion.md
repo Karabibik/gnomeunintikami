@@ -4,10 +4,21 @@ tags:
   - Handy
 ---  
 # Harrion   
-!!! note inline "Karakter Notları"  
-	Büyü öğrenmek için yola çıkıp neler gördü gnome oğlu gnome (bkz: [[00 - Harrion'ın Gezileri]]). Aslında eğlencelidir de ölümle yakın münasebette olması biraz yoldan çıkardı. Olabildiğince çok gezip görmeye uğraşıyor. Karşısına niye çıkıyorsunuz…  
   
 <div class="grid" markdown>  
+  
+|  |  |  
+|---|---|  
+| **İsim** | Harrion |  
+| **Soyadı** |  |  
+| **Hizip** | [[Gnome'un İntikamı]] |  
+| **Cinsiyet** | Kadın (eski Erkek) |  
+| **Irk** | Tiefling(eskiGnome) |  
+| **Sınıf** | Wizard (War Mage) (Level 11) |  
+| **Kütük** | [[Warseir]] |  
+| **Münasebet** | Parti |  
+| **Karakter Betimi** |  |  
+  
   
 === "Art1"  
 	![[Harrion_Art1.webp]]{ .card }  
@@ -21,17 +32,7 @@ tags:
 === "theGnome"  
 	![[Harrion_theGnome.webp]]{ .card }  
   
+</div>  
   
-  
-|  |  |  
-|---|---|  
-| **İsim** | Harrion |  
-| **Soyadı** |  |  
-| **Hizip** | [[Gnome'un İntikamı]] |  
-| **Cinsiyet** | Kadın (eski Erkek) |  
-| **Irk** | Tiefling(eskiGnome) |  
-| **Sınıf** | Wizard (War Mage) (Level 11) |  
-| **Kütük** | [[Warseir]] |  
-| **Münasebet** | Parti |  
-| **Karakter Betimi** |  |  
-</div>
+!!! note "Karakter Notları"  
+	Büyü öğrenmek için yola çıkıp neler gördü gnome oğlu gnome (bkz: [[00 - Harrion'ın Gezileri]]). Aslında eğlencelidir de ölümle yakın münasebette olması biraz yoldan çıkardı. Olabildiğince çok gezip görmeye uğraşıyor. Karşısına niye çıkıyorsunuz…  

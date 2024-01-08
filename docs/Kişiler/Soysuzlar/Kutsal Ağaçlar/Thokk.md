@@ -1,16 +1,6 @@
 # Thokk   
-!!! note inline "Karakter Notları"  
-	Zamanında paralı askerlik yapmış, hâlâ da yapmaya devam ediyor. Herkesten güçlü, ayı totemi zaten.  
   
 <div class="grid" markdown>  
-  
-=== "Thokk"  
-	![[Thokk_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Thokk_Showcase.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -23,4 +13,15 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-</div>
+  
+  
+=== "Thokk"  
+	![[Thokk_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Thokk_Showcase.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Zamanında paralı askerlik yapmış, hâlâ da yapmaya devam ediyor. Herkesten güçlü, ayı totemi zaten.  

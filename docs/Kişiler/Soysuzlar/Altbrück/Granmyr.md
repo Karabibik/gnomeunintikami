@@ -1,9 +1,6 @@
 # Granmyr   
   
-  
-!!! note inline "Karakter Notları"  
-	Berke'nin karakteri  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Berke'nin karakteri  
+  
+  
+</div>

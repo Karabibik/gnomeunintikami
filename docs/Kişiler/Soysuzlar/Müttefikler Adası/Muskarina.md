@@ -4,10 +4,7 @@ tags:
 ---  
 # Muskarina   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Amanite]]'nin annesi. Arken ile benzerliği, [[Great Forest]]'tan gelmiş olabileceğini çağırıştırıyor. Thalindor bayağı güçlü/önemli bir şahıs olduğundan bahsediyor.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Amanite]]'nin annesi. Arken ile benzerliği, [[Great Forest]]'tan gelmiş olabileceğini çağırıştırıyor. Thalindor bayağı güçlü/önemli bir şahıs olduğundan bahsediyor.  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Arken   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Elva]]'nın çırağı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Great Forest]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Orta - uzun boylu<br>Yeşil tenli |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Elva]]'nın çırağı  
+  
+  
+</div>

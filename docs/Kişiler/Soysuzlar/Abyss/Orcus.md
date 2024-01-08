@@ -1,9 +1,6 @@
 # Orcus   
   
-  
-!!! note inline "Karakter Notları"  
-	Abyss lordu.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Abyss]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Abyss lordu.  
+  
+  
+</div>

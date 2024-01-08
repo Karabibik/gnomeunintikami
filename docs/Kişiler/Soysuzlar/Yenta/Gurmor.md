@@ -1,9 +1,6 @@
 # Gurmor   
   
-  
-!!! note inline "Karakter Notları"  
-	Sıradan goliath işte. Mark'ın adamı.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Sıradan goliath işte. Mark'ın adamı.  
+  
+  
+</div>

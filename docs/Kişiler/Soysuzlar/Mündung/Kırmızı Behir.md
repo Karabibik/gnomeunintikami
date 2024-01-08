@@ -1,9 +1,6 @@
 # Kırmızı Behir   
   
-  
-!!! note inline "Karakter Notları"  
-	Sağ kalan tam vampir.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Sağ kalan tam vampir.  
+  
+  
+</div>

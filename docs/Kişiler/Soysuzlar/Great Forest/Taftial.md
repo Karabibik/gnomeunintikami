@@ -1,16 +1,6 @@
 # Taftial   
-!!! note inline "Karakter Notları"  
-	Orman elflerinde önemli bir pozisyonu var belli ki ama çok şey bilmiyoruz hakkında zira adı sadece bir kere zikredildi.  
   
 <div class="grid" markdown>  
-  
-=== "Taftial"  
-	![[Taftial_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Taftial_Showcase.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -23,4 +13,15 @@
 | **Kütük** | [[Great Forest]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-</div>
+  
+  
+=== "Taftial"  
+	![[Taftial_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Taftial_Showcase.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Orman elflerinde önemli bir pozisyonu var belli ki ama çok şey bilmiyoruz hakkında zira adı sadece bir kere zikredildi.  

@@ -1,9 +1,6 @@
 # Lloth   
   
-  
-!!! note inline "Karakter Notları"  
-	Ana drow tanrısı.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Ana drow tanrısı.  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Andrand Taralon  
   
-  
-!!! note inline "Karakter Notları"  
-	2005'te babasının öldürülmesiyle 5 yaşında tahta geçmiş  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Soradin Kenti]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	2005'te babasının öldürülmesiyle 5 yaşında tahta geçmiş  
+  
+  
+</div>

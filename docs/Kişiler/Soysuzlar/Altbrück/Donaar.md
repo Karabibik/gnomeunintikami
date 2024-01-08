@@ -1,9 +1,6 @@
 # Donaar   
   
-  
-!!! note inline "Karakter Notları"  
-	General Shop satıcısı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	General Shop satıcısı  
+  
+  
+</div>

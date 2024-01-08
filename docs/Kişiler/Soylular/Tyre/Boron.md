@@ -4,10 +4,7 @@ tags:
 ---  
 # Boron Tyre  
   
-  
-!!! note inline "Karakter Notları"  
-	Yetkili bir abi. Celeste ile arası çok iyi değil sanki (kimin iyi ki?)  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Yetkili bir abi. Celeste ile arası çok iyi değil sanki (kimin iyi ki?)  
+  
+  
+</div>

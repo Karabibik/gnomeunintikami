@@ -1,9 +1,6 @@
 # Vedon   
   
-  
-!!! note inline "Karakter Notları"  
-	Eskici, grumpy herif  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Kambur, göbekli<br>Kirli sakallı, kel<br>Meymenetsiz |  
+  
+  
+!!! note "Karakter Notları"  
+	Eskici, grumpy herif  
+  
+  
+</div>

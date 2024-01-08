@@ -1,9 +1,6 @@
 # Dragan   
   
-  
-!!! note inline "Karakter Notları"  
-	EVÜL  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	EVÜL  
+  
+  
+</div>

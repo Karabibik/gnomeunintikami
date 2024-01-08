@@ -1,9 +1,6 @@
 # Gruumsh   
   
-  
-!!! note inline "Karakter Notları"  
-	Ork tanrısı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Ork tanrısı  
+  
+  
+</div>

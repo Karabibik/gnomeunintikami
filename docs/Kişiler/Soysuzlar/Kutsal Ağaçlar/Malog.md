@@ -1,9 +1,6 @@
 # Malog   
   
-  
-!!! note inline "Karakter Notları"  
-	Gerizekalı, geyik totemi.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Gerizekalı, geyik totemi.  
+  
+  
+</div>

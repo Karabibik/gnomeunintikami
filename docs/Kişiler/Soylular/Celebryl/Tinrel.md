@@ -3,18 +3,8 @@ tags:
   - Stormforger
 ---  
 # Tinrel Celebryl  
-!!! note inline "Karakter Notları"  
-	Motherfucking Kraliçe, aldı yürüyor yarabbim. Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi. Biraz atarlı ve fazlasıyla tehlikeli. Geçmişi karanlık. Kötü anlamında değil, bilinmiyor.  
   
 <div class="grid" markdown>  
-  
-=== "Tinrel"  
-	![[Tinrel_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Tinrel_Showcase.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -27,4 +17,15 @@ tags:
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Etrafında yıldırımlar dönüyor<br>Doğal taşlardan taç takıyor |  
-</div>
+  
+  
+=== "Tinrel"  
+	![[Tinrel_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Tinrel_Showcase.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Motherfucking Kraliçe, aldı yürüyor yarabbim. Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi. Biraz atarlı ve fazlasıyla tehlikeli. Geçmişi karanlık. Kötü anlamında değil, bilinmiyor.  

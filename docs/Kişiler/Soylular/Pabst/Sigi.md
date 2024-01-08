@@ -1,9 +1,6 @@
 # Sigi Pabst  
   
-  
-!!! note inline "Karakter Notları"  
-	Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 65 yaşlarında |  
+  
+  
+!!! note "Karakter Notları"  
+	Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Talog Lifeforger  
   
-  
-!!! note inline "Karakter Notları"  
-	Rannok'un kardeşi.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Rannok'un kardeşi.  
+  
+  
+</div>

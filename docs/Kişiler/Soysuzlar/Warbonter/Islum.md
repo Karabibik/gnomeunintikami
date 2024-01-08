@@ -1,9 +1,6 @@
 # Islum   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Beer Mire]] hanının işletmecisi. Thieves' cant'e hakim.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | 30 yaşlarında |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Beer Mire]] hanının işletmecisi. Thieves' cant'e hakim.  
+  
+  
+</div>

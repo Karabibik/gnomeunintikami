@@ -1,9 +1,6 @@
 # Mohako   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Balık Kovası]] hanının işletmecisi.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40larında |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Balık Kovası]] hanının işletmecisi.  
+  
+  
+</div>

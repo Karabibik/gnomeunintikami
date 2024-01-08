@@ -1,9 +1,6 @@
 # Sebastian   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Beljardin]] kahyası.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Beljardin]] kahyası.  
+  
+  
+</div>

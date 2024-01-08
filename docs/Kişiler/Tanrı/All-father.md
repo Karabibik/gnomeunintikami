@@ -1,9 +1,6 @@
 # All-father   
   
-  
-!!! note inline "Karakter Notları"  
-	Giant-Goliath tanrısı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Giant-Goliath tanrısı  
+  
+  
+</div>

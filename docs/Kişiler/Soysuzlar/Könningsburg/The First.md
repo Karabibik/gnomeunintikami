@@ -4,10 +4,7 @@ tags:
 ---  
 # The First   
   
-  
-!!! note inline "Karakter Notları"  
-	Savaştan sağ çıkan tek vampir lordu.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Savaştan sağ çıkan tek vampir lordu.  
+  
+  
+</div>

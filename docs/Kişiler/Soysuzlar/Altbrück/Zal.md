@@ -1,9 +1,6 @@
 # Zal   
   
-  
-!!! note inline "Karakter Notları"  
-	Stablemaster  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Stablemaster  
+  
+  
+</div>

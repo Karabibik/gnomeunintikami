@@ -4,10 +4,7 @@ tags:
 ---  
 # Emerik   
   
-  
-!!! note inline "Karakter Notları"  
-	Güneş Birliği High Priest'i. Ryld'dan memnun değil.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 55 yaşlarında<br>Saçı sakalı orta boy, kırlaşmış<br>Biraz zayıf, hafif kambur |  
+  
+  
+!!! note "Karakter Notları"  
+	Güneş Birliği High Priest'i. Ryld'dan memnun değil.  
+  
+  
+</div>

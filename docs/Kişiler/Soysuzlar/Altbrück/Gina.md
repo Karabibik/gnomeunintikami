@@ -1,9 +1,6 @@
 # Gina   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Agnes]]'in koruması, sadık.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Agnes]]'in koruması, sadık.  
+  
+  
+</div>

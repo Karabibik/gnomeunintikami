@@ -1,9 +1,6 @@
 # Nendra   
   
-  
-!!! note inline "Karakter Notları"  
-	Eilistraecilerin başrahibesi.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Soradin]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Eilistraecilerin başrahibesi.  
+  
+  
+</div>

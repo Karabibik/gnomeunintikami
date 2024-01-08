@@ -1,9 +1,6 @@
 # Madame Mora   
   
-  
-!!! note inline "Karakter Notları"  
-	[[Mora'nın Güzellikleri]] işletmecisi.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	[[Mora'nın Güzellikleri]] işletmecisi.  
+  
+  
+</div>

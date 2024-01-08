@@ -1,9 +1,6 @@
 # Iverius   
   
-  
-!!! note inline "Karakter Notları"  
-	Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik.  
+  
+  
+</div>

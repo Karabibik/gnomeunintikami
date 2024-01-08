@@ -1,9 +1,6 @@
 # Kolt   
   
-  
-!!! note inline "Karakter Notları"  
-	Goliath tanrısı.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Goliath tanrısı.  
+  
+  
+</div>

@@ -1,9 +1,6 @@
 # Amanite   
   
-  
-!!! note inline "Karakter Notları"  
-	Koltuk altı mantarı var, adı Füg.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 1.70 boylarında<br>Gri/yeşil küf rengi derisi<br>60 yaşlarında |  
+  
+  
+!!! note "Karakter Notları"  
+	Koltuk altı mantarı var, adı Füg.  
+  
+  
+</div>

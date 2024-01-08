@@ -1,9 +1,6 @@
 # Henerik   
   
-  
-!!! note inline "Karakter Notları"  
-	Katı görüşlü, rogue sevmeyen adam.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Katı görüşlü, rogue sevmeyen adam.  
+  
+  
+</div>

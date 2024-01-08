@@ -1,9 +1,6 @@
 # Rahibe Lucian   
   
-  
-!!! note inline "Karakter Notları"  
-	Tapınak rahibesi, Philip'e gıcık.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Tapınak rahibesi, Philip'e gıcık.  
+  
+  
+</div>

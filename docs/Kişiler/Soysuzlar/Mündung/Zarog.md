@@ -1,9 +1,6 @@
 # Zarog   
   
-  
-!!! note inline "Karakter Notları"  
-	Gemiyle giderken [[Mohako]] kurtarmış denizden. İyi aşçı.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 15-20 yaşında |  
+  
+  
+!!! note "Karakter Notları"  
+	Gemiyle giderken [[Mohako]] kurtarmış denizden. İyi aşçı.  
+  
+  
+</div>

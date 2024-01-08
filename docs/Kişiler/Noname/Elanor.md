@@ -1,16 +1,6 @@
 # Elanor   
-!!! note inline "Karakter Notları"  
-	Demonologist meczup. Ölüp dirilince unutuyor yaşadıklarının bir kısmını büyük ihtimalle. Falona'nın bir hizmetkârı olduğu tahmin ediliyor.  
   
 <div class="grid" markdown>  
-  
-=== "Elanor"  
-	![[Elanor_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Elanor_Showcase.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -23,4 +13,15 @@
 | **Kütük** |  |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sarışın |  
-</div>
+  
+  
+=== "Elanor"  
+	![[Elanor_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Elanor_Showcase.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Demonologist meczup. Ölüp dirilince unutuyor yaşadıklarının bir kısmını büyük ihtimalle. Falona'nın bir hizmetkârı olduğu tahmin ediliyor.  

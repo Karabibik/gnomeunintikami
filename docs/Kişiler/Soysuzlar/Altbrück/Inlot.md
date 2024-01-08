@@ -1,9 +1,6 @@
 # Inlot   
   
-  
-!!! note inline "Karakter Notları"  
-	Değirmenci  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Değirmenci  
+  
+  
+</div>

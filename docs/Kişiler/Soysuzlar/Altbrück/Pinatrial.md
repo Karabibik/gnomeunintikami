@@ -3,18 +3,8 @@ tags:
   - Pina
 ---  
 # Pinatrial   
-!!! note inline "Karakter Notları"  
-	[[Kinatrial]]'nın kardeşi demirci. Biraz utangaç, otistik bir havası var. Zorlamayın.  
   
 <div class="grid" markdown>  
-  
-=== "Pinatrial"  
-	![[Pinatrial_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Pinatrial_Showcase.webp]]{ .card }  
-  
-  
   
 |  |  |  
 |---|---|  
@@ -27,4 +17,15 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Balyoz + Breastplate |  
-</div>
+  
+  
+=== "Pinatrial"  
+	![[Pinatrial_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Pinatrial_Showcase.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	[[Kinatrial]]'nın kardeşi demirci. Biraz utangaç, otistik bir havası var. Zorlamayın.  

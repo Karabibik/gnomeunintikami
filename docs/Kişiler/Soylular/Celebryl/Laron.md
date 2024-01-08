@@ -1,9 +1,6 @@
 # Laron Celebryl  
   
-  
-!!! note inline "Karakter Notları"  
-	Elven Queen Consort, [[Tinrel]]den daha ılımlı.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Kil/kızıl tenli<br>Kahverengi kısa saçlı |  
+  
+  
+!!! note "Karakter Notları"  
+	Elven Queen Consort, [[Tinrel]]den daha ılımlı.  
+  
+  
+</div>

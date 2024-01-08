@@ -4,10 +4,7 @@ tags:
 ---  
 # Philip   
   
-  
-!!! note inline "Karakter Notları"  
-	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].  
+  
+  
+</div>

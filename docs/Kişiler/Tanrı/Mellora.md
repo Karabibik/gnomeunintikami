@@ -1,9 +1,6 @@
 # Mellora   
   
-  
-!!! note inline "Karakter Notları"  
-	Doğa tanrıçası.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Doğa tanrıçası.  
+  
+  
+</div>

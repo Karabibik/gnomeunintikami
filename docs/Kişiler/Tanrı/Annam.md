@@ -1,9 +1,6 @@
 # Annam   
   
-  
-!!! note inline "Karakter Notları"  
-	Ana giant tanrısı  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Ana giant tanrısı  
+  
+  
+</div>

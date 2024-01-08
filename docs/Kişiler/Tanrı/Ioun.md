@@ -4,10 +4,7 @@ tags:
 ---  
 # Ioun   
   
-  
-!!! note inline "Karakter Notları"  
-	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +17,10 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini.  
+  
+  
+</div>

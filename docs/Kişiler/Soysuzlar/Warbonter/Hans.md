@@ -1,9 +1,6 @@
 # Hans   
   
-  
-!!! note inline "Karakter Notları"  
-	Guard, [[John Ryld]]'a karşı çıktı.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Guard, [[John Ryld]]'a karşı çıktı.  
+  
+  
+</div>

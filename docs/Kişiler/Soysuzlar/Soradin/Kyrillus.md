@@ -1,9 +1,6 @@
 # Kyrillus   
   
-  
-!!! note inline "Karakter Notları"  
-	Corellion tapınağı arıyor adada.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Soradin]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 1.80 boylarında<br>Uzun sarı saçlı<br>Full plate armor + greatsword |  
+  
+  
+!!! note "Karakter Notları"  
+	Corellion tapınağı arıyor adada.  
+  
+  
+</div>

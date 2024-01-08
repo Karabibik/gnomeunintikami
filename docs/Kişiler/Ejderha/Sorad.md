@@ -1,9 +1,6 @@
 # Sorad   
   
-  
-!!! note inline "Karakter Notları"  
-	Ejderha kralı, elder drake.  
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +13,10 @@
 | **Kütük** | [[Soradin]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+  
+  
+!!! note "Karakter Notları"  
+	Ejderha kralı, elder drake.  
+  
+  
+</div>
