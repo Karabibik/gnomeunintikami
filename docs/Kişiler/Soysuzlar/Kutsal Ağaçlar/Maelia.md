@@ -14,10 +14,10 @@
 | **Karakter Betimi** | 230 yaşında |  
   
 === "Maelia"  
-	![[Maelia_portrait.webp]]  
+	![[Maelia_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Maelia_Showcase.webp]]  
+	![[Maelia_Showcase.webp]]{ .card }  
   
 </div>  
   

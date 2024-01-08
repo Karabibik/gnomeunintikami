@@ -14,10 +14,10 @@
 | **Karakter Betimi** | Karizma 25, feci alımlı<br>Boynunda yarım güneş sembolü var |  
   
 === "Saubia"  
-	![[Saubia_portrait.webp]]  
+	![[Saubia_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Saubia_Showcase.webp]]  
+	![[Saubia_Showcase.webp]]{ .card }  
   
 </div>  
   

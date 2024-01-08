@@ -14,10 +14,10 @@
 | **Karakter Betimi** | Boynunda yarım güneş sembolü var |  
   
 === "Lucian"  
-	![[Lucian_portrait.webp]]  
+	![[Lucian_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Lucian_Showcase.webp]]  
+	![[Lucian_Showcase.webp]]{ .card }  
   
 </div>  
   

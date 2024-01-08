@@ -14,10 +14,10 @@
 | **Karakter Betimi** | 200-250 yaşlarında, 100 senesini dışarıda geçirmiş |  
   
 === "Uliza"  
-	![[Uliza_portrait.webp]]  
+	![[Uliza_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Uliza_Showcase.webp]]  
+	![[Uliza_Showcase.webp]]{ .card }  
   
 </div>  
   

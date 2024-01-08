@@ -20,10 +20,10 @@ tags:
 | **Karakter Betimi** | 30-40 yaşlarında<br>1.80, yapılı, yakışıklı |  
   
 === "Hal Web"  
-	![[Hal Web_portrait.webp]]  
+	![[Hal Web_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Hal Web_Showcase.webp]]  
+	![[Hal Web_Showcase.webp]]{ .card }  
   
 </div>  
   

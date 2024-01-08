@@ -18,10 +18,10 @@ tags:
 | **Karakter Betimi** |  |  
   
 === "Kolandir"  
-	![[Kolandir_portrait.webp]]  
+	![[Kolandir_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Kolandir_Showcase.webp]]  
+	![[Kolandir_Showcase.webp]]{ .card }  
   
 </div>  
   

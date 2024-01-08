@@ -19,10 +19,10 @@ tags:
 | **Karakter Betimi** | Her yerine mücevher takıştırmış |  
   
 === "Kinatrial"  
-	![[Kinatrial_portrait.webp]]  
+	![[Kinatrial_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Kinatrial_Showcase.webp]]  
+	![[Kinatrial_Showcase.webp]]{ .card }  
   
 </div>  
   

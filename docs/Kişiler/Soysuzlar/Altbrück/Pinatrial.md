@@ -18,10 +18,10 @@ tags:
 | **Karakter Betimi** | Balyoz + Breastplate |  
   
 === "Pinatrial"  
-	![[Pinatrial_portrait.webp]]  
+	![[Pinatrial_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Pinatrial_Showcase.webp]]  
+	![[Pinatrial_Showcase.webp]]{ .card }  
   
 </div>  
   

@@ -7,7 +7,7 @@
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** | Bard |  
-| **Kütük** |  |  
+| **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   

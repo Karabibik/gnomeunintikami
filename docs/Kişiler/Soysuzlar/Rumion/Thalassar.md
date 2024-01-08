@@ -14,10 +14,10 @@
 | **Karakter Betimi** | Sol gözü yok<br>Elinde bir asa ve ucunda mavi gem var |  
   
 === "Thalassar"  
-	![[Thalassar_portrait.webp]]  
+	![[Thalassar_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Thalassar_Showcase.webp]]  
+	![[Thalassar_Showcase.webp]]{ .card }  
   
 </div>  
   

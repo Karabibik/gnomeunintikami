@@ -14,7 +14,7 @@
 | **Karakter Betimi** |  |  
   
 === "Slayer"  
-	![[Slayer_portrait.webp]]  
+	![[Slayer_portrait.webp]]{ .card }  
   
 </div>  
   

@@ -19,7 +19,7 @@ tags:
 | **Karakter Betimi** |  |  
   
 === "Harrion"  
-	![[Harrion_portrait.webp]]  
+	![[Harrion_portrait.webp]]{ .card }  
   
 </div>  
   

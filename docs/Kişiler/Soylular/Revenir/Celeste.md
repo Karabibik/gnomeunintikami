@@ -14,10 +14,10 @@
 | **Karakter Betimi** | 40lı yaşlarda<br>Beyazımsı sarışın saçlı<br>Gözleri bal rengi<br>Anti-divination kolyesi var |  
   
 === "Celeste"  
-	![[Celeste_portrait.webp]]  
+	![[Celeste_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Celeste_Showcase.webp]]  
+	![[Celeste_Showcase.webp]]{ .card }  
   
 </div>  
   

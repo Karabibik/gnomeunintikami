@@ -18,10 +18,10 @@ tags:
 | **Karakter Betimi** | Full dwarf beardlı, mohawk saçlı<br>Boynundan şakaklarına kadar altın rengi pullarla kaplı<br>Gözleri de altın rengi<br>Komple siyah/altın rengi ve pahalı kıyafetler giyiniyor |  
   
 === "Goldrum"  
-	![[Goldrum_portrait.webp]]  
+	![[Goldrum_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Goldrum_Showcase.webp]]  
+	![[Goldrum_Showcase.webp]]{ .card }  
   
 </div>  
   

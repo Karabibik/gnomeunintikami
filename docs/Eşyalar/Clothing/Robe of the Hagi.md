@@ -9,6 +9,6 @@ tags:
 | **Okul** | |  
 | **Fiyat** | |  
 | **Rarity** | |  
-| **Kimde** | [[Hüseyin]]|  
+| **Kimde** | [[Hußeite]]|  
 | **Menşei** | |  
 | **İşlev** | Emits an explosion when its owner is in danger|  

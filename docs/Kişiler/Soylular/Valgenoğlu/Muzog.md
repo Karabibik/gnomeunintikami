@@ -18,7 +18,7 @@ tags:
 | **Karakter Betimi** | Bordo mavi tenli<br>Kas kasoğlu |  
   
 === "Muzog"  
-	![[Muzog_portrait.webp]]  
+	![[Muzog_portrait.webp]]{ .card }  
   
 </div>  
   

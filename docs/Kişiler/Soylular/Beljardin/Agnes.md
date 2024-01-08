@@ -18,16 +18,16 @@ tags:
 | **Karakter Betimi** | Full plate armor giyiyor<br>Cüsseli |  
   
 === "Agnes"  
-	![[Agnes_portrait.webp]]  
+	![[Agnes_portrait.webp]]{ .card }  
   
 === "Showcase1"  
-	![[Agnes_Showcase1.webp]]  
+	![[Agnes_Showcase1.webp]]{ .card }  
   
 === "Showcase2"  
-	![[Agnes_Showcase2.webp]]  
+	![[Agnes_Showcase2.webp]]{ .card }  
   
 === "Showcase3"  
-	![[Agnes_Showcase3.webp]]  
+	![[Agnes_Showcase3.webp]]{ .card }  
   
 </div>  
   

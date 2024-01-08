@@ -18,16 +18,16 @@ tags:
 | **Karakter Betimi** | 1.80 civarında boyu |  
   
 === "Zarathia"  
-	![[Zarathia.webp]]  
+	![[Zarathia.webp]]{ .card }  
   
 === "Possessed"  
-	![[Zarathia_Possessed.webp]]  
+	![[Zarathia_Possessed.webp]]{ .card }  
   
 === "Showcase1"  
-	![[Zarathia_Showcase1.webp]]  
+	![[Zarathia_Showcase1.webp]]{ .card }  
   
 === "Showcase2"  
-	![[Zarathia_Showcase2.webp]]  
+	![[Zarathia_Showcase2.webp]]{ .card }  
   
 </div>  
   

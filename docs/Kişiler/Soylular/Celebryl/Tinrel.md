@@ -18,10 +18,10 @@ tags:
 | **Karakter Betimi** | Etrafında yıldırımlar dönüyor<br>Doğal taşlardan taç takıyor |  
   
 === "Tinrel"  
-	![[Tinrel_portrait.webp]]  
+	![[Tinrel_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Tinrel_Showcase.webp]]  
+	![[Tinrel_Showcase.webp]]{ .card }  
   
 </div>  
   

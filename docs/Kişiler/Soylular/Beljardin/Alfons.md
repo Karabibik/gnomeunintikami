@@ -19,7 +19,7 @@ tags:
 | **Karakter Betimi** |  |  
   
 === "Alfons"  
-	![[Alfons_portrait.webp]]  
+	![[Alfons_portrait.webp]]{ .card }  
   
 </div>  
   

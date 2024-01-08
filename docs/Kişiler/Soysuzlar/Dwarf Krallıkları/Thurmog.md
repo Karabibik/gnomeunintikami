@@ -14,7 +14,7 @@
 | **Karakter Betimi** |  |  
   
 === "Thurmog"  
-	![[Thurmog_portrait.webp]]  
+	![[Thurmog_portrait.webp]]{ .card }  
   
 </div>  
   

@@ -14,7 +14,7 @@
 | **Karakter Betimi** | Altın sarısı saçları ve elbisesi var<br>Soluk benizli, eflatun gözlü |  
   
 === "Auramonar"  
-	![[Auramonar_portrait.webp]]  
+	![[Auramonar_portrait.webp]]{ .card }  
   
 </div>  
   

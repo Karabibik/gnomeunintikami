@@ -14,7 +14,7 @@
 | **Karakter Betimi** | 2 metre boyunda, kaslı adam<br>Yaldır yaldır parlayan yekpare çekici var<br>Kollarında da pazu bantları dikkat çekiyor |  
   
 === "Corbin"  
-	![[Corbin_portrait.webp]]  
+	![[Corbin_portrait.webp]]{ .card }  
   
 </div>  
   

@@ -14,10 +14,10 @@
 | **Karakter Betimi** | 17-18 yaşlarında<br>Güzel kız |  
   
 === "Rensa"  
-	![[Rensa_portrait.webp]]  
+	![[Rensa_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Rensa_Showcase.webp]]  
+	![[Rensa_Showcase.webp]]{ .card }  
   
 </div>  
   

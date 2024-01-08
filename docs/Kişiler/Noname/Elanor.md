@@ -14,10 +14,10 @@
 | **Karakter Betimi** | Sarışın |  
   
 === "Elanor"  
-	![[Elanor_portrait.webp]]  
+	![[Elanor_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Elanor_Showcase.webp]]  
+	![[Elanor_Showcase.webp]]{ .card }  
   
 </div>  
   

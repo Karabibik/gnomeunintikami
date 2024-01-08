@@ -14,10 +14,10 @@
 | **Karakter Betimi** | Plate armorlu<br>Hafif adımlı |  
   
 === "Tamara"  
-	![[Tamara_portrait.webp]]  
+	![[Tamara_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Tamara_Showcase.webp]]  
+	![[Tamara_Showcase.webp]]{ .card }  
   
 </div>  
   

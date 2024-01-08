@@ -1,4 +1,6 @@
 # Durgan Stonehearth  
+  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Durgan |  
@@ -11,6 +13,10 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
+=== "Durgan"  
+	![[Durgan_portrait.webp]]{ .card }  
+  
+</div>  
   
 !!! note "İlave Notlar"  
 	Durgan Stoneheart is an old dwarf of venerable stature, his form towering above most of his kin—a testament to his unwavering resolve and towering presence within the world of arcane scholarship. His long, illustrious beard flows down his chest, a symbol of his age and wisdom. His eyes, weathered yet sharp, gleam with the accumulated knowledge and experiences gathered over centuries of study and exploration.  

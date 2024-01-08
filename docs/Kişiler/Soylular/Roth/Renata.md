@@ -14,7 +14,7 @@
 | **Karakter Betimi** | Aslında bayağı yaşlı ama elf kanı var diyorlar<br>Her tarafı zırhla kaplı |  
   
 === "Renata"  
-	![[Renata_portrait.webp]]  
+	![[Renata_portrait.webp]]{ .card }  
   
 </div>  
   

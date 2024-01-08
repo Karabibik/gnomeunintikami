@@ -14,10 +14,10 @@
 | **Karakter Betimi** |  |  
   
 === "Nadia"  
-	![[Nadia_portrait.webp]]  
+	![[Nadia_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Nadia_Showcase.webp]]  
+	![[Nadia_Showcase.webp]]{ .card }  
   
 </div>  
   

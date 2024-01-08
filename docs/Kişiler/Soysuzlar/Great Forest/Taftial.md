@@ -14,10 +14,10 @@
 | **Karakter Betimi** |  |  
   
 === "Taftial"  
-	![[Taftial_portrait.webp]]  
+	![[Taftial_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Taftial_Showcase.webp]]  
+	![[Taftial_Showcase.webp]]{ .card }  
   
 </div>  
   

@@ -14,7 +14,7 @@
 | **Karakter Betimi** | Ela gözlü<br>Zırhı yok<br>Boynunda mavi parlayan bir amulet var |  
   
 === "Aric"  
-	![[Aric_portrait.webp]]  
+	![[Aric_portrait.webp]]{ .card }  
   
 </div>  
   

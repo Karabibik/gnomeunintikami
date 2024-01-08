@@ -14,10 +14,10 @@
 | **Karakter Betimi** |  |  
   
 === "Thokk"  
-	![[Thokk_portrait.webp]]  
+	![[Thokk_portrait.webp]]{ .card }  
   
 === "Showcase"  
-	![[Thokk_Showcase.webp]]  
+	![[Thokk_Showcase.webp]]{ .card }  
   
 </div>  
   
