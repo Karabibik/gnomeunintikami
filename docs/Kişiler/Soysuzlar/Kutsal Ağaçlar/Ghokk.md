@@ -1,4 +1,5 @@
 # Ghokk   
+  
 !!! note inline end "Karakter Notları"  
 	Kutsal Ağaçlar reisi, Kurt totemi.     
   

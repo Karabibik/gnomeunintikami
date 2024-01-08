@@ -5,6 +5,7 @@ tags:
   - Kancık
 ---  
 # Osha   
+  
 !!! note inline end "Karakter Notları"  
 	John Ryld'ın sekreteri.     
   

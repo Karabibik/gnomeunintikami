@@ -1,4 +1,5 @@
 # Umman Lifeforger  
+  
 !!! note inline end "Karakter Notları"  
 	Rannok'un karısı     
   

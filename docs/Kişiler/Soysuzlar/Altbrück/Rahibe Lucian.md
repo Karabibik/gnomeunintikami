@@ -1,4 +1,5 @@
 # Rahibe Lucian   
+  
 !!! note inline end "Karakter Notları"  
 	Tapınak rahibesi, Philip'e gıcık.     
   

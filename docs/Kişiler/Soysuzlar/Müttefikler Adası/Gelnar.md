@@ -1,4 +1,5 @@
 # Gelnar   
+  
 !!! note inline end "Karakter Notları"  
 	Müttefikler adasında bir subay     
   

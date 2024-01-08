@@ -1,4 +1,5 @@
 # Azuuk   
+  
 !!! note inline end "Karakter Notları"  
 	Gruumsh'ın Kolları eski başkanı. [[Uliza]]'yla iş görüyordu.     
   
@@ -9,7 +10,7 @@
 | **Hizip** | [[Gruumsh'ın Kolları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Orc |  
-| **Sınıf** | Fighter |  
+| **Sınıf** | Fighter, Warlock |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  

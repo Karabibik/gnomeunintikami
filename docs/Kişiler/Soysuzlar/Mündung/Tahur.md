@@ -1,4 +1,5 @@
 # Tahur   
+  
 !!! note inline end "Karakter Notları"  
 	[[Celeste]] ile araları iyi, ona güveniyor.     
   

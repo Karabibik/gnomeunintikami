@@ -1,4 +1,5 @@
 # Adolf   
+  
 !!! note inline end "Karakter Notları"  
 	Könningsburg'daki demon çağıranların lideri     
   

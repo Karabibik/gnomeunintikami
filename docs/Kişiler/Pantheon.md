@@ -1,6 +1,5 @@
 | İsim | Cinsiyet | Irk | Notlar |  
 | --- | --- | --- | --- |  
-| [[All-father]] |  |  | Giant-Goliath tanrısı |  
 | [[Annam]] |  |  | Ana giant tanrısı |  
 | [[Corellion]] | Erkek | Elf | Ana elf tanrısı |  
 | [[Dragan]] | Erkek |  | EVÜL |  
@@ -12,7 +11,7 @@
 | [[Harsus]] | Erkek |  | Tanrılar kralı, Dragan öldürmüş. |  
 | [[Ioun]] | Dişi |  | Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini. |  
 | [[Keira]] | Dişi |  | Deniz ve fırtına tanrısı. |  
-| [[Kolt]] |  | Goliath | Goliath tanrısı. |  
+| [[Kort]] |  | Goliath | Goliath tanrısı. |  
 | [[Lloth]] | Dişi | Drow | Ana drow tanrısı. |  
 | [[Maglubiyet]] |  | Goblin | Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş. |  
 | [[Mellora]] | Dişi |  | Doğa tanrıçası. |  

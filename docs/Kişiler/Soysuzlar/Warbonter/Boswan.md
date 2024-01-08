@@ -1,4 +1,5 @@
 # Boswan   
+  
 !!! note inline end "Karakter Notları"  
 	John Ryld'ın yakın koruması binbaşı     
   

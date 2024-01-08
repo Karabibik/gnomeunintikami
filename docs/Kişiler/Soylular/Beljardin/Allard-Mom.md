@@ -1,4 +1,5 @@
 # Allard-Mom Beljardin  
+  
 !!! note inline end "Karakter Notları"  
 	Allard'ın annesi ama hanedeki tek işlevi anne olmak zira reis Agnes.     
   

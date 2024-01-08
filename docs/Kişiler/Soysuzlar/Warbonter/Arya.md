@@ -1,4 +1,5 @@
 # Arya   
+  
 !!! note inline end "Karakter Notları"  
 	[[Celeste]]'nin yaveri     
   

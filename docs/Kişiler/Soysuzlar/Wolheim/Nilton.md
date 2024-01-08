@@ -1,4 +1,5 @@
 # Nilton   
+  
 !!! note inline end "Karakter Notları"  
 	[[Jeggred]]'in oğlu.     
   

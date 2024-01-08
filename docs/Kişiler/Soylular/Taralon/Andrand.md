@@ -1,4 +1,5 @@
 # Andrand Taralon  
+  
 !!! note inline end "Karakter Notları"  
 	2005'te babasının öldürülmesiyle 5 yaşında tahta geçmiş     
   

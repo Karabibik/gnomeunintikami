@@ -1,4 +1,5 @@
 # Kırmızı Behir   
+  
 !!! note inline end "Karakter Notları"  
 	Sağ kalan tam vampir.     
   

@@ -3,6 +3,7 @@ tags:
   - Emenike
 ---  
 # Emerik   
+  
 !!! note inline end "Karakter Notları"  
 	Güneş Birliği High Priest'i. Ryld'dan memnun değil.     
   

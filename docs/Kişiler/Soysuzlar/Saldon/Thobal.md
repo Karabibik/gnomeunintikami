@@ -3,6 +3,7 @@ tags:
   - Haksız
 ---  
 # Thobal   
+  
 !!! note inline end "Karakter Notları"  
 	İki kardeşine bakmak için maceracılığa girişen bir kardeşimizdi. Girdiği her tartışmada haksız bulunmasıyla ünlüydü. Black Dragon tarafından yenildi.     
   

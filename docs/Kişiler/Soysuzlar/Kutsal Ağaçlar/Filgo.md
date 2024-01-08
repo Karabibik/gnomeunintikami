@@ -1,4 +1,5 @@
 # Filgo   
+  
 !!! note inline end "Karakter Notları"  
 	Kaplan totemi     
   

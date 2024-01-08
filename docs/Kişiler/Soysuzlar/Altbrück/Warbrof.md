@@ -1,4 +1,5 @@
 # Warbrof   
+  
 !!! note inline end "Karakter Notları"  
 	Eşkıya ve silah kaçakçısı. [[Uliza]]'yla iş görüyordu.     
   

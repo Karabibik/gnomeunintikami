@@ -1,4 +1,5 @@
 # III. Virzol Voldrun  
+  
 !!! note inline end "Karakter Notları"  
 	Könningsburg'u dünyanın başkenti ilan eden Kral.     
   

@@ -1,4 +1,5 @@
 # Gaspard Louis Beljardin  
+  
 !!! note inline end "Karakter Notları"  
 	Alfons'un babası     
   

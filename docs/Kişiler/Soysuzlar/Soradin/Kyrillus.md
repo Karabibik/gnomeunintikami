@@ -1,4 +1,5 @@
 # Kyrillus   
+  
 !!! note inline end "Karakter Notları"  
 	Corellion tapınağı arıyor adada.     
   

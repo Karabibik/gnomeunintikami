@@ -1,4 +1,5 @@
 # Vahmar   
+  
 !!! note inline end "Karakter Notları"  
 	Pleb olmayan bir arbalet ustası. Alfons *Geas* atıp yanımıza almıştı, öldü gitti zavallıcık.     
   

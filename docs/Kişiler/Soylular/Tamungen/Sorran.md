@@ -1,4 +1,5 @@
 # Sorran Tamungen  
+  
 !!! note inline end "Karakter Notları"  
 	Shadowguard üyesi teğmen.     
   

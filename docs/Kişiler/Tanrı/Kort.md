@@ -1,10 +1,11 @@
-# Kolt   
+# Kort   
+  
 !!! note inline end "Karakter Notları"  
 	Goliath tanrısı.     
   
 |  |  |  
 |---|---|  
-| **İsim** | Kolt |  
+| **İsim** | Kort |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  

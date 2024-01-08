@@ -1,4 +1,5 @@
 # Berthold   
+  
 !!! note inline end "Karakter Notları"  
 	John Ryld'ın adamı, muhafızlara pusu kurdurttu     
   

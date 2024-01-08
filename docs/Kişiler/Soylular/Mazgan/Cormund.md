@@ -1,4 +1,5 @@
 # Cormund Mazgan  
+  
 !!! note inline end "Karakter Notları"  
 	Güneş Birliği paladini     
   

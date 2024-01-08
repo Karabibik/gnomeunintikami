@@ -1,4 +1,5 @@
 # Donaar   
+  
 !!! note inline end "Karakter Notları"  
 	General Shop satıcısı     
   

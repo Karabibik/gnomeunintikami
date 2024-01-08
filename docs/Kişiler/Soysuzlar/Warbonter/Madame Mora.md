@@ -1,4 +1,5 @@
 # Madame Mora   
+  
 !!! note inline end "Karakter Notları"  
 	[[Mora'nın Güzellikleri]] işletmecisi.     
   

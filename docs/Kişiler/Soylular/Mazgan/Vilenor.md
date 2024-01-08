@@ -1,4 +1,5 @@
 # Vilenor Mazgan  
+  
 !!! note inline end "Karakter Notları"  
 	[[Adelyus]]'un dükkân ortağı. Soylu aileden ama üçüncü kuşak. Ryld'dan memnun değil.     
   

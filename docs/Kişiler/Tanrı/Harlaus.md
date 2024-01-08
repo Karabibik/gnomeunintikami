@@ -1,4 +1,5 @@
 # Harlaus   
+  
 !!! note inline end "Karakter Notları"  
 	Ölülerin ruhlarını koruyor. Tapınılması yasak değil ama çok tapınanı yok.     
   

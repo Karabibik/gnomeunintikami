@@ -1,4 +1,5 @@
 # Theron   
+  
 !!! note inline end "Karakter Notları"  
 	Zarathia'nın eski komutanı.     
   

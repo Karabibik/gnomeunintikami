@@ -1,4 +1,9 @@
+---
+tags:
+  - All-father
+---  
 # Annam   
+  
 !!! note inline end "Karakter Notları"  
 	Ana giant tanrısı     
   

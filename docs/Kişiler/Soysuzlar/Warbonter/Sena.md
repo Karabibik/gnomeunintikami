@@ -3,6 +3,7 @@ tags:
   - Vahşi
 ---  
 # Sena   
+  
 !!! note inline end "Karakter Notları"  
 	Paralı asker, shadowbroker.     
   

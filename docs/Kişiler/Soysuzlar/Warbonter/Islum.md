@@ -1,4 +1,5 @@
 # Islum   
+  
 !!! note inline end "Karakter Notları"  
 	[[Beer Mire]] hanının işletmecisi. Thieves' cant'e hakim.     
   

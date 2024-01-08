@@ -1,4 +1,5 @@
 # Hange Rand  
+  
 !!! note inline end "Karakter Notları"  
 	Esmerden ziyade güneşte kalmış gibi, pureblood Rand belli ki. Görev başında içki içiyor.     
   

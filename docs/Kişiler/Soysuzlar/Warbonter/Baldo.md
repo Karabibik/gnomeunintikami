@@ -1,4 +1,5 @@
 # Baldo   
+  
 !!! note inline end "Karakter Notları"  
 	Turnuvada yendiğimiz bir adam     
   

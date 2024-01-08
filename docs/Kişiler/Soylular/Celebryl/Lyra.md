@@ -1,4 +1,5 @@
 # Lyra Celebryl  
+  
 !!! note inline end "Karakter Notları"  
 	Wizardry hocası.     
   

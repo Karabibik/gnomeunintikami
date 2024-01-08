@@ -1,4 +1,5 @@
 # Rasni   
+  
 !!! note inline end "Karakter Notları"  
 	Küçük bombacı, barutçubaşı.     
   

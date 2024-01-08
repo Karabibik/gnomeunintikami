@@ -1,4 +1,5 @@
 # Mark   
+  
 !!! note inline end "Karakter Notları"  
 	Yenta'yı ayakta tutmaya çalışan ADDAM. Daha önce Warbonter'de bulunmuş asker olarak.     
   

@@ -1,4 +1,5 @@
 # Vaigar   
+  
 !!! note inline end "Karakter Notları"  
 	Tünel kazma yarışmasına girdi. Rakibiyle aşık atmaya çalışırken bayıldı.     
   

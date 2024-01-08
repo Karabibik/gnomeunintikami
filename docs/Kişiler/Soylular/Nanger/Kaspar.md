@@ -1,4 +1,5 @@
 # Kaspar Nanger  
+  
 !!! note inline end "Karakter Notları"  
 	Wizard rektör.     
   

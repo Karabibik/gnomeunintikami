@@ -1,4 +1,5 @@
 # Killien   
+  
 !!! note inline end "Karakter Notları"  
 	Eski almancada "little warrior" demekmiş, yeni evocation kürsü başkanı. Low life'ın teki, John Ryld'ın adamı, tutuklandı.     
   

@@ -1,4 +1,5 @@
 # Frans Beljardin  
+  
 !!! note inline end "Karakter Notları"  
 	Eski vampir avcısı     
   

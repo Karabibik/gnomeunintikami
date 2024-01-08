@@ -1,4 +1,5 @@
 # Jeggred   
+  
 !!! note inline end "Karakter Notları"  
 	Kendini öldürecekken [[Nendra]] kurtardı. 50 yaşında kaçtı ortamından, 250 yıldır falan dışarıda.     
   

@@ -1,4 +1,5 @@
 # Zal   
+  
 !!! note inline end "Karakter Notları"  
 	Stablemaster     
   

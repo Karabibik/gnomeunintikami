@@ -3,8 +3,9 @@ tags:
   - the Sharp
 ---  
 # Philip   
+  
 !!! note inline end "Karakter Notları"  
-	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].     
+	Hak yoluna dönmüş suikastçı (bkz: [[00 - Evsiz Philip]]).     
   
 |  |  |  
 |---|---|  
@@ -14,7 +15,7 @@ tags:
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** | Rogue (Assassin) (Level 11) |  
-| **Kütük** | [[Warbonter]] |  
+| **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
   

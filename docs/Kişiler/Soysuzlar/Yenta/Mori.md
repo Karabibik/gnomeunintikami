@@ -1,4 +1,5 @@
 # Mori   
+  
 !!! note inline end "Karakter Notları"  
 	Etrafı bilen, suç organizatörü. Boswan'ın etrafındaki adamlardan.     
   

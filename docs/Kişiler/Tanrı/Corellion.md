@@ -1,4 +1,5 @@
 # Corellion   
+  
 !!! note inline end "Karakter Notları"  
 	Ana elf tanrısı     
   

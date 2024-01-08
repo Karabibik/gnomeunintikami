@@ -1,4 +1,5 @@
 # Banlord Lifeforger  
+  
 !!! note inline end "Karakter Notları"  
 	Rannok'un oğlu     
   

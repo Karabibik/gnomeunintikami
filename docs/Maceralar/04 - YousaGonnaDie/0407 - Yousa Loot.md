@@ -33,15 +33,15 @@ Koyu lacivert kapaklı grimoire -> Harrion
   
 | Level 1             | Level 2         | Level 3        | Level 4         |  
 |---------------------|-----------------|----------------|-----------------|  
-| Absorb Elements     | Hold Person     | Fireball ++    | Wall of Fire    |  
-| Shield              | Alter Self ++   | Haste          | Blight          |  
-| Find Familiar ++    | Blur            | Animate Dead   | Dimens. Door ++ |  
+| Absorb Elements     | Hold Person     | Fireball    | Wall of Fire    |  
+| Shield              | Alter Self   | Haste          | Blight          |  
+| Find Familiar    | Blur            | Animate Dead   | Dimens. Door |  
 | Sleep               | Dragon's Breath | Fear           |                 |  
-| Disguise Self ++    | Shadow Blade    | Vampiric Touch |                 |  
-| Comprehend Lang. ++ | Ray of Enfeeb.  | Tongues        |                 |  
+| Disguise Self    | Shadow Blade    | Vampiric Touch |                 |  
+| Comprehend Lang. | Ray of Enfeeb.  | Tongues        |                 |  
 | Fog Cloud           |                 |                |                 |  
-| Identify ++         |                 |                |                 |  
-| Detect Magic ++     |                 |                |                 |  
+| Identify         |                 |                |                 |  
+| Detect Magic     |                 |                |                 |  
 | Ray of Sickness     |                 |                |                 |  
   
 Notlar, kağıtlar vs -> Vincent  

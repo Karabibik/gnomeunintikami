@@ -1,4 +1,5 @@
 # Theresa   
+  
 !!! note inline end "Karakter Notları"  
 	[[Ioun]] kütüphanesi başkanı, rahibe. Ryld'dan memnun değil.     
   

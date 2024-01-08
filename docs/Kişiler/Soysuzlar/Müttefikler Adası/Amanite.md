@@ -1,4 +1,5 @@
 # Amanite   
+  
 !!! note inline end "Karakter Notları"  
 	Koltuk altı mantarı var, adı Füg.     
   

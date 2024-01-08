@@ -1,4 +1,5 @@
 # Arela   
+  
 !!! note inline end "Karakter Notları"  
 	Support captain, humanitarian, muhtemelen katil piskopat     
   

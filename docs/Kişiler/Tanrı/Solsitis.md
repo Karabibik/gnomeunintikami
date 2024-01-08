@@ -1,4 +1,5 @@
 # Solsitis   
+  
 !!! note inline end "Karakter Notları"  
 	[[Güneş Birliği]] ve İmparatorluk'un ana tanrısı.     
   

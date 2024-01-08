@@ -1,4 +1,5 @@
 # Sessiz   
+  
 !!! note inline end "Karakter Notları"  
 	[[Warbrof]]'un sağ kolu.     
   

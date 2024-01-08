@@ -1,4 +1,5 @@
 # Olga   
+  
 !!! note inline end "Karakter Notları"  
 	[[Tamara]]'nın kız kardeşi.     
   
