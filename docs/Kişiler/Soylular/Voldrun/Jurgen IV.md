@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Halstein'ın babası.  
-  
-  
+	  
+	  
+	

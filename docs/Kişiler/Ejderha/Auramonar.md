@@ -7,7 +7,7 @@
 | **İsim** | Auramonar |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Dragon(Gold) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Aurelia]] |  
@@ -22,3 +22,4 @@
   
 !!! note "Karakter Notları"  
 	[[Praetor Aurelion]]'un kızı. Ekseriyetle kibar.  
+	

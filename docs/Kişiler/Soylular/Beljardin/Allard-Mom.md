@@ -4,7 +4,7 @@
 | **İsim** | Allard-Mom |  
 | **Soyadı** | [[Beljardin]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Warbonter]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Allard'ın annesi ama hanedeki tek işlevi anne olmak zira reis Agnes.  
-  
-  
+	  
+	  
+	

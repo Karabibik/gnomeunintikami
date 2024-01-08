@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Muzog]]'u tarikatçılardan kaçıran bir dost, adı "yedi" demek.  
-  
-  
+	  
+	  
+	

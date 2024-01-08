@@ -4,7 +4,7 @@
 | **İsim** | Gina |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** | Fighter |  
 | **Kütük** | [[Altbrück]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Agnes]]'in koruması, sadık.  
-  
-  
+	  
+	  
+	

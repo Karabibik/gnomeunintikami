@@ -4,7 +4,7 @@
 | **İsim** | Elara |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | WoodElf |  
 | **Sınıf** | Caster (Level 10+) |  
 | **Kütük** | [[Forgunntal]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Great Forest]]'ın Müttefikler Adası'ndaki temsilcisi. Çok küçükken [[Ruby]]'yi de kurtarmış. Kör.  
-  
-  
+	  
+	  
+	

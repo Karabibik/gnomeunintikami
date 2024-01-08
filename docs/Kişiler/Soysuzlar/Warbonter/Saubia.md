@@ -7,7 +7,7 @@
 | **İsim** | Saubia |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Tiefling |  
 | **Sınıf** | Sorcerer (Shadow) |  
 | **Kütük** | [[Warbonter]] |  
@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan ismi.  
+	

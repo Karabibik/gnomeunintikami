@@ -4,7 +4,7 @@
 | **İsim** | Rahibe Lucian |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Altbrück]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Tapınak rahibesi, Philip'e gıcık.  
-  
-  
+	  
+	  
+	

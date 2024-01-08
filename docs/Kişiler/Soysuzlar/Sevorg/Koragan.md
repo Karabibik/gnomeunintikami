@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Goliath high-chief'i. Frost giant şefini yenip üç kabileyi de buyruk altına almış.  
-  
-  
+	  
+	  
+	

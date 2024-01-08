@@ -4,7 +4,7 @@
 | **İsim** | Amanite |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Elf |  
 | **Sınıf** | Druid (Level 4) |  
 | **Kütük** | [[Müttefikler Adası]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Koltuk altı mantarı var, adı Füg.  
-  
-  
+	  
+	  
+	

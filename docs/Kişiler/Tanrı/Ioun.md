@@ -8,7 +8,7 @@ tags:
 | **İsim** | Ioun |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** |  |  
 | **Sınıf** |  |  
 | **Kütük** |  |  
@@ -18,5 +18,6 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini.  
-  
-  
+	  
+	  
+	

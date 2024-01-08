@@ -7,7 +7,7 @@
 | **İsim** | Nadia |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** |  |  
 | **Sınıf** | Monk |  
 | **Kütük** | [[Altbrück]] |  
@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir nerede?  
+	

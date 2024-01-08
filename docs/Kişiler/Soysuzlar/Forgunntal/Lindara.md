@@ -4,7 +4,7 @@
 | **İsim** | Lindara |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Elf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Forgunntal]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Müttefikler adası belediye başkanı.  
-  
-  
+	  
+	  
+	

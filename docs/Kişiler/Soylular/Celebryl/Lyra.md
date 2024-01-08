@@ -4,7 +4,7 @@
 | **İsim** | Lyra |  
 | **Soyadı** | [[Celebryl]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Elf |  
 | **Sınıf** | Wizard (Level 17+) |  
 | **Kütük** | [[Forgunntal]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Wizardry hocası.  
-  
-  
+	  
+	  
+	

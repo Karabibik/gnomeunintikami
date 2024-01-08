@@ -7,7 +7,7 @@
 | **İsim** | Uliza |  
 | **Soyadı** | [[Sym]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Drow |  
 | **Sınıf** | Rogue, Ranger (Gloomstalker) |  
 | **Kütük** | [[Tamdro]] |  
@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	[[Hal Web]]'i avlayan ve avlanan drow. Sym hanedanı üyesi, bu yüzden mevcut Matriarch'ı tehlikeye atıyor. Ölmeden yurduna dönüp iktidara gelmeye çalışıyor.  
+	

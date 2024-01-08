@@ -3,7 +3,7 @@ tags:
   - Aile  
 ---  
   
-Soradin'de bir aile.  
+[[Soradin|Soradin Federasyonu]]'nda bir aile.  
   
 Bilinen üyeleri:  
-- [[Marivaldi]]
+- [[Elowen]]

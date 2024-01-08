@@ -4,7 +4,7 @@
 | **İsim** | Merg |  
 | **Soyadı** |  |  
 | **Hizip** | [[Ryld Çetesi]] |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Orc |  
 | **Sınıf** | Fighter |  
 | **Kütük** | [[Warbonter]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	John Ryld'a bağlı hareket eden çetelerin ikinci başı, [[Morg]]'un kardeşi.  
-  
-  
+	  
+	  
+	

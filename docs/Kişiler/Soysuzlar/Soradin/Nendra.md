@@ -4,7 +4,7 @@
 | **İsim** | Nendra |  
 | **Soyadı** |  |  
 | **Hizip** | [[Eilistraeciler]] |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Drow |  
 | **Sınıf** | Cleric |  
 | **Kütük** | [[Soradin]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Eilistraecilerin başrahibesi.  
-  
-  
+	  
+	  
+	

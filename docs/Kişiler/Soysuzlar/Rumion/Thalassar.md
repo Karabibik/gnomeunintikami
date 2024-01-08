@@ -39,3 +39,4 @@
 	However, the fight was fraught with danger, and the Nightmare Weaver's malevolent presence overwhelmed Thalassar's physical body. As his mortal form succumbed to the relentless assault, Thalassar made a desperate decision. In his final moments, he transferred his consciousness into a small corner of the Nightmare Weaver's mind, his essence merging with that of his nemesis.  
 	  
 	Now, Thalassar exists as a symbiotic presence within the Nightmare Weaver, battling against its malevolence from within. Using the Dreamweaver Staff to its full potential, he wages a dual struggle in the dream realm, aiming to weaken the creature's hold on its victims and dismantle its psychic dominion. Despite the darkness that surrounds him, Thalassar's spirit burns bright, infused with the wisdom and resilience he has garnered throughout his journey.  
+	

@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Altın ejderha. Aurum klanının atası.  
-  
-  
+	  
+	  
+	

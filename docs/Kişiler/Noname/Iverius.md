@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik.  
-  
-  
+	  
+	  
+	

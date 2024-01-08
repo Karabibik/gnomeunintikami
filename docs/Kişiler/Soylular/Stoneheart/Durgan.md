@@ -35,3 +35,4 @@
 	In the hallowed halls of the Academy, Durgan's presence commands reverence. His office, filled with ancient tomes and mysterious artifacts, serves as a testament to a lifetime dedicated to unraveling the mysteries of the arcane. Students find themselves awestruck by his tales of adventures and discoveries in the pursuit of magical knowledge.  
 	  
 	Durgan Stoneheart, as the Dean of the Wizardry Academy, is a living legend—a repository of arcane knowledge and a guiding beacon for all aspiring wizards. His dual identity, bridging the elven and dwarven realms, symbolizes the harmony achieved when knowledge and heritage unite in the pursuit of wisdom and magical mastery.  
+	

@@ -18,5 +18,6 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Güneş Birliği High Priest'i. Ryld'dan memnun değil.  
-  
-  
+	  
+	  
+	

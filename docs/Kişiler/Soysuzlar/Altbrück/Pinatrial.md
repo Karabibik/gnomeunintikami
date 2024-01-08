@@ -11,7 +11,7 @@ tags:
 | **İsim** | Pinatrial |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | WoodElf |  
 | **Sınıf** | Cleric (Forge) |  
 | **Kütük** | [[Altbrück]] |  
@@ -29,3 +29,4 @@ tags:
   
 !!! note "Karakter Notları"  
 	[[Kinatrial]]'nın kardeşi demirci. Biraz utangaç, otistik bir havası var. Zorlamayın.  
+	

@@ -4,7 +4,7 @@
 | **İsim** | Ruby |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Halfling |  
 | **Sınıf** | Rogue (Level 5) |  
 | **Kütük** | [[Marnell]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Değerli şeyleri çok sever  
-  
-  
+	  
+	  
+	

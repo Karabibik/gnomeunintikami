@@ -4,7 +4,7 @@
 | **İsim** | Umman |  
 | **Soyadı** | [[Lifeforger]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Dwarf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Belanord]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Rannok'un karısı  
-  
-  
+	  
+	  
+	

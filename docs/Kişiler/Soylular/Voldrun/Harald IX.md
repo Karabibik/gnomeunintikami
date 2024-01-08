@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Fucking İmparator bitch, Jurgen V'in oğlu.  
-  
-  
+	  
+	  
+	

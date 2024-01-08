@@ -31,3 +31,4 @@ tags:
 	Zamanında, ejderhalar zamanında, [[Soradin]]'de bu isimde efsanevi bir kahraman var. [[Muzog]]'un baltasından manifest olabiliyor zaman zaman. Bronz Valgena'nın askerlerinden, hatta baltasını da bizzat o efsunlamış. Bronz ejderhalar gibi cesur ve adil olduğu için Bronz Kalpli denmiş.  
 	  
 	Muzog'un en yakın arkadaşı.  
+	

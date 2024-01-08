@@ -11,7 +11,7 @@ tags:
 | **İsim** | Agnes |  
 | **Soyadı** | [[Beljardin]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** | Fighter |  
 | **Kütük** | [[Altbrück]] |  
@@ -28,9 +28,6 @@ tags:
 === "Showcase2"  
 	![[Agnes_Showcase2.webp]]{ .card }  
   
-=== "Showcase3"  
-	![[Agnes_Showcase3.webp]]{ .card }  
-  
 </div>  
   
 !!! note "Karakter Notları"  
@@ -39,3 +36,4 @@ tags:
 	Hem savaşta hem masada sağlam kadın. Hem Cüce Krallıkları hem de İmparatorluk'un doğusunda katıldığı savaşlarda büyük başarılar elde etmiş. Cüce Krallıklarının orada da Goldrum Aurum ile tanışmış.  
 	  
 	Celeste ile aralarında bir husumet var Alfons kaynaklı.   
+	

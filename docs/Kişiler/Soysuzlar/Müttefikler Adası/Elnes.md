@@ -4,7 +4,7 @@
 | **İsim** | Elnes |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | HalfElf |  
 | **Sınıf** | Monk (Level 5+) |  
 | **Kütük** | [[Müttefikler Adası]] |  
@@ -16,5 +16,6 @@
 	Way of Mercy eğitimi alan monklardan biri. Hain.  
 	  
 	Manastıra geldiğinde yetimdi, Tholberg gibi sokakta buldukları için Tholberg ona abilik yaptı uzunca süre, Thalindor bu kararı çok desteklemese de. Gösterdiği başarılar sonucunda monklara katıldı ama sonra yapmaması gereken bir şey yaptı. Tholberg de maskesini yüzünde parçalayıp manastırdan kovdu.  
-  
-  
+	  
+	  
+	

@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş.  
-  
-  
+	  
+	  
+	

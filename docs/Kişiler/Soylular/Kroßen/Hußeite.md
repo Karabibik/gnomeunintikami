@@ -37,3 +37,4 @@ tags:
 	Following the loss of his wife, he wholly devoted himself to his faith. His quest to uncover the essence of Harsus led him on extensive travels across the land, visiting numerous locations rumored to house a fragment of the dead god. These travels earned him the moniker "Haci." It was during these journeys that he encountered his steadfast companion, Süden.  
 	  
 	Haci's appearance is striking; his mismatched eyes—blue and green—make him unforgettable after even the briefest encounter. His innate charisma, combined with his unique fashion sense, renders him a sight to behold. Donning a maroon robe of his own design, intricately embroidered with a star map visible even in daylight, he fastens the cape with the "Harsus's Crown" buckle, matching the robe's color. Concealing his face behind a white porcelain mask, only his neck and eyes are visible. To cast his spells, he wields a small wand resembling a flagellant's whip.  
+	

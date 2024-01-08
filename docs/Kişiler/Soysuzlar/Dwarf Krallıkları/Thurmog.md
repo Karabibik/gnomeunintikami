@@ -22,3 +22,4 @@
   
 !!! note "Karakter Notları"  
 	Kırık çıkıkçı  
+	

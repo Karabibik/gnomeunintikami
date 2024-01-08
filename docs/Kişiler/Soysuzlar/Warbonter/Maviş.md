@@ -4,7 +4,7 @@
 | **İsim** | Maviş |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Dwarf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Warbonter]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Üniversite yanındaki açık büfeci cüce, [[Steelhide]] klanından.  
-  
-  
+	  
+	  
+	

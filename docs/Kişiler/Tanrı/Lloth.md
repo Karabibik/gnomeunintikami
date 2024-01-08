@@ -4,7 +4,7 @@
 | **İsim** | Lloth |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Drow |  
 | **Sınıf** |  |  
 | **Kütük** |  |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Ana drow tanrısı.  
-  
-  
+	  
+	  
+	

@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Balık Kovası]] hanının işletmecisi.  
-  
-  
+	  
+	  
+	

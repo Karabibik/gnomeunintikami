@@ -7,7 +7,7 @@
 | **İsim** | Elanor |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** | Warlock (Level 14) |  
 | **Kütük** |  |  
@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Demonologist meczup. Ölüp dirilince unutuyor yaşadıklarının bir kısmını büyük ihtimalle. Falona'nın bir hizmetkârı olduğu tahmin ediliyor.  
+	

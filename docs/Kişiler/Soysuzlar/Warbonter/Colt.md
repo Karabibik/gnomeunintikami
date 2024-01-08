@@ -18,5 +18,6 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Philip'in eski ekibi Evsiz Uşaklar'ın başı  
-  
-  
+	  
+	  
+	

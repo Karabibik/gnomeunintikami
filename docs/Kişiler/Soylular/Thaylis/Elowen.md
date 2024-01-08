@@ -7,7 +7,7 @@
 | **İsim** | Elowen |  
 | **Soyadı** | [[Thaylis]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Erkek |  
+| **Cinsiyet** | Dişi |  
 | **Irk** |  |  
 | **Sınıf** | Wizard (Level 17+) |  
 | **Kütük** | [[Mageocracy]] |  
@@ -40,3 +40,4 @@
   
 !!! note "Karakter Notları"  
 	Yaşı Delador'a yakın ve ona karşı durabilen nadir kişilerden. Mageocracy'nin mevcut idarecisi. Rünik büyüler ve özellikle büyülü dövmeler konusundaki çalışmalarıyla biliniyor.  
+	

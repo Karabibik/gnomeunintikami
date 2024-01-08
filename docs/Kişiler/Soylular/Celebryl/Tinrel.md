@@ -11,7 +11,7 @@ tags:
 | **İsim** | Tinrel |  
 | **Soyadı** | [[Celebryl]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | HighElf |  
 | **Sınıf** | Sorcerer (Storm) (Level 15+) |  
 | **Kütük** | [[Mündung]] |  
@@ -29,3 +29,4 @@ tags:
   
 !!! note "Karakter Notları"  
 	Motherfucking Kraliçe, aldı yürüyor yarabbim. Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi. Biraz atarlı ve fazlasıyla tehlikeli. Geçmişi karanlık. Kötü anlamında değil, bilinmiyor.  
+	

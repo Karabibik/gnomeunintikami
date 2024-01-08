@@ -4,7 +4,7 @@
 | **İsim** | Sienna |  
 | **Soyadı** | [[Valgenoğlu]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Saldon]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Muzog]]'un bir dostu.  
-  
-  
+	  
+	  
+	

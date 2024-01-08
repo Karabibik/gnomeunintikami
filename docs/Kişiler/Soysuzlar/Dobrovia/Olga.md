@@ -4,7 +4,7 @@
 | **İsim** | Olga |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Dwarf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Dobrovia]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Tamara]]'nın kız kardeşi.  
-  
-  
+	  
+	  
+	

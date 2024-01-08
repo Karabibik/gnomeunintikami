@@ -4,7 +4,7 @@
 | **İsim** | Arya |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Warbonter]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Celeste]]'nin yaveri  
-  
-  
+	  
+	  
+	

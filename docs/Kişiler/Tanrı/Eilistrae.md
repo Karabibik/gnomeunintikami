@@ -4,7 +4,7 @@
 | **İsim** | Eilistrae |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Elf |  
 | **Sınıf** |  |  
 | **Kütük** |  |  
@@ -14,5 +14,6 @@
   
 !!! note "Karakter Notları"  
 	Drowların aydınlık tanrısı. Drowlar çok bilmez, öğretilmez. [[Corellion]] ile [[Lloth]]'un çocuğu, ihanete katılmamış. Dark elflere iyilik öğretmek istiyor. Rahibeleri insan kasabalarına hediye götürüp senede bir evil yaratık avlıyor mesela.  
-  
-  
+	  
+	  
+	

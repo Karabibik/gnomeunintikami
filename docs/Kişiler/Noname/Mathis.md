@@ -18,5 +18,6 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Giant araştırmacısı, [[Vincent]]'ın eski arkadaşı.  
-  
-  
+	  
+	  
+	

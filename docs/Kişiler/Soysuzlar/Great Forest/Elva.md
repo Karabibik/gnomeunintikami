@@ -7,7 +7,7 @@
 | **İsim** | Elva |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | WoodElf |  
 | **Sınıf** | Fighter, Rogue |  
 | **Kütük** | [[Great Forest]] |  
@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Great Forest'tan elçi olarak Mündung'a gelmiş. Hiçbir hedefi kaçırmayan bir okçu olduğu söyleniyor. Ormanda huntmaster ve spymaster olarak görev yapıyormuş. Bu sebeple burada biraz da istihbarat amaçlı olduğu düşünülüyor.  
+	

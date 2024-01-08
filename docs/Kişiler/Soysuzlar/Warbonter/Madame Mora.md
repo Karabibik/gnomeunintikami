@@ -4,7 +4,7 @@
 | **İsim** | Madame Mora |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | CommonElf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Warbonter]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Mora'nın Güzellikleri]] işletmecisi.  
-  
-  
+	  
+	  
+	

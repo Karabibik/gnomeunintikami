@@ -4,7 +4,7 @@
 | **İsim** | Inlot |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Tiefling |  
 | **Sınıf** |  |  
 | **Kütük** | [[Altbrück]] |  
@@ -14,5 +14,6 @@
   
 !!! note inline end "Karakter Notları"  
 	Değirmenci  
-  
-  
+	  
+	  
+	

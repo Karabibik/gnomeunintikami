@@ -7,7 +7,7 @@
 | **İsim** | Maelia |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | CommonElf |  
 | **Sınıf** | Barbarian, Fighter |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Kartal totemi. Çok görmüş geçirmiş, canavar avlamakta ustalaşmış.  
+	

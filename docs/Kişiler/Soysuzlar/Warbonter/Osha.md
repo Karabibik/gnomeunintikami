@@ -10,7 +10,7 @@ tags:
 | **İsim** | Osha |  
 | **Soyadı** |  |  
 | **Hizip** | [[Ryld Çetesi]] |  
-| **Cinsiyet** | Kadın |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** | Monk (Level 10+) |  
 | **Kütük** | [[Warbonter]] |  
@@ -20,5 +20,6 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	John Ryld'ın sekreteri.  
-  
-  
+	  
+	  
+	
