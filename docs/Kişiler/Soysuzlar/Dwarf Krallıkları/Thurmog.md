@@ -1,6 +1,6 @@
 # Thurmog   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Thurmog |  
@@ -13,7 +13,9 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-![[Thurmog_portrait.webp]]  
+=== "Thurmog"  
+	![[Thurmog_portrait.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

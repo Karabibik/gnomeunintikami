@@ -1,6 +1,6 @@
 # Thalassar   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Thalassar |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sol gözü yok<br>Elinde bir asa ve ucunda mavi gem var |  
   
-![[Thalassar_portrait.webp]]  
+=== "Thalassar"  
+	![[Thalassar_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Thalassar_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

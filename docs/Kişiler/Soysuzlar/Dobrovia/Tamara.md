@@ -1,6 +1,6 @@
 # Tamara   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Tamara |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Plate armorlu<br>Hafif adımlı |  
   
-![[Tamara_portrait.webp]]  
+=== "Tamara"  
+	![[Tamara_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Tamara_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

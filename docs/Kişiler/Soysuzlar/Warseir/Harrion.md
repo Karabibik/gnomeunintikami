@@ -5,7 +5,7 @@ tags:
 ---  
 # Harrion   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Harrion |  
@@ -18,7 +18,9 @@ tags:
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
   
-![[Harrion_portrait.webp]]  
+=== "Harrion"  
+	![[Harrion_portrait.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

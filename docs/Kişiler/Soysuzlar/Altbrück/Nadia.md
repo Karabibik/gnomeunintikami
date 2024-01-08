@@ -1,6 +1,6 @@
 # Nadia   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Nadia |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
   
-![[Nadia_portrait.webp]]  
+=== "Nadia"  
+	![[Nadia_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Nadia_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

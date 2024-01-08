@@ -1,6 +1,6 @@
 # Rensa Revenir  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Rensa |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 17-18 yaşlarında<br>Güzel kız |  
   
-![[Rensa_portrait.webp]]  
+=== "Rensa"  
+	![[Rensa_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Rensa_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

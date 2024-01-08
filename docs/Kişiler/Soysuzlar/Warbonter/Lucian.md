@@ -1,6 +1,6 @@
 # Lucian   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Lucian |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Boynunda yarım güneş sembolü var |  
   
-![[Lucian_portrait.webp]]  
+=== "Lucian"  
+	![[Lucian_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Lucian_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

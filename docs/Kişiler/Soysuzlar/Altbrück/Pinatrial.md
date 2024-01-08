@@ -4,7 +4,7 @@ tags:
 ---  
 # Pinatrial   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Pinatrial |  
@@ -17,7 +17,12 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Balyoz + Breastplate |  
   
-![[Pinatrial_portrait.webp]]  
+=== "Pinatrial"  
+	![[Pinatrial_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Pinatrial_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

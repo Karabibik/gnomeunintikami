@@ -1,6 +1,6 @@
 # Elanor   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Elanor |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sarışın |  
   
-![[Elanor_portrait.webp]]  
+=== "Elanor"  
+	![[Elanor_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Elanor_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

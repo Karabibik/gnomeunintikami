@@ -1,6 +1,6 @@
 # Celeste Revenir  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Celeste |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40lı yaşlarda<br>Beyazımsı sarışın saçlı<br>Gözleri bal rengi<br>Anti-divination kolyesi var |  
   
-![[Celeste_portrait.webp]]  
+=== "Celeste"  
+	![[Celeste_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Celeste_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

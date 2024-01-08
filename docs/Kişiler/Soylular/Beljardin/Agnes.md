@@ -4,7 +4,7 @@ tags:
 ---  
 # Agnes Beljardin  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Agnes |  
@@ -17,7 +17,18 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Full plate armor giyiyor<br>Cüsseli |  
   
-![[Agnes_portrait.webp]]  
+=== "Agnes"  
+	![[Agnes_portrait.webp]]  
+  
+=== "Showcase1"  
+	![[Agnes_Showcase1.webp]]  
+  
+=== "Showcase2"  
+	![[Agnes_Showcase2.webp]]  
+  
+=== "Showcase3"  
+	![[Agnes_Showcase3.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

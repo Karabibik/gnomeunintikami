@@ -6,10 +6,10 @@
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
 | **Irk** |  |  
-| **Sınıf** | Fighter |  
+| **Sınıf** | Fighter (Level 11+) |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
-| **Karakter Betimi** | Full plate armor<br>Eski moda giyiniyor |  
+| **Karakter Betimi** | Full plate armor<br>Eski moda giyiniyor<br>Boynunda taç var |  
   
   
 !!! note "İlave Notlar"  

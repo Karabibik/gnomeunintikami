@@ -1,6 +1,7 @@
 ---
 tags:
   - Şehit Tanrı
+  - Kral Tanrı
 ---  
 # Harsus   
 |  |  |  

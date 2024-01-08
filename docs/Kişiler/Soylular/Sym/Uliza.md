@@ -1,6 +1,6 @@
 # Uliza Sym  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Uliza |  
@@ -13,7 +13,12 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | 200-250 yaşlarında, 100 senesini dışarıda geçirmiş |  
   
-![[Uliza_portrait.webp]]  
+=== "Uliza"  
+	![[Uliza_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Uliza_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

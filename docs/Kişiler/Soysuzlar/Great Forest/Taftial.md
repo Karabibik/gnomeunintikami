@@ -1,6 +1,6 @@
 # Taftial   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Taftial |  
@@ -13,7 +13,12 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-![[Taftial_portrait.webp]]  
+=== "Taftial"  
+	![[Taftial_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Taftial_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

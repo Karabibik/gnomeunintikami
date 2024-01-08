@@ -5,7 +5,7 @@ tags:
 ---  
 # Alfons Beljardin  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Alfons |  
@@ -18,7 +18,9 @@ tags:
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
   
-![[Alfons_portrait.webp]]  
+=== "Alfons"  
+	![[Alfons_portrait.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

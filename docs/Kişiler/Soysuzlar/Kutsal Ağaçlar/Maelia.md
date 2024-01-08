@@ -1,6 +1,6 @@
 # Maelia   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Maelia |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 230 yaşında |  
   
-![[Maelia_portrait.webp]]  
+=== "Maelia"  
+	![[Maelia_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Maelia_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

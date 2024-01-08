@@ -1,6 +1,6 @@
 # Teagan Redwyne  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Teagan |  
@@ -13,7 +13,9 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Koyu kahve saçlı, bakımlı sivri sakallı<br>Yeşil gözlü, Keanu Reeves tipli<br>Kırmızı tabard ve glaive kullanıyor |  
   
-![[Teagan_portrait.webp]]  
+=== "Teagan"  
+	![[Teagan_portrait.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

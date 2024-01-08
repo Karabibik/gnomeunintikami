@@ -1,6 +1,6 @@
 # Elva   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Elva |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Saçları da derisi de yeşil<br>Bir gözü yeşil, diğeri mavi<br>Sırtında siyah bir pelerin ile uzun bir yay var<br>Belinde rapier taşıyor<br>Yeşil renkte broş takıyor |  
   
-![[Elva_portrait.webp]]  
+=== "Elva"  
+	![[Elva_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Elva_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

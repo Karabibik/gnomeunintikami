@@ -5,7 +5,7 @@ tags:
 ---  
 # Kinatrial   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Kinatrial |  
@@ -18,7 +18,12 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Her yerine mücevher takıştırmış |  
   
-![[Kinatrial_portrait.webp]]  
+=== "Kinatrial"  
+	![[Kinatrial_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Kinatrial_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

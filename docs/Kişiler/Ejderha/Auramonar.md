@@ -1,6 +1,6 @@
 # Auramonar   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Auramonar |  
@@ -13,7 +13,9 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Altın sarısı saçları ve elbisesi var<br>Soluk benizli, eflatun gözlü |  
   
-![[Auramonar_portrait.webp]]  
+=== "Auramonar"  
+	![[Auramonar_portrait.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

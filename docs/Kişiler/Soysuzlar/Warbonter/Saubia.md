@@ -1,6 +1,6 @@
 # Saubia   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Saubia |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Karizma 25, feci alımlı<br>Boynunda yarım güneş sembolü var |  
   
-![[Saubia_portrait.webp]]  
+=== "Saubia"  
+	![[Saubia_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Saubia_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

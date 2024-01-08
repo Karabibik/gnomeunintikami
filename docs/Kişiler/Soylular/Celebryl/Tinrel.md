@@ -4,7 +4,7 @@ tags:
 ---  
 # Tinrel Celebryl  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Tinrel |  
@@ -17,7 +17,12 @@ tags:
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Etrafında yıldırımlar dönüyor<br>Doğal taşlardan taç takıyor |  
   
-![[Tinrel_portrait.webp]]  
+=== "Tinrel"  
+	![[Tinrel_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Tinrel_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

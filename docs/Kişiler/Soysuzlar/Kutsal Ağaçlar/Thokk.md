@@ -1,6 +1,6 @@
 # Thokk   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Thokk |  
@@ -13,7 +13,12 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-![[Thokk_portrait.webp]]  
+=== "Thokk"  
+	![[Thokk_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Thokk_Showcase.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

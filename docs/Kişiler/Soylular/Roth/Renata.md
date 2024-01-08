@@ -1,6 +1,6 @@
 # Renata Roth  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Renata |  
@@ -13,7 +13,9 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Aslında bayağı yaşlı ama elf kanı var diyorlar<br>Her tarafı zırhla kaplı |  
   
-![[Renata_portrait.webp]]  
+=== "Renata"  
+	![[Renata_portrait.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

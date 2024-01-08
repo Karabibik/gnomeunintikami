@@ -1,6 +1,6 @@
 # Aric   
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Aric |  
@@ -13,7 +13,9 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Ela gözlü<br>Zırhı yok<br>Boynunda mavi parlayan bir amulet var |  
   
-![[Aric_portrait.webp]]  
+=== "Aric"  
+	![[Aric_portrait.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  

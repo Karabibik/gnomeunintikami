@@ -4,7 +4,7 @@ tags:
 ---  
 # Muzog Valgenoğlu  
   
-<div class="grid cards" markdown>  
+<div class="grid" markdown>  
 |  |  |  
 |---|---|  
 | **İsim** | Muzog |  
@@ -17,7 +17,9 @@ tags:
 | **Münasebet** | Parti |  
 | **Karakter Betimi** | Bordo mavi tenli<br>Kas kasoğlu |  
   
-![[Muzog_portrait.webp]]  
+=== "Muzog"  
+	![[Muzog_portrait.webp]]  
+  
 </div>  
   
 !!! note "İlave Notlar"  
