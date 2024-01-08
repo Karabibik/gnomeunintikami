@@ -6,6 +6,7 @@ tags:
 # Kinatrial   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Kinatrial |  
@@ -17,6 +18,8 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Her yerine mücevher takıştırmış |  
+  
+{ .card }  
   
 === "Kinatrial"  
 	![[Kinatrial_portrait.webp]]{ .card }  

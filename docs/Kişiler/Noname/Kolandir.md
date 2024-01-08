@@ -5,6 +5,7 @@ tags:
 # Kolandir   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Kolandir |  
@@ -16,6 +17,8 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "Kolandir"  
 	![[Kolandir_portrait.webp]]{ .card }  

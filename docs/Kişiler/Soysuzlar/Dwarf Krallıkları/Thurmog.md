@@ -1,6 +1,7 @@
 # Thurmog   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Thurmog |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Dwarf Krallıkları]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "Thurmog"  
 	![[Thurmog_portrait.webp]]{ .card }  

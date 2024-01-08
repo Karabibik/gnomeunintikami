@@ -1,6 +1,7 @@
 # Nadia   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Nadia |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "Nadia"  
 	![[Nadia_portrait.webp]]{ .card }  

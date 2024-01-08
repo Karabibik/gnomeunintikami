@@ -1,6 +1,7 @@
 # Durgan Stonehearth  
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Durgan |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Forgunntal]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "Durgan"  
 	![[Durgan_portrait.webp]]{ .card }  

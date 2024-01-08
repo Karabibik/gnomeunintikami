@@ -1,6 +1,7 @@
 # Thokk   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Thokk |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "Thokk"  
 	![[Thokk_portrait.webp]]{ .card }  

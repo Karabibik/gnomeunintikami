@@ -10,7 +10,3 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-  
-  
-!!! note "İlave Notlar"  
-	  

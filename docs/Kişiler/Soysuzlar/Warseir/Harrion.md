@@ -6,6 +6,7 @@ tags:
 # Harrion   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Harrion |  
@@ -18,8 +19,19 @@ tags:
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
   
+{ .card }  
+  
+=== "Art1"  
+	![[Harrion_Art1.webp]]{ .card }  
+  
+=== "Art2"  
+	![[Harrion_Art2.webp]]{ .card }  
+  
 === "Harrion"  
 	![[Harrion_portrait.webp]]{ .card }  
+  
+=== "theGnome"  
+	![[Harrion_theGnome.webp]]{ .card }  
   
 </div>  
   

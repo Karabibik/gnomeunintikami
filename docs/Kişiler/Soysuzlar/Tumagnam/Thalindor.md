@@ -10,7 +10,3 @@
 | **Kütük** | [[Tumagnam]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-  
-  
-!!! note "İlave Notlar"  
-	  

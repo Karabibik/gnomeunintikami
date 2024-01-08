@@ -10,7 +10,3 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Full plate armor<br>Eski moda giyiniyor<br>Boynunda taç var |  
-  
-  
-!!! note "İlave Notlar"  
-	  

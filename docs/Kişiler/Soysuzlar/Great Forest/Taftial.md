@@ -1,6 +1,7 @@
 # Taftial   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Taftial |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Great Forest]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "Taftial"  
 	![[Taftial_portrait.webp]]{ .card }  

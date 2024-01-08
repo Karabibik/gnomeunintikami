@@ -6,6 +6,7 @@ tags:
 # Alfons Beljardin  
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Alfons |  
@@ -17,6 +18,8 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "Alfons"  
 	![[Alfons_portrait.webp]]{ .card }  

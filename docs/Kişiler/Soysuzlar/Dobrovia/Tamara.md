@@ -1,6 +1,7 @@
 # Tamara   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Tamara |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Plate armorlu<br>Hafif adımlı |  
+  
+{ .card }  
   
 === "Tamara"  
 	![[Tamara_portrait.webp]]{ .card }  

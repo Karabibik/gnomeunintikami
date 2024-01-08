@@ -1,6 +1,7 @@
 # Thalassar   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Thalassar |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Rumion]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sol gözü yok<br>Elinde bir asa ve ucunda mavi gem var |  
+  
+{ .card }  
   
 === "Thalassar"  
 	![[Thalassar_portrait.webp]]{ .card }  

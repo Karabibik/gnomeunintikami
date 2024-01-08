@@ -1,6 +1,7 @@
 # Saubia   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Saubia |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Karizma 25, feci alımlı<br>Boynunda yarım güneş sembolü var |  
+  
+{ .card }  
   
 === "Saubia"  
 	![[Saubia_portrait.webp]]{ .card }  

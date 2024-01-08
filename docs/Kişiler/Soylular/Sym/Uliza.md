@@ -1,6 +1,7 @@
 # Uliza Sym  
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Uliza |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Tamdro]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 200-250 yaşlarında, 100 senesini dışarıda geçirmiş |  
+  
+{ .card }  
   
 === "Uliza"  
 	![[Uliza_portrait.webp]]{ .card }  

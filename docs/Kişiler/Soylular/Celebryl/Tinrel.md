@@ -5,6 +5,7 @@ tags:
 # Tinrel Celebryl  
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Tinrel |  
@@ -16,6 +17,8 @@ tags:
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Etrafında yıldırımlar dönüyor<br>Doğal taşlardan taç takıyor |  
+  
+{ .card }  
   
 === "Tinrel"  
 	![[Tinrel_portrait.webp]]{ .card }  

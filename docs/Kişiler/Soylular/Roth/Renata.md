@@ -1,6 +1,7 @@
 # Renata Roth  
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Renata |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Hannog]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Aslında bayağı yaşlı ama elf kanı var diyorlar<br>Her tarafı zırhla kaplı |  
+  
+{ .card }  
   
 === "Renata"  
 	![[Renata_portrait.webp]]{ .card }  

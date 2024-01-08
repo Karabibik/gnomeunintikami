@@ -1,6 +1,7 @@
 # Slayer   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Slayer |  
@@ -12,6 +13,8 @@
 | **Kütük** |  |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "Slayer"  
 	![[Slayer_portrait.webp]]{ .card }  

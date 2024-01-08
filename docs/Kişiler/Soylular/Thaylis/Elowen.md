@@ -1,6 +1,7 @@
 # Elowen Thaylis  
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Elowen |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Mageocracy]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+{ .card }  
   
 === "1"  
 	![[Elowen_1.webp]]{ .card }  

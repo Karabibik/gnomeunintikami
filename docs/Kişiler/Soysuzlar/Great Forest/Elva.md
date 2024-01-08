@@ -1,6 +1,7 @@
 # Elva   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Elva |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Great Forest]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Saçları da derisi de yeşil<br>Bir gözü yeşil, diğeri mavi<br>Sırtında siyah bir pelerin ile uzun bir yay var<br>Belinde rapier taşıyor<br>Yeşil renkte broş takıyor |  
+  
+{ .card }  
   
 === "Elva"  
 	![[Elva_portrait.webp]]{ .card }  

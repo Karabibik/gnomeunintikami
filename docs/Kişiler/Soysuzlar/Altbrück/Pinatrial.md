@@ -5,6 +5,7 @@ tags:
 # Pinatrial   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Pinatrial |  
@@ -16,6 +17,8 @@ tags:
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Balyoz + Breastplate |  
+  
+{ .card }  
   
 === "Pinatrial"  
 	![[Pinatrial_portrait.webp]]{ .card }  

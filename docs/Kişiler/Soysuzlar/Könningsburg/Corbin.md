@@ -1,6 +1,7 @@
 # Corbin   
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Corbin |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 2 metre boyunda, kaslı adam<br>Yaldır yaldır parlayan yekpare çekici var<br>Kollarında da pazu bantları dikkat çekiyor |  
+  
+{ .card }  
   
 === "Corbin"  
 	![[Corbin_portrait.webp]]{ .card }  

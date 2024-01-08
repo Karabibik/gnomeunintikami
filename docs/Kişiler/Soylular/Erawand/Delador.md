@@ -1,6 +1,7 @@
 # Delador Erawand  
   
 <div class="grid" markdown>  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Delador |  
@@ -12,6 +13,8 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 811 yaşında<br>Altın rengi mage cübbesi<br>Yaşlı görünüyor cidden<br>Uzun beyaz saçlı<br>Yüzü buruşuk, bakışları canlı<br>Derisi normal, gözleri altın rengi |  
+  
+{ .card }  
   
 === "1"  
 	![[Delador_1.webp]]{ .card }  

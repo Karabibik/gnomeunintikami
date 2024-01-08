@@ -10,7 +10,3 @@
 | **Kütük** | [[Tumagnam]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 100 yaşlarında<br>Gür sakalı var |  
-  
-  
-!!! note "İlave Notlar"  
-	  

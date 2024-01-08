@@ -10,7 +10,3 @@
 | **Kütük** | [[Dwarf Krallıkları]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-  
-  
-!!! note "İlave Notlar"  
-	  
