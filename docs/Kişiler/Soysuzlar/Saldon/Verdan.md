@@ -7,10 +7,12 @@
 | **Cinsiyet** | Erkek |  
 | **Irk** |  |  
 | **Sınıf** |  |  
-| **Kütük** | [[Sardon]] |  
+| **Kütük** | [[Saldon]] |  
 | **Münasebet** | NPC - Ölü |  
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
-	Sardon'lu crime boss  
+!!! note inline "İlave Notlar"  
+	Saldon'lu crime boss  
+  
+  

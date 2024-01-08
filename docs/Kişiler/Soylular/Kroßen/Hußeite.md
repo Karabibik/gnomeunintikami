@@ -1,6 +1,7 @@
 ---
 tags:
   - Haci
+  - ßeit
 ---  
 # Hußeite Kroßen  
   
@@ -24,7 +25,7 @@ tags:
   
 </div>  
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Robe of the Hagi, Mask of the Hajje, Wand of the Haci şeklinde üç eşyası var. Adlar, eşyaları karıştırmamak için bu şekilde verilmiş. İşe yaramayınca biraz ağlıyor. Kral tanrının hizmetkârı olduğu söyleniyor.  
 	  
 	Born into the esteemed Empire's loyal Sorcerer family of Kroßen, Hußeite—also known as ßeit to friends—was blessed with two extraordinary gifts: a natural talent for Arcane magic and considerable wealth. Upon his father's demise, ßeit inherited the arcane powers of his bloodline. Swiftly mastering the illusion school of magic and the craft of magical item creation, he gained rapid acceptance into the illustrious Sun Assembly.  

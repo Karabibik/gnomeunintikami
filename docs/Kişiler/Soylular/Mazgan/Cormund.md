@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 30 yaşlarında<br>Uzun at kuyruklu |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Güneş Birliği paladini  
+  
+  

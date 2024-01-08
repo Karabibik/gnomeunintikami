@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	2005'te babasının öldürülmesiyle 5 yaşında tahta geçmiş  
+  
+  

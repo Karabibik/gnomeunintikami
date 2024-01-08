@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Dragoncüceborn |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Dragon's Hoard]] işletmesinin sahibi. [[Goldrum]]'un kuzeni.  
+  
+  

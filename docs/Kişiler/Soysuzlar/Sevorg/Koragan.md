@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Goliath high-chief'i. Frost giant şefini yenip üç kabileyi de buyruk altına almış.  
+  
+  

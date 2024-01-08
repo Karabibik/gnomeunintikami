@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Mor |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Etrafı bilen, suç organizatörü. Boswan'ın etrafındaki adamlardan.  
+  
+  

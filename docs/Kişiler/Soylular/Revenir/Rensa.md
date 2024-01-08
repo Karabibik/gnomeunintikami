@@ -23,5 +23,5 @@
   
 </div>  
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Revenir hanesinin veliahtı prodigy wizard. Teyzesinin yanında gençliği hep başarı üstüne kurgulanıp baskı altında geçmiş. Beklentileri ziyadesiyle karşılamış karşılamasına da yük tabii bunlar hep. Biraz daha serbest bir ortamda istediği işi yapabilmek için eski Güneş Birliği laboratuvarının başına geçti, deneylerini orada sürdürüyor.  

@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 1.70 boylarında<br>Gri/yeşil küf rengi derisi<br>60 yaşlarında |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Koltuk altı mantarı var, adı Füg.  
+  
+  

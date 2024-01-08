@@ -18,5 +18,7 @@ tags:
 | **Karakter Betimi** | Uzun saçlı, kumral |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	John Ryld'ın sekreteri.  
+  
+  

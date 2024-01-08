@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 30 yaşlarında<br>Kumral saçlı<br>Sağ yanağında yara izi var |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Gemiden beklediğimiz adam, mahzende öldü. [[John Ryld]] ile bir derdi vardı.  
+  
+  

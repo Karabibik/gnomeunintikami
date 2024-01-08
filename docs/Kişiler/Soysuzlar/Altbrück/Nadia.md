@@ -2,6 +2,19 @@
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir nerede?  
+  
+<div class="grid" markdown>  
+  
+=== "Nadia"  
+	![[Nadia_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Nadia_Showcase.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Nadia |  
@@ -13,15 +26,4 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Nadia"  
-	![[Nadia_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Nadia_Showcase.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir nerede?  
+</div></div>

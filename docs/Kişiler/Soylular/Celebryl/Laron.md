@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Kil/kızıl tenli<br>Kahverengi kısa saçlı |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Elven Queen Consort, [[Tinrel]]den daha ılımlı.  
+  
+  

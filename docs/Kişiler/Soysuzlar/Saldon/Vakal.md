@@ -7,10 +7,12 @@
 | **Cinsiyet** |  |  
 | **Irk** | Dragonborn |  
 | **Sınıf** |  |  
-| **Kütük** | [[Sardon]] |  
+| **Kütük** | [[Saldon]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Beyaz |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Muzog]]'u tarikatçılardan kaçıran bir dost, adı "yedi" demek.  
+  
+  

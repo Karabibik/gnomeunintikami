@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Vücut yapısı cüce ve insan arası<br>Düz, iyi bakımlı, bembeyaz sakalları var<br>Yaşlı ama frail değil<br>Kulaklar çok hafif çekik ama elf değil<br>Kıyafetleri altın rengi |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Altın ejderha. Aurum klanının atası.  
+  
+  

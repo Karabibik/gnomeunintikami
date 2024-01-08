@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Yaşlı |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Zarathia'nın eski komutanı.  
+  
+  

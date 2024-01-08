@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Ortanca boylu, uzun beyaz sakallı |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Küçük bombacı, barutçubaşı.  
+  
+  

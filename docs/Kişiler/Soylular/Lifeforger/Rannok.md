@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Belanord ve dünyanın en büyük silah ustası. Banlord'un babası, Umman'ın kocası, Talog'un kardeşi.  
+  
+  

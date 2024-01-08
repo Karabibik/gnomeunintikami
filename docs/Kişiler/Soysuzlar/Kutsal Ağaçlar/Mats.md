@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş.  
+  
+  

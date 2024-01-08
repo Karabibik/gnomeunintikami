@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Dwarfların ana tanrısı. Sembolü örs ve çekiç.  
+  
+  

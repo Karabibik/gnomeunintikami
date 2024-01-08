@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Kızıl saçlı sakallı<br>Medium armor giyiyor<br>Pelerinli ve kamuflajlı |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Müttefikler adasında bir subay  
+  
+  

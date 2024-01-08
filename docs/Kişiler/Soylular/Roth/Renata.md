@@ -20,5 +20,5 @@
   
 </div>  
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Hannog Üniversitesi rektörü, zaten bir de kardeşi var orada. Hannog pek merkezî bir yer olmadığından hüküm altında tutmaya ancak Renata'nın gücü yetiyor. Zira kendisi Delador'un sağ kolu ve ortamlarda adı pek şaka ile anılmayan biri. Öyle ki wizard olmasına rağmen bazen tekme tokat dövüyor milleti kral.  

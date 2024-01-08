@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Güneş Birliği]] ve İmparatorluk'un ana tanrısı.  
+  
+  

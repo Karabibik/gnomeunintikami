@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Üniversite yanındaki açık büfeci cüce, [[Steelhide]] klanından.  
+  
+  

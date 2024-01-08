@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 30lu yaşlarda, combat ready<br>Saçları ve gözleri sapsarı<br>Uzun boylu, yapılı, kaslı<br>Leather armor, half plate<br>Bakımlı ve gösterişli |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Esmerden ziyade güneşte kalmış gibi, pureblood Rand belli ki. Görev başında içki içiyor.  
+  
+  

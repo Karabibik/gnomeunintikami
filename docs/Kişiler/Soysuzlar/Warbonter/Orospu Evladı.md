@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.  
+  
+  

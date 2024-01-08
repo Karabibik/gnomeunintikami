@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 25-30 yaşlarında |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Mündung]] dükü. Pavyoncu.  
+  
+  

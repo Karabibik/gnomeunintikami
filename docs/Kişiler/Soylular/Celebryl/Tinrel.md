@@ -6,6 +6,19 @@ tags:
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	Motherfucking Kraliçe, aldı yürüyor yarabbim. Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi. Biraz atarlı ve fazlasıyla tehlikeli. Geçmişi karanlık. Kötü anlamında değil, bilinmiyor.  
+  
+<div class="grid" markdown>  
+  
+=== "Tinrel"  
+	![[Tinrel_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Tinrel_Showcase.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Tinrel |  
@@ -17,15 +30,4 @@ tags:
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Etrafında yıldırımlar dönüyor<br>Doğal taşlardan taç takıyor |  
-  
-  
-=== "Tinrel"  
-	![[Tinrel_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Tinrel_Showcase.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	Motherfucking Kraliçe, aldı yürüyor yarabbim. Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi. Biraz atarlı ve fazlasıyla tehlikeli. Geçmişi karanlık. Kötü anlamında değil, bilinmiyor.  
+</div></div>

@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Sarışın, soylu |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Ada Yolcuları]]'na yardımcı olması için [[Lyra]]'nın önerdiği bir kişi. Güvendiği izci/kâşiflerden biriymiş.  
+  
+  

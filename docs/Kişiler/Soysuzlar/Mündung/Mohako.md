@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 40larında |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Balık Kovası]] hanının işletmecisi.  
+  
+  

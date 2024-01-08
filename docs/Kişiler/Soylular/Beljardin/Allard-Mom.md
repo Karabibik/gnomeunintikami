@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Allard'ın annesi ama hanedeki tek işlevi anne olmak zira reis Agnes.  
+  
+  

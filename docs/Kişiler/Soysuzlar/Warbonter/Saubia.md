@@ -2,6 +2,19 @@
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan ismi.  
+  
+<div class="grid" markdown>  
+  
+=== "Saubia"  
+	![[Saubia_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Saubia_Showcase.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Saubia |  
@@ -13,15 +26,4 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Karizma 25, feci alımlı<br>Boynunda yarım güneş sembolü var |  
-  
-  
-=== "Saubia"  
-	![[Saubia_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Saubia_Showcase.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan ismi.  
+</div></div>

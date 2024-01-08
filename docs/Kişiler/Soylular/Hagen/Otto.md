@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.  
+  
+  

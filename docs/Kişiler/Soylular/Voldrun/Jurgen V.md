@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	56 yaşında 2005'te öldü, Stefan'ın oğlu.  
+  
+  

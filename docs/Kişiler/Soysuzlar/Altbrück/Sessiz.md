@@ -12,5 +12,7 @@
 | **Karakter Betimi** | İki metre boyu var |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Warbrof]]'un sağ kolu.  
+  
+  

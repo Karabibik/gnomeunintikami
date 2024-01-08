@@ -33,7 +33,7 @@ tags:
   
 </div>  
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Alfons'un ablası ve Beljardin hanesinin şu anki reisi. Aslında savaşçı kişiliğiyle öne çıksa da görev bilinci sebebiyle üstlenmiş bu görevi. Son 5 senedir Altbrück'ü yönetmesi ile orayı da ihya etti.  
 	  
 	Hem savaşta hem masada sağlam kadın. Hem Cüce Krallıkları hem de İmparatorluk'un doğusunda katıldığı savaşlarda büyük başarılar elde etmiş. Cüce Krallıklarının orada da Goldrum Aurum ile tanışmış.  

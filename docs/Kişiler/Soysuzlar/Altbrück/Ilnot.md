@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Bir boynuzu kırık |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Fırıncı  
+  
+  

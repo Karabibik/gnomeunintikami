@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Renkli gözlü<br>Bayağı genç |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Değerli şeyleri çok sever  
+  
+  

@@ -7,10 +7,12 @@
 | **Cinsiyet** | Kadın |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
-| **Kütük** | [[Sardon]] |  
+| **Kütük** | [[Saldon]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Muzog]]'un bir dostu.  
+  
+  

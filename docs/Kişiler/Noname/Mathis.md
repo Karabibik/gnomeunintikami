@@ -16,5 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Giant araştırmacısı, [[Vincent]]'ın eski arkadaşı.  
+  
+  

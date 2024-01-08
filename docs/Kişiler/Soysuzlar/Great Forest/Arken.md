@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Orta - uzun boylu<br>Yeşil tenli |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Elva]]'nın çırağı  
+  
+  

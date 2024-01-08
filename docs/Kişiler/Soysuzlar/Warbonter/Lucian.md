@@ -2,6 +2,19 @@
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan adamı.  
+  
+<div class="grid" markdown>  
+  
+=== "Lucian"  
+	![[Lucian_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Lucian_Showcase.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Lucian |  
@@ -13,15 +26,4 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Boynunda yarım güneş sembolü var |  
-  
-  
-=== "Lucian"  
-	![[Lucian_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Lucian_Showcase.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan adamı.  
+</div></div>

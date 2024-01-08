@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Philip'in eski ekibi Evsiz Uşaklar'da bir pleb  
+  
+  

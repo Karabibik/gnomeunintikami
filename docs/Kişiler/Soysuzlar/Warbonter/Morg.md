@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	John Ryld'a bağlı hareket eden çetelerin başı.  
+  
+  

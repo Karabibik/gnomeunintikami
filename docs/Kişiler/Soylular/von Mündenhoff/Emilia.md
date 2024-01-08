@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Mündung dükü [[Elias]]'ın kız kardeşi. Kardeşi gibi değil, on numara parti lokali başkanı.  
+  
+  

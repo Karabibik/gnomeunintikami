@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Chestnut hair<br>Emerald green eyes |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Great Forest]]'ın Müttefikler Adası'ndaki temsilcisi. Çok küçükken [[Ruby]]'yi de kurtarmış. Kör.  
+  
+  

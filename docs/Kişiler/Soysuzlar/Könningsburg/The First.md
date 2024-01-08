@@ -16,5 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Savaştan sağ çıkan tek vampir lordu.  
+  
+  

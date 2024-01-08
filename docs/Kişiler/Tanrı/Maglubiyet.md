@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş.  
+  
+  

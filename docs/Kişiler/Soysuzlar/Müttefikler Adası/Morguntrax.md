@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Ejderha Savaşı (1700 yıl önce) sırasında Müttefikler Adası'na çok gidip gelmiş, muhtemelen ini var ve orada ölmüş.  
+  
+  

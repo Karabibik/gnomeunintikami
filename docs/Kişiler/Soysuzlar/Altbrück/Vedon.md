@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Kambur, göbekli<br>Kirli sakallı, kel<br>Meymenetsiz |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Eskici, grumpy herif  
+  
+  

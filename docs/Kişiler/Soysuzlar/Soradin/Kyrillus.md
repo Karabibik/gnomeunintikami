@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 1.80 boylarında<br>Uzun sarı saçlı<br>Full plate armor + greatsword |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Corellion tapınağı arıyor adada.  
+  
+  

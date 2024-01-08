@@ -2,6 +2,19 @@
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	[[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe giderken tanıştık kendisiyle. Küçükken ayrılmış yurdundan, ailesi kızgın o yüzden kendisine. Bir ara da bir yerlerde Gümüş Ejderhalarla sorun yaşamış ama detaya girmedik.  
+  
+<div class="grid" markdown>  
+  
+=== "Tamara"  
+	![[Tamara_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Tamara_Showcase.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Tamara |  
@@ -13,15 +26,4 @@
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Plate armorlu<br>Hafif adımlı |  
-  
-  
-=== "Tamara"  
-	![[Tamara_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Tamara_Showcase.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	[[Dobrovia]]'ya, kız kardeşi [[Olga]]'nın düğününe giderken tanıştık kendisiyle. Küçükken ayrılmış yurdundan, ailesi kızgın o yüzden kendisine. Bir ara da bir yerlerde Gümüş Ejderhalarla sorun yaşamış ama detaya girmedik.  
+</div></div>

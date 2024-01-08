@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Beyaz saçlı<br>Heavy armor ve kalkan taşıyor, silahı yok<br>Sağ elinde altın renkli bir gauntlet var |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Support captain, humanitarian, muhtemelen katil piskopat  
+  
+  

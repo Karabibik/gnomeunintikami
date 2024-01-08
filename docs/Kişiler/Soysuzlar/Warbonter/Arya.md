@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 35-40 yaşlarında |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Celeste]]'nin yaveri  
+  
+  

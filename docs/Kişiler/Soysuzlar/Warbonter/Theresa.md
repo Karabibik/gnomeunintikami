@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Ioun]] kütüphanesi başkanı, rahibe. Ryld'dan memnun değil.  
+  
+  

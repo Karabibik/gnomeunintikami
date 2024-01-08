@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 65 yaşlarında |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.  
+  
+  

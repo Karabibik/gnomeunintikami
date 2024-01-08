@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 30 yaşlarında |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Beer Mire]] hanının işletmecisi. Thieves' cant'e hakim.  
+  
+  

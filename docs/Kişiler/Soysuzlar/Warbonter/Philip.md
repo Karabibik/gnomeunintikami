@@ -16,5 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].  
+  
+  

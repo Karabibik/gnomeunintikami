@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Çok bir bilgi yok. Celeste'nin, yeni büyü yaratımında supervisor'ı.  
+  
+  

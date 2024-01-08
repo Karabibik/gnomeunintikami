@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Adelyus]]'un dükkân ortağı. Soylu aileden ama üçüncü kuşak. Ryld'dan memnun değil.  
+  
+  

@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Neutral good, [[Solsitis]]'in üçlüsünden. Zor durumdakilere yol gösteren ve Solsitis adına habercilik yapan tanrı.  
+  
+  

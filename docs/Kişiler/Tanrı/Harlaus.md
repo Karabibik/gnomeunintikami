@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Ölülerin ruhlarını koruyor. Tapınılması yasak değil ama çok tapınanı yok.  
+  
+  

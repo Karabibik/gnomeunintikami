@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada  
+  
+  

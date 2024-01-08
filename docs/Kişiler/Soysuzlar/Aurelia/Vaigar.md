@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Tünel kazma yarışmasına girdi. Rakibiyle aşık atmaya çalışırken bayıldı.  
+  
+  

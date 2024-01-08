@@ -2,6 +2,16 @@
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	Shadowguard captain. Katı rasyonel netlik üzerine kurulu bir abimiz. Shadowguard'daki amacının "kaosu contain etmek" olduğu söyleniyor. Wizardları sevmiyor, kendi dedi.  
+  
+<div class="grid" markdown>  
+  
+=== "Aric"  
+	![[Aric_portrait.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Aric |  
@@ -13,12 +23,4 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Ela gözlü<br>Zırhı yok<br>Boynunda mavi parlayan bir amulet var |  
-  
-  
-=== "Aric"  
-	![[Aric_portrait.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	Shadowguard captain. Katı rasyonel netlik üzerine kurulu bir abimiz. Shadowguard'daki amacının "kaosu contain etmek" olduğu söyleniyor. Wizardları sevmiyor, kendi dedi.  
+</div></div>

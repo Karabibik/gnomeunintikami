@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 7 yaşında çocuk |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Alfons'un evlatlık yeğeni. Agnes onu kendi kafasındaki şekle sokmaya çalışıyor şimdilik ama eğlenceli çocuk.  
+  
+  

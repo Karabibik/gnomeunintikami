@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Alfons]]'un ustası, eski evocation kürsü başkanı. Kimsenin iyileştiremediği bir hastalıktan uzun süre muzdarip olup öldü. [[Abyss]]'e girmeye çalıştığı hakkında şeyler öğrenildi.  
+  
+  

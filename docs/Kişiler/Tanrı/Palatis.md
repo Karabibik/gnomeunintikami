@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Lawful good, [[Solsitis]]'in üçlüsünden. Kkaranlığın köküne kibrit suyu mottosu. Düzen sağlıyor.  
+  
+  

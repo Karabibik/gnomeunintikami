@@ -16,5 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Amanite]]'nin annesi. Arken ile benzerliği, [[Great Forest]]'tan gelmiş olabileceğini çağırıştırıyor. Thalindor bayağı güçlü/önemli bir şahıs olduğundan bahsediyor.  
+  
+  

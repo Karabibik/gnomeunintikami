@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	[[Delador]]'un çırağı, Delador bi ara buna sinirlenince perma slow atmış. 19. High Mage.  
+  
+  

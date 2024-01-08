@@ -6,6 +6,16 @@ tags:
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz.  
+  
+<div class="grid" markdown>  
+  
+=== "Kanon"  
+	![[Kanon_portrait.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Kanon |  
@@ -17,12 +27,4 @@ tags:
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** | Teni kırmızı, kıllar kırmızı |  
-  
-  
-=== "Kanon"  
-	![[Kanon_portrait.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz.  
+</div></div>

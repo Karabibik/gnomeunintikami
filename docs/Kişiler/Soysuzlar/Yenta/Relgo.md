@@ -12,5 +12,7 @@
 | **Karakter Betimi** | Sarışın, hançerli |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Boswan'ın etrafındaki adamlardan.  
+  
+  

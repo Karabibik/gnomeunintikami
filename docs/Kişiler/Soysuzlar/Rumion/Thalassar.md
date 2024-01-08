@@ -23,7 +23,7 @@
   
 </div>  
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	In the depths of the treacherous deep sea trenches of [[Rumion]], where the sea elves dwelled, a young sea elf named Thalassar devoted his life to protecting his people from the perils that lurked beneath the waves. Gifted with a strong connection to the realm of dreams, Thalassar became a skilled druid, specializing in the manipulation of dreams and the mystical energies that flowed through them.  
 	  
 	Years ago, a malevolent creature known as the [[Nightmare Weaver]] emerged from the depths, threatening the sea elves' tranquility. The Nightmare Weaver possessed the ability to manipulate dreams, unleashing nightmarish visions upon unsuspecting victims. Thalassar, driven by a deep sense of duty, led the charge against this formidable foe. However, in his zeal to confront the creature head-on, he underestimated its power and was blinded in the fierce battle that ensued. Though the sea elves managed to drive the Nightmare Weaver away, Thalassar's physical and emotional wounds ran deep.  

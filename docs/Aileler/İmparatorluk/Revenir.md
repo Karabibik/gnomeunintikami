@@ -8,5 +8,5 @@ tags:
 ![[Revenir_tree.svg]]  
   
 Bilinen üyeleri:  
-- [[Celeste]] (hane başı)  
+- [[Celeste]] (hane reisi)  
 - [[Rensa]]

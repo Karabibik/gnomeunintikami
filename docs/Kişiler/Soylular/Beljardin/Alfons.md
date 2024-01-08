@@ -7,6 +7,16 @@ tags:
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	Kaypak herifin teki, that's it. Zamanında Warbonter'de uzun süre üçkâğıtçılık yapmış. Travmaları için bkz: [[00 - Alfons Background]]  
+  
+<div class="grid" markdown>  
+  
+=== "Alfons"  
+	![[Alfons_portrait.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Alfons |  
@@ -18,12 +28,4 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Alfons"  
-	![[Alfons_portrait.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	Kaypak herifin teki, that's it. Zamanında Warbonter'de uzun süre üçkâğıtçılık yapmış. Travmaları için bkz: [[00 - Alfons Background]]  
+</div></div>

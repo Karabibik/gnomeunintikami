@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 35 yaşlarında, yapılı<br>Kapüşonlu pelerin ve hide armor giyiyor<br>Scimitar ile hand crossbow taşıyor |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Eşkıya ve silah kaçakçısı. [[Uliza]]'yla iş görüyordu.  
+  
+  

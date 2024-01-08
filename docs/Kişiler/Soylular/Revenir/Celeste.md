@@ -2,6 +2,19 @@
   
 <div class="grid" markdown>  
   
+!!! note inline "İlave Notlar"  
+	Divination profesörü, Warbonter Üniversitesi'nin mevcut rektörü ve Revenir hanesinin reisi. Warbonter'in merkezinde bir malikânesi var, içini bilimum nadide eserle donatmış. Yeğeni Rensa'yı da kendisi gibi olması için yetiştirmeye çalışıyor.  
+  
+<div class="grid" markdown>  
+  
+=== "Celeste"  
+	![[Celeste_portrait.webp]]{ .card }  
+  
+=== "Showcase"  
+	![[Celeste_Showcase.webp]]{ .card }  
+  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Celeste |  
@@ -13,15 +26,4 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40lı yaşlarda<br>Beyazımsı sarışın saçlı<br>Gözleri bal rengi<br>Anti-divination kolyesi var |  
-  
-  
-=== "Celeste"  
-	![[Celeste_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Celeste_Showcase.webp]]{ .card }  
-  
-</div>  
-  
-!!! note "İlave Notlar"  
-	Divination profesörü, Warbonter Üniversitesi'nin mevcut rektörü ve Revenir hanesinin reisi. Warbonter'in merkezinde bir malikânesi var, içini bilimum nadide eserle donatmış. Yeğeni Rensa'yı da kendisi gibi olması için yetiştirmeye çalışıyor.  
+</div></div>

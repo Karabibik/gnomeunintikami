@@ -12,5 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Könningsburg'u dünyanın başkenti ilan eden Kral.  
+  
+  

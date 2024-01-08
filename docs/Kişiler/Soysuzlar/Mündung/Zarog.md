@@ -12,5 +12,7 @@
 | **Karakter Betimi** | 15-20 yaşında |  
   
   
-!!! note "İlave Notlar"  
+!!! note inline "İlave Notlar"  
 	Gemiyle giderken [[Mohako]] kurtarmış denizden. İyi aşçı.  
+  
+  
