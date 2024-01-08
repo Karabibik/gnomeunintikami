@@ -1,5 +1,6 @@
 # I. Alfons Beljardin  
-  
+!!! note inline end "Karakter Notları"  
+	Alfons'un dedesinin babası     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Alfons'un dedesinin babası  
   

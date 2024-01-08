@@ -1,5 +1,6 @@
 # Malog   
-  
+!!! note inline end "Karakter Notları"  
+	Gerizekalı, geyik totemi.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Gerizekalı, geyik totemi.  
   

@@ -1,5 +1,6 @@
 # Annam   
-  
+!!! note inline end "Karakter Notları"  
+	Ana giant tanrısı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Ana giant tanrısı  
   

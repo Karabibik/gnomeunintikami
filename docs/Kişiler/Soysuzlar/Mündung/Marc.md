@@ -1,5 +1,6 @@
 # Marc   
-  
+!!! note inline end "Karakter Notları"  
+	Mündung - 3'ün kaptanı.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Mündung - 3'ün kaptanı.  
   

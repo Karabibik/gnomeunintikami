@@ -1,5 +1,6 @@
 # Maglubiyet   
-  
+!!! note inline end "Karakter Notları"  
+	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş.  
   

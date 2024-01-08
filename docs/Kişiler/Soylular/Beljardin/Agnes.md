@@ -35,5 +35,4 @@ tags:
 	  
 	Hem savaşta hem masada sağlam kadın. Hem Cüce Krallıkları hem de İmparatorluk'un doğusunda katıldığı savaşlarda büyük başarılar elde etmiş. Cüce Krallıklarının orada da Goldrum Aurum ile tanışmış.  
 	  
-	Celeste ile aralarında bir husumet var Alfons kaynaklı.   
-  
+	Celeste ile aralarında bir husumet var Alfons kaynaklı.    

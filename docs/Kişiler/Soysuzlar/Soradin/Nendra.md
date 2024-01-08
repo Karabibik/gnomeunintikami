@@ -1,5 +1,6 @@
 # Nendra   
-  
+!!! note inline end "Karakter Notları"  
+	Eilistraecilerin başrahibesi.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Eilistraecilerin başrahibesi.  
   

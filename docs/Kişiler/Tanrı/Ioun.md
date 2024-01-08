@@ -3,7 +3,8 @@ tags:
   - Kör Tanrı
 ---  
 # Ioun   
-  
+!!! note inline end "Karakter Notları"  
+	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini.     
   
 |  |  |  
 |---|---|  
@@ -17,7 +18,4 @@ tags:
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini.  
   

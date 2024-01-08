@@ -1,5 +1,6 @@
 # Berthold   
-  
+!!! note inline end "Karakter Notları"  
+	John Ryld'ın adamı, muhafızlara pusu kurdurttu     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	John Ryld'ın adamı, muhafızlara pusu kurdurttu  
   

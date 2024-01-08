@@ -3,7 +3,8 @@ tags:
   - Emenike
 ---  
 # Emerik   
-  
+!!! note inline end "Karakter Notları"  
+	Güneş Birliği High Priest'i. Ryld'dan memnun değil.     
   
 |  |  |  
 |---|---|  
@@ -17,7 +18,4 @@ tags:
 | **Münasebet** |  |  
 | **Karakter Betimi** | 55 yaşlarında<br>Saçı sakalı orta boy, kırlaşmış<br>Biraz zayıf, hafif kambur |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Güneş Birliği High Priest'i. Ryld'dan memnun değil.  
   

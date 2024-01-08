@@ -1,5 +1,6 @@
 # Vandrad   
-  
+!!! note inline end "Karakter Notları"  
+	Onurcan'ın karakteri     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Onurcan'ın karakteri  
   

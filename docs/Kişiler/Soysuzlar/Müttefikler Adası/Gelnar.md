@@ -1,5 +1,6 @@
 # Gelnar   
-  
+!!! note inline end "Karakter Notları"  
+	Müttefikler adasında bir subay     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Kızıl saçlı sakallı<br>Medium armor giyiyor<br>Pelerinli ve kamuflajlı |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Müttefikler adasında bir subay  
   

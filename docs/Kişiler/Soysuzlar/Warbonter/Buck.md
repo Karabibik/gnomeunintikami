@@ -1,5 +1,6 @@
 # Buck   
-  
+!!! note inline end "Karakter Notları"  
+	Philip'in eski ekibi Evsiz Uşaklar'da bir pleb     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Philip'in eski ekibi Evsiz Uşaklar'da bir pleb  
   

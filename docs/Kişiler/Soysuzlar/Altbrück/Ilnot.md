@@ -1,5 +1,6 @@
 # Ilnot   
-  
+!!! note inline end "Karakter Notları"  
+	Fırıncı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Bir boynuzu kırık |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Fırıncı  
   

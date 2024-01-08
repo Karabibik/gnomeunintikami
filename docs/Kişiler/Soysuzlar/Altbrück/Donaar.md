@@ -1,5 +1,6 @@
 # Donaar   
-  
+!!! note inline end "Karakter Notları"  
+	General Shop satıcısı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	General Shop satıcısı  
   

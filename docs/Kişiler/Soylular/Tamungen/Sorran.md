@@ -1,5 +1,6 @@
 # Sorran Tamungen  
-  
+!!! note inline end "Karakter Notları"  
+	Shadowguard üyesi teğmen.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Shadowguard üyesi teğmen.  
   

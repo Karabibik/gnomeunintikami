@@ -1,5 +1,6 @@
 # Rustov   
-  
+!!! note inline end "Karakter Notları"  
+	Her şeyi bildiği söylenen abi.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Her şeyi bildiği söylenen abi.  
   

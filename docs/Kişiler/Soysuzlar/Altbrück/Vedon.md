@@ -1,5 +1,6 @@
 # Vedon   
-  
+!!! note inline end "Karakter Notları"  
+	Eskici, grumpy herif     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Kambur, göbekli<br>Kirli sakallı, kel<br>Meymenetsiz |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Eskici, grumpy herif  
   

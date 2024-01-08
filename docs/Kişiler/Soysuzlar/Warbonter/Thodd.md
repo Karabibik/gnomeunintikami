@@ -1,5 +1,6 @@
 # Thodd   
-  
+!!! note inline end "Karakter Notları"  
+	Warbonter turnuvasında karşılaştık     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Warbonter turnuvasında karşılaştık  
   

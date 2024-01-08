@@ -1,5 +1,6 @@
 # Maviş   
-  
+!!! note inline end "Karakter Notları"  
+	Üniversite yanındaki açık büfeci cüce, [[Steelhide]] klanından.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Üniversite yanındaki açık büfeci cüce, [[Steelhide]] klanından.  
   

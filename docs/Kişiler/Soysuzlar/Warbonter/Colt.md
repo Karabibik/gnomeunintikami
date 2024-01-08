@@ -3,7 +3,8 @@ tags:
   - Daidan
 ---  
 # Colt   
-  
+!!! note inline end "Karakter Notları"  
+	Philip'in eski ekibi Evsiz Uşaklar'ın başı     
   
 |  |  |  
 |---|---|  
@@ -17,7 +18,4 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Philip'in eski ekibi Evsiz Uşaklar'ın başı  
   

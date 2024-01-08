@@ -1,5 +1,6 @@
 # Tiamat   
-  
+!!! note inline end "Karakter Notları"  
+	Ejderhaların tanrısı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Ejderhaların tanrısı  
   

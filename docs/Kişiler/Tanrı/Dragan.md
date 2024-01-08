@@ -1,5 +1,6 @@
 # Dragan   
-  
+!!! note inline end "Karakter Notları"  
+	EVÜL     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	EVÜL  
   

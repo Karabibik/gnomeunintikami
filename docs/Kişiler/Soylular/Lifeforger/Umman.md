@@ -1,5 +1,6 @@
 # Umman Lifeforger  
-  
+!!! note inline end "Karakter Notları"  
+	Rannok'un karısı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Rannok'un karısı  
   

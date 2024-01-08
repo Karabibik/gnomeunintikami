@@ -1,5 +1,6 @@
 # Rahibe Lucian   
-  
+!!! note inline end "Karakter Notları"  
+	Tapınak rahibesi, Philip'e gıcık.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Tapınak rahibesi, Philip'e gıcık.  
   

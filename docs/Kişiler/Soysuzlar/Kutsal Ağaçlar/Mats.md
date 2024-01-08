@@ -1,5 +1,6 @@
 # Mats   
-  
+!!! note inline end "Karakter Notları"  
+	Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş.  
   

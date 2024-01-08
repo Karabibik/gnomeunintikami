@@ -1,5 +1,6 @@
 # Adran   
-  
+!!! note inline end "Karakter Notları"  
+	[[Bira Nehri]] hancılarından     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Bira Nehri]] hancılarından  
   

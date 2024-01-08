@@ -1,5 +1,6 @@
 # Jasqueman Beljardin  
-  
+!!! note inline end "Karakter Notları"  
+	Alfons'un dedesi     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Alfons'un dedesi  
   

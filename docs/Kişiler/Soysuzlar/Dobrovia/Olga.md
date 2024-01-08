@@ -1,5 +1,6 @@
 # Olga   
-  
+!!! note inline end "Karakter Notları"  
+	[[Tamara]]'nın kız kardeşi.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Tamara]]'nın kız kardeşi.  
   

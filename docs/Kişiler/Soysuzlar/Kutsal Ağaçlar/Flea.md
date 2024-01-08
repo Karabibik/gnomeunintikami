@@ -1,5 +1,6 @@
 # Flea   
-  
+!!! note inline end "Karakter Notları"  
+	Kutsal Ağaçlar Druidcibaşı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Kutsal Ağaçlar Druidcibaşı  
   

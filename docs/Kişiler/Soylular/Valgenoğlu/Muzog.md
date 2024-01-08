@@ -25,5 +25,4 @@ tags:
 </div>  
   
 !!! note "Karakter Notları"  
-	Kötü yolun birinden çıkıp diğerine düşmüş. Şansı bir kere yaver gitmiş, onunla da muradına ermiş zaten (bkz: [[00 - Bahtsız Muzog]])  
-  
+	Kötü yolun birinden çıkıp diğerine düşmüş. Şansı bir kere yaver gitmiş, onunla da muradına ermiş zaten (bkz: [[00 - Bahtsız Muzog]])   

@@ -1,5 +1,6 @@
 # Frans Beljardin  
-  
+!!! note inline end "Karakter Notları"  
+	Eski vampir avcısı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Eski vampir avcısı  
   

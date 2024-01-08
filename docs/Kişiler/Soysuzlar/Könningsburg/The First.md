@@ -3,7 +3,8 @@ tags:
   - İlk
 ---  
 # The First   
-  
+!!! note inline end "Karakter Notları"  
+	Savaştan sağ çıkan tek vampir lordu.     
   
 |  |  |  
 |---|---|  
@@ -17,7 +18,4 @@ tags:
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Savaştan sağ çıkan tek vampir lordu.  
   

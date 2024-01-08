@@ -1,5 +1,6 @@
 # Mellora   
-  
+!!! note inline end "Karakter Notları"  
+	Doğa tanrıçası.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Doğa tanrıçası.  
   

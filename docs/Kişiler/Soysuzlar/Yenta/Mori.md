@@ -1,5 +1,6 @@
 # Mori   
-  
+!!! note inline end "Karakter Notları"  
+	Etrafı bilen, suç organizatörü. Boswan'ın etrafındaki adamlardan.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Mor |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Etrafı bilen, suç organizatörü. Boswan'ın etrafındaki adamlardan.  
   

@@ -1,5 +1,6 @@
 # Malthar   
-  
+!!! note inline end "Karakter Notları"  
+	[[Alfons]]'un aynadaki demon.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Alfons]]'un aynadaki demon.  
   

@@ -1,5 +1,6 @@
 # Arela   
-  
+!!! note inline end "Karakter Notları"  
+	Support captain, humanitarian, muhtemelen katil piskopat     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Beyaz saçlı<br>Heavy armor ve kalkan taşıyor, silahı yok<br>Sağ elinde altın renkli bir gauntlet var |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Support captain, humanitarian, muhtemelen katil piskopat  
   

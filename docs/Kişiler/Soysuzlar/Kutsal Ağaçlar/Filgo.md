@@ -1,5 +1,6 @@
 # Filgo   
-  
+!!! note inline end "Karakter Notları"  
+	Kaplan totemi     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Kaplan totemi  
   

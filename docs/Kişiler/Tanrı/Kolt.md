@@ -1,5 +1,6 @@
 # Kolt   
-  
+!!! note inline end "Karakter Notları"  
+	Goliath tanrısı.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Goliath tanrısı.  
   

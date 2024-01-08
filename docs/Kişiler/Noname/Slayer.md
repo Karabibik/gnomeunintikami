@@ -21,5 +21,4 @@
 </div>  
   
 !!! note "Karakter Notları"  
-	Aynı gecede Soradin, Rand Diyarı ve İmparatorluk hükümdarları öldürülmüş. [[Rand Diyarı]]'ndaki cinayetten Slayer'ın mesul olduğu söyleniyor.  
-  
+	Aynı gecede Soradin, Rand Diyarı ve İmparatorluk hükümdarları öldürülmüş. [[Rand Diyarı]]'ndaki cinayetten Slayer'ın mesul olduğu söyleniyor.   

@@ -1,5 +1,6 @@
 # Arken   
-  
+!!! note inline end "Karakter Notları"  
+	[[Elva]]'nın çırağı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Orta - uzun boylu<br>Yeşil tenli |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Elva]]'nın çırağı  
   

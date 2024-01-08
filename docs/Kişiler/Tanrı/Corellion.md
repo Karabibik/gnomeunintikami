@@ -1,5 +1,6 @@
 # Corellion   
-  
+!!! note inline end "Karakter Notları"  
+	Ana elf tanrısı     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Ana elf tanrısı  
   

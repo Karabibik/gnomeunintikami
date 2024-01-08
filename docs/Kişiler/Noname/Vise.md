@@ -1,5 +1,6 @@
 # Vise   
-  
+!!! note inline end "Karakter Notları"  
+	Yara bantlı gözlü     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Yara bantlı gözlü  
   

@@ -1,5 +1,6 @@
 # Mihael   
-  
+!!! note inline end "Karakter Notları"  
+	Guard, [[John Ryld]]'a karşı çıktı.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Guard, [[John Ryld]]'a karşı çıktı.  
   

@@ -1,5 +1,6 @@
 # Morg   
-  
+!!! note inline end "Karakter Notları"  
+	John Ryld'a bağlı hareket eden çetelerin başı.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	John Ryld'a bağlı hareket eden çetelerin başı.  
   

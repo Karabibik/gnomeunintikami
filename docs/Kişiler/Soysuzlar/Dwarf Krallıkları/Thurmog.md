@@ -21,5 +21,4 @@
 </div>  
   
 !!! note "Karakter Notları"  
-	Kırık çıkıkçı  
-  
+	Kırık çıkıkçı   

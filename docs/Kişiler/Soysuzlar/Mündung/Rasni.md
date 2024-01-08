@@ -1,5 +1,6 @@
 # Rasni   
-  
+!!! note inline end "Karakter Notları"  
+	Küçük bombacı, barutçubaşı.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Ortanca boylu, uzun beyaz sakallı |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Küçük bombacı, barutçubaşı.  
   

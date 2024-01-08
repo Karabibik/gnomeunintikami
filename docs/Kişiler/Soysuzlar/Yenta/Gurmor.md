@@ -1,5 +1,6 @@
 # Gurmor   
-  
+!!! note inline end "Karakter Notları"  
+	Sıradan goliath işte. Mark'ın adamı.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Sıradan goliath işte. Mark'ın adamı.  
   

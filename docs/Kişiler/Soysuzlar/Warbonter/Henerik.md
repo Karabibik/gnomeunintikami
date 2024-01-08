@@ -1,5 +1,6 @@
 # Henerik   
-  
+!!! note inline end "Karakter Notları"  
+	Katı görüşlü, rogue sevmeyen adam.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Katı görüşlü, rogue sevmeyen adam.  
   

@@ -1,5 +1,6 @@
 # Ruby   
-  
+!!! note inline end "Karakter Notları"  
+	Değerli şeyleri çok sever     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Renkli gözlü<br>Bayağı genç |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Değerli şeyleri çok sever  
   

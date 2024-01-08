@@ -24,5 +24,4 @@
 </div>  
   
 !!! note "Karakter Notları"  
-	[[Hal Web]]'i avlayan ve avlanan drow. Sym hanedanı üyesi, bu yüzden mevcut Matriarch'ı tehlikeye atıyor. Ölmeden yurduna dönüp iktidara gelmeye çalışıyor.  
-  
+	[[Hal Web]]'i avlayan ve avlanan drow. Sym hanedanı üyesi, bu yüzden mevcut Matriarch'ı tehlikeye atıyor. Ölmeden yurduna dönüp iktidara gelmeye çalışıyor.   

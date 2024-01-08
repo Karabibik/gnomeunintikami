@@ -3,7 +3,8 @@ tags:
   - Koca Mathis
 ---  
 # Mathis   
-  
+!!! note inline end "Karakter Notları"  
+	Giant araştırmacısı, [[Vincent]]'ın eski arkadaşı.     
   
 |  |  |  
 |---|---|  
@@ -17,7 +18,4 @@ tags:
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Giant araştırmacısı, [[Vincent]]'ın eski arkadaşı.  
   

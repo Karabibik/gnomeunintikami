@@ -1,5 +1,6 @@
 # Relgo   
-  
+!!! note inline end "Karakter Notları"  
+	Boswan'ın etrafındaki adamlardan.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Sarışın, hançerli |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Boswan'ın etrafındaki adamlardan.  
   

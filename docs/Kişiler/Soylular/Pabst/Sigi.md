@@ -1,5 +1,6 @@
 # Sigi Pabst  
-  
+!!! note inline end "Karakter Notları"  
+	Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | 65 yaşlarında |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.  
   

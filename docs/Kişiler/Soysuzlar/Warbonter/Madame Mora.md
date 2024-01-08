@@ -1,5 +1,6 @@
 # Madame Mora   
-  
+!!! note inline end "Karakter Notları"  
+	[[Mora'nın Güzellikleri]] işletmecisi.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Mora'nın Güzellikleri]] işletmecisi.  
   

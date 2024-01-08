@@ -1,5 +1,6 @@
 # Sebastian   
-  
+!!! note inline end "Karakter Notları"  
+	[[Beljardin]] kahyası.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Beljardin]] kahyası.  
   

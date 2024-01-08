@@ -1,5 +1,6 @@
 # Borhan Tandel  
-  
+!!! note inline end "Karakter Notları"  
+	Turnuvada yendiğimiz bir adam     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Turnuvada yendiğimiz bir adam  
   

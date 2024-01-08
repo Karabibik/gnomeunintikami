@@ -1,5 +1,6 @@
 # Allard Beljardin  
-  
+!!! note inline end "Karakter Notları"  
+	Alfons'un evlatlık yeğeni. Agnes onu kendi kafasındaki şekle sokmaya çalışıyor şimdilik ama eğlenceli çocuk.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 7 yaşında çocuk |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Alfons'un evlatlık yeğeni. Agnes onu kendi kafasındaki şekle sokmaya çalışıyor şimdilik ama eğlenceli çocuk.  
   

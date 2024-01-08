@@ -1,5 +1,6 @@
 # Zal   
-  
+!!! note inline end "Karakter Notları"  
+	Stablemaster     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Stablemaster  
   

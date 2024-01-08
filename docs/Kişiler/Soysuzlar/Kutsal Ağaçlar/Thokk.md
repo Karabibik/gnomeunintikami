@@ -24,5 +24,4 @@
 </div>  
   
 !!! note "Karakter Notları"  
-	Zamanında paralı askerlik yapmış, hâlâ da yapmaya devam ediyor. Herkesten güçlü, ayı totemi zaten.  
-  
+	Zamanında paralı askerlik yapmış, hâlâ da yapmaya devam ediyor. Herkesten güçlü, ayı totemi zaten.   

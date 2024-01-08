@@ -1,5 +1,6 @@
 # Nilton   
-  
+!!! note inline end "Karakter Notları"  
+	[[Jeggred]]'in oğlu.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Jeggred]]'in oğlu.  
   

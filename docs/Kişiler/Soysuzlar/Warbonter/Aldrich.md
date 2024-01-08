@@ -1,5 +1,6 @@
 # Aldrich   
-  
+!!! note inline end "Karakter Notları"  
+	Guard captain     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Guard captain  
   

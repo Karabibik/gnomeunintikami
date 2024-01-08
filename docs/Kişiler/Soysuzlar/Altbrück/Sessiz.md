@@ -1,5 +1,6 @@
 # Sessiz   
-  
+!!! note inline end "Karakter Notları"  
+	[[Warbrof]]'un sağ kolu.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | İki metre boyu var |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Warbrof]]'un sağ kolu.  
   

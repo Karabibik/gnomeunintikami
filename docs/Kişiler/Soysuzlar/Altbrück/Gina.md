@@ -1,5 +1,6 @@
 # Gina   
-  
+!!! note inline end "Karakter Notları"  
+	[[Agnes]]'in koruması, sadık.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Agnes]]'in koruması, sadık.  
   

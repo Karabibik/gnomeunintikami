@@ -1,5 +1,6 @@
 # Granmyr   
-  
+!!! note inline end "Karakter Notları"  
+	Berke'nin karakteri     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Berke'nin karakteri  
   

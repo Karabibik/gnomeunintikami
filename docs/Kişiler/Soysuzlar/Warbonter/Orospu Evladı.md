@@ -1,5 +1,6 @@
 # Orospu Evladı   
-  
+!!! note inline end "Karakter Notları"  
+	[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.  
   

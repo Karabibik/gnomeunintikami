@@ -1,5 +1,6 @@
 # Orcus   
-  
+!!! note inline end "Karakter Notları"  
+	Abyss lordu.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Abyss lordu.  
   

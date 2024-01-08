@@ -3,7 +3,8 @@ tags:
   - the Sharp
 ---  
 # Philip   
-  
+!!! note inline end "Karakter Notları"  
+	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].     
   
 |  |  |  
 |---|---|  
@@ -17,7 +18,4 @@ tags:
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].  
   

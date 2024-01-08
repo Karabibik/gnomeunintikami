@@ -1,5 +1,6 @@
 # Otto Hagen  
-  
+!!! note inline end "Karakter Notları"  
+	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.  
   

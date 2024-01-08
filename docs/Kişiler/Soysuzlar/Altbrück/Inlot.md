@@ -1,5 +1,6 @@
 # Inlot   
-  
+!!! note inline end "Karakter Notları"  
+	Değirmenci     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Değirmenci  
   

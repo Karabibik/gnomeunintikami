@@ -1,5 +1,6 @@
 # Elias von Mündenhoff  
-  
+!!! note inline end "Karakter Notları"  
+	[[Mündung]] dükü. Pavyoncu.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | 25-30 yaşlarında |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Mündung]] dükü. Pavyoncu.  
   

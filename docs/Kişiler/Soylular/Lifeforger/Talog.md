@@ -1,5 +1,6 @@
 # Talog Lifeforger  
-  
+!!! note inline end "Karakter Notları"  
+	Rannok'un kardeşi.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Rannok'un kardeşi.  
   

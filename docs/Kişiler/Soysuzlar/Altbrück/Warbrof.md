@@ -1,5 +1,6 @@
 # Warbrof   
-  
+!!! note inline end "Karakter Notları"  
+	Eşkıya ve silah kaçakçısı. [[Uliza]]'yla iş görüyordu.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** | 35 yaşlarında, yapılı<br>Kapüşonlu pelerin ve hide armor giyiyor<br>Scimitar ile hand crossbow taşıyor |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Eşkıya ve silah kaçakçısı. [[Uliza]]'yla iş görüyordu.  
   

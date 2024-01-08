@@ -1,5 +1,6 @@
 # Verdan   
-  
+!!! note inline end "Karakter Notları"  
+	Saldon'lu crime boss     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | NPC - Ölü |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Saldon'lu crime boss  
   

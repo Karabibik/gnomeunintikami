@@ -3,7 +3,8 @@ tags:
   - Tüccar
 ---  
 # Immortal Merchant   
-  
+!!! note inline end "Karakter Notları"  
+	Warbonter vampir lordu     
   
 |  |  |  
 |---|---|  
@@ -17,7 +18,4 @@ tags:
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Warbonter vampir lordu  
   

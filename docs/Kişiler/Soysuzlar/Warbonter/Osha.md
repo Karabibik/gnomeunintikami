@@ -5,7 +5,8 @@ tags:
   - Kancık
 ---  
 # Osha   
-  
+!!! note inline end "Karakter Notları"  
+	John Ryld'ın sekreteri.     
   
 |  |  |  
 |---|---|  
@@ -19,7 +20,4 @@ tags:
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Uzun saçlı, kumral |  
   
-  
-!!! note inline end "Karakter Notları"  
-	John Ryld'ın sekreteri.  
   

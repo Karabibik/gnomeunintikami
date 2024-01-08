@@ -25,5 +25,4 @@ tags:
 </div>  
   
 !!! note "Karakter Notları"  
-	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz.  
-  
+	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz.   

@@ -1,5 +1,6 @@
 # Esiatel Celebryl  
-  
+!!! note inline end "Karakter Notları"  
+	[[Delador]]'un çırağı, Delador bi ara buna sinirlenince perma slow atmış. 19. High Mage.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	[[Delador]]'un çırağı, Delador bi ara buna sinirlenince perma slow atmış. 19. High Mage.  
   

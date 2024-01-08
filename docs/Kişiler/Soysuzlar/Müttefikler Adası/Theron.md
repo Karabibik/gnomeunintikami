@@ -1,5 +1,6 @@
 # Theron   
-  
+!!! note inline end "Karakter Notları"  
+	Zarathia'nın eski komutanı.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Yaşlı |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Zarathia'nın eski komutanı.  
   

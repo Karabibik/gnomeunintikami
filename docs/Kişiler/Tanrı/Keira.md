@@ -1,5 +1,6 @@
 # Keira   
-  
+!!! note inline end "Karakter Notları"  
+	Deniz ve fırtına tanrısı.     
   
 |  |  |  
 |---|---|  
@@ -13,7 +14,4 @@
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
   
-  
-!!! note inline end "Karakter Notları"  
-	Deniz ve fırtına tanrısı.  
   
