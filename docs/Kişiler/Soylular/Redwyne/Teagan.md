@@ -23,4 +23,3 @@
 !!! note "Karakter Notları"  
 	Tabardında ejderha kafası sembolü var  
 	Elindeki glaive tamamen kırmızı, tahta olması gereken yer bile metalik parlıyor  
-	

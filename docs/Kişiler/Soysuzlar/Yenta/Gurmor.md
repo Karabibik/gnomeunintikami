@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	Sıradan goliath işte. Mark'ın adamı.  
-	  
-	  
-	

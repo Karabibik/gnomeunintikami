@@ -18,6 +18,3 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Warbonter vampir lordu  
-	  
-	  
-	

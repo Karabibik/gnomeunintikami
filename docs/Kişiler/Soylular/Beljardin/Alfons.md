@@ -27,4 +27,3 @@ tags:
   
 !!! note "Karakter Notları"  
 	Kaypak herifin teki, that's it. Zamanında Warbonter'de uzun süre üçkâğıtçılık yapmış. Travmaları için bkz: [[00 - Alfons Background]]  
-	

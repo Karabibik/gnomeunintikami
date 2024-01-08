@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Great Forest]]'ın Müttefikler Adası'ndaki temsilcisi. Çok küçükken [[Ruby]]'yi de kurtarmış. Kör.  
-	  
-	  
-	

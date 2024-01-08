@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş.  
-	  
-	  
-	

@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	Mündung - 3'ün kaptanı.  
-	  
-	  
-	

@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	Philip'in eski ekibi Evsiz Uşaklar'da bir pleb  
-	  
-	  
-	

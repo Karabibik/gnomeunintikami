@@ -18,6 +18,3 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].  
-	  
-	  
-	

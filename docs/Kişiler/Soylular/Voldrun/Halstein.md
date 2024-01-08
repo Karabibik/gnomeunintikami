@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	İmparator'un büyük amcası, Warbonter Dükü. İmparatorluk'ta çok meşhur. Sert mizaçlı biri. 60 senedir yönetici ama 20 senedir elini eteğini biraz çekmiş. Tahtı iki kere kaçırmış elinden.  
-	  
-	  
-	

@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada  
-	  
-	  
-	

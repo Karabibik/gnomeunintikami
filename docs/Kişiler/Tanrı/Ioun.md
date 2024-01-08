@@ -18,6 +18,3 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini.  
-	  
-	  
-	

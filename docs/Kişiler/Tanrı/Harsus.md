@@ -19,6 +19,3 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Tanrılar kralı, Dragan öldürmüş.  
-	  
-	  
-	

@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	Gruumsh'ın Kolları eski başkanı. [[Uliza]]'yla iş görüyordu.  
-	  
-	  
-	

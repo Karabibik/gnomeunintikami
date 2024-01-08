@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	Alfons'un dedesi  
-	  
-	  
-	

@@ -14,6 +14,3 @@
   
 !!! note inline end "Karakter Notları"  
 	John Ryld'a bağlı hareket eden çetelerin ikinci başı, [[Morg]]'un kardeşi.  
-	  
-	  
-	

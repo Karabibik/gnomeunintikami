@@ -22,4 +22,3 @@
   
 !!! note "Karakter Notları"  
 	Shadowguard captain. Katı rasyonel netlik üzerine kurulu bir abimiz. Shadowguard'daki amacının "kaosu contain etmek" olduğu söyleniyor. Wizardları sevmiyor, kendi dedi.  
-	

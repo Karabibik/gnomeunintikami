@@ -25,4 +25,3 @@
   
 !!! note "Karakter Notları"  
 	Orman elflerinde önemli bir pozisyonu var belli ki ama çok şey bilmiyoruz hakkında zira adı sadece bir kere zikredildi.  
-	

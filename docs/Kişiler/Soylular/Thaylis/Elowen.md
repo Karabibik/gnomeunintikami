@@ -40,4 +40,3 @@
   
 !!! note "Karakter Notları"  
 	Yaşı Delador'a yakın ve ona karşı durabilen nadir kişilerden. Mageocracy'nin mevcut idarecisi. Rünik büyüler ve özellikle büyülü dövmeler konusundaki çalışmalarıyla biliniyor.  
-	
