@@ -2,25 +2,23 @@
   
 <div class="grid" markdown>  
   
-|  |  |  
-|---|---|  
-| **İsim** | Durgan |  
-| **Soyadı** | [[Stoneheart]] |  
-| **Hizip** |  |  
-| **Cinsiyet** | Erkek |  
-| **Irk** | Dwarf |  
-| **Sınıf** | Wizard (Level 17+) |  
-| **Kütük** | [[Forgunntal]] |  
-| **Münasebet** |  |  
-| **Karakter Betimi** |  |  
-  
+<table><tr><td><b>İsim</b></td><td>Durgan</td></tr>  
+<tr><td><b>Soyisim</b></td><td>[[Stoneheart]]</td></tr>  
+<tr><td><b>Hizip</b></td><td></td></tr>  
+<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
+<tr><td><b>Irk</b></td><td>Dwarf</td></tr>  
+<tr><td><b>Sınıf</b></td><td>Wizard (Level 17+)</td></tr>  
+<tr><td><b>Kütük</b></td><td>[[Forgunntal]]</td></tr>  
+<tr><td><b>Münasebet</b></td><td></td></tr>  
+<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
+</table>  
   
 === "Durgan"  
 	![[Durgan_portrait.webp]]{ .card }  
   
 </div>  
   
-!!! note inline "İlave Notlar"  
+!!! note "Karakter Notları"  
 	  
 	Durgan Stoneheart, the venerable dwarf of towering stature, stands as a testament to unwavering resolve and towering presence within the world of arcane scholarship. His illustrious beard flows down his chest, symbolizing age and wisdom, while his eyes gleam with the accumulated knowledge gathered over centuries of study and exploration.  
 	  

@@ -1,18 +1,17 @@
 # Lindara   
-|  |  |  
-|---|---|  
-| **İsim** | Lindara |  
-| **Soyadı** |  |  
-| **Hizip** |  |  
-| **Cinsiyet** | Kadın |  
-| **Irk** | Elf |  
-| **Sınıf** |  |  
-| **Kütük** | [[Forgunntal]] |  
-| **Münasebet** |  |  
-| **Karakter Betimi** |  |  
   
   
-!!! note inline "İlave Notlar"  
+!!! note inline "Karakter Notları"  
 	Müttefikler adası belediye başkanı.  
   
   
+<table><tr><td><b>İsim</b></td><td>Lindara</td></tr>  
+<tr><td><b>Soyisim</b></td><td></td></tr>  
+<tr><td><b>Hizip</b></td><td></td></tr>  
+<tr><td><b>Cinsiyet</b></td><td>Kadın</td></tr>  
+<tr><td><b>Irk</b></td><td>Elf</td></tr>  
+<tr><td><b>Sınıf</b></td><td></td></tr>  
+<tr><td><b>Kütük</b></td><td>[[Forgunntal]]</td></tr>  
+<tr><td><b>Münasebet</b></td><td></td></tr>  
+<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
+</table>

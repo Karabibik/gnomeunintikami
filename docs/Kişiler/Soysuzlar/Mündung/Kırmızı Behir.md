@@ -1,18 +1,17 @@
 # Kırmızı Behir   
-|  |  |  
-|---|---|  
-| **İsim** | Kırmızı Behir |  
-| **Soyadı** |  |  
-| **Hizip** |  |  
-| **Cinsiyet** | Erkek |  
-| **Irk** | Vampire(Behir) |  
-| **Sınıf** |  |  
-| **Kütük** | [[Mündung]] |  
-| **Münasebet** | Düşman |  
-| **Karakter Betimi** |  |  
   
   
-!!! note inline "İlave Notlar"  
+!!! note inline "Karakter Notları"  
 	Sağ kalan tam vampir.  
   
   
+<table><tr><td><b>İsim</b></td><td>Kırmızı Behir</td></tr>  
+<tr><td><b>Soyisim</b></td><td></td></tr>  
+<tr><td><b>Hizip</b></td><td></td></tr>  
+<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
+<tr><td><b>Irk</b></td><td>Vampire(Behir)</td></tr>  
+<tr><td><b>Sınıf</b></td><td></td></tr>  
+<tr><td><b>Kütük</b></td><td>[[Mündung]]</td></tr>  
+<tr><td><b>Münasebet</b></td><td>Düşman</td></tr>  
+<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
+</table>

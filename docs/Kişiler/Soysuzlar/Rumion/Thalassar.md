@@ -2,18 +2,16 @@
   
 <div class="grid" markdown>  
   
-|  |  |  
-|---|---|  
-| **İsim** | Thalassar |  
-| **Soyadı** |  |  
-| **Hizip** |  |  
-| **Cinsiyet** | Erkek |  
-| **Irk** | SeaElf |  
-| **Sınıf** | Druid (Circle of Dream) |  
-| **Kütük** | [[Rumion]] |  
-| **Münasebet** | Müttefik |  
-| **Karakter Betimi** | Sol gözü yok<br>Elinde bir asa ve ucunda mavi gem var |  
-  
+<table><tr><td><b>İsim</b></td><td>Thalassar</td></tr>  
+<tr><td><b>Soyisim</b></td><td></td></tr>  
+<tr><td><b>Hizip</b></td><td></td></tr>  
+<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
+<tr><td><b>Irk</b></td><td>SeaElf</td></tr>  
+<tr><td><b>Sınıf</b></td><td>Druid (Circle of Dream)</td></tr>  
+<tr><td><b>Kütük</b></td><td>[[Rumion]]</td></tr>  
+<tr><td><b>Münasebet</b></td><td>Müttefik</td></tr>  
+<tr><td><b>Karakter Betimi</b></td><td>Sol gözü yok<br>Elinde bir asa ve ucunda mavi gem var</td></tr>  
+</table>  
   
 === "Thalassar"  
 	![[Thalassar_portrait.webp]]{ .card }  
@@ -23,7 +21,7 @@
   
 </div>  
   
-!!! note inline "İlave Notlar"  
+!!! note "Karakter Notları"  
 	In the depths of the treacherous deep sea trenches of [[Rumion]], where the sea elves dwelled, a young sea elf named Thalassar devoted his life to protecting his people from the perils that lurked beneath the waves. Gifted with a strong connection to the realm of dreams, Thalassar became a skilled druid, specializing in the manipulation of dreams and the mystical energies that flowed through them.  
 	  
 	Years ago, a malevolent creature known as the [[Nightmare Weaver]] emerged from the depths, threatening the sea elves' tranquility. The Nightmare Weaver possessed the ability to manipulate dreams, unleashing nightmarish visions upon unsuspecting victims. Thalassar, driven by a deep sense of duty, led the charge against this formidable foe. However, in his zeal to confront the creature head-on, he underestimated its power and was blinded in the fierce battle that ensued. Though the sea elves managed to drive the Nightmare Weaver away, Thalassar's physical and emotional wounds ran deep.  

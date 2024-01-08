@@ -1,18 +1,17 @@
 # Rustov   
-|  |  |  
-|---|---|  
-| **İsim** | Rustov |  
-| **Soyadı** |  |  
-| **Hizip** |  |  
-| **Cinsiyet** | Erkek |  
-| **Irk** |  |  
-| **Sınıf** | Cleric ([[Ioun]]) |  
-| **Kütük** |  |  
-| **Münasebet** |  |  
-| **Karakter Betimi** |  |  
   
   
-!!! note inline "İlave Notlar"  
+!!! note inline "Karakter Notları"  
 	Her şeyi bildiği söylenen abi.  
   
   
+<table><tr><td><b>İsim</b></td><td>Rustov</td></tr>  
+<tr><td><b>Soyisim</b></td><td></td></tr>  
+<tr><td><b>Hizip</b></td><td></td></tr>  
+<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
+<tr><td><b>Irk</b></td><td></td></tr>  
+<tr><td><b>Sınıf</b></td><td>Cleric ([[Ioun]])</td></tr>  
+<tr><td><b>Kütük</b></td><td></td></tr>  
+<tr><td><b>Münasebet</b></td><td></td></tr>  
+<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
+</table>

@@ -7,25 +7,23 @@ tags:
   
 <div class="grid" markdown>  
   
-|  |  |  
-|---|---|  
-| **İsim** | Hußeite |  
-| **Soyadı** | [[Kroßen]] |  
-| **Hizip** | [[Güneş Birliği]] |  
-| **Cinsiyet** | Erkek |  
-| **Irk** | Human |  
-| **Sınıf** | Sorcerer (Level 10+) |  
-| **Kütük** | [[Könningsburg]] |  
-| **Münasebet** |  |  
-| **Karakter Betimi** | Cübbeli ve maskeli<br>Boynunda taç var<br>Bir gözü yeşil bir gözü mavi |  
-  
+<table><tr><td><b>İsim</b></td><td>Hußeite</td></tr>  
+<tr><td><b>Soyisim</b></td><td>[[Kroßen]]</td></tr>  
+<tr><td><b>Hizip</b></td><td>[[Güneş Birliği]]</td></tr>  
+<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
+<tr><td><b>Irk</b></td><td>Human</td></tr>  
+<tr><td><b>Sınıf</b></td><td>Sorcerer (Level 10+)</td></tr>  
+<tr><td><b>Kütük</b></td><td>[[Könningsburg]]</td></tr>  
+<tr><td><b>Münasebet</b></td><td></td></tr>  
+<tr><td><b>Karakter Betimi</b></td><td>Cübbeli ve maskeli<br>Boynunda taç var<br>Bir gözü yeşil bir gözü mavi</td></tr>  
+</table>  
   
 === "Hußeite"  
 	![[Hußeite_portrait.webp]]{ .card }  
   
 </div>  
   
-!!! note inline "İlave Notlar"  
+!!! note "Karakter Notları"  
 	Robe of the Hagi, Mask of the Hajje, Wand of the Haci şeklinde üç eşyası var. Adlar, eşyaları karıştırmamak için bu şekilde verilmiş. İşe yaramayınca biraz ağlıyor. Kral tanrının hizmetkârı olduğu söyleniyor.  
 	  
 	Born into the esteemed Empire's loyal Sorcerer family of Kroßen, Hußeite—also known as ßeit to friends—was blessed with two extraordinary gifts: a natural talent for Arcane magic and considerable wealth. Upon his father's demise, ßeit inherited the arcane powers of his bloodline. Swiftly mastering the illusion school of magic and the craft of magical item creation, he gained rapid acceptance into the illustrious Sun Assembly.  

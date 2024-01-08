@@ -3,20 +3,19 @@ tags:
   - İlk
 ---  
 # The First   
-|  |  |  
-|---|---|  
-| **İsim** | The First |  
-| **Soyadı** |  |  
-| **Hizip** |  |  
-| **Cinsiyet** |  |  
-| **Irk** | Vampire |  
-| **Sınıf** |  |  
-| **Kütük** | [[Könningsburg]] |  
-| **Münasebet** | Düşman |  
-| **Karakter Betimi** |  |  
   
   
-!!! note inline "İlave Notlar"  
+!!! note inline "Karakter Notları"  
 	Savaştan sağ çıkan tek vampir lordu.  
   
   
+<table><tr><td><b>İsim</b></td><td>The First</td></tr>  
+<tr><td><b>Soyisim</b></td><td></td></tr>  
+<tr><td><b>Hizip</b></td><td></td></tr>  
+<tr><td><b>Cinsiyet</b></td><td></td></tr>  
+<tr><td><b>Irk</b></td><td>Vampire</td></tr>  
+<tr><td><b>Sınıf</b></td><td></td></tr>  
+<tr><td><b>Kütük</b></td><td>[[Könningsburg]]</td></tr>  
+<tr><td><b>Münasebet</b></td><td>Düşman</td></tr>  
+<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
+</table>

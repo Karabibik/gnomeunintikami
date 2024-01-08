@@ -3,20 +3,19 @@ tags:
   - Daidan
 ---  
 # Colt   
-|  |  |  
-|---|---|  
-| **İsim** | Colt |  
-| **Soyadı** |  |  
-| **Hizip** | [[Evsiz Uşaklar]] |  
-| **Cinsiyet** | Erkek |  
-| **Irk** | CommonElf |  
-| **Sınıf** | Rogue |  
-| **Kütük** | [[Warbonter]] |  
-| **Münasebet** | Müttefik |  
-| **Karakter Betimi** |  |  
   
   
-!!! note inline "İlave Notlar"  
+!!! note inline "Karakter Notları"  
 	Philip'in eski ekibi Evsiz Uşaklar'ın başı  
   
   
+<table><tr><td><b>İsim</b></td><td>Colt</td></tr>  
+<tr><td><b>Soyisim</b></td><td></td></tr>  
+<tr><td><b>Hizip</b></td><td>[[Evsiz Uşaklar]]</td></tr>  
+<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
+<tr><td><b>Irk</b></td><td>CommonElf</td></tr>  
+<tr><td><b>Sınıf</b></td><td>Rogue</td></tr>  
+<tr><td><b>Kütük</b></td><td>[[Warbonter]]</td></tr>  
+<tr><td><b>Münasebet</b></td><td>Müttefik</td></tr>  
+<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
+</table>
