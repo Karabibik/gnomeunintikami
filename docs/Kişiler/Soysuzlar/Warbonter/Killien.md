@@ -5,13 +5,14 @@
 	Eski almancada "little warrior" demekmiş, yeni evocation kürsü başkanı. Low life'ın teki, John Ryld'ın adamı, tutuklandı.  
   
   
-<table><tr><td><b>İsim</b></td><td>Killien</td></tr>  
-<tr><td><b>Soyisim</b></td><td></td></tr>  
-<tr><td><b>Hizip</b></td><td>[[Ryld Çetesi]]</td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td>Human</td></tr>  
-<tr><td><b>Sınıf</b></td><td>Wizard (Evocation)</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Warbonter]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td>Düşman</td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
-</table>
+|  |  |  
+|---|---|  
+| **İsim** | Killien |  
+| **Soyadı** |  |  
+| **Hizip** | [[Ryld Çetesi]] |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | Human |  
+| **Sınıf** | Wizard (Evocation) |  
+| **Kütük** | [[Warbonter]] |  
+| **Münasebet** | Düşman |  
+| **Karakter Betimi** |  |  

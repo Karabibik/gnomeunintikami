@@ -2,16 +2,18 @@
   
 <div class="grid" markdown>  
   
-<table><tr><td><b>İsim</b></td><td>Thalassar</td></tr>  
-<tr><td><b>Soyisim</b></td><td></td></tr>  
-<tr><td><b>Hizip</b></td><td></td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td>SeaElf</td></tr>  
-<tr><td><b>Sınıf</b></td><td>Druid (Circle of Dream)</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Rumion]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td>Müttefik</td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td>Sol gözü yok<br>Elinde bir asa ve ucunda mavi gem var</td></tr>  
-</table>  
+|  |  |  
+|---|---|  
+| **İsim** | Thalassar |  
+| **Soyadı** |  |  
+| **Hizip** |  |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | SeaElf |  
+| **Sınıf** | Druid (Circle of Dream) |  
+| **Kütük** | [[Rumion]] |  
+| **Münasebet** | Müttefik |  
+| **Karakter Betimi** | Sol gözü yok<br>Elinde bir asa ve ucunda mavi gem var |  
+  
   
 === "Thalassar"  
 	![[Thalassar_portrait.webp]]{ .card }  

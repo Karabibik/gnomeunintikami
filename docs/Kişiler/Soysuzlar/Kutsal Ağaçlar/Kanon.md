@@ -6,7 +6,7 @@ tags:
   
 <div class="grid" markdown>  
   
-!!! note inline "Karakter Notları"  
+!!! note "Karakter Notları"  
 	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz.  
   
 <div class="grid" markdown>  
@@ -16,13 +16,15 @@ tags:
   
   
   
-<table><tr><td><b>İsim</b></td><td>Kanon</td></tr>  
-<tr><td><b>Soyisim</b></td><td></td></tr>  
-<tr><td><b>Hizip</b></td><td></td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td>Halfling</td></tr>  
-<tr><td><b>Sınıf</b></td><td>Barbarian (Level 5)</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Kutsal Ağaçlar]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td>Parti - Eski</td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td>Teni kırmızı, kıllar kırmızı</td></tr>  
-</table></div></div>
+|  |  |  
+|---|---|  
+| **İsim** | Kanon |  
+| **Soyadı** |  |  
+| **Hizip** |  |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | Halfling |  
+| **Sınıf** | Barbarian (Level 5) |  
+| **Kütük** | [[Kutsal Ağaçlar]] |  
+| **Münasebet** | Parti - Eski |  
+| **Karakter Betimi** | Teni kırmızı, kıllar kırmızı |  
+</div></div>

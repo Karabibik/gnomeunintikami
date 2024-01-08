@@ -1,11 +1,12 @@
 # Arannis   
-<table><tr><td><b>İsim</b></td><td>Arannis</td></tr>  
-<tr><td><b>Soyisim</b></td><td></td></tr>  
-<tr><td><b>Hizip</b></td><td></td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td>Elf</td></tr>  
-<tr><td><b>Sınıf</b></td><td>Monk (Level 15+)</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Dwarf Krallıkları]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td></td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
-</table>
+|  |  |  
+|---|---|  
+| **İsim** | Arannis |  
+| **Soyadı** |  |  
+| **Hizip** |  |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | Elf |  
+| **Sınıf** | Monk (Level 15+) |  
+| **Kütük** | [[Dwarf Krallıkları]] |  
+| **Münasebet** |  |  
+| **Karakter Betimi** |  |  

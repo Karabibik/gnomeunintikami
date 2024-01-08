@@ -2,7 +2,7 @@
   
 <div class="grid" markdown>  
   
-!!! note inline "Karakter Notları"  
+!!! note "Karakter Notları"  
 	Kartal totemi. Çok görmüş geçirmiş, canavar avlamakta ustalaşmış.  
   
 <div class="grid" markdown>  
@@ -15,13 +15,15 @@
   
   
   
-<table><tr><td><b>İsim</b></td><td>Maelia</td></tr>  
-<tr><td><b>Soyisim</b></td><td></td></tr>  
-<tr><td><b>Hizip</b></td><td></td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Kadın</td></tr>  
-<tr><td><b>Irk</b></td><td>CommonElf</td></tr>  
-<tr><td><b>Sınıf</b></td><td>Barbarian, Fighter</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Kutsal Ağaçlar]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td>Müttefik</td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td>230 yaşında</td></tr>  
-</table></div></div>
+|  |  |  
+|---|---|  
+| **İsim** | Maelia |  
+| **Soyadı** |  |  
+| **Hizip** |  |  
+| **Cinsiyet** | Kadın |  
+| **Irk** | CommonElf |  
+| **Sınıf** | Barbarian, Fighter |  
+| **Kütük** | [[Kutsal Ağaçlar]] |  
+| **Münasebet** | Müttefik |  
+| **Karakter Betimi** | 230 yaşında |  
+</div></div>

@@ -7,16 +7,18 @@ tags:
   
 <div class="grid" markdown>  
   
-<table><tr><td><b>İsim</b></td><td>Hußeite</td></tr>  
-<tr><td><b>Soyisim</b></td><td>[[Kroßen]]</td></tr>  
-<tr><td><b>Hizip</b></td><td>[[Güneş Birliği]]</td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td>Human</td></tr>  
-<tr><td><b>Sınıf</b></td><td>Sorcerer (Level 10+)</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Könningsburg]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td></td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td>Cübbeli ve maskeli<br>Boynunda taç var<br>Bir gözü yeşil bir gözü mavi</td></tr>  
-</table>  
+|  |  |  
+|---|---|  
+| **İsim** | Hußeite |  
+| **Soyadı** | [[Kroßen]] |  
+| **Hizip** | [[Güneş Birliği]] |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | Human |  
+| **Sınıf** | Sorcerer (Level 10+) |  
+| **Kütük** | [[Könningsburg]] |  
+| **Münasebet** |  |  
+| **Karakter Betimi** | Cübbeli ve maskeli<br>Boynunda taç var<br>Bir gözü yeşil bir gözü mavi |  
+  
   
 === "Hußeite"  
 	![[Hußeite_portrait.webp]]{ .card }  

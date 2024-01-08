@@ -5,13 +5,14 @@
 	Kayıp Elf Kulesi 1'de nöbetçi, wraith olarak dirildi kestik.  
   
   
-<table><tr><td><b>İsim</b></td><td>Iverius</td></tr>  
-<tr><td><b>Soyisim</b></td><td></td></tr>  
-<tr><td><b>Hizip</b></td><td></td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td>Elf</td></tr>  
-<tr><td><b>Sınıf</b></td><td></td></tr>  
-<tr><td><b>Kütük</b></td><td></td></tr>  
-<tr><td><b>Münasebet</b></td><td></td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
-</table>
+|  |  |  
+|---|---|  
+| **İsim** | Iverius |  
+| **Soyadı** |  |  
+| **Hizip** |  |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | Elf |  
+| **Sınıf** |  |  
+| **Kütük** |  |  
+| **Münasebet** |  |  
+| **Karakter Betimi** |  |  

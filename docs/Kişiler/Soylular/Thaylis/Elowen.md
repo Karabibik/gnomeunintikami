@@ -2,7 +2,7 @@
   
 <div class="grid" markdown>  
   
-!!! note inline "Karakter Notları"  
+!!! note "Karakter Notları"  
 	Yaşı Delador'a yakın ve ona karşı durabilen nadir kişilerden. Mageocracy'nin mevcut idarecisi. Rünik büyüler ve özellikle büyülü dövmeler konusundaki çalışmalarıyla biliniyor.  
   
 <div class="grid" markdown>  
@@ -30,13 +30,15 @@
   
   
   
-<table><tr><td><b>İsim</b></td><td>Elowen</td></tr>  
-<tr><td><b>Soyisim</b></td><td>[[Thaylis]]</td></tr>  
-<tr><td><b>Hizip</b></td><td></td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td></td></tr>  
-<tr><td><b>Sınıf</b></td><td>Wizard (Level 17+)</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Mageocracy]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td></td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
-</table></div></div>
+|  |  |  
+|---|---|  
+| **İsim** | Elowen |  
+| **Soyadı** | [[Thaylis]] |  
+| **Hizip** |  |  
+| **Cinsiyet** | Erkek |  
+| **Irk** |  |  
+| **Sınıf** | Wizard (Level 17+) |  
+| **Kütük** | [[Mageocracy]] |  
+| **Münasebet** |  |  
+| **Karakter Betimi** |  |  
+</div></div>

@@ -2,16 +2,18 @@
   
 <div class="grid" markdown>  
   
-<table><tr><td><b>İsim</b></td><td>Durgan</td></tr>  
-<tr><td><b>Soyisim</b></td><td>[[Stoneheart]]</td></tr>  
-<tr><td><b>Hizip</b></td><td></td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td>Dwarf</td></tr>  
-<tr><td><b>Sınıf</b></td><td>Wizard (Level 17+)</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Forgunntal]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td></td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
-</table>  
+|  |  |  
+|---|---|  
+| **İsim** | Durgan |  
+| **Soyadı** | [[Stoneheart]] |  
+| **Hizip** |  |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | Dwarf |  
+| **Sınıf** | Wizard (Level 17+) |  
+| **Kütük** | [[Forgunntal]] |  
+| **Münasebet** |  |  
+| **Karakter Betimi** |  |  
+  
   
 === "Durgan"  
 	![[Durgan_portrait.webp]]{ .card }  

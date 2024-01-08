@@ -7,7 +7,7 @@ tags:
   
 <div class="grid" markdown>  
   
-!!! note inline "Karakter Notları"  
+!!! note "Karakter Notları"  
 	Büyü öğrenmek için yola çıkıp neler gördü gnome oğlu gnome (bkz: [[00 - Harrion'ın Gezileri]]). Aslında eğlencelidir de ölümle yakın münasebette olması biraz yoldan çıkardı. Olabildiğince çok gezip görmeye uğraşıyor. Karşısına niye çıkıyorsunuz…  
   
 <div class="grid" markdown>  
@@ -26,13 +26,15 @@ tags:
   
   
   
-<table><tr><td><b>İsim</b></td><td>Harrion</td></tr>  
-<tr><td><b>Soyisim</b></td><td></td></tr>  
-<tr><td><b>Hizip</b></td><td>[[Gnome'un İntikamı]]</td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Kadın (eski Erkek)</td></tr>  
-<tr><td><b>Irk</b></td><td>Tiefling(eskiGnome)</td></tr>  
-<tr><td><b>Sınıf</b></td><td>Wizard (War Mage) (Level 11)</td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Warseir]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td>Parti</td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td></td></tr>  
-</table></div></div>
+|  |  |  
+|---|---|  
+| **İsim** | Harrion |  
+| **Soyadı** |  |  
+| **Hizip** | [[Gnome'un İntikamı]] |  
+| **Cinsiyet** | Kadın (eski Erkek) |  
+| **Irk** | Tiefling(eskiGnome) |  
+| **Sınıf** | Wizard (War Mage) (Level 11) |  
+| **Kütük** | [[Warseir]] |  
+| **Münasebet** | Parti |  
+| **Karakter Betimi** |  |  
+</div></div>

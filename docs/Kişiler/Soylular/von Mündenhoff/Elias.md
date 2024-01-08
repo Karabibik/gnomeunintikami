@@ -5,13 +5,14 @@
 	[[Mündung]] dükü. Pavyoncu.  
   
   
-<table><tr><td><b>İsim</b></td><td>Elias</td></tr>  
-<tr><td><b>Soyisim</b></td><td>[[von Mündenhoff]]</td></tr>  
-<tr><td><b>Hizip</b></td><td></td></tr>  
-<tr><td><b>Cinsiyet</b></td><td>Erkek</td></tr>  
-<tr><td><b>Irk</b></td><td>Human</td></tr>  
-<tr><td><b>Sınıf</b></td><td></td></tr>  
-<tr><td><b>Kütük</b></td><td>[[Mündung]]</td></tr>  
-<tr><td><b>Münasebet</b></td><td></td></tr>  
-<tr><td><b>Karakter Betimi</b></td><td>25-30 yaşlarında</td></tr>  
-</table>
+|  |  |  
+|---|---|  
+| **İsim** | Elias |  
+| **Soyadı** | [[von Mündenhoff]] |  
+| **Hizip** |  |  
+| **Cinsiyet** | Erkek |  
+| **Irk** | Human |  
+| **Sınıf** |  |  
+| **Kütük** | [[Mündung]] |  
+| **Münasebet** |  |  
+| **Karakter Betimi** | 25-30 yaşlarında |  
