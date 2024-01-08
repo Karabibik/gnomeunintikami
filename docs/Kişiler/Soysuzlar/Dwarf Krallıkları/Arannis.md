@@ -1,4 +1,6 @@
 # Arannis   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Arannis |  
@@ -10,3 +12,5 @@
 | **Kütük** | [[Dwarf Krallıkları]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  

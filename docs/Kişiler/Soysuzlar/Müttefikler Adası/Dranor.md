@@ -1,4 +1,6 @@
 # Dranor   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Dranor |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Ada Yolcuları]]'na yardımcı olması için [[Lyra]]'nın önerdiği bir kişi. Güvendiği izci/kâşiflerden biriymiş.  
+  

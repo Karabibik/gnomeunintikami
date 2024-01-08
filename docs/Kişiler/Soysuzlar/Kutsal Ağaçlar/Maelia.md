@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Kartal totemi. Çok görmüş geçirmiş, canavar avlamakta ustalaşmış.  
+  

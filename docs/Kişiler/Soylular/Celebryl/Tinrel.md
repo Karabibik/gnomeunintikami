@@ -29,3 +29,4 @@ tags:
   
 !!! note "Karakter Notları"  
 	Motherfucking Kraliçe, aldı yürüyor yarabbim. Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi. Biraz atarlı ve fazlasıyla tehlikeli. Geçmişi karanlık. Kötü anlamında değil, bilinmiyor.  
+  

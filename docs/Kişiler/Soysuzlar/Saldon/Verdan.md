@@ -1,4 +1,6 @@
 # Verdan   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Verdan |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Saldon'lu crime boss  
+  

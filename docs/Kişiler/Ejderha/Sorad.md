@@ -1,4 +1,6 @@
 # Sorad   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Sorad |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Ejderha kralı, elder drake.  
+  

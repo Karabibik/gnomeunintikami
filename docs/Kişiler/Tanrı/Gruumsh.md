@@ -1,4 +1,6 @@
 # Gruumsh   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Gruumsh |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Ork tanrısı  
+  

@@ -1,4 +1,6 @@
 # Vise   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Vise |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Yara bantlı gözlü  
+  

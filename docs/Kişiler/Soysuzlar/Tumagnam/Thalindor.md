@@ -1,4 +1,6 @@
 # Thalindor   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Thalindor |  
@@ -10,3 +12,5 @@
 | **Kütük** | [[Tumagnam]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  

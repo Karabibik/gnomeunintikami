@@ -1,4 +1,6 @@
 # Morg   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Morg |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	John Ryld'a bağlı hareket eden çetelerin başı.  
+  

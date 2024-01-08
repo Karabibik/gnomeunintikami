@@ -1,4 +1,6 @@
 # Sebastian   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Sebastian |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Beljardin]] kahyası.  
+  

@@ -1,4 +1,6 @@
 # Zal   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Zal |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Stablemaster  
+  

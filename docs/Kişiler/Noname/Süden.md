@@ -1,4 +1,6 @@
 # Süden   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Süden |  
@@ -10,3 +12,5 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Full plate armor<br>Eski moda giyiniyor<br>Boynunda taç var |  
+  
+  

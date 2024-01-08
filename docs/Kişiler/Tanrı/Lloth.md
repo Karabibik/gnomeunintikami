@@ -1,4 +1,6 @@
 # Lloth   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Lloth |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Ana drow tanrısı.  
+  

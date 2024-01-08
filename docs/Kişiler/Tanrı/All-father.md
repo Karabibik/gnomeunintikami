@@ -1,4 +1,6 @@
 # All-father   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | All-father |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Giant-Goliath tanrısı  
+  

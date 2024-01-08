@@ -31,3 +31,4 @@ tags:
 	[[Aurum]] Krallığı prensi, büyükbabası yedi cüce krallığından birini yönetiyor.  Hanesinin soyu altın ejderhalara dayanıyor, zaten pullu vücuduna bakınca netleşiyor olay.  
 	  
 	Goliath istilası sırasında savunmaya çok katkıda bulunmuş. Zevke sefaya düşkün, bok gibi de parası var ki harcamaktan çekinmiyor. Aurelia'nın merkezinde lüks bir hanı var.  
+  

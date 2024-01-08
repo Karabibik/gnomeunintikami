@@ -1,4 +1,6 @@
 # Jasqueman Beljardin  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Jasqueman |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Alfons'un dedesi  
+  

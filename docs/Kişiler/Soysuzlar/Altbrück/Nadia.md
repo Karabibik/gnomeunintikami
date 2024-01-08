@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Beril'in karakteriydi, etrafta bir yerlerde dolanıyor ama kim bilir nerede?  
+  

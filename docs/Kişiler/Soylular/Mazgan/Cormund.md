@@ -1,4 +1,6 @@
 # Cormund Mazgan  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Cormund |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Güneş Birliği paladini  
+  

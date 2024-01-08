@@ -1,4 +1,6 @@
 # Gaylen   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Gaylen |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Orta seviye hırsız  
+  

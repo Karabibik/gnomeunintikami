@@ -1,4 +1,6 @@
 # Vedon   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Vedon |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Eskici, grumpy herif  
+  

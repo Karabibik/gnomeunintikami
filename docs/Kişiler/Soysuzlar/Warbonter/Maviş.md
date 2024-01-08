@@ -1,4 +1,6 @@
 # Maviş   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Maviş |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Üniversite yanındaki açık büfeci cüce, [[Steelhide]] klanından.  
+  

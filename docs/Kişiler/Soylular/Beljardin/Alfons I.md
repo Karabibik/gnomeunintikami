@@ -1,4 +1,6 @@
 # I. Alfons Beljardin  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Alfons I |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Alfons'un dedesinin babası  
+  

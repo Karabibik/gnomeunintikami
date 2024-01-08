@@ -1,4 +1,6 @@
 # Zarog   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Zarog |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Gemiyle giderken [[Mohako]] kurtarmış denizden. İyi aşçı.  
+  

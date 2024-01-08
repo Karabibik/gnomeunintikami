@@ -1,4 +1,6 @@
 # Malog   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Malog |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Gerizekalı, geyik totemi.  
+  

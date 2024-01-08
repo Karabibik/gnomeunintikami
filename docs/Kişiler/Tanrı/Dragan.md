@@ -1,4 +1,6 @@
 # Dragan   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Dragan |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	EVÜL  
+  

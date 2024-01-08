@@ -1,4 +1,6 @@
 # Hans   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Hans |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Guard, [[John Ryld]]'a karşı çıktı.  
+  

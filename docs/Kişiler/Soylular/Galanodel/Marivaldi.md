@@ -1,4 +1,6 @@
 # Marivaldi Galanodel  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Marivaldi |  
@@ -10,3 +12,5 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+  
+  

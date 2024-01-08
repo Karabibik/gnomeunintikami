@@ -1,4 +1,6 @@
 # Henerik   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Henerik |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Katı görüşlü, rogue sevmeyen adam.  
+  

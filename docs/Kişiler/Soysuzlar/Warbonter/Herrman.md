@@ -1,4 +1,6 @@
 # Herrman   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Herrman |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Gemiden beklediğimiz adam, mahzende öldü. [[John Ryld]] ile bir derdi vardı.  
+  

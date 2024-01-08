@@ -4,6 +4,8 @@ tags:
   - Kral Tanrı
 ---  
 # Harsus   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Harsus |  
@@ -19,3 +21,4 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Tanrılar kralı, Dragan öldürmüş.  
+  

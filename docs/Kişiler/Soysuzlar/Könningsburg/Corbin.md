@@ -22,3 +22,4 @@
   
 !!! note "Karakter Notları"  
 	Vanguard captain. Vurucu tim lazımsa tek başına yeter.  
+  

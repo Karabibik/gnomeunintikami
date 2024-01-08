@@ -1,4 +1,6 @@
 # Nendra   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Nendra |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Eilistraecilerin başrahibesi.  
+  

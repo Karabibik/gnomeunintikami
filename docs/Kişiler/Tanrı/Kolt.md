@@ -1,4 +1,6 @@
 # Kolt   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Kolt |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Goliath tanrısı.  
+  

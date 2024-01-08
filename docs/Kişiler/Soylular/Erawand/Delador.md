@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Güneş Birliği Archmage'i son 500 senedir. 30 imparator görmüş süresi boyunca. Güneş Kulesi'nin mevcut sahibi. Kalender adam, görmüş geçirmiş. Muhtemelen bilinen dünyadaki en güçlü büyücü. Güneş Birliği gibi muhteşem bir örgütü hakkıyla yürütmek zaten kolay bir iş değil onu da beceriyor.  
+  

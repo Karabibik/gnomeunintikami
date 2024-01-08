@@ -1,4 +1,6 @@
 # Adran   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Adran |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Bira Nehri]] hancılarından  
+  

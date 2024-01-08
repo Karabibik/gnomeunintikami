@@ -1,4 +1,6 @@
 # IV. Jurgen Voldrun  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Jurgen IV |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Halstein'ın babası.  
+  

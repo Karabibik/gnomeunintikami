@@ -1,4 +1,6 @@
 # Gina   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Gina |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Agnes]]'in koruması, sadık.  
+  

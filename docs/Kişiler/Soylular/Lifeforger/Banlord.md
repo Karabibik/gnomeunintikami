@@ -1,4 +1,6 @@
 # Banlord Lifeforger  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Banlord |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Rannok'un oğlu  
+  

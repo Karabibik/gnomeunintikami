@@ -1,4 +1,6 @@
 # Lyra Celebryl  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Lyra |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Wizardry hocası.  
+  

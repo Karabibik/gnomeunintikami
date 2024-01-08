@@ -1,4 +1,6 @@
 # Sienna Valgenoğlu  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Sienna |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	[[Muzog]]'un bir dostu.  
+  

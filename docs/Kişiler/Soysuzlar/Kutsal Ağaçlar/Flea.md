@@ -1,4 +1,6 @@
 # Flea   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Flea |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Kutsal Ağaçlar Druidcibaşı  
+  

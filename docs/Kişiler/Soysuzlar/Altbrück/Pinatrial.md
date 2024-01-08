@@ -29,3 +29,4 @@ tags:
   
 !!! note "Karakter Notları"  
 	[[Kinatrial]]'nın kardeşi demirci. Biraz utangaç, otistik bir havası var. Zorlamayın.  
+  

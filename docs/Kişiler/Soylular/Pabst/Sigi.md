@@ -1,4 +1,6 @@
 # Sigi Pabst  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Sigi |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.  
+  

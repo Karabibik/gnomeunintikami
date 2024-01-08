@@ -1,4 +1,6 @@
 # Otto Hagen  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Otto |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.  
+  

@@ -1,4 +1,6 @@
 # Ruby   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Ruby |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Değerli şeyleri çok sever  
+  

@@ -1,4 +1,6 @@
 # Umman Lifeforger  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Umman |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Rannok'un karısı  
+  

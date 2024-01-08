@@ -1,4 +1,6 @@
 # Rustov   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Rustov |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Her şeyi bildiği söylenen abi.  
+  

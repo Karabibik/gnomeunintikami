@@ -25,3 +25,4 @@
   
 !!! note "Karakter Notları"  
 	Divination profesörü, Warbonter Üniversitesi'nin mevcut rektörü ve Revenir hanesinin reisi. Warbonter'in merkezinde bir malikânesi var, içini bilimum nadide eserle donatmış. Yeğeni Rensa'yı da kendisi gibi olması için yetiştirmeye çalışıyor.  
+  

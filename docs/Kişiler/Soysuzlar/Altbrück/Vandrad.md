@@ -1,4 +1,6 @@
 # Vandrad   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Vandrad |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Onurcan'ın karakteri  
+  

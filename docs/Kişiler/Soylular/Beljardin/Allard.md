@@ -1,4 +1,6 @@
 # Allard Beljardin  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Allard |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Alfons'un evlatlık yeğeni. Agnes onu kendi kafasındaki şekle sokmaya çalışıyor şimdilik ama eğlenceli çocuk.  
+  

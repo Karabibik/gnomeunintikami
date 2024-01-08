@@ -1,4 +1,6 @@
 # Kaspar Nanger  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Kaspar |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Wizard rektör.  
+  

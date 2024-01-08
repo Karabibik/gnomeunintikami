@@ -1,4 +1,6 @@
 # Lindara   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Lindara |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Müttefikler adası belediye başkanı.  
+  

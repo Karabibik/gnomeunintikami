@@ -3,6 +3,8 @@ tags:
   - Tüccar
 ---  
 # Immortal Merchant   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Immortal Merchant |  
@@ -18,3 +20,4 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Warbonter vampir lordu  
+  

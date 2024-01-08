@@ -1,4 +1,6 @@
 # Sorran Tamungen  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Sorran |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Shadowguard üyesi teğmen.  
+  

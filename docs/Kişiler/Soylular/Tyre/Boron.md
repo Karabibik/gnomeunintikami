@@ -3,6 +3,8 @@ tags:
   - Bor Teker
 ---  
 # Boron Tyre  
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Boron |  
@@ -18,3 +20,4 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Yetkili bir abi. Celeste ile arası çok iyi değil sanki (kimin iyi ki?)  
+  

@@ -3,6 +3,8 @@ tags:
   - Kaba
 ---  
 # Sthol   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Sthol |  
@@ -18,3 +20,4 @@ tags:
   
 !!! note inline end "Karakter Notları"  
 	Yetimhanede büyümüş, sonraları Razil ile tanıştığında maceracılığa soyunmuş, lafını hiç esirgemeyen bir kardeşimizdi. Black Dragon tarafından yenildi.  
+  

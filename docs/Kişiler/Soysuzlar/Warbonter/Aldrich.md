@@ -1,4 +1,6 @@
 # Aldrich   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Aldrich |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Guard captain  
+  

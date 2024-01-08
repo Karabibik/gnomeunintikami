@@ -1,4 +1,6 @@
 # Keira   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Keira |  
@@ -14,3 +16,4 @@
   
 !!! note inline end "Karakter Notları"  
 	Deniz ve fırtına tanrısı.  
+  
