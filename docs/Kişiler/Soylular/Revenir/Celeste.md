@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40lı yaşlarda<br>Beyazımsı sarışın saçlı<br>Gözleri bal rengi<br>Anti-divination kolyesi var |  
   
-{ .card }  
   
 === "Celeste"  
 	![[Celeste_portrait.webp]]{ .card }  

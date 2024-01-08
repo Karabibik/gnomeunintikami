@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "Thurmog"  
 	![[Thurmog_portrait.webp]]{ .card }  

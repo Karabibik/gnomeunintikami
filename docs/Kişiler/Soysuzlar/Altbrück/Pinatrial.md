@@ -18,7 +18,6 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Balyoz + Breastplate |  
   
-{ .card }  
   
 === "Pinatrial"  
 	![[Pinatrial_portrait.webp]]{ .card }  

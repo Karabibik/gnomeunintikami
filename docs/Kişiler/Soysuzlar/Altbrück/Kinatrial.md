@@ -19,7 +19,6 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Her yerine mücevher takıştırmış |  
   
-{ .card }  
   
 === "Kinatrial"  
 	![[Kinatrial_portrait.webp]]{ .card }  

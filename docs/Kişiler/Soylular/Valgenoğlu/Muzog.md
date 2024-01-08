@@ -18,7 +18,6 @@ tags:
 | **Münasebet** | Parti |  
 | **Karakter Betimi** | Bordo mavi tenli<br>Kas kasoğlu |  
   
-{ .card }  
   
 === "Muzog"  
 	![[Muzog_portrait.webp]]{ .card }  

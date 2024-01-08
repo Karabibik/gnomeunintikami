@@ -14,7 +14,6 @@
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "Slayer"  
 	![[Slayer_portrait.webp]]{ .card }  

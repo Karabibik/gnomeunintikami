@@ -18,7 +18,6 @@ tags:
 | **Münasebet** |  |  
 | **Karakter Betimi** | Cübbeli ve maskeli<br>Boynunda taç var<br>Bir gözü yeşil bir gözü mavi |  
   
-{ .card }  
   
 === "Hußeite"  
 	![[Hußeite_portrait.webp]]{ .card }  

@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Boynunda yarım güneş sembolü var |  
   
-{ .card }  
   
 === "Lucian"  
 	![[Lucian_portrait.webp]]{ .card }  

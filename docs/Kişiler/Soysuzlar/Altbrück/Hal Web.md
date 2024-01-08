@@ -20,7 +20,6 @@ tags:
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** | 30-40 yaşlarında<br>1.80, yapılı, yakışıklı |  
   
-{ .card }  
   
 === "Hal Web"  
 	![[Hal Web_portrait.webp]]{ .card }  

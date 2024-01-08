@@ -14,7 +14,6 @@
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "Nadia"  
 	![[Nadia_portrait.webp]]{ .card }  

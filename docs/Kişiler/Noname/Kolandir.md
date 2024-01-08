@@ -18,7 +18,6 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "Kolandir"  
 	![[Kolandir_portrait.webp]]{ .card }  

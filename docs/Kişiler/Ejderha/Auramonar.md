@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Altın sarısı saçları ve elbisesi var<br>Soluk benizli, eflatun gözlü |  
   
-{ .card }  
   
 === "Auramonar"  
 	![[Auramonar_portrait.webp]]{ .card }  

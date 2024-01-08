@@ -18,7 +18,6 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Full dwarf beardlı, mohawk saçlı<br>Boynundan şakaklarına kadar altın rengi pullarla kaplı<br>Gözleri de altın rengi<br>Komple siyah/altın rengi ve pahalı kıyafetler giyiniyor |  
   
-{ .card }  
   
 === "Goldrum"  
 	![[Goldrum_portrait.webp]]{ .card }  

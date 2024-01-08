@@ -14,7 +14,6 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "Taftial"  
 	![[Taftial_portrait.webp]]{ .card }  

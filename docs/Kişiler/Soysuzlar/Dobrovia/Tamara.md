@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Plate armorlu<br>Hafif adımlı |  
   
-{ .card }  
   
 === "Tamara"  
 	![[Tamara_portrait.webp]]{ .card }  

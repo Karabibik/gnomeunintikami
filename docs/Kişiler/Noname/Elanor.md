@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sarışın |  
   
-{ .card }  
   
 === "Elanor"  
 	![[Elanor_portrait.webp]]{ .card }  

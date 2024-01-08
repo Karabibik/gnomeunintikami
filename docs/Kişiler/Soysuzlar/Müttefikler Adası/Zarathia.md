@@ -18,7 +18,6 @@ tags:
 | **Münasebet** |  |  
 | **Karakter Betimi** | 1.80 civarında boyu |  
   
-{ .card }  
   
 === "Zarathia"  
 	![[Zarathia.webp]]{ .card }  

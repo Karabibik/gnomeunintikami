@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "Thokk"  
 	![[Thokk_portrait.webp]]{ .card }  

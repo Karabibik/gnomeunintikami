@@ -18,7 +18,6 @@ tags:
 | **Münasebet** | Parti - Eski |  
 | **Karakter Betimi** | Teni kırmızı, kıllar kırmızı |  
   
-{ .card }  
   
 === "Kanon"  
 	![[Kanon_portrait.webp]]{ .card }  

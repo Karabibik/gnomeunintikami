@@ -18,7 +18,6 @@ tags:
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Full plate armor giyiyor<br>Cüsseli |  
   
-{ .card }  
   
 === "Agnes"  
 	![[Agnes_portrait.webp]]{ .card }  

@@ -19,7 +19,6 @@ tags:
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "Alfons"  
 	![[Alfons_portrait.webp]]{ .card }  

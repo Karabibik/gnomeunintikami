@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 17-18 yaşlarında<br>Güzel kız |  
   
-{ .card }  
   
 === "Rensa"  
 	![[Rensa_portrait.webp]]{ .card }  

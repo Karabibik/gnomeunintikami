@@ -14,7 +14,6 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "1"  
 	![[Elowen_1.webp]]{ .card }  

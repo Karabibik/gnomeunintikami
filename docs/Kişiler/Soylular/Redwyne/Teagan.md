@@ -14,7 +14,6 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** | Koyu kahve saçlı, bakımlı sivri sakallı<br>Yeşil gözlü, Keanu Reeves tipli<br>Kırmızı tabard ve glaive kullanıyor |  
   
-{ .card }  
   
 === "Teagan"  
 	![[Teagan_portrait.webp]]{ .card }  

@@ -14,7 +14,6 @@
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Ela gözlü<br>Zırhı yok<br>Boynunda mavi parlayan bir amulet var |  
   
-{ .card }  
   
 === "Aric"  
 	![[Aric_portrait.webp]]{ .card }  

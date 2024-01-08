@@ -14,7 +14,6 @@
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-{ .card }  
   
 === "Durgan"  
 	![[Durgan_portrait.webp]]{ .card }  
