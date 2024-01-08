@@ -1,7 +1,4 @@
 # Klatros   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Klatros |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Kalan tek elder chromatic dragon, green dragonların kralı.  
   
   
-</div>

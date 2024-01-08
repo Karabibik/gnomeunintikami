@@ -1,7 +1,4 @@
 # III. Virzol Voldrun  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Virzol III |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Könningsburg'u dünyanın başkenti ilan eden Kral.  
   
   
-</div>

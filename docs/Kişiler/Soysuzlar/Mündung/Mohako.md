@@ -1,7 +1,4 @@
 # Mohako   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Mohako |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 40larında |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Balık Kovası]] hanının işletmecisi.  
   
   
-</div>

@@ -1,7 +1,4 @@
 # Sorad   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Sorad |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Ejderha kralı, elder drake.  
   
   
-</div>

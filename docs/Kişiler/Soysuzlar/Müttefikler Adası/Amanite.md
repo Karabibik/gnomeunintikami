@@ -1,7 +1,4 @@
 # Amanite   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Amanite |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 1.70 boylarında<br>Gri/yeşil küf rengi derisi<br>60 yaşlarında |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Koltuk altı mantarı var, adı Füg.  
   
   
-</div>

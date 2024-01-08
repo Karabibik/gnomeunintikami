@@ -1,7 +1,4 @@
 # Borhan Tandel  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Borhan |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Turnuvada yendiğimiz bir adam  
   
   
-</div>

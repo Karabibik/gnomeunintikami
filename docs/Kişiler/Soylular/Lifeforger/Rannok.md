@@ -1,7 +1,4 @@
 # Rannok Lifeforger  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Rannok |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Belanord ve dünyanın en büyük silah ustası. Banlord'un babası, Umman'ın kocası, Talog'un kardeşi.  
   
   
-</div>

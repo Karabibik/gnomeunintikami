@@ -1,7 +1,4 @@
 # Barnov Aurum  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Barnov |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Dragoncüceborn |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Dragon's Hoard]] işletmesinin sahibi. [[Goldrum]]'un kuzeni.  
   
   
-</div>

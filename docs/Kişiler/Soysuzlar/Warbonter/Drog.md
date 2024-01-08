@@ -1,7 +1,4 @@
 # Drog   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Drog |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Mora'nın Güzellikleri]] koruması  
   
   
-</div>

@@ -1,7 +1,4 @@
 # V. Jurgen Voldrun  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Jurgen V |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	56 yaşında 2005'te öldü, Stefan'ın oğlu.  
   
   
-</div>

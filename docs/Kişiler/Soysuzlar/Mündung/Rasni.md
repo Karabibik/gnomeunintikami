@@ -1,7 +1,4 @@
 # Rasni   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Rasni |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Ortanca boylu, uzun beyaz sakallı |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Küçük bombacı, barutçubaşı.  
   
   
-</div>

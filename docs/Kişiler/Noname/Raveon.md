@@ -1,7 +1,4 @@
 # Raveon   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Raveon |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Çok bir bilgi yok. Celeste'nin, yeni büyü yaratımında supervisor'ı.  
   
   
-</div>

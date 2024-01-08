@@ -1,7 +1,4 @@
 # Theresa   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Theresa |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Ioun]] kütüphanesi başkanı, rahibe. Ryld'dan memnun değil.  
   
   
-</div>

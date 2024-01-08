@@ -1,7 +1,4 @@
 # Hange Rand  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Hange |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 30lu yaşlarda, combat ready<br>Saçları ve gözleri sapsarı<br>Uzun boylu, yapılı, kaslı<br>Leather armor, half plate<br>Bakımlı ve gösterişli |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Esmerden ziyade güneşte kalmış gibi, pureblood Rand belli ki. Görev başında içki içiyor.  
   
   
-</div>

@@ -3,9 +3,6 @@ tags:
   - Father
 ---  
 # Urmgrul   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Urmgrul |  
@@ -19,8 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Tünel kazma yarışması şampiyonu  
   
   
-</div>

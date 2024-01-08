@@ -1,7 +1,4 @@
 # Henry   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Henry |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 35-40 yaşlarında<br>1.70 boylarında<br>Yeşil kıyafetli, venedik tüccarı tarzı<br>Hafif kelli, göbekli |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Şarap tüccarı  
   
   
-</div>

@@ -1,7 +1,4 @@
 # Jasqueman Beljardin  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Jasqueman |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Alfons'un dedesi  
   
   
-</div>

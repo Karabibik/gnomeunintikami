@@ -1,7 +1,4 @@
 # Esiatel Celebryl  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Esiatel |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Delador]]'un çırağı, Delador bi ara buna sinirlenince perma slow atmış. 19. High Mage.  
   
   
-</div>

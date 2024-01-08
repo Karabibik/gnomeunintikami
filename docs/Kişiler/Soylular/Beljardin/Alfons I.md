@@ -1,7 +1,4 @@
 # I. Alfons Beljardin  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Alfons I |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Alfons'un dedesinin babası  
   
   
-</div>

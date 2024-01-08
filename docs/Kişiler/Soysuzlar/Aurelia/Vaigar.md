@@ -1,7 +1,4 @@
 # Vaigar   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Vaigar |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Tünel kazma yarışmasına girdi. Rakibiyle aşık atmaya çalışırken bayıldı.  
   
   
-</div>

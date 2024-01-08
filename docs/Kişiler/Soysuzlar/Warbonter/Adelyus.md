@@ -1,7 +1,4 @@
 # Adelyus   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Adelyus |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Alfons]]'un ustası, eski evocation kürsü başkanı. Kimsenin iyileştiremediği bir hastalıktan uzun süre muzdarip olup öldü. [[Abyss]]'e girmeye çalıştığı hakkında şeyler öğrenildi.  
   
   
-</div>

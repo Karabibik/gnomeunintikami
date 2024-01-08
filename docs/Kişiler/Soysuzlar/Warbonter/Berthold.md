@@ -1,7 +1,4 @@
 # Berthold   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Berthold |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	John Ryld'ın adamı, muhafızlara pusu kurdurttu  
   
   
-</div>

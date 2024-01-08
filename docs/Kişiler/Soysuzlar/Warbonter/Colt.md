@@ -3,9 +3,6 @@ tags:
   - Daidan
 ---  
 # Colt   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Colt |  
@@ -19,8 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Philip'in eski ekibi Evsiz Uşaklar'ın başı  
   
   
-</div>

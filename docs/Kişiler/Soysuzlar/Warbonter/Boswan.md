@@ -1,7 +1,4 @@
 # Boswan   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Boswan |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	John Ryld'ın yakın koruması binbaşı  
   
   
-</div>

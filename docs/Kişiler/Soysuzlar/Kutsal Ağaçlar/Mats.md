@@ -1,7 +1,4 @@
 # Mats   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Mats |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Kırmızı cübbeli, Kutsal Ağaçlarda ritüelle demon çağıran arkadaş.  
   
   
-</div>

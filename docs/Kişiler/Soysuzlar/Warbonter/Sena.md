@@ -3,9 +3,6 @@ tags:
   - Vahşi
 ---  
 # Sena   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Sena |  
@@ -19,8 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Paralı asker, shadowbroker.  
   
   
-</div>

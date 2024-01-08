@@ -1,7 +1,4 @@
 # Henerik   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Henerik |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Katı görüşlü, rogue sevmeyen adam.  
   
   
-</div>

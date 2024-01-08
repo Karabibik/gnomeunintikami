@@ -1,7 +1,4 @@
 # Otto Hagen  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Otto |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.  
   
   
-</div>

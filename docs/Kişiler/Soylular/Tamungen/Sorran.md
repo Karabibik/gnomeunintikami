@@ -1,7 +1,4 @@
 # Sorran Tamungen  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Sorran |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Shadowguard üyesi teğmen.  
   
   
-</div>

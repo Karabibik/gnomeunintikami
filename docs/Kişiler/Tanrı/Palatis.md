@@ -1,7 +1,4 @@
 # Palatis   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Palatis |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Lawful good, [[Solsitis]]'in üçlüsünden. Kkaranlığın köküne kibrit suyu mottosu. Düzen sağlıyor.  
   
   
-</div>

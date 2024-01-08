@@ -1,7 +1,4 @@
 # Jeanne Beljardin  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Jeanne |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada  
   
   
-</div>

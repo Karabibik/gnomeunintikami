@@ -1,7 +1,4 @@
 # Arken   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Arken |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Orta - uzun boylu<br>Yeşil tenli |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Elva]]'nın çırağı  
   
   
-</div>

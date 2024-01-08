@@ -3,9 +3,6 @@ tags:
   - İlk
 ---  
 # The First   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | The First |  
@@ -19,8 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Savaştan sağ çıkan tek vampir lordu.  
   
   
-</div>

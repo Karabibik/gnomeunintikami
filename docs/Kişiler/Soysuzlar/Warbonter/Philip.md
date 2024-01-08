@@ -3,9 +3,6 @@ tags:
   - the Sharp
 ---  
 # Philip   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Philip |  
@@ -19,8 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Hak yoluna dönmüş suikastçı [[Bkz: 00 - Evsiz Philip]].  
   
   
-</div>

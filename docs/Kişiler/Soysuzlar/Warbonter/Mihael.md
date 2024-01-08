@@ -1,7 +1,4 @@
 # Mihael   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Mihael |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Guard, [[John Ryld]]'a karşı çıktı.  
   
   
-</div>

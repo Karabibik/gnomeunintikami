@@ -1,7 +1,4 @@
 # Madame Mora   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Madame Mora |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Mora'nın Güzellikleri]] işletmecisi.  
   
   
-</div>

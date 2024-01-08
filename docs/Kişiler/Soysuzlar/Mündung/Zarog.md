@@ -1,7 +1,4 @@
 # Zarog   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Zarog |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 15-20 yaşında |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Gemiyle giderken [[Mohako]] kurtarmış denizden. İyi aşçı.  
   
   
-</div>

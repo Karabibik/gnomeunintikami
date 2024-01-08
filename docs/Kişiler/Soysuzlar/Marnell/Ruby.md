@@ -1,7 +1,4 @@
 # Ruby   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Ruby |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Renkli gözlü<br>Bayağı genç |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Değerli şeyleri çok sever  
   
   
-</div>

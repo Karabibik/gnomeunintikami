@@ -1,7 +1,4 @@
 # Ilnot   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Ilnot |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Bir boynuzu kırık |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Fırıncı  
   
   
-</div>

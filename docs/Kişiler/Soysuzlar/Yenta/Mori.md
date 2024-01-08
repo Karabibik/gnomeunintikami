@@ -1,7 +1,4 @@
 # Mori   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Mori |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Mor |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Etrafı bilen, suç organizatörü. Boswan'ın etrafındaki adamlardan.  
   
   
-</div>

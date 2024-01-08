@@ -1,7 +1,4 @@
 # Falona   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Falona |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Chaotic good, [[Solsitis]]'in üçlüsünden. Tapınakta yeri var ama sadece hürmeten. Takipçileri üstünde etkisini (chaotic ama iyi) hissettirip gidiyor, çok durmuyor.  
   
   
-</div>

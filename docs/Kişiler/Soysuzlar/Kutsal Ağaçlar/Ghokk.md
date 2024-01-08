@@ -1,7 +1,4 @@
 # Ghokk   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Ghokk |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Kutsal Ağaçlar reisi, Kurt totemi.  
   
   
-</div>

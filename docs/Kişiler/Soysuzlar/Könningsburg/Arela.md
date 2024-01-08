@@ -1,7 +1,4 @@
 # Arela   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Arela |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Beyaz saçlı<br>Heavy armor ve kalkan taşıyor, silahı yok<br>Sağ elinde altın renkli bir gauntlet var |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Support captain, humanitarian, muhtemelen katil piskopat  
   
   
-</div>

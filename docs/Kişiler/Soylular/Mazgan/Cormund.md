@@ -1,7 +1,4 @@
 # Cormund Mazgan  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Cormund |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 30 yaşlarında<br>Uzun at kuyruklu |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Güneş Birliği paladini  
   
   
-</div>

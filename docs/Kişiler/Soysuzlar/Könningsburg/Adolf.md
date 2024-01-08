@@ -1,7 +1,4 @@
 # Adolf   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Adolf |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Könningsburg'daki demon çağıranların lideri  
   
   
-</div>

@@ -1,7 +1,4 @@
 # Merg   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Merg |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	John Ryld'a bağlı hareket eden çetelerin ikinci başı, [[Morg]]'un kardeşi.  
   
   
-</div>

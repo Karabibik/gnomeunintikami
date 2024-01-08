@@ -1,7 +1,4 @@
 # Solsitis   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Solsitis |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Güneş Birliği]] ve İmparatorluk'un ana tanrısı.  
   
   
-</div>

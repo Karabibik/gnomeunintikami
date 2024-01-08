@@ -1,7 +1,4 @@
 # Dranor   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Dranor |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Sarışın, soylu |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Ada Yolcuları]]'na yardımcı olması için [[Lyra]]'nın önerdiği bir kişi. Güvendiği izci/kâşiflerden biriymiş.  
   
   
-</div>

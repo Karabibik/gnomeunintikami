@@ -1,7 +1,4 @@
 # Kırmızı Behir   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Kırmızı Behir |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Sağ kalan tam vampir.  
   
   
-</div>

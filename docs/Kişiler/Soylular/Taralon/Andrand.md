@@ -1,7 +1,4 @@
 # Andrand Taralon  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Andrand |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	2005'te babasının öldürülmesiyle 5 yaşında tahta geçmiş  
   
   
-</div>

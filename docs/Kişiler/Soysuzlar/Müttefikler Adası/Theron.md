@@ -1,7 +1,4 @@
 # Theron   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Theron |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Yaşlı |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Zarathia'nın eski komutanı.  
   
   
-</div>

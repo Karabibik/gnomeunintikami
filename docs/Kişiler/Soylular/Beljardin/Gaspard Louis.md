@@ -1,7 +1,4 @@
 # Gaspard Louis Beljardin  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Gaspard Louis |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Alfons'un babası  
   
   
-</div>

@@ -1,7 +1,4 @@
 # Sessiz   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Sessiz |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | İki metre boyu var |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Warbrof]]'un sağ kolu.  
   
   
-</div>

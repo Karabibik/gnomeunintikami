@@ -1,7 +1,4 @@
 # Allard Beljardin  
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Allard |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 7 yaşında çocuk |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Alfons'un evlatlık yeğeni. Agnes onu kendi kafasındaki şekle sokmaya çalışıyor şimdilik ama eğlenceli çocuk.  
   
   
-</div>

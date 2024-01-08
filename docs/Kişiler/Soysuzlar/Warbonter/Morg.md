@@ -1,7 +1,4 @@
 # Morg   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Morg |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	John Ryld'a bağlı hareket eden çetelerin başı.  
   
   
-</div>

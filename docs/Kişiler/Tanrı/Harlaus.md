@@ -1,7 +1,4 @@
 # Harlaus   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Harlaus |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Ölülerin ruhlarını koruyor. Tapınılması yasak değil ama çok tapınanı yok.  
   
   
-</div>

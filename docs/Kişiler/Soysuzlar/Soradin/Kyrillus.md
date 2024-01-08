@@ -1,7 +1,4 @@
 # Kyrillus   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Kyrillus |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 1.80 boylarında<br>Uzun sarı saçlı<br>Full plate armor + greatsword |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Corellion tapınağı arıyor adada.  
   
   
-</div>

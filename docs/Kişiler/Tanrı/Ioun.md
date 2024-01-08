@@ -3,9 +3,6 @@ tags:
   - Kör Tanrı
 ---  
 # Ioun   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Ioun |  
@@ -19,8 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Bilgi Tanrısı, göz kulak olarak kullanıyor clericlerini.  
   
   
-</div>

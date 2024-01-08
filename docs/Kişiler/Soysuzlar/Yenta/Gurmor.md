@@ -1,7 +1,4 @@
 # Gurmor   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Gurmor |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Sıradan goliath işte. Mark'ın adamı.  
   
   
-</div>

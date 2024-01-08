@@ -1,7 +1,4 @@
 # Moradin   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Moradin |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Dwarfların ana tanrısı. Sembolü örs ve çekiç.  
   
   
-</div>

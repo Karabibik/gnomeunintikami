@@ -1,7 +1,4 @@
 # Flea   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Flea |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Kutsal Ağaçlar Druidcibaşı  
   
   
-</div>

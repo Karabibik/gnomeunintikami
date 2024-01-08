@@ -3,9 +3,6 @@ tags:
   - Mantar Cadısı
 ---  
 # Muskarina   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Muskarina |  
@@ -19,8 +16,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Amanite]]'nin annesi. Arken ile benzerliği, [[Great Forest]]'tan gelmiş olabileceğini çağırıştırıyor. Thalindor bayağı güçlü/önemli bir şahıs olduğundan bahsediyor.  
   
   
-</div>

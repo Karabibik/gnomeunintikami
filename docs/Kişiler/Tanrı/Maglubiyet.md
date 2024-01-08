@@ -1,7 +1,4 @@
 # Maglubiyet   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Maglubiyet |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş.  
   
   
-</div>

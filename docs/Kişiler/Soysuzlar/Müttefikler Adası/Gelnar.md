@@ -1,7 +1,4 @@
 # Gelnar   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Gelnar |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Kızıl saçlı sakallı<br>Medium armor giyiyor<br>Pelerinli ve kamuflajlı |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Müttefikler adasında bir subay  
   
   
-</div>

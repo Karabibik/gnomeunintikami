@@ -1,7 +1,4 @@
 # Relgo   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Relgo |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | Sarışın, hançerli |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Boswan'ın etrafındaki adamlardan.  
   
   
-</div>

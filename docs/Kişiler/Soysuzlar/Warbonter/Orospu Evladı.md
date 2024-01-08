@@ -1,7 +1,4 @@
 # Orospu Evladı   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Orospu Evladı |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.  
   
   
-</div>

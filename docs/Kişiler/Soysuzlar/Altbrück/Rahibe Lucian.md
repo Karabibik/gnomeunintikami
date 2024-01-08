@@ -1,7 +1,4 @@
 # Rahibe Lucian   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Rahibe Lucian |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Tapınak rahibesi, Philip'e gıcık.  
   
   
-</div>

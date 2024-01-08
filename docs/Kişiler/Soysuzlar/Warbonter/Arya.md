@@ -1,7 +1,4 @@
 # Arya   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Arya |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** | 35-40 yaşlarında |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	[[Celeste]]'nin yaveri  
   
   
-</div>

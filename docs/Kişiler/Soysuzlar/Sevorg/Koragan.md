@@ -1,7 +1,4 @@
 # Koragan   
-  
-<div class="grid" markdown>  
-  
 |  |  |  
 |---|---|  
 | **İsim** | Koragan |  
@@ -15,8 +12,7 @@
 | **Karakter Betimi** |  |  
   
   
-!!! note "Karakter Notları"  
+!!! note inline end "Karakter Notları"  
 	Goliath high-chief'i. Frost giant şefini yenip üç kabileyi de buyruk altına almış.  
   
   
-</div>
