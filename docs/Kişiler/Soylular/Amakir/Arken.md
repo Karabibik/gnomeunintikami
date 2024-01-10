@@ -1,4 +1,4 @@
-# Arken   
+# Arken Amakir  
   
 !!! note inline end "Karakter Notları"  
 	[[Elva]]'nın çırağı     
@@ -6,8 +6,8 @@
 |  |  |  
 |---|---|  
 | **İsim** | Arken |  
-| **Soyadı** |  |  
-| **Hizip** |  |  
+| **Soyadı** | [[Amakir]] |  
+| **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | WoodElf |  
 | **Sınıf** | Rogue (Level 5) |  

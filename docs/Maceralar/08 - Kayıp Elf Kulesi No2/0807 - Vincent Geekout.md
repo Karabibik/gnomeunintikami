@@ -10,5 +10,5 @@ Könningsburg nüfusu = Rand + Soradin
   
 Hal Web'i de Vincent'ı da o yolladı  
   
-Delador bizzat ejderlerle savaşmış  
+Delador ejderlerle bizzat savaşmış  
   

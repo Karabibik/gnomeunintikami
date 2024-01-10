@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Dranor |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | HalfElf |  
 | **Sınıf** | Blood Hunter (Level 5) |  

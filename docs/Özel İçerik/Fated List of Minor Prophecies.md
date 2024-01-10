@@ -17,11 +17,11 @@
 | Kingdom Hopper | Visit each [kingdom][def6] | Harrion (5/8) |  
 | Manor Owner | Have your own manor |  |  
 | Master of Arcana | Learn a 9th level spell |  |  
-| Miracle Max | Heal over 200 hit points in a single combat | Alfons? |  
+| Miracle Max | Heal over 200 hit points in a single combat |  |  
 | Multraverser | Visit each major [plane of existence][def4] | Party effort (1/8) |  
 | No Cats Here | Win an election |  |  
-| One Shot One Kill | Deal more than 100 damage to a single target in a single attack | Philip? |  
-| Perpetual Machine | Get healed more than your HP total in a single combat | Muzog? |  
+| One Shot One Kill | Deal more than 100 damage to a single target in a single attack |  |  
+| Perpetual Machine | Get healed more than your HP total in a single combat |  |  
 | Pride and Prejudice | Fight with people from [each class][def3] | Party effort (11/12) |  
 | Push It to the Limit | Permanently increase one of your ability scores above 20 |  |  
 | Speed Dial | Contact all [major gods][def2] | Philip, Harrion (1/5) |  

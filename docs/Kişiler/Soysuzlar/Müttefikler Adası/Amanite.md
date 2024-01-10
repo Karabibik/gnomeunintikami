@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Amanite |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Elf |  
 | **Sınıf** | Druid (Level 4) |  

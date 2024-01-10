@@ -2,7 +2,7 @@
 ---  
   
 ## Notebook  
-Uliza bu defterin içine bakmamamızı ve hemen kendisine vermemizi söylüyor. `"Yoksa anlaşma yatar"` diyor.  
+Uliza bu defterin içine bakmamamızı ve hemen kendisine vermemizi söylüyor. `"Yoksa anlaşma yatar."` diyor.  
 - Biz ne yapıyoruz? Defteri forgeluyoruz :D  
   
 >"Bu seneki deneyler başarılı olmadı, herhangi bir entity ile iletişim kuramadım. Dönüşümü tamamlamak istiyorsam tek yolu [[Immortal Merchant|Tüccar]]'ın kanı ama bulamayacak olursam Shadowfell güçleri ya da [[Dragan]] da dönüşümü tamamlayabilir."  

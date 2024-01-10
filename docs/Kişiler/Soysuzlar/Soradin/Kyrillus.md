@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Kyrillus |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** | Paladin (Oath of Vengeance) (Level 5) |  

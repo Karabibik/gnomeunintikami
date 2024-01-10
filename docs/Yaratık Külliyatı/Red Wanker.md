@@ -11,4 +11,4 @@ Küçük çocuk gibi davranıyor normalde ama hayvani doğası gereği bu eblehl
   
 Ölmeye yakın tam olarak berserk moduna geçiyor, o yüzden son ana kadar dikkatle savaşılması gerek. Hatta ve hatta bu dikkat gereksinimi, yaratık öldükten sonra da geçerli. Yaratığın bu hâle gelmesini sağlayan rünleri kim, nasıl olduysa kemiklerine işlemiş. İçlerinden bir kısmı güçlendirme, bir kısmı ise kısıtlama rünü. Varsayım o ki ölüm anında bu kısıtlama rünlerinin etkisi kalkıyor, deri yanmaya başlıyor ve tüm kemikler yüksek seviye *Shatter* büyüsüne maruz kalmış gibi patlayarak etrafı delik deşik ediyor. Siper alın.  
   
-[^1]: Könningsburglu âlim Darwin son kitabında tanımlıyor bu ifadeyi
+[^1]: Könningsburglu âlim Darwin, son kitabında tanımlıyor bu ifadeyi

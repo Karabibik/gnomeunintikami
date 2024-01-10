@@ -1,3 +1,4 @@
+  
 Belli gücün üstündeki eşyalar ile belirli seviyeden yüksek büyülerin kullanımını [[Güneş Birliği]] kontrol ediyor.  
   
 ## Büyü Geçmek  

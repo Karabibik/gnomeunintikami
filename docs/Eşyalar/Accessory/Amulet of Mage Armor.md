@@ -9,6 +9,6 @@ tags:
 | **Okul** | Abjuration|  
 | **Fiyat** | 150 gp|  
 | **Rarity** | Common|  
-| **Kimde** | [[Harrion]]|  
+| **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  
 | **İşlev** | Bonus action, Mage Armor|  

@@ -4,8 +4,7 @@ tags:
 ---  
 # Philip   
   
-!!! note inline end "Karakter Notları"  
-	Hak yoluna dönmüş suikastçı (bkz: [[00 - Evsiz Philip]]).     
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +19,16 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "1"  
+	![[Philip_1.webp]]{ .card }  
+  
+=== "2"  
+	![[Philip_2.webp]]{ .card }  
+  
+=== "3"  
+	![[Philip_3.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Hak yoluna dönmüş suikastçı (bkz: [[00 - Evsiz Philip]]).   

@@ -4,6 +4,7 @@ tags:
   - Chaotic
   - Evil
 ---  
+  
 Çeşit çeşit demon olsa da plebler hariç çoğu demon'ın belirli özellikleri var. Mesela büyülü olmayan silahlardan az hasar alıyorlar; hatta ateş, buz ve yıldırım büyülerinden de az etkileniyorlar. Diğer kontrol büyülerine karşı da dirençliler. Bir de tecrübe edildiği üzere zehirlenemiyor ve görünmezlikle kandırılamıyorlar.  
 ## Glabrezu  
 ![[Glabrezu.webp]]{ align=left }  

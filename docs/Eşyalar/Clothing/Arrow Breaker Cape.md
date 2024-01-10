@@ -11,5 +11,5 @@ tags:
 | **Fiyat** | |  
 | **Rarity** | Common|  
 | **Kimde** | [[Harrion]]|  
-| **Menşei** | Warbroth|  
+| **Menşei** | Warbrof|  
 | **İşlev** | AC +2 vs projectile|  

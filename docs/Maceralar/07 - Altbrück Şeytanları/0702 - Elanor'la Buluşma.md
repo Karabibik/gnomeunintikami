@@ -19,6 +19,7 @@
   
 - KENDİNİ REZLEDİ GÖZÜMÜZÜN ÖNÜNDE  
 - Madalyonu var kara/gri (conjuration enerjisi var)  
+- Bir de küpelerinden bir şey seziyor Harrion  
 - Taşları arıyordu, parça parça olduklarını biliyor  
   
 [^1]:  Sorduklarımızdan öğrendiğimiz kadarıyla. En ufak bir fikrimiz yok doğru mu yanlış mı.  

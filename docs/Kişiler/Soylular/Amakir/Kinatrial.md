@@ -3,14 +3,14 @@ tags:
   - Kina
   - Altın Kasırga
 ---  
-# Kinatrial   
+# Kinatrial Amakir  
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
 | **İsim** | Kinatrial |  
-| **Soyadı** |  |  
+| **Soyadı** | [[Amakir]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | WoodElf |  

@@ -14,7 +14,7 @@ tags:
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Elf |  
-| **Sınıf** |  |  
+| **Sınıf** | Druid |  
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  

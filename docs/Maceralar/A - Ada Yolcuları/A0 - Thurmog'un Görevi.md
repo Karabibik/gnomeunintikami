@@ -2,22 +2,13 @@
 tags:  
   - Macera  
 ---  
-Hill Dwarf bölgesinde doğdum  
-Küçüklükte çok güçlü değilim, taş işinde çalışamıyorum diye manastıra verildim  
   
-Orada Arannis the Enlightened'dan ders alıyorum çoook uzun süre  
-Çok uzun zamandır kendisiyle olduğum için duygusal da bir bağım var  
+Hill Dwarf bölgesinde doğan Thurmog küçükken çok güçlü olmadığı, taş işinde çalışamadığı için manastıra verilmiş.  
   
-Sonra Goliath saldırısı başlıyor.  
-Bizim manastıra da saldırıyorlar, o sırada ben dışarıdayım  
-Dönerken Agnes'lerin birlik ile karşılaşıyorum ve manastıra girip içeridekileri kurtarıyoruz  
+Orada [[Arannis]] the Enlightened'dan ders alıyor çoook uzun süre. Çok uzun zamandır birlikte oldukları için duygusal da bir bağ oluşuyor aralarında.  
   
-Ama Arannis ölmüş diğerlerini kurtarmaya çalışırken  
-Üstünde maskesi ve Thalindor'dan aldığı amulet var  
+Sonra Goliath saldırısı başlıyor. Bir keresinde manastıra da saldırıyorlar, o sırada Thurmog dışarıda. Saldırıyı duyup manastıra dönerken [[Agnes]]'in birlikleri ile karşılaşıyor ve manastıra girip içeridekileri kurtarıyorlar beraber.  
   
-The Echo Mask: A silver mask with a mirrored surface, reflecting the faces of those who look upon it. The Echo Mask symbolizes Arannis' ability to truly see and understand the pain and suffering of others. It is believed to hold echoes of the stories and experiences of those he has healed, lending him insight and empathy in his merciful actions.  
+Ama görüyorlar ki Arannis ölmüş diğer öğrencileri kurtarmaya çalışırken. Üstünde maskesi ve [[Thalindor]]'dan aldığı amulet var.  
   
-The Silver Amulet of Serenity: This intricately crafted amulet is adorned with a serene moonstone at its center. It is said to contain the essence of tranquility and inner peace. Thalindor presented this amulet to Arannis as a symbol of his growth and mastery over his emotions, reminding him to remain calm and centered even in the face of adversity.  
-  
-Agnes'lerin birlik geri dönerken Allied States'teki ana manastıra (Tumagnam) gidip bu amuleti vereceğim kendisine  
-100-150 yıl kadar önce bir kere gitmiştim oraya sadece
+Agnes'in de son seferiymiş. Onlar geri dönerken Thurmog da Müttefikler Adası'ndaki [[Tumagnam|ana manastıra]] gidip emaneti Thalindor'a ulaştıracak. 100-150 yıl kadar önce bir kere gitmiş oraya sadece.

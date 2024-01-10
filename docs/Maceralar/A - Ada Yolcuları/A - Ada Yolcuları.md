@@ -2,6 +2,7 @@
 tags:  
   - Macera  
 ---  
+  
 Table of Content  
   
 [[A1 - Biz Gideriz Ormana]]  
@@ -9,5 +10,5 @@ Table of Content
 [[A3 - Tumagnam Yolları Taşlı]]  
 [[A4 - Durgan'ın Golemleri]]  
 [[A5 - Dikbaşlı Timlon]]  
-[[A6 - Pyrrhic Rescue]]  
+[[A6 - Ateş Hattı]]  
 [[A7 - Adanın Kurtarıcıları]]

@@ -22,7 +22,3 @@ Bu oyun; **[[Gnome'un İntikamı]]** adlı paralı asker grubunda bir araya gelm
 | ^^Beril^^ | Nadia | Genasi | Monk |  
 | ^^Berke^^ | Granmyr | Dwarf | Fighter |  
 | ^^Onur^^ | Vandrad | Dwarf | Paladin |  
-  
-Oyunun Roll20 sayfasına **[buradan](https://app.roll20.net/campaigns/details/5930132/a-d-and-d-game)** ulaşabilirsiniz  
-  
-![[World_Map.webp]]

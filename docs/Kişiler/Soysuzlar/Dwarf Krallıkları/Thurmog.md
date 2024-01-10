@@ -6,7 +6,7 @@
 |---|---|  
 | **İsim** | Thurmog |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dwarf |  
 | **Sınıf** | Monk (Level 5) |  

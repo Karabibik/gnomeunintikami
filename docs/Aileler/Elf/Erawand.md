@@ -3,7 +3,7 @@ tags:
   - Aile
 ---  
   
-Eski high-elf klanlarından, birinci nesil olanlardan, geriye hiçbiri kalmamış. Bir tek var olanın adı biliniyor o da Erawand.  
+Eski birinci nesil high-elf klanlarından geriye kalan yegâne klan. Diğerleri insan saldırılarında tamamen yok edilmiş.  
   
 Bilinen üyeleri:  
 - [[Delador]]

@@ -16,5 +16,5 @@
 | Tight Embrace | Be formally accepted to the [[Great Forest]] |  |  
 | Tower Tracker | Re-discover all 5 Elf towers | Ongoing (2/5) |  
   
-[ach1]: <javascript:void(0)> (Belanord, Forgunntal, ?)  
+[ach1]: <javascript:void(0)> (Belanord, Müttefikler Adası, ?)  
 [ach2]: <javascript:void(0)> (Arela, Aric, Corbin)  

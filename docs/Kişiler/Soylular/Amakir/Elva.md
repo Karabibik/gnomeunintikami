@@ -1,11 +1,11 @@
-# Elva   
+# Elva Amakir  
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
 | **İsim** | Elva |  
-| **Soyadı** |  |  
+| **Soyadı** | [[Amakir]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | WoodElf |  

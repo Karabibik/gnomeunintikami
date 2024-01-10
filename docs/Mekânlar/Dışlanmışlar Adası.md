@@ -2,6 +2,7 @@
 tags:  
   - Mekân/Bölge  
 ---  
+  
 Dışlanmışlar ve Dragan belasını vermişler adası olarak adlandırılması daha uygun olabilir.  
   
 Adanın belasını verenler:  

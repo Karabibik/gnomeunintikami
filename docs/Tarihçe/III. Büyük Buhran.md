@@ -1,3 +1,4 @@
+  
 [[Soradin|Soradin Federasyonu]], [[Rand Diyarı]] ve ~~affedersiniz~~ elflerin el ele vermesiyle [[İmparatorluk]] savaşta yenilmiş ve buhrana sürüklenmiştir. Hatta	Rand askerleri [[Könningsburg]]'a kadar girmiş, şehri yağmalamış ve diğer ordular yetişemeden şehirden ayrılmışlardır.  
   
 *Fireball* sesleri saraydan duyulmaya başladığı sırada kraliyet ozanının kaleminden çıkan şu dörtlükler kayıtlarda kendine önemli bir yer edinmiş, yıllar sonra bile o günleri anlatmak için derslerde okutulmuştur:  

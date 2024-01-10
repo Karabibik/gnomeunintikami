@@ -2,6 +2,7 @@
 tags:  
   - Macera  
 ---  
+  
 Döğüş ensues ve neredeyse Zarathia'yı yenecek gibi oluyoruz. Yalnız tam o anda ıslık çalıyor ve takviyeler geliyor.  
   
 Tholberg gelenlerden birine bakıp `"Hain"` diyor.  
@@ -25,5 +26,5 @@ Toparlanıp en yakın yerleşim yerine gitmeyi planlıyoruz, bir karakol varmı�
 Karakola geliyor ve içeri giriyoruz. Oradaki subaya meramımızı açıklayıp bilgi alıyoruz  
 - Subayın adı [[Gelnar]]; kızıl saçlı sakallı dwarf, medium armor giyiyor, pelerinli kamuflajlı  
 - Zarathia eski bir yüzbaşıymış, 2-3 sene önce ordudan ayrılıp ormanda eskiden kendi bölgesi olan yere dalmış  
-- Bizi uyaran gnome'un adı Timlon, Forguntal'da bir öğretim üyesi, birkaç ay önce kaybolmuş, 3-4 yıl önce onun yaptığı bir kazıda Zarathia ona korumalık yaptıydı  
+- Bizi uyaran gnome'un adı Timlon, [[Forgunntal]]'da bir öğretim üyesi, birkaç ay önce kaybolmuş, 3-4 yıl önce onun yaptığı bir kazıda Zarathia ona korumalık yaptıydı  
 - Kazı yapılan alan dağda

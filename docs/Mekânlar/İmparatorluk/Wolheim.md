@@ -3,6 +3,4 @@ tags:
   - Mekân/Kasaba
 ---  
   
-Adı "Yün diyarı" anlamına geliyor  
-  
-Yazın arazideler kışın kasabada
+Adı "Yün diyarı" anlamına geliyor. Sakinleri yazın arazideler kışın kasabada.

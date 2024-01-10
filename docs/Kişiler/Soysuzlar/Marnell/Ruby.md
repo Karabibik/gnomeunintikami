@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Ruby |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Halfling |  
 | **Sınıf** | Rogue (Level 5) |  

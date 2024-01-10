@@ -14,4 +14,5 @@
 [[0900 - Canını Almaya Geldim Ryld]]  
 [[1000 - Yet Another Tournament]]  
   
-A. [[Plot Hooks]]
+[[A - Ada Yolcuları]]  
+[[B - Plot Hooks]]

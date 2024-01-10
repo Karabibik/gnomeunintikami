@@ -2,14 +2,14 @@
 tags:
   - Pina
 ---  
-# Pinatrial   
+# Pinatrial Amakir  
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
 | **İsim** | Pinatrial |  
-| **Soyadı** |  |  
+| **Soyadı** | [[Amakir]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | WoodElf |  

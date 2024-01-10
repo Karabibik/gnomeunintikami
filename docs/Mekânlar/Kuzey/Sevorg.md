@@ -4,7 +4,7 @@ tags:
 ---  
   
 Goliath başkenti ve bir metropol.  
-All-father ve Kolt'a tapıyorlar  
+All-father ve Kort'a tapıyorlar  
   
 Üç ana kabile var:  
   
