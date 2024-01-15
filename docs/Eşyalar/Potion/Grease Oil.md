@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  
+| **Gereksinim** | |  
 | **İşlev** | Application: 10min<br>1) Üstüne sür -> Freedom of movement: 8hr<br>2) Yere dök -> Grease spell|  

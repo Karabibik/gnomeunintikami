@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Agnes]]|  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | Adamantin parçalı zırh|  

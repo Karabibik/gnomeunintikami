@@ -27,4 +27,4 @@ Yarı yolda kafamıza *Fireball* yiyoruz. Tek tek herkesi indiriyor Yousa, ufak 
 - Kaçarken Harrion küfrediyor arkasından, dönüp kritik *Firebolt* atıyor :D  
 - Alfons kılığına girip Altbrück Kütüphanesi'ne girmeye çalışmış ama giremeyince alarm çalmış.  
   
-[^1]: Meta Info: Normalde ya Uliza ya da Agnes ile bir olup savaşacakmışız, ikisi de yanımızda yokken sıkıntı.
+[^1]: Meta Info: Normalde ya Uliza ya da Agnes ile bir olup savaşacakmışız, ikisi de yanımızda yokken sıkıntı çıktı tabii.

@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Delador]]|  
 | **Menşei** | Uliza|  
+| **Gereksinim** | |  
 | **İşlev** | |  

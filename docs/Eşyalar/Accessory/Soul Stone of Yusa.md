@@ -10,6 +10,7 @@ tags:
 | **Okul** | |  
 | **Fiyat** | |  
 | **Rarity** | Rare|  
-| **Kimde** | [[Rensa]]|  
+| **Kimde** | [[Alfons]]|  
 | **Menşei** | Hag Mağarası|  
-| **İşlev** | Spellcaster, modifier >= +3<br>Bonus action, trance:<br>- See/hear with darkvision (blind/deaf in original)<br>- Cast spells from it<br>- Communicate within 30 ft|  
+| **Gereksinim** | Spellcaster with modifier >= 3|  
+| **İşlev** | Bonus action, trance:<br>- See/hear with darkvision (blind/deaf in original)<br>- Cast spells from it<br>- Communicate within 30 ft|  

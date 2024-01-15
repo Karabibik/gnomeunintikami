@@ -6,6 +6,7 @@
 | Apex Predator | Survive in close combat with 10 different CR10+ creatures |  |  
 | Artifact Holder | Obtain a legendary item | [Muzog][ach7] |  
 | As Prophesied | Be part of a prophecy |  |  
+| Broad Minded | Get laid with every [race][def11] |  |  
 | Damage Deity | Deal 1000 damage in a single combat |  |  
 | Decimation Dynamo | Kill 10 targets in a single round |  |  
 | Don't Tell the Elf | Get thrown into a group of 4 or more enemies |  |  
@@ -30,6 +31,7 @@
 | Torture Tango | Bind a demon eternally |  |  
 | Waltzing on the Rooftops | Learn 5 different teleportation circle runes | Harrion [(2/5)][ach1] |  
 | Wizarding World Tour | Visit all major [wizard schools][def10] | Harrion (3/4) |  
+|  |  |  |  
   
 [ach1]: <javascript:void(0)> (Warbonter Üniversitesi, Praetor'un evi)  
 [def2]: <javascript:void(0)> (Solsitis+, Dragan, Harlaus, Harsus+, Keira/Mellora)  
@@ -40,4 +42,5 @@
 [ach7]: <javascript:void(0)> (Kolandir's Echo)  
 [ach8]: <javascript:void(0)> (Red Wanker combat)  
 [ach9]: <javascript:void(0)> (Harrion's Hoops, Harrion's Fallout, Harpoon of the Golden Monarch)  
-[def10]: <javascript:void(0)> (Güneş Adaları+, İmparatorluk+, Müttefikler Adası+, Soradin Federasyonu)
+[def10]: <javascript:void(0)> (Güneş Adaları+, İmparatorluk+, Müttefikler Adası+, Soradin Federasyonu)  
+[def11]: <javascript:void(0)> (Dragonborn, Dwarf, Elf, Gnome, Half-Elf, Halfling, Half-Orc, Human, Tiefling)

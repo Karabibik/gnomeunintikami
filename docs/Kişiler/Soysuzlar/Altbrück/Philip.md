@@ -19,6 +19,9 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "Philip"  
+	![[0_Philip_portrait.webp]]{ .card }  
+  
 === "1"  
 	![[Philip_1.webp]]{ .card }  
   

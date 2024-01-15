@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  
+| **Gereksinim** | |  
 | **İşlev** | Standart scroll|  

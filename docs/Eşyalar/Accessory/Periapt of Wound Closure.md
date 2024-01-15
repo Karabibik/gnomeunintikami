@@ -12,4 +12,5 @@ tags:
 | **Rarity** | Uncommon|  
 | **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  
+| **Gereksinim** | |  
 | **İşlev** | Stabilize if dead|  

@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Alfons]]|  
 | **Menşei** | Vilenor Mazgan|  
+| **Gereksinim** | |  
 | **İşlev** | Dimension door per dawn|  

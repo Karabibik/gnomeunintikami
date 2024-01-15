@@ -3,6 +3,7 @@ tags:
   - Macera  
 ---  
 ## Battı Kayık Yan Gider  
+  
 Philip ile Alfons [[0908 - Karabasana Şaplak|kendi maceralarında]] boğuşurken Harrion uzak tutmaya çalıştı yaratığı ama sonunda o da *Wall of Force* atıp durmak zorunda kaldı. Nihayet sonunda diğerleri de uyanınca *tak tak tak* mahvettiler. Ha olan kayığa oldu, kırılıp batmaya başladı. Herkes suya batmışken tentaküllü bir balina çıktı ortaya, Alfons onun Thalassar olduğunu anladı. Bizi taşımayı teklif ediyormuş meğer. Başta olayı hiç anlamayan Harrion geri durdu, sonra bir *Sending* atıp asgari düzeyde mantıklı buldu ve hızla karaya yol aldılar.  
   
 Karaya vurduklarında balina, Thalassar'ın kendi formuna dönüşmeye başladı. Helalleşildi vesaire, yalnız gördük ki Thalassar durumu henüz çok kaldıramıyor. `"Güce dengeyi getiricem"` gibisinden bir şeyler zırvalayıp daldı denize gitti.  

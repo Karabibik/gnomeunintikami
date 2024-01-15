@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | magical, +1, 5dk'dan uzun süre güneşte kalırsa gone|  

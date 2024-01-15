@@ -12,4 +12,5 @@ tags:
 | **Rarity** | Rare|  
 | **Kimde** | [[Philip]]|  
 | **Menşei** | Hag Mağarası|  
+| **Gereksinim** | |  
 | **İşlev** | Darkvision + Waterbreathing|  

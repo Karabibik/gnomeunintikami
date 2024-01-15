@@ -10,6 +10,7 @@ Table of Content
 [[0905 - Singularity]]  
 [[0906 - No One Expects the Rand Inquisition]]  
 [[0907 - Trash ve Mob]]  
+[[0908 - Karabasana Şaplak]]  
 [[0909 - Adaya Çıkış]]  
 [[0910 - Fireworks]]  
 [[0911 - Adanın En Yırtıcı Hayvanı]]  

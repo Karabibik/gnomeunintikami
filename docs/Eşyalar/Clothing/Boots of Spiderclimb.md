@@ -12,4 +12,5 @@ tags:
 | **Rarity** | Uncommon|  
 | **Kimde** | [[Philip]]|  
 | **Menşei** | Vilenor Mazgan|  
+| **Gereksinim** | |  
 | **İşlev** | Spiderman|  

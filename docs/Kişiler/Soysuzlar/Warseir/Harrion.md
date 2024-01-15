@@ -20,17 +20,17 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "Harrion"  
+	![[0_Harrion_portrait.webp]]{ .card }  
+  
+=== "theGnome"  
+	![[1_Harrion_theGnome.webp]]{ .card }  
+  
 === "Art1"  
 	![[Harrion_Art1.webp]]{ .card }  
   
 === "Art2"  
 	![[Harrion_Art2.webp]]{ .card }  
-  
-=== "Harrion"  
-	![[Harrion_portrait.webp]]{ .card }  
-  
-=== "theGnome"  
-	![[Harrion_theGnome.webp]]{ .card }  
   
 </div>  
   

@@ -1,11 +1,11 @@
-# Delador Erawand  
+# Delador Erawan  
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
 | **İsim** | Delador |  
-| **Soyadı** | [[Erawand]] |  
+| **Soyadı** | [[Erawan]] |  
 | **Hizip** | [[Güneş Birliği]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | HighElf |  

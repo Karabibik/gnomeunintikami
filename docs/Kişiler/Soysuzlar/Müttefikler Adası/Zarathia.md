@@ -20,7 +20,7 @@ tags:
   
   
 === "Zarathia"  
-	![[Zarathia.webp]]{ .card }  
+	![[Zarathia_portrait.webp]]{ .card }  
   
 === "Possessed"  
 	![[Zarathia_Possessed.webp]]{ .card }  

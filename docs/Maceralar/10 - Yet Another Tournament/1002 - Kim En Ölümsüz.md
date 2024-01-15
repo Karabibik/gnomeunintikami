@@ -43,7 +43,7 @@ muzog ben savaşıyım diyor da kabul edilmiyor, thokk bitiriyor olayı
   
 **  
   
-![[Turnuva.drawio.svg]]  
+![[Turnuva_single_2021.svg]]  
   
   
   

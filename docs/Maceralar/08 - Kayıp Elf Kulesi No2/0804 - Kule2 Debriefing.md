@@ -10,7 +10,7 @@ Tüm maceralardan sonra ejderya ile birlikte eve dönüyoruz
   
 Son kırmızı ejderha 1000 sene önce görüldü. Harrion biliyor ki:  
 - Bundan 1700 yıl kadar önce doğudakilerin çoğunu chromaticler yönetiyordu  
-- Dragon Wars'ta iktidar savaşı sırasında chromaticlerin bir kısmı kırmızı ejderhalara sadık kaldı, bir kısmı isyan etti  
+- [[Ejderhalar Savaşı]]'nda iktidar savaşı sırasında chromaticlerin bir kısmı kırmızı ejderhalara sadık kaldı, bir kısmı isyan etti  
 - Ejderhaların kralı "Dağ Eriten [[Sorad]]"a isyan ettiler işte bir kısmı  
 - Metalikler kargaşadan faydalanıp iki tarafa da saldırdı  
 - Halk da biraz saldırdı  

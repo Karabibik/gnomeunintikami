@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  
+| **Gereksinim** | |  
 | **İşlev** | (1h)|  

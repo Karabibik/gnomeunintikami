@@ -1,4 +1,4 @@
-# Arken Amakir  
+# Arken Amakiir  
   
 !!! note inline end "Karakter Notları"  
 	[[Elva]]'nın çırağı     
@@ -6,7 +6,7 @@
 |  |  |  
 |---|---|  
 | **İsim** | Arken |  
-| **Soyadı** | [[Amakir]] |  
+| **Soyadı** | [[Amakiir]] |  
 | **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | WoodElf |  

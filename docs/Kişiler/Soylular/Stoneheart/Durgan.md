@@ -28,7 +28,7 @@
 	  
 	Despite initial skepticism, Durgan's slow but steady progress and exceptional work ethic earned him respect and admiration from both elves and dwarves. His consistent brilliance made him a master of his craft, and he became known as a stalwart figure in the city's magical community. Eventually, his contributions led to his election as the Dean of the Wizardry Academy, a position attained not through grand gestures but through dedication, wisdom, and a lasting impact on the city's magical heritage.  
 	  
-	Now at the helm of the renowned Forguntall Academy, Durgan Stoneheart commands immense respect. His expertise in conjuration is unmatched, and only a select few can rival his understanding of summoning and bending the fabric of reality. However, beyond his mastery of conjuration, Durgan is one of the last remaining keepers of the closely-guarded knowledge of creating golems—a nearly lost art passed down through generations.  
+	Now at the helm of the renowned Forgunntal Academy, Durgan Stoneheart commands immense respect. His expertise in conjuration is unmatched, and only a select few can rival his understanding of summoning and bending the fabric of reality. However, beyond his mastery of conjuration, Durgan is one of the last remaining keepers of the closely-guarded knowledge of creating golems—a nearly lost art passed down through generations.  
 	  
 	Despite his immense knowledge and accomplishments, Durgan remains remarkably humble. His attire, simple yet well-tailored in earthy tones, reflects his preference for modesty and practicality. Adorned with minimal but meaningful accessories, such as a finely crafted silver amulet and sturdy leather gloves, Durgan emphasizes function over extravagance.  
 	  

@@ -5,9 +5,9 @@ tags:
   
 Üniversiteden çaldığımız parşömenleri alıp Lyra'nın inine gidiyoruz incelemeye.  
   
-**Parşömen 1**: Yapılacak işler listesi bu belli ki. Dwarf Krallığı harabeleri bulunmuş. Forguntall ile ilgili kayıp klanın krallığı olabilir bu. Uzun zamandır harabe hâlinde. Nasıl yıkılmış bilinmiyor ama sonradan Morguntrax'ın yerleştiğine dair bulgular var. Ejderha Savaşı (1700 yıl önce) sırasında buraya çok gidip gelmiş, muhtemelen orada ini var.  
+**Parşömen 1**: Yapılacak işler listesi bu belli ki. Dwarf Krallığı harabeleri bulunmuş. Forgunntal ile ilgili kayıp klanın krallığı olabilir bu. Uzun zamandır harabe hâlinde. Nasıl yıkılmış bilinmiyor ama sonradan Morguntrax'ın yerleştiğine dair bulgular var. Ejderha Savaşı (1700 yıl önce) sırasında buraya çok gidip gelmiş, muhtemelen orada ini var.  
   
-**Parşömen 2**: Bu bir mektup. Zarathia'dan, 8 ay önce yazılmış. `"Araştırman umurumda değil ama para varsa biz de varız."` diyor.  
+**Parşömen 2**: Bu bir mektup; Zarathia'dan, 8 ay önce yazılmış. `"Araştırman umurumda değil ama para varsa biz de varız."` diyor.  
   
 Bu sırada Ruby, Zarathia'nın yazısı olan birkaç şey daha buluyor:  
 - Bir harita var, combat yaşanan yerin doğusunda izlerin götürdüğü yer işaretli.  

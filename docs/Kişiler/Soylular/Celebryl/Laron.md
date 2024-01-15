@@ -1,7 +1,7 @@
 # Laron Celebryl  
   
 !!! note inline end "Karakter Notları"  
-	Elven Queen Consort, [[Tinrel]]den daha ılımlı.     
+	Elven Queen Consort, [[Tinrel]]'den daha ılımlı.     
   
 |  |  |  
 |---|---|  

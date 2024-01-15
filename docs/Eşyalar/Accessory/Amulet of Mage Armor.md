@@ -11,4 +11,5 @@ tags:
 | **Rarity** | Common|  
 | **Kimde** | |  
 | **Menşei** | Vilenor Mazgan|  
+| **Gereksinim** | |  
 | **İşlev** | Bonus action, Mage Armor|  

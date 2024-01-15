@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Alfons]]|  
 | **Menşei** | Kinatrial|  
+| **Gereksinim** | |  
 | **İşlev** | Yan diyince yanan mum|  

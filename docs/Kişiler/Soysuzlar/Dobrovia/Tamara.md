@@ -16,7 +16,10 @@
   
   
 === "Tamara"  
-	![[Tamara_portrait.webp]]{ .card }  
+	![[0_Tamara_portrait.webp]]{ .card }  
+  
+=== "Drawing"  
+	![[Tamara_Drawing.webp]]{ .card }  
   
 === "Showcase"  
 	![[Tamara_Showcase.webp]]{ .card }  

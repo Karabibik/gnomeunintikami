@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Alfons]], [[Tamara]]|  
 | **Menşei** | Dragon's Hoard|  
+| **Gereksinim** | |  
 | **İşlev** | Provides dwarven ale|  

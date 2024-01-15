@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | Size x2, STR check adv, melee +1d4|  

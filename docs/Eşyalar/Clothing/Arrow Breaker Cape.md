@@ -12,4 +12,5 @@ tags:
 | **Rarity** | Common|  
 | **Kimde** | [[Harrion]]|  
 | **Menşei** | Warbrof|  
+| **Gereksinim** | |  
 | **İşlev** | AC +2 vs projectile|  

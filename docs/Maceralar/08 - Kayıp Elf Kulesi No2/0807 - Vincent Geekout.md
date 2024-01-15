@@ -1,14 +1,14 @@
 ---
 ---  
   
-Dağların batısında bir yer var görece büyük, Ulksred  
+Dağların batısında bir yer var görece büyük, Ulksred.  
   
 Rand'lar yaralandıklarında çok hızlı iyileşiyorlar  
-	uzuv kaybı iyileştiremiyorlar ama ağır yaraları bile bir iki güne geçiyor  
+	Uzuv kaybı iyileştiremiyorlar ama ağır yaraları bile bir iki güne geçiyor  
 	  
-Könningsburg nüfusu = Rand + Soradin  
+Könningsburg nüfusu toplamı, Rand ile Soradin'in toplamı kadar.  
   
-Hal Web'i de Vincent'ı da o yolladı  
+Delador ejderlerle bizzat savaşmış. Hal Web'i de Vincent'ı da o yollamış zaten laboratuvara.  
   
-Delador ejderlerle bizzat savaşmış  
+  
   

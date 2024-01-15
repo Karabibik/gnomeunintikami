@@ -12,4 +12,5 @@ tags:
 | **Rarity** | Rare|  
 | **Kimde** | [[Alfons]], [[Muzog]], [[Harrion]]|  
 | **Menşei** | Hal Web|  
+| **Gereksinim** | |  
 | **İşlev** | AC +1, Saving +1|  

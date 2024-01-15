@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | Düz longbow|  

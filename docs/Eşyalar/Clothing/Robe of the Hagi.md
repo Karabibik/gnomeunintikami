@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Hußeite]]|  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | Emits an explosion when its owner is in danger|  

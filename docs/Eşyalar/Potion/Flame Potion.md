@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  
+| **Gereksinim** | |  
 | **İşlev** | Bonus action, DEX13 4d6 Fire (x3)|  

@@ -1,7 +1,7 @@
 ---
 ---  
   
-[[Gnome'un İntikamı]] adlı paralı asker grubunun çeşitli yer ve zamanlarda karışmış olduğu olayların sıralı tam listesi  
+[[Gnome'un İntikamı]] adlı paralı asker grubunun çeşitli yer ve zamanlarda karışmış olduğu olayların sıralı tam listesi:  
   
 [[0100 - Belanord Harabeleri]]  
 [[0200 - Gruums'ın Kolları]]  

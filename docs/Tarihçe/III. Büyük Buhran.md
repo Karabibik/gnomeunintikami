@@ -17,7 +17,7 @@
 >_Warseir, Orman Elfleri, bütün akvam-ı beşer  
 >Kaynıyor kum gibi, tufan gibi, mahşer mahşer!  
 >Yedi iklimi cihanın duruyor karşında,  
->Erawand'la beraber bakıyorsun: Randa!_  
+>Erawan'la beraber bakıyorsun: Randa!_  
 >  
 >_Çehreler başka, lisanlar, deriler rengarenk;  
 >Sade bir hadise var ortada: vahşetler denk.  

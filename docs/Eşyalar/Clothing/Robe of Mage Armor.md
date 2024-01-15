@@ -11,4 +11,5 @@ tags:
 | **Rarity** | Uncommon|  
 | **Kimde** | [[Harrion]]|  
 | **Menşei** | Vilenor Mazgan|  
+| **Gereksinim** | |  
 | **İşlev** | Permanent Mage Armor|  

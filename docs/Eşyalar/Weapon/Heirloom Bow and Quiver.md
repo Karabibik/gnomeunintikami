@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Philip]]|  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | Magical, auto-replace ammo after 1min|  

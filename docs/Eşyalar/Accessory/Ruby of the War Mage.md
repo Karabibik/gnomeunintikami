@@ -12,4 +12,5 @@ tags:
 | **Rarity** | Common|  
 | **Kimde** | |  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | Attached become spell focus|  

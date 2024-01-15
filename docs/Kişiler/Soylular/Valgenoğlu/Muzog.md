@@ -19,14 +19,14 @@ tags:
 | **Karakter Betimi** | Bordo mavi tenli<br>Kas kasoğlu |  
   
   
+=== "Muzog"  
+	![[0_Muzog_portrait.webp]]{ .card }  
+  
 === "1"  
 	![[Muzog_1.webp]]{ .card }  
   
 === "2"  
 	![[Muzog_2.webp]]{ .card }  
-  
-=== "Muzog"  
-	![[Muzog_portrait.webp]]{ .card }  
   
 === "Showcase"  
 	![[Muzog_Showcase.webp]]{ .card }  

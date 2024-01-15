@@ -12,4 +12,5 @@ tags:
 | **Rarity** | Uncommon|  
 | **Kimde** | [[Harrion]]|  
 | **Menşei** | Pinatrial|  
+| **Gereksinim** | |  
 | **İşlev** | Movement +10|  

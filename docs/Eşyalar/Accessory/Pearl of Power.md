@@ -11,4 +11,5 @@ tags:
 | **Rarity** | |  
 | **Kimde** | [[Alfons]]|  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | Action, 3- spell slot refill per day|  

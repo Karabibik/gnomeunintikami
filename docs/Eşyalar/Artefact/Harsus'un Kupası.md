@@ -11,4 +11,5 @@ tags:
 | **Rarity** | Legendary|  
 | **Kimde** | |  
 | **Menşei** | |  
+| **Gereksinim** | |  
 | **İşlev** | |  

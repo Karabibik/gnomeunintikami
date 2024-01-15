@@ -12,4 +12,5 @@ tags:
 | **Rarity** | Rare|  
 | **Kimde** | [[Philip]]|  
 | **Menşei** | Hal Web|  
+| **Gereksinim** | |  
 | **İşlev** | Batcape|  

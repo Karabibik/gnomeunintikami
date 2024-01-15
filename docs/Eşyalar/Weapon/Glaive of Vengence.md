@@ -11,4 +11,5 @@ tags:
 | **Rarity** | Rare|  
 | **Kimde** | [[Vandrad]]|  
 | **Menşei** | Belanord Harabeleri|  
+| **Gereksinim** | |  
 | **İşlev** | |  
