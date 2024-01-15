@@ -49,6 +49,7 @@
 | [[Resistance Potions]] | Potion |  | 200|
 | [[Ring of Protection]] | Accessory | Rare<br>(Attunement) | |
 | [[Robe of Mage Armor]] | Clothing | Uncommon | 500|
+| [[Robe of Spell Restoration]] | Clothing | Rare<br>(Attunement) | |
 | [[Robe of the Hagi]] | Clothing |  | |
 | [[Ruby of the War Mage]] | Accessory | Common<br>(Attunement) | 75|
 | [[Silent Plate]] | Armor | Common | |

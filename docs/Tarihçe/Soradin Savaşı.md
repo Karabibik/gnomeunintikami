@@ -1,9 +1,10 @@
----
-tags:
-  - 64 Harbi
+---  
+aliases:  
+  - 64 Harbi  
+  - Agnonic Victory  
 ---  
   
-1864 senesinde [[Soradin]] ile [[İmparatorluk]] arasında bir dizi muharebe gerçekleşir. Bu muharebelerin çoğunu İmparatorluk net bir şekilde kazansa da Federasyon ordusu genelde düzen içinde ricat etmeyi başararak Soradin Şehri'ne çekilebilir ve olası bir kuşatma için şehri savunabilir. İmparatorluk'un amacı da hâlihazırda zayıflamış düşman kuvvetlerini dağıtıp şehri kuşatmaktır zaten.  
+1864 senesinde [[Soradin]] ile [[İmparatorluk]] arasında bir dizi muharebe gerçekleşir. Bu muharebelerin çoğunu İmparatorluk net bir şekilde kazansa da Federasyon ordusu genelde düzen içinde ricat etmeyi başararak Soradin Şehri'ne çekilebilir ve olası bir kuşatma için şehri savunabilir. İmparatorluk'un amacı da halihazırda zayıflamış düşman kuvvetlerini dağıtıp şehri kuşatmaktır zaten.  
   
 Bu amaçla taraflar nihai bir meydan savaşı için bir araya gelir lakin İmparatorluk'un üstünlüğü barizdir. Federasyon ordusu, meydan savaşını kaybedeceğini kestirdiği için tehlikeyi göze alarak Agnon Harabeleri yakınlarına çekilip İmparatorluk ordusunun onları takip etmemesini umar. İmparatorluk ordusu Soradin'e yürümeyi düşündüğü için kesin bir zafer arayışındadır. Tehlikeyi göze alıp Federasyon ordusuna saldırırlar. Araziyi daha iyi bilen Federasyon ordusu İmparatorluk'a ağır kayıplar verdirir ama yenilmeleri kaçınılmazdır.  
   
