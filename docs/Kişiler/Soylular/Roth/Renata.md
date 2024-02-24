@@ -1,3 +1,7 @@
+---
+tags:
+  - Bitirme Projesi
+---  
 # Renata Roth  
   
 <div class="grid" markdown>  
@@ -9,7 +13,7 @@
 | **Hizip** | [[Güneş Birliği]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Fighter, Wizard (War Mage) |  
+| **Sınıf** | Eldritch Knight, Wizard (War Mage) |  
 | **Kütük** | [[Hannog]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Aslında bayağı yaşlı ama elf kanı var diyorlar<br>Her tarafı zırhla kaplı |  

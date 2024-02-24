@@ -1,5 +1,8 @@
 ---
 ---  
+  
+İşlerini bitiren ekip   
+  
 **  
   
 rensa’yla takım kurmak için önce laboratuvarda arıyorlar orada yok, evde buluyorlar  

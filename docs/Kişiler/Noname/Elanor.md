@@ -9,7 +9,7 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Warlock (Level 14) |  
+| **Sınıf** | Warlock (Celestial) (Level 14) |  
 | **Kütük** |  |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sarışın |  

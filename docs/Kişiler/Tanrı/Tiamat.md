@@ -1,14 +1,14 @@
 # Tiamat   
   
 !!! note inline end "Karakter Notları"  
-	Ejderhaların tanrısı     
+	Renkli ejderhaların tanrısı     
   
 |  |  |  
 |---|---|  
 | **İsim** | Tiamat |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** |  |  
+| **Cinsiyet** | Dişi |  
 | **Irk** | Dragon |  
 | **Sınıf** |  |  
 | **Kütük** |  |  

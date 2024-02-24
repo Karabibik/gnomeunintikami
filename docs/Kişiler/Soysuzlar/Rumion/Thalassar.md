@@ -9,7 +9,7 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | SeaElf |  
-| **Sınıf** | Druid (Circle of Dream) |  
+| **Sınıf** | Druid (Circle of Dreams) (Level 10) |  
 | **Kütük** | [[Rumion]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sol gözü yok<br>Elinde bir asa ve ucunda mavi gem var |  

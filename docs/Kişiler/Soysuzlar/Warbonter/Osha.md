@@ -1,9 +1,3 @@
----
-tags:
-  - Orospu
-  - Orosposha
-  - Kancık
----  
 # Osha   
   
 !!! note inline end "Karakter Notları"  

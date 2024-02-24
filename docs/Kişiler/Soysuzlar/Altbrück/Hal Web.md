@@ -15,7 +15,7 @@ tags:
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Vampire |  
-| **Sınıf** | Fighter, Wizard (Level 5+) |  
+| **Sınıf** | Fighter, Wizard (Level 7+) |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** | 30-40 yaşlarında<br>1.80, yapılı, yakışıklı |  

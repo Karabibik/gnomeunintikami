@@ -10,7 +10,7 @@ tags:
 |---|---|  
 | **İsim** | Kolandir |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Bronzheart Battalion]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn(Bronze) |  
 | **Sınıf** | Fighter |  

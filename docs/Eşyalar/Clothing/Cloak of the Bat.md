@@ -10,7 +10,7 @@ tags:
 | **Okul** | |  
 | **Fiyat** | |  
 | **Rarity** | Rare|  
-| **Kimde** | [[Philip]]|  
+| **Kimde** | |  
 | **Menşei** | Hal Web|  
 | **Gereksinim** | |  
 | **İşlev** | Batcape|  

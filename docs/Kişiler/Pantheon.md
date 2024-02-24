@@ -18,4 +18,4 @@
 | [[Moradin]] | Erkek | Dwarf | Dwarfların ana tanrısı. Sembolü örs ve çekiç. |
 | [[Palatis]] | Erkek |  | Lawful good, Solsitis'in üçlüsünden. Kkaranlığın köküne kibrit suyu mottosu. Düzen sağlıyor. |
 | [[Solsitis]] |  |  | Güneş Birliği ve İmparatorluk'un ana tanrısı. |
-| [[Tiamat]] |  | Dragon | Ejderhaların tanrısı |
+| [[Tiamat]] | Dişi | Dragon | Renkli ejderhaların tanrısı |

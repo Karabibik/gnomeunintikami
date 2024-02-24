@@ -8,11 +8,11 @@
 | **İsim** | Vakal |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** |  |  
+| **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn |  
 | **Sınıf** |  |  
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** |  |  
-| **Karakter Betimi** | Beyaz |  
+| **Karakter Betimi** | Teni buz mavisi, beyaz<br>Gözleri ve dövmeleri de buz mavisi<br>Pulları plate armor gibi<br>Bir çift boynuzu kökünden kırık |  
   
   

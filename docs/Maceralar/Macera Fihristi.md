@@ -13,6 +13,8 @@
 [[0800 - Kayıp Elf Kulesi No2]]  
 [[0900 - Canını Almaya Geldim Ryld]]  
 [[1000 - Yet Another Tournament]]  
+[[1100 - Soradin Yolunda]]  
   
 [[A - Ada Yolcuları]]  
-[[B - Plot Hooks]]
+[[B - Kolandir's Prequel]]  
+[[C - Plot Hooks]]

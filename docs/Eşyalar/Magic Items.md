@@ -2,6 +2,7 @@
 | --- | --- | --- | --- |
 | [[Adamantine Reinforced Armor]] | Armor |  | |
 | [[Amulet of Mage Armor]] | Accessory | Common | 150|
+| [[Arcane Conduit Gauntlet]] | Clothing | Rare<br>(Attunement) | |
 | [[Arrow Breaker Cape]] | Clothing | Common<br>(Attunement) | |
 | [[Arrow of Slaying]] | Ammunition |  | |
 | [[Azuuk's Determination]] | Weapon | Rare<br>(Attunement) | |
@@ -10,6 +11,7 @@
 | [[Boots of Spiderclimb]] | Clothing | Uncommon<br>(Attunement) | 250|
 | [[Cape of Wabronter]] | Clothing |  | 2600|
 | [[Charm Potion]] | Potion |  | 130|
+| [[Cloak of Elvenkind]] | Clothing | Uncommon<br>(Attunement) | |
 | [[Cloak of the Bat]] | Clothing | Rare<br>(Attunement) | |
 | [[Command Animal]] | Potion |  | 125|
 | [[Demon Mirror]] | Accessory |  | |
@@ -48,8 +50,8 @@
 | [[Potion of Mental Fortitude]] | Potion |  | |
 | [[Resistance Potions]] | Potion |  | 200|
 | [[Ring of Protection]] | Accessory | Rare<br>(Attunement) | |
+| [[Robe of Elemental Harmony]] | Clothing | Rare<br>(Attunement) | |
 | [[Robe of Mage Armor]] | Clothing | Uncommon | 500|
-| [[Robe of Spell Restoration]] | Clothing | Rare<br>(Attunement) | |
 | [[Robe of the Hagi]] | Clothing |  | |
 | [[Ruby of the War Mage]] | Accessory | Common<br>(Attunement) | 75|
 | [[Silent Plate]] | Armor | Common | |

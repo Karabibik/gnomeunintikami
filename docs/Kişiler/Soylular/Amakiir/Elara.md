@@ -9,14 +9,14 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | WoodElf |  
-| **Sınıf** | Caster (Level 10+) |  
+| **Sınıf** | Druid (Level 10+) |  
 | **Kütük** | [[Forgunntal]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Chestnut hair<br>Emerald green eyes |  
   
   
 === "Elara"  
-	![[Elara.webp]]{ .card }  
+	![[Elara_portrait.webp]]{ .card }  
   
 </div>  
   

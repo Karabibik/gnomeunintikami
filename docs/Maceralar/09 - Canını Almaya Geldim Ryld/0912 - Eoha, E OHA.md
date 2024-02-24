@@ -13,7 +13,7 @@ Karşımızda bir anda dört kişi beliriyor, biri Celeste ama Delador ortalıkt
   
 Anlaşıldığı üzere bu arkadaşlar [[Shadowguard]] kaptanları. Omuzlarında insignia var. Kaptan [[Corbin]]'in işi vanguardlık, koca bir çekici ve zırhı var. Kaptan [[Arela]] destek birimlerinin başı, destek birimi ama o da asker gibi zırhlı. Gelip yaralarımızı sarıyor, büyü gücü verip tekrar yola çıkmaya hazır hâle getiriyor. [[Aric]] ise düz elbiseli, mekanik konuşuyor, muhtemelen wizard. Aric insignia'sına dokununca yanına Hal Web kılıklı 4 kişi ışınlanıyor, hemen ormanı söndürmeye girişiyorlar.  
   
-Alfons zihinlerini okumaya çalışıyor da direkt engelleniyor. Hepsi tam takım bu arkadaşların, itemler galore, şakaları yok.  
+Alfons zihinlerini okumaya çalışıyor da direkt engelleniyor. Hepsi tam takım bu arkadaşların, itemler galore, şakaları yok. Muzog konusunda da emin değiller, bir haltlar dönüyor orada Arela ile aralarında ama ne cast etti dunno.  
   
 Corbin'in taşıdığı hologram taşından konuşan Delador:   
 > "Kusura bakmayın diplomatik bir görevdeyim gelemiyorum. Kaptanlar size yardımcı olacak. Gençler buradan çıkanları Lab VI'ya alın, Proje XIII'ü depoya koyun, Proje XIV'ü Lab V'e geçirin. Artefactlarla ilgili tüm araştırmaları yapın. Maceracılar kendilerine düşen payı aldıktan sonra kalanı tasnifleyin."  
@@ -39,7 +39,7 @@ O sırada Philip ile Alfons cesetleri inceliyor. Cesetlerden birinde tanıdık b
 >   
 > Zaman hızlı hızlı ileri sarıyor, yüzyıllar geçiyor. O sırada sürekli içeri giren birileri görülüyor. Ellerinde bir şeylerle giriyor ama her seferinde boş çıkıyorlar.  
 >   
-> Son entry'de içeri giren dört kişi var. Ellerinde çok bariz bir eşya görünmüyor. Biri siyah saçlı, 30 yaşlarında, gözleri bayağı koyu renkli, üstünde bissürügözüntutunduğupiramit gibi bir muska olan bir adam. Arkasında, eli baltalı bembeyaz bir dragonborn var. Yanında kılıç kalkanlı, plate armorlu bir dwarf fighter duruyor. Sonuncusu da half elfe benzeyen bir kadın.  
+> Son entry'de içeri giren dört kişi var. Ellerinde çok bariz bir eşya görünmüyor. Biri siyah saçlı, 30 yaşlarında, gözleri bayağı koyu renkli, üstünde bissürügözüntutunduğupiramit gibi bir muska olan bir [[Rustov|adam]]. Arkasında, eli baltalı bembeyaz bir dragonborn var. Yanında kılıç kalkanlı, plate armorlu bir [[Tamara|dwarf fighter]] duruyor. Sonuncusu da humanoid bir [[Bethany|kadın]].  
 >   
 > İçeri girip çıktıktan sonra siyah saçlı adam bu yerdeki muskayı fark ediyor ve eline alıp konuşmaya başlıyor.  
 > `"Son parçayı getirme şerefine biz nail olamadık. Buraya kadar geldiysen çok iyi iş çıkardın. Buradan da canlı çıkıp yaşarsan dünyada sayılı gerçekleşen olaylardan birine şahit olacaksın. Bu laboratuvarın son odasına kadar git. İşin bittikten sonra hâlâ yaşıyorsam maceralarını dinlemeyi çok isterim."`  

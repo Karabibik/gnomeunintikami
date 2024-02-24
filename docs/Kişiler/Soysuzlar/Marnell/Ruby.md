@@ -1,7 +1,6 @@
 # Ruby   
   
-!!! note inline end "Karakter Notları"  
-	Değerli şeyleri çok sever     
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +15,13 @@
 | **Karakter Betimi** | Renkli gözlü<br>Bayağı genç |  
   
   
+=== "Ruby"  
+	![[Ruby_portrait.webp]]{ .card }  
+  
+=== "Sneaky"  
+	![[Ruby_Sneaky.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Değerli şeyleri çok sever   

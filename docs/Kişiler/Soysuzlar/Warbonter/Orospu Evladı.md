@@ -1,3 +1,7 @@
+---
+tags:
+  - Calimeshin Talavotti
+---  
 # Orospu Evladı   
   
 !!! note inline end "Karakter Notları"  

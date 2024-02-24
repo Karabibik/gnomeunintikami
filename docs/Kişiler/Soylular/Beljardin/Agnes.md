@@ -13,7 +13,7 @@ tags:
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Fighter |  
+| **Sınıf** | Fighter (Level 13) |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Full plate armor giyiyor<br>Cüsseli |  

@@ -9,7 +9,7 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | WoodElf |  
-| **Sınıf** | Fighter, Rogue |  
+| **Sınıf** | Fighter, Rogue (Level 15+) |  
 | **Kütük** | [[Great Forest]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Saçları da derisi de yeşil<br>Bir gözü yeşil, diğeri mavi<br>Sırtında siyah bir pelerin ile uzun bir yay var<br>Belinde rapier taşıyor<br>Yeşil renkte broş takıyor |  
