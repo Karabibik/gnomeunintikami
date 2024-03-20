@@ -1,5 +1,4 @@
-```mermaid  
-%%{ init: { 'theme': 'dark' } }%%  
+``` mermaid  
 timeline  
 	section BROHWAR TARİHİ  
 		Unutulmuş Tarih  
