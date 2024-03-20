@@ -26,7 +26,7 @@ Goldrum'un odasında kimse yok, `"Kapayın gözlerinizi, birini çağıracağım
   
 Kubbe şeklinde bir yerdeyiz, yarıçapı 50 metre kadar. Duvarları raflar, rafları kitap dolu. Odanın girişi olabilecek tek şey tavandaki altıgen şeklinde kapı. Biz de altıgen şeklinde bir mermerin üstündeyiz. Yerde teleport çemberi var, zeminin kalanı altın sanıyoruz. Etrafta genel olarak bir büyü aurası var, sular ters akıyor (*ya da biz tersiz?*).  
   
-Önümüzde bir adam var ama kimdir, necidir, hangi ırktandır ~~(please not a dragon)~~ hiçbir fikrimiz yok. Kendisini "Buradaki cücelerin babası [[Praetor Aurelion]]" olarak tanıtıyor ~~(definitely a dragon...)~~. Alıyor eline sazı başlıyor anlatmaya:  
+Önümüzde bir adam var ama kimdir, necidir, hangi ırktandır ~~(please not a dragon)~~ hiçbir fikrimiz yok. Kendisini "Buradaki cücelerin babası [[Aurelion|Praetor Aurelion]]" olarak tanıtıyor ~~(definitely a dragon...)~~. Alıyor eline sazı başlıyor anlatmaya:  
   
 > "Sizi buraya bu şekilde getirdiğim için özür dilerim ama belirli sebeplerle *lair*'imden çıkamıyorum, şu an şehrin altındayız.  
 >   

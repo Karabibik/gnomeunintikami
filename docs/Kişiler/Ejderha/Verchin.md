@@ -1,16 +1,16 @@
-# Vise   
+# Verchin   
   
   
 |  |  |  
 |---|---|  
-| **İsim** | Vise |  
+| **İsim** | Verchin |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
-| **Irk** |  |  
+| **Irk** | Dragon(Gold) |  
 | **Sınıf** |  |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
-| **Karakter Betimi** | Gözünde yara bandı var |  
+| **Karakter Betimi** |  |  
   
   

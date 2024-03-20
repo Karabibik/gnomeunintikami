@@ -10,7 +10,7 @@ tags:
 |---|---|  
 | **İsim** | Taralaine |  
 | **Soyadı** |  |  
-| **Hizip** | [[Bronzheart Battalion]] |  
+| **Hizip** | [[Bronzeheart Battalion]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** | Sorcerer, Warlock (Level 14) |  
@@ -20,6 +20,9 @@ tags:
   
   
 === "Taralaine"  
-	![[Taralaine_portrait.webp]]{ .card }  
+	![[0_Taralaine_portrait.webp]]{ .card }  
+  
+=== "Calamity.webp"  
+	![[Taralaine_Calamity.webp]]{ .card }  
   
 </div>

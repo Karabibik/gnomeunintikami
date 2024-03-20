@@ -1,2 +1,2 @@
   
-Harsus, 617 yılında Dragan tarafından öldürülüyor. Dragan ve takipçileri bu eylemden sonra göz önünde bulunmamaya dikkat gösteriyor. Harsus'a tapanların ilahi güçleri kayboluyor, dualar yerine gelmiyor ve hâliyle takipçileri dağılıyor bir süre sonra.
+[[Harsus]], 617 yılında [[Dragan]] tarafından öldürülüyor. Dragan ve takipçileri bu eylemden sonra göz önünde bulunmamaya dikkat gösteriyor. Harsus'a tapanların ilahi güçleri kayboluyor, dualar yerine gelmiyor ve hâliyle takipçileri dağılıyor bir süre sonra.

@@ -15,4 +15,4 @@ Yine bir çatışmadan sonra handan bozma bir revirde insanları iyileştirmeye 
   
 Valgena savaşın şiddetlendiği bir gün Kolandir'i almış ve topyekün savaş başlayacak demiş. adaleti böyle sağlayacağız, biz savaşacağız kararları altınlar veriyor falan diyor. havada süzülürken tüm elektriği topluyor ve tam inerken humanoid'e dönüşüğ elektriği kolandir'in baltasına aktarıyor. balta ile kolandir bir oluyor. kolandir bir ölüp diriliyor.  
   
-Bir gün morguntrax'ın ininden ayrıldığı haberi geliyor. Sorad'dan önce orayı kapma ümdiiyle bizim ekip askerleri de alarak morguntrax geri dönerse sürpriz parti verme maksadıylaagnon harabelerine yollanıyor.
+Bir gün morguntrax'ın ininden ayrıldığı haberi geliyor. Sorad'dan önce orayı kapma ümidiyle bizim ekip askerleri de alarak morguntrax geri dönerse sürpriz parti verme maksadıyla agnon harabelerine yollanıyor.

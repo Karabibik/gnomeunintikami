@@ -1,3 +1,7 @@
+---  
+tags:  
+  - Macera  
+---  
   
 muzog rensa'ya yürüyor, rensa kısa süreli reddetmiyor ama uzun sürede olmaz  
 muzog kayboluyor yolda, seyircilerin arasında da kayboluyor  

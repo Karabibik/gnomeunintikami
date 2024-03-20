@@ -6,7 +6,7 @@
 |---|---|  
 | **İsim** | Innes |  
 | **Soyadı** |  |  
-| **Hizip** | [[Bronzheart Battalion]] |  
+| **Hizip** | [[Bronzeheart Battalion]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Genasi(Water) |  
 | **Sınıf** | Druid (Circle of Stars) (Level 14) |  
