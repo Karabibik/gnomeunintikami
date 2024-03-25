@@ -22,7 +22,7 @@ tags:
 === "Taralaine"  
 	![[0_Taralaine_portrait.webp]]{ .card }  
   
-=== "Calamity.webp"  
+=== "Calamity"  
 	![[Taralaine_Calamity.webp]]{ .card }  
   
 </div>

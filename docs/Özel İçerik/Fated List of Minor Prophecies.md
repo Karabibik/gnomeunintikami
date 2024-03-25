@@ -2,7 +2,7 @@
 | Achievement                                   | Description                                                     | Holder                        |  
 | --------------------------------------------- | --------------------------------------------------------------- | ----------------------------- |  
 | 'Tis but a Scratch                            | Survive 250 damage in a single combat                           | [Muzog][ach1]                 |  
-| "Life? Where We're Going, We Don't Need Life" | Play more than 40 games per year                                | Party effort [(8/40)][ach7]   |  
+| "Life? Where We're Going, We Don't Need Life" | Play more than 40 games per year                                | Party effort [(10/40)][ach7]  |  
 | Apex Predator                                 | Survive in close combat with 10 different CR10+ creatures       |                               |  
 | Artifact Holder                               | Obtain a legendary item                                         | [Muzog][ach2]                 |  
 | As Prophesied                                 | Be part of a prophecy                                           |                               |  
@@ -29,18 +29,18 @@
 | Spell Savant                                  | Create 5 original spells                                        | Harrion [(3/5)][ach4]         |  
 | Swift Defeat                                  | Get downed in the first round of a fight                        | [Philip][ach5]                |  
 | Torture Tango                                 | Bind a demon eternally                                          |                               |  
-| Waltzing on the Rooftops                      | Learn 5 different teleportation circle runes                    | Harrion [(2/5)][ach3]         |  
+| Waltzing on the Rooftops                      | Learn 5 different teleportation circle runes                    | Harrion [(3/5)][ach3]         |  
 | Wizarding World Tour                          | Visit all major [wizard schools][def1]                          | Harrion (3/4)                 |  
   
 [ach1]: <javascript:void(0)> (Red Wanker combat)  
 [ach2]: <javascript:void(0)> (Kolandir's Echo)  
-[ach3]: <javascript:void(0)> (Warbonter Üniversitesi, Praetor'un evi)  
+[ach3]: <javascript:void(0)> (Warbonter Üniversitesi, Praetor'un Evi, Soradin Çayırları)  
 [ach4]: <javascript:void(0)> (Harrion's Hoops, Harrion's Fallout, Harpoon of the Golden Monarch)  
 [ach5]: <javascript:void(0)> (İlk kırmızı ejderha savaşında)  
 [ach6]: <javascript:void(0)> (Holy Symbol of Ioun)  
-[ach7]: <javascript:void(0)> (5/8/14/21/28 Ocak, 4/14/24 Şubat)  
+[ach7]: <javascript:void(0)> (5/8/14/21/28 Ocak, 4/14/25 Şubat, 5/24 Mart)  
 [def1]: <javascript:void(0)> (Güneş Adaları+, İmparatorluk+, Müttefikler Adası+, Soradin Federasyonu)  
-[def2]: <javascript:void(0)> (Solsitis+, Dragan, Harlaus, Harsus+, Keira/Mellora)  
+[def2]: <javascript:void(0)> (Solsitis+, Dragan, Harlaus+, Harsus, Keira/Mellora)  
 [def3]: <javascript:void(0)> (Barbarian+, Bard+, Cleric+, Druid, Fighter+, Monk+, Paladin+, Ranger+, Rogue+, Sorcerer+, Warlock+, Wizard+)  
 [def4]: <javascript:void(0)> (Elemental Planes (Water, Fire, Air, Earth), Fey Wilds+, Shadowfell, Celestial, Fiendish)  
 [def5]: <javascript:void(0)> (İmparatorluk+, Soradin Federasyonu, Rand Diyarı+, Warseir+, Güneş Adaları+, Kuzey, Büyük Orman, Cüce Krallıkları+)  

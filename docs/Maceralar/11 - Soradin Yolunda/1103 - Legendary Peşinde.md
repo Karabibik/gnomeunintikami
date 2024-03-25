@@ -1,3 +1,7 @@
+---  
+tags:  
+  - Macera  
+---  
 LEVEL 12   
   
 Renee, renata'nın babası, denounce ediyor, eleniyor  

@@ -21,4 +21,4 @@
 </div>  
   
 !!! note "Karakter Notları"  
-	[[Praetor Aurelion]]'un kızı. Ekseriyetle kibar.   
+	[[Aurelion]]'un kızı. Ekseriyetle kibar.   
