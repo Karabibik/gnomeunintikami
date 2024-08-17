@@ -34,4 +34,5 @@ Sıhhiyeler alana gelip iki tarafı da ayağa kaldırıyor. Dört kez ölümden 
   
 Muzog `"Benim bir şeyim yok, ben dövüşürüm!"` dese de Thokk hükmen galip sayılarak turnuvanın kazananı oluyor. Ödülü Thokk alıp köyüne götürüyor ama ölümsüzlük maçının yıllarca Warbonter halkının ağzında olacağı kesin.  
   
+  
 ![[Turnuva_single_2021.svg]]

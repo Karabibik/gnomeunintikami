@@ -5,6 +5,7 @@ Kara Riflax'ın emrindekiler:
 | Bora Kapan       | Kraxenas Dramorn (Krax *"Dayı"*) | Dragonborn | Monk (Drunken Master)   |  
 | Alperen Gürer    | Blork                            | Goblin     | Rogue (Assassin)        |  
 | Berkay Şahinoğlu | Myroh *"Amca"*                   | Human      | Monk (Ascendant Dragon) |  
+  
 - Krax, Augustine Tapınağı'ndan geliyor.  
 - Duyum geliyor, Mercy Kuruburun'da görülmüş  
 - Mercy'nin 3 kill'i var, 3'ü de ancient dragon  

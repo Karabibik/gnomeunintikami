@@ -9,7 +9,7 @@
 | [[Bag of Survival]] | Accessory |  | |
 | [[Boot of Longstrider]] | Clothing | Uncommon<br>(Attunement) | |
 | [[Boots of Spiderclimb]] | Clothing | Uncommon<br>(Attunement) | 250|
-| [[Cape of Wabronter]] | Clothing |  | 2600|
+| [[Cape of Warbonter]] | Clothing |  | 2600|
 | [[Charm Potion]] | Potion |  | 130|
 | [[Cloak of Elvenkind]] | Clothing | Uncommon<br>(Attunement) | |
 | [[Cloak of the Bat]] | Clothing | Rare<br>(Attunement) | |

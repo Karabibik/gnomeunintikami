@@ -5,7 +5,7 @@ tags:
   
 |  |  |  
 |---|---|  
-| **İsim** | Cape of Wabronter|  
+| **İsim** | Cape of Warbonter|  
 | **Okul** | |  
 | **Fiyat** | 2600 gp|  
 | **Rarity** | |  
