@@ -12,9 +12,10 @@
 [[0700 - Altbrück Şeytanları]]  
 [[0800 - Kayıp Elf Kulesi No2]]  
 [[0900 - Canını Almaya Geldim Ryld]]  
-[[1000 - Yet Another Tournament]]  
-[[1100 - Soradin Yolunda]]  
+[[1000 - Turnuva 2021]]  
+[[1100 - Savaşa Hayır]]  
   
 [[A - Ada Yolcuları]]  
 [[B - Kolandir's Prequel]]  
-[[C - Plot Hooks]]
+[[C - FanFinFon]]  
+[[Z - Plot Hooks]]

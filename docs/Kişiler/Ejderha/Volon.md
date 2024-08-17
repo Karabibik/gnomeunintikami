@@ -6,7 +6,7 @@
 | **İsim** | Volon |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** |  |  
+| **Cinsiyet** | Erkek |  
 | **Irk** | Dragon(Bronze) |  
 | **Sınıf** |  |  
 | **Kütük** |  |  

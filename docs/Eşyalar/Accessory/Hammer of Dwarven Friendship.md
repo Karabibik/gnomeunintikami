@@ -16,4 +16,4 @@ tags:
   
   
 !!! note "Notlar"  
-		When holding this weapon, the wielder can understand and speak Dwarven. Inlaid in the hammer itself is a small red gem that emits a faint glow when Dwarven ale is near.   
+	When holding this weapon, the wielder can understand and speak Dwarven. Inlaid in the hammer itself is a small red gem that emits a faint glow when Dwarven ale is near.   

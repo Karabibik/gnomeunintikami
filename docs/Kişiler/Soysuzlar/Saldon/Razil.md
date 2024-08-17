@@ -12,7 +12,7 @@
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Saldon]] |  
-| **Münasebet** | Müttefik |  
+| **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
   
   

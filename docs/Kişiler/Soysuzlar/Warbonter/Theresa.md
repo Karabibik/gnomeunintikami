@@ -1,7 +1,7 @@
 # Theresa   
   
 !!! note inline end "Karakter Notları"  
-	[[Ioun]] kütüphanesi başkanı, rahibe. Ryld'dan memnun değil.     
+	[[Ioun]] kütüphanesi başkanı, master rütbesine sahip rahibe. Ryld'dan memnun değil.     
   
 |  |  |  
 |---|---|  
@@ -10,7 +10,7 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric |  
+| **Sınıf** | Cleric (Level 5+) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  

@@ -1,6 +1,6 @@
 ---
 tags:
-  - the Sharp
+  - Sharp
 ---  
 # Philip   
   
@@ -13,7 +13,7 @@ tags:
 | **Hizip** | [[Gnome'un İntikamı]], [[Evsiz Uşaklar]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Rogue (Assassin) (Level 11) |  
+| **Sınıf** | Rogue (Assassin) (Level 12) |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  

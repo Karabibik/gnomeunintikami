@@ -17,4 +17,4 @@ tags:
   
   
 !!! note "Notlar"  
-		The Robes of Elemental Harmony are a captivating ensemble of blue and red-colored robes adorned with intricate images of lightning bolts and dancing flames. Woven with magical threads, these robes are not only a symbol of arcane mastery but also a conduit for the elemental forces they depict.   
+	The Robes of Elemental Harmony are a captivating ensemble of blue and red-colored robes adorned with intricate images of lightning bolts and dancing flames. Woven with magical threads, these robes are not only a symbol of arcane mastery but also a conduit for the elemental forces they depict.   

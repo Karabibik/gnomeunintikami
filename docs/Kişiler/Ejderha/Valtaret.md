@@ -9,7 +9,7 @@
 | **Cinsiyet** | Dişi |  
 | **Irk** | Dragon(Blue) |  
 | **Sınıf** |  |  
-| **Kütük** |  |  
+| **Kütük** | [[Kiefernstrass]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Bir gözünün çevresi mor-kırmızı |  
   

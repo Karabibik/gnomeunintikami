@@ -1,7 +1,6 @@
 ---
 tags:
   - Hünerli
-  - Handy
 ---  
 # Harrion   
   
@@ -12,9 +11,9 @@ tags:
 | **İsim** | Harrion |  
 | **Soyadı** |  |  
 | **Hizip** | [[Gnome'un İntikamı]] |  
-| **Cinsiyet** | Kadın (ex Dişi) |  
+| **Cinsiyet** | Kadın (ex Erkek) |  
 | **Irk** | Tiefling(exGnome) |  
-| **Sınıf** | Wizard (War Mage) (Level 11) |  
+| **Sınıf** | Wizard (War Mage) (Level 12) |  
 | **Kütük** | [[Warseir]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  

@@ -16,4 +16,4 @@ tags:
   
   
 !!! note "Notlar"  
-		The Thought Amplifier Headband is a subtle marvel of design, woven from a silvery, light gray material with faint, intricate circuit-like lines that shimmer with latent magic. When worn, it subtly enhances the wearer's intellectual prowess.   
+	The Thought Amplifier Headband is a subtle marvel of design, woven from a silvery, light gray material with faint, intricate circuit-like lines that shimmer with latent magic. When worn, it subtly enhances the wearer's intellectual prowess.   

@@ -17,4 +17,4 @@ tags:
   
   
 !!! note "Notlar"  
-		This small, unassuming coin holds ancient magic and carries the whispers of wise counsel. This is a cursed item, holder never wants to let it go. Once per day, the holder can gain advantage on an ability check, saving throw, or attack roll when the action aligns with the greater good or a morally upright choice.   
+	This small, unassuming coin holds ancient magic and carries the whispers of wise counsel. This is a cursed item, holder never wants to let it go. Once per day, the holder can gain advantage on an ability check, saving throw, or attack roll when the action aligns with the greater good or a morally upright choice.   

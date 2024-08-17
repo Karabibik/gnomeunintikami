@@ -16,4 +16,4 @@ tags:
   
   
 !!! note "Notlar"  
-		This fingerless glove covers the entire forearm when worn. Made from a synthetic material resembling silk, the glove is light gray and becomes snug when worn.   
+	This fingerless glove covers the entire forearm when worn. Made from a synthetic material resembling silk, the glove is light gray and becomes snug when worn.   

@@ -28,6 +28,7 @@ mutfağa bağlı bir hizmetçi odası + 1 kiler
 1 misafir odası (3 yatak)  
 6 yatak toplam  
   
+![[Vagabonds_Home.webp]]  
   
   
 15.04.2021  
@@ -36,4 +37,10 @@ alfons, muzog'a hecelemeyi öğretiyor
   
 sorran geliyor yeni eve  
 böyle olayları delador'a haber verin  
-ioun ile solstis arasındaki haberleşmeyi delador koruyor
+ioun ile solstis arasındaki haberleşmeyi delador koruyor  
+  
+  
+  
+  
+  
+  

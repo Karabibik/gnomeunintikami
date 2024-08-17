@@ -9,8 +9,8 @@
 | **Cinsiyet** | Dişi |  
 | **Irk** | Dragon(Silver) |  
 | **Sınıf** |  |  
-| **Kütük** |  |  
-| **Münasebet** | Müttefik |  
+| **Kütük** | [[Saldon]] |  
+| **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
   

@@ -13,7 +13,7 @@ tags:
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric ([[Ioun]]) |  
+| **Sınıf** | Cleric ([[Ioun]]) (Level 20) |  
 | **Kütük** | [[Kiefernstrass]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | İrisleri simsiyah<br>46 yaşında<br>1.70 falan |  

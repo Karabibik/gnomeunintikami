@@ -1,6 +1,6 @@
 ---
 tags:
-  - the Enlightened
+  - Enlightened
 ---  
 # Arannis   
   

@@ -1,7 +1,7 @@
 # Sorran Tamungen  
   
 !!! note inline end "Karakter Notları"  
-	Shadowguard üyesi teğmen.     
+	Shadowguard üyesi teğmen. Gaei. Okçulukta usta.     
   
 |  |  |  
 |---|---|  
@@ -10,9 +10,9 @@
 | **Hizip** | [[Shadowguard]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** |  |  
+| **Sınıf** | Fighter (Level 11) |  
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** |  |  
+| **Karakter Betimi** | 30 yaşlarında<br>Siyah, kısa saçlı<br>Medium armor giyiyor |  
   
   

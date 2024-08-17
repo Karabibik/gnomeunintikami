@@ -6,7 +6,7 @@
 | **İsim** | Verchin |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
-| **Cinsiyet** |  |  
+| **Cinsiyet** | Erkek |  
 | **Irk** | Dragon(Gold) |  
 | **Sınıf** |  |  
 | **Kütük** |  |  

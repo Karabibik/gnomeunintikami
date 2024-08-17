@@ -9,10 +9,10 @@
 | **Soyadı** | [[Valgenoğlu]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
-| **Irk** | Human |  
+| **Irk** | HalfElf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** |  |  
+| **Karakter Betimi** | Ela gözlü, kumral saçlı, güzelcene bir kadın |  
   
   

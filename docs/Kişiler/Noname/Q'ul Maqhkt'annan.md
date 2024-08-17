@@ -19,4 +19,13 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "Qul"  
+	![[0_Qul_portrait.webp]]{ .card }  
+  
+=== "1"  
+	![[Qul_1.webp]]{ .card }  
+  
+=== "2"  
+	![[Qul_2.webp]]{ .card }  
+  
 </div>

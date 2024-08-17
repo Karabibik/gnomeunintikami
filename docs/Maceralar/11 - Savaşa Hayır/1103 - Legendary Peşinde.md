@@ -4,9 +4,6 @@ tags:
 ---  
 LEVEL 12   
   
-Renee, renata'nın babası, denounce ediyor, eleniyor  
-  
-  
 valtenet kuyruğuyla kalem tutmuş not alıyor  
 taralein'in kolyesi nerede belli olabilir  
 harabelerin haritası çok kaba belli, çünkü siyahlar oradaydı 1500  

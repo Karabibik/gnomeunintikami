@@ -10,7 +10,7 @@
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
-| **Kütük** |  |  
+| **Kütük** | [[Kiefernstrass]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   

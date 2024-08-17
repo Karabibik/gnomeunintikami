@@ -14,7 +14,7 @@
 | **Irk** | HalfElf |  
 | **Sınıf** | Monk (Level 5+) |  
 | **Kütük** | [[Müttefikler Adası]] |  
-| **Münasebet** |  |  
+| **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** | Kumrala yakın sarışın<br>Hafif grimsi siyah monk kıyafetleri giyiyor<br>Suratında ters v şeklinde yara var<br>Burnu kırık |  
   
   

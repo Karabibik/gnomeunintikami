@@ -23,4 +23,4 @@ Soradin Federasyonu; güneyinde İmparatorluk’un [[Aedil]] eyaleti, batısınd
 Kıyı şehirlerinde işleyen kapitalist düzen sebebiyle yetenekli kişiler daima iş bulabilirlerken, Federasyon'un merkezinde yer alan Soradin Kenti'nde istisnai durumlar dışında yalnızca ülkenin vatandaşları ve kendini kanıtlamış ailelerin üyeleri görevlendirilir.  
   
 ## Nüfus  
-Bölge, ejderhalar ile iç içe tarihinden dolayı dragonborn ırkının doğum yeridir ve nüfusun yaklaşık %30’u dragonborndur. Soradin Lordu’na hizmet eden Wyvern binicileri ve tamamen dragonbornlardan oluşan Dragonguard, şehrin bayrağı ile birlikte bu ejderhalar mirasının en önemli hatırlatıcılarıdır. 
+Bölge, ejderhalar ile iç içe tarihinden dolayı dragonborn ırkının doğum yeridir ve nüfusun yaklaşık %30’u dragonborndur. Soradin Lordu’na hizmet eden Wyvern binicileri ve tamamen dragonbornlardan oluşan Dragonguard, şehrin bayrağı ile birlikte bu ejderhalar mirasının en önemli hatırlatıcılarıdır.

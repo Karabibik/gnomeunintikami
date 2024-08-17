@@ -14,7 +14,7 @@ tags:
 | **Hizip** | [[Gnome'un İntikamı]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric (Knowledge) ([[Ioun]]) (Level 11) |  
+| **Sınıf** | Cleric (Knowledge) ([[Ioun]]) (Level 12) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti |  
 | **Karakter Betimi** |  |  
@@ -32,4 +32,4 @@ tags:
 </div>  
   
 !!! note "Karakter Notları"  
-	Kaypak herifin teki, that's it. Zamanında Warbonter'de uzun süre üçkâğıtçılık yapmış. Travmaları için bkz: [[00 - Alfons Background]]   
+	Kaypak herifin teki, that's it. Zamanında Warbonter'de uzun süre üçkâğıtçılık yapmış. Travmaları için bkz: [[00 - Alfons Background]].   
