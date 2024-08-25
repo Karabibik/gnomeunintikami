@@ -9,9 +9,3 @@ tags:
 |      ^^Mert Topaloğlu^^      |  ^^Berkay Şahinoğlu^^   |     ^^İlkin Ünal^^      |            ^^Ertuğrul Mola^^            |  
 | [[Kolandir]] *"Bronzeheart"* |        [[Innes]]        |  [[Q'ul Maqhkt'annan]]  | *"Fair Lady of Calamity"* [[Taralaine]] |  
 |      Dragonborn Fighter      |      Genasi Druid       |   Dragonborn Paladin    |              Human Sorlock              |  
-  
-Üyeler:  
-- [[Innes]]  
-- [[Kolandir]]  
-- [[Q'ul Maqhkt'annan]]  
-- [[Taralaine]]
