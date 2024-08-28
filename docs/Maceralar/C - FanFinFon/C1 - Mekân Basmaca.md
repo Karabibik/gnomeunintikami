@@ -5,6 +5,7 @@ Kara Riflax'ın emrindekiler:
 | Alperen | Blork                            | Goblin     | Rogue (Assassin)        |  
 | Berkay  | Myroh *"Amca"*                   | Human      | Monk (Ascendant Dragon) |  
 | Bora    | Kraxenas Dramorn (Krax *"Dayı"*) | Dragonborn | Monk (Drunken Master)   |  
+  
 - Krax, Augustine Tapınağı'nda imiş eskiden.  
   
 Kara Riflax'ın fethettiği yerlerden birinde sabahlıyoruz. O sırada içeri Morad giriyor. Kendisi bir cleric, Sorad'a bağlı ekiplerden. Üstünde, görmemiş gibi, Tiamat sembolü taşıyor. Siyam ikizi gibi çift başlı, biri yeşil biri beyaz. Riflax'ı görmek istediğini söylüyor ama artislik yapa yapa, girebilir misin giremezsin falan salak salak konuşuyor. Riflax'a haber veriyoruz, o da canı sıkkın sıkkın gelsin diyor. `"Kimse rahatsız etmesin."` diye emir geçip bir de büyü atıyor.  

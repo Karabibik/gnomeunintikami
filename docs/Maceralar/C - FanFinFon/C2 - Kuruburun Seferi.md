@@ -9,11 +9,10 @@ Blork yukarıdan ok sıkıyor, Krax ile Myroh da seri stun ile birini kilitlemek
 Muzog'un kafasını kesip kazığa geçiriyorlar orada. Myroh aslında Mercy'nin de bedenini komple kazığa geçirecek ama çok zarar vermeyin dendiği için durduruyor kendini. Akşam olduğu, hâlleri de kalmadığı için handa geceliyorlar. Geceleyin normal, hiçbir özel şey yokken Blork nöbette arkasını bir dönüyor kapüşonlu adamın teki Mercy'nin tepesine eğilmiş bir şey fısıldıyor.   
   
 ```  
-Uyan Caliam uyan uyanmaz oldun,  
+Uyan Calia'm uyan uyanmaz oldun,  
 İki bıçak yarasına dayanmaz oldun  
 ```  
   
 Blork adamın üstüne atlıyor ama içinden geçiyor. Diğerleri kalkıyor, adam yok olmuş. Myroh büyü yapıldığını düşünüp Mercy'nin kafasını parçalıyor. Sonrasında pek bir cacık yaşanmıyor ama, Mercy ayaklanmıyor tekrar mesela. Tedirgin hâlde uyumaya geri dönüyoruz.  
   
-Mercy:   
 ![[Mercy_portrait.webp]]

@@ -2,6 +2,20 @@
 tags:  
   - Macera  
 ---  
+  
+Kolandir-calia arasındaki konuşmanın duyulmaması  
+izleyenlerin ve harrion'ın umutsuzluğu  
+  
+sorad inine ulaşacakken altın bir şey parıldıyor  
+inine girmeye çalışıyor kurtulurum diye  
+sorad kendi taht odasına gidip plane of fire'la birleşecekken  
+kendi boyutlarında bir altın ejderha görüyor, onunla kapışırken ölüyor  
+  
+  
+  
+  
+  
+  
 LEVEL 12   
   
 valtenet kuyruğuyla kalem tutmuş not alıyor  
