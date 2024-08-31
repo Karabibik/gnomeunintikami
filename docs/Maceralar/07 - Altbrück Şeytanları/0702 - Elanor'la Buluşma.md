@@ -22,5 +22,5 @@
 - Bir de küpelerinden bir şey seziyor Harrion  
 - Taşları arıyordu, parça parça olduklarını biliyor  
   
-[^1]:  Sorduklarımızdan öğrendiğimiz kadarıyla. En ufak bir fikrimiz yok doğru mu yanlış mı.  
+[^1]: Sorduklarımızdan öğrendiğimiz kadarıyla. En ufak bir fikrimiz yok doğru mu yanlış mı.  
 [^2]: Alfons'un attığı zihin okuma ile gördükleri

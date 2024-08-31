@@ -30,6 +30,16 @@ mutfağa bağlı bir hizmetçi odası + 1 kiler
   
 ![[Vagabonds_Home.webp]]  
   
+Kitaplar:  
+1. Medeniyet Tarihi  
+2. Tanrıları Tanıyalım  
+3. Kıtanın Hayvanları  
+4. Bitkiler Üzerine  
+5. Otların Gizemli Dünyası  
+  
+6. Solsitis'in Odaklanmış Işığı  
+  
+  
   
 15.04.2021  
   

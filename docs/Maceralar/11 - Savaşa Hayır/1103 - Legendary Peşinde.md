@@ -2,9 +2,13 @@
 tags:  
   - Macera  
 ---  
+kolandir baltasıyla birleşince görüntü renkleniyor  
   
 Kolandir-calia arasındaki konuşmanın duyulmaması  
+  
 izleyenlerin ve harrion'ın umutsuzluğu  
+  
+kolandir ölünce echo'nun son bir kez saldırdığını onun gözünden görüyorlar  
   
 sorad inine ulaşacakken altın bir şey parıldıyor  
 inine girmeye çalışıyor kurtulurum diye  

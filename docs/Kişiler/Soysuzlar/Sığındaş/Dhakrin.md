@@ -1,15 +1,15 @@
 ---
 tags:
-  - Dhakrin
+  - Red Prince Junior
   - Kızıl Wankshi
 ---  
-# Red Prince Junior   
+# Dhakrin   
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Red Prince Junior |  
+| **İsim** | Dhakrin |  
 | **Soyadı** |  |  
 | **Hizip** | [[Cult of the Dragon]] |  
 | **Cinsiyet** | Erkek |  
@@ -19,8 +19,5 @@ tags:
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
   
-  
-=== "Red Prince Junior"  
-	![[Red Prince Junior_portrait.webp]]{ .card }  
   
 </div>

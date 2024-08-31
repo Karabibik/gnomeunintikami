@@ -6,6 +6,6 @@ tags:
 Table of Content  
   
 [[B0 - Valgena'nın Bireyleri]]  
-[[B1 - Agnon Seferi, Gün 1]]  
-[[B2 - Agnon Seferi, Gün 2]]  
-[[B3 - Agnon Seferi, Gün 3]]
+[[B1 - Agnon Seferi, 1. Aşama]]  
+[[B2 - Agnon Seferi, 2. Aşama]]  
+[[B3 - Agnon Seferi, 3. Aşama]]

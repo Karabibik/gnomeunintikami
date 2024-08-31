@@ -46,6 +46,6 @@ Sonra Agnes ile büyücü arasında kedi-fare oyunu başlıyor. Büyücü bir de
 Agnes hâlâ birilerini tutsa büzecek gibi.  
   
 [^1]: Harlaus retcon.  
-[^2]: Neyk?  
+[^2]: Citation needed  
 [^3]: Sonradan öğrendik ki Aasimar imiş. Arela'nın takımından.  
 [^4]: Double nat20

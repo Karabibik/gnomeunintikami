@@ -1,15 +1,11 @@
----
-tags:
-  - Unlucky
----  
-# Salokir   
+# Riflax   
   
 !!! note inline end "Karakter Notları"  
-	Bronzeheart Battalion'ın mahvettiği ancient black dragon. Kesinlikle bir daha dirilmiş hâlde Kolandir'in karşısına çıkıp intikam almaya çalışmayacaktır.     
+	[[Annan]]'ın zihnini kontrol eden ejderha     
   
 |  |  |  
 |---|---|  
-| **İsim** | Salokir |  
+| **İsim** | Riflax |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  

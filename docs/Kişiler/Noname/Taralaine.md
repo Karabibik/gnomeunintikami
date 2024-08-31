@@ -13,7 +13,7 @@ tags:
 | **Hizip** | [[Bronzeheart Battalion]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Sorcerer, Warlock (Level 14) |  
+| **Sınıf** | Sorcerer, Warlock ([[Ioun]]) (Level 14) |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  

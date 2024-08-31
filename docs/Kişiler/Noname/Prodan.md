@@ -1,7 +1,7 @@
 # Prodan   
   
 !!! note inline end "Karakter Notları"  
-	Aurelion'ın Ejderhalar Savaşı sırasındaki artçı birliğinden bir ejderha     
+	Aurelion'ın Ejderhalar Savaşı sırasındaki artçı birliğinden bir cleric     
   
 |  |  |  
 |---|---|  
@@ -9,8 +9,8 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
-| **Irk** | Dragon(Gold) |  
-| **Sınıf** |  |  
+| **Irk** | Dragonborn |  
+| **Sınıf** | Cleric |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  

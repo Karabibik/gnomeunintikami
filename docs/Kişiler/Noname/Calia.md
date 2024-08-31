@@ -17,11 +17,11 @@ tags:
 | **Sınıf** | Sorcerer (Level 20) |  
 | **Kütük** |  |  
 | **Münasebet** | Düşman |  
-| **Karakter Betimi** | Gözünün etrafı siyah<br>Siyah pulları etrafında metalik pullar var |  
+| **Karakter Betimi** | Gözünün etrafı siyah<br>Siyah pulları etrafında platin pullar var<br>Zırhının sırtında Tiamat arması var |  
   
   
 !!! note "Karakter Notları"  
-	Ejderhalar Savaşı sırasında Sorad tarafında olan bir komutan. Dorax adında bir sentient weapon kullanıyor, o da 20 level fighter.  
+	Ejderhalar Savaşı sırasında Sorad tarafında olan bir komutan. Dorax adında bir sentient weapon kullanıyor, o da 20 level fighter. Morguntrax'ın, insanlardan sorumlu sağ kolu.  
 	  
 	***Daughter of Bahamut***  
 	Man cried for his sick child in despair  

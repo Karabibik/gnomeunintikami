@@ -5,7 +5,7 @@ odanın etrafında 5 chromatic line dönüyor
 bir tarafta büyükçe tüneller var, adult dragon tünel kazmış olabilir  
   
 - dakrin (kızıl wankshi'nin sesi) konuşuyor, istilacılara gidiyorum diye  
-- anakor konuşuyor tüm bariyerler indirildi, unutmayın çocuklar, anamız en güçlü olanı sever  
+- anakor konuşuyor tüm bariyerler indirildi, unutmayın çocuklar, anamız güçlü olanı sever  
 - dakrin konuşuyor, 1. levelı kapatın  
   
 (**MORGUNTRAX'I KLATROS ÖLDÜRDÜ)  

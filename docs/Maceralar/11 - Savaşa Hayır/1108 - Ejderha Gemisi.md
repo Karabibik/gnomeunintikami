@@ -36,9 +36,9 @@ ileriden 9 dragon sesi geliyor ama adult yok gibi
 dragonborn lan bunlar düz  
   
 alfons bir el hissediyor  
-	mavi/siyah dragonborn  
-	beyaz/yeşil dragonborn var çift başlı  
-	sarışın human bir gözü mavi/yeşil, genç  
+	mavi/siyah dragonborn erkek  
+	beyaz/yeşil dragonborn var çift başlı erkek  
+	sarışın human bir gözü mavi/yeşil, genç, dişi  
 	15-20kobold  
 dimension door atıp geliyor  
   
