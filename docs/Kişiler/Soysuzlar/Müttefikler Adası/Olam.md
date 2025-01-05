@@ -1,0 +1,18 @@
+# Olam   
+  
+!!! note inline end "Karakter Notları"  
+	Duru görü özelliklerine sahip olduğunu söyleyen bir kadın.     
+  
+|  |  |  
+|---|---|  
+| **İsim** | Olam |  
+| **Soyadı** |  |  
+| **Hizip** |  |  
+| **Cinsiyet** | Dişi |  
+| **Irk** | HalfElf |  
+| **Sınıf** |  |  
+| **Kütük** | [[Müttefikler Adası]] |  
+| **Münasebet** |  |  
+| **Karakter Betimi** | Sarışın, zayıf |  
+  
+  

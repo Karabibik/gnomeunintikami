@@ -6,9 +6,9 @@ tags:
 Gün bitince iki ekip arenanın çıkışında buluşuyor. Muzog, Rensa'ya yürüyor. Dümdüz yürüyor yani. Rensa da doğru düzgün anlatıyor aslında `"Bak kısa süreli bir şeyler istiyorsan sorun yok zaten ama ben soyluyum, uzun vadeli oluru yok bu işin."` diye ama Muzog üzülüyor tabii. Sonra aklına Auramonar geliyor... Bir bakıyor şehirde kaybolmuş, gece biraz geç dönüyor eve.  
   
 Alfons, Mark'a *Sending* atıyor:  
-> Alfons: `"Ryld'ı aldık ama adaya uğramayın, ejderha var."`  
-> Mark: `"Ay inaaaanmıyorooooom!"`  
-> Alfons: `"İnan inan. Hadi sağlıcakla."`  
+> Alfons: "Ryld'ı aldık ama adaya uğramayın, ejderha var."  
+> Mark: "Ay inaaaanmıyorooooom!"  
+> Alfons: "İnan inan. Hadi sağlıcakla."  
   
 ## Kazanan, Gnome'un İntikamı  
   
@@ -30,7 +30,9 @@ Muzog gidiyor pazara, Kolandir'in de yardımıyla, kazandığı paradan 100 gold
   
 Agnes de Philip ile Alfons'u kenara çekiyor. Özellikle Alfons'a uzun vadeli planlarından bahsediyor:  
 > Agnes: "Komple bu ekip Altbrück'e gidelim, orayı ihya edelim birlikte."  
+>   
 > Alfons: "Diğerlerini bilmem ama ben duramam yerimde bu saatten sonra."  
+>   
 > Agnes: "Peki, ben artık senden kendi isteklerin dışında bir şey beklemiyorum o zaman. İstediğin yolda umarım ölmeden aradığını bulursun."  
   
   

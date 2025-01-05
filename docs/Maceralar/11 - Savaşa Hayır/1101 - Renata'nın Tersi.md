@@ -42,17 +42,20 @@ Durumun kırmızı ejderha ile ilişkisi olup olmadığını soruyor ve `"Bildi�
   
 Ki Renata, Harrion'dan kalmasını rica ediyor. Diğerleri kapının ardında gözden kaybolunca Renata da maskesini çıkarıyor. Yüzü, dudağından alnına kadar kırmızı bir doku kaplı, burnu ve gözü dâhil. Sağ gözünün yerinde turuncu bir taş var, sağ kulağı yok. Konuşurken üst dudağı hareket etmiyor. Harrion'ı epey yoruyor. Yok istediğini elde etmek için neler yaparmış, yok her istediğini alabilecek seviyeye geldiğinde neler yapabilirmiş...  
   
-> Harrion: `"İnsanları öldürmek, zor kullanmak değil amacım."`  
-> Renata: `"Savaş büyücüsü olman bunu açıkça gösteriyor."`  
-> Harrion: `"E ne yapayım, keşfetmeye hatta gezmeye gittim her yerde herkes beni öldürmeye çalışıyor! Bildiğiniz gibi bazen başarıyorlar da!" Niye bütün Güneş birliği büyücülerin bir anda güç için insanları öldürmeye başlayacağını varsayıyor anlamıyorum. Siz sokuyorsunuz belki bunu onların kafasına. Ben bu yola onun için çıkmadım. Öyle olsa Delador'un beni durdurmak için bizzat fırsatı çokça oldu."`  
-> Renata: `"Ben sana sahilde ev ayarlarım Harrion, hayatının sonuna kadar mutlu mesut da yaşatırım. Bırak büyü kitabını git. Delador bu konularda... Biraz fazla inançlı olabiliyor."`  
+> Harrion: "İnsanları öldürmek, zor kullanmak değil amacım."  
+>   
+> Renata: "Savaş büyücüsü olman bunu açıkça gösteriyor."  
+>   
+> Harrion: "E ne yapayım, keşfetmeye hatta gezmeye gittim her yerde herkes beni öldürmeye çalışıyor! Bildiğiniz gibi bazen başarıyorlar da! Niye bütün Güneş birliği büyücülerin bir anda güç için insanları öldürmeye başlayacağını varsayıyor anlamıyorum. Siz sokuyorsunuz belki bunu onların kafasına. Ben bu yola onun için çıkmadım. Öyle olsa Delador'un beni durdurmak için bizzat fırsatı çokça oldu."  
+>   
+> Renata: "Ben sana sahilde ev ayarlarım Harrion, hayatının sonuna kadar mutlu mesut da yaşatırım. Yeter ki bırak büyü kitabını git. Delador bu konularda... Biraz fazla inançlı olabiliyor."  
   
 Şeklinde bir konuşma dönüyor aralarında ama Harrion yol hasretini yenemeyeceğini söyleyerek reddediyor teklifini.  
 ## Yetimhane  
   
 O akşam Alfons kütüphaneye gitmek istediğini söylüyor. Döndüğünde bir garip ama sorulara cevap vermiyor, kaçınıyor bir şekilde. Kolunu falan tutuyor.  
   
-Philip, Altbrück'te yetimhane yaptırmaya başlıyor parasıyla. Çocuklara şimdilik bizim köhne evde bakılacak. Buck konuşacak, Agnes de haberdar olaydan. Bankaya 10.02.2021 tarihinde koyduğu 1.000 gold, %5 faiz ile 03.04.2021 tarihinde hiçbir halt olmamış (1102 gp).  
+Philip, Altbrück'te yetimhane yaptırmaya başlıyor parasıyla. Çocuklara şimdilik bizim köhne evde bakılacak. Buck konuşacak, Agnes de haberdar olaydan. Bankaya 10.02.2021 tarihinde koyduğu 1.000 gold, %5 faiz ile 03.04.2021 tarihinde pek bir halt olmamış (1102 gp).  
   
 *Statement of the day:*  
 ```  

@@ -1,0 +1,5 @@
+dhakrin'in çantadan:  
+	1 tane pouch, baya ufak ama açılmıyor, magically sealed, attuned by forks  
+	  
+bronz dragonborn'dan:  
+	bir ufak çanta, magically sealed, hiçbir şey yazmıyor üstünde

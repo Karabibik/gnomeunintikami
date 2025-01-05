@@ -16,7 +16,10 @@
   
   
 === "Thalassar"  
-	![[Thalassar_portrait.webp]]{ .card }  
+	![[0_Thalassar_portrait.webp]]{ .card }  
+  
+=== "Art"  
+	![[1_Thalassar_Art.webp]]{ .card }  
   
 === "Showcase"  
 	![[Thalassar_Showcase.webp]]{ .card }  

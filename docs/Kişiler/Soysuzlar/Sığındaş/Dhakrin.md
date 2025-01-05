@@ -20,4 +20,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "Dhakrin"  
+	![[Dhakrin_portrait.webp]]{ .card }  
+  
 </div>

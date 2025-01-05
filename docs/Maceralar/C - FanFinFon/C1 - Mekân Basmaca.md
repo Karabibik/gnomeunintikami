@@ -1,3 +1,7 @@
+---  
+tags:  
+  - Macera  
+---  
 Kara Riflax'ın emrindekiler:  
   
 | Oyuncu  | Karakter                         | Irk        | Sınıf                   |  

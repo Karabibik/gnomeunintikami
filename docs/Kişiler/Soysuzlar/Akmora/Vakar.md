@@ -10,7 +10,7 @@ tags:
 |---|---|  
 | **İsim** | Vakar |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Shadowguard]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
@@ -34,4 +34,4 @@ tags:
 </div>  
   
 !!! note "Karakter Notları"  
-	130 yaşında   
+	130 yaşında, eski Shadowguard kaptanı   

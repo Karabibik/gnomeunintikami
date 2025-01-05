@@ -4,8 +4,7 @@ tags:
 ---  
 # Aurelion   
   
-!!! note inline end "Karakter Notları"  
-	Altın ejderha. Aurum klanının atası.     
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +19,10 @@ tags:
 | **Karakter Betimi** | Vücut yapısı cüce ve insan arası<br>Düz, iyi bakımlı, bembeyaz sakalları var<br>Yaşlı ama frail değil<br>Kulaklar çok hafif çekik ama elf değil<br>Kıyafetleri altın rengi |  
   
   
+=== "Aurelion"  
+	![[Aurelion_portrait.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Altın ejderha. Aurum klanının atası.   
