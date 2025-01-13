@@ -19,7 +19,7 @@ Biri gıcıklık yapıyor, Vakal kapıyı açıp çıkıyor. Adamı tek eliyle t
 Muzog gidip Vakal'ın boynuna atlıyor, telepatiyle konuşup anlaşıyorlar. Arka odaya geçelim diyor.  
   
 İçeride Rustov var, kokteyl hazırlıyor. Hepimize, hikâyemize uygun birer içecek veriyor. Soru v soru işini biraz esnetebiliriz diyor.   
-  
+
 - Vakal, Muzog ile ayrıldıktan bir süre sonra tanışmış Rustovlar ile.  
 - Hançerin kendisi zarar vermiyor. Sadece hem ruhu hem de bedeni aynı anda yok edebilen bir maddeyle kaplı.  
 - o.ç., Calimeshin Talavotti adında eski bir Ioun priest'iymiş. Ioun'a saçma sapan şeylerle iman etmiş. 45 sene daha yatarı var.  
@@ -28,10 +28,12 @@ Muzog gidip Vakal'ın boynuna atlıyor, telepatiyle konuşup anlaşıyorlar. Ark
   
   
 Bizi alıp bir kapaktan aşağı indiriyor  
+
 - Aşağı inen spiral bir merdiven var  
 - Alfons, Harrion, Philip normal inerken Muzog düşüyor  
   
 Sonra altıgen biçimli bir binaya yönleniyoruz  
+
 - Bir kenarı altı metre falan  
 - İçi kat kat  
 - Her katta kitaplar, sandıklar ve deney tüpleri var  
@@ -45,6 +47,7 @@ Burası bir çalışma yeri gibi. Baş öğretmen Rustov, sonra bethany - tamara
 Bunu öğrenen Harrion, kitaplardan birini çekiyor "Singularity: the Definitive Edition" bulmayı umarak. Rustov araya giriyor. O olmasa etrafındaki kara duman Harrion'ı boğacak gibi. Neyse kurtuluyor ama.  
   
 Muzog kitap okumak istiyor ama beceremiyor resimli de olsa. Vakal'a gidiyor öğretsin diye ama o da öğretemiyor kitaptan. En son "gel sana anladığın dilden anlatayım" diyor ve dövüşe tutuşuyorlar godzilla vs kong gibi.  
+
 - Vakal, Muzog'un kafasına kitap sokmaya çalışıyor ama Muzog'un aklı almıyor  
 - Neyse sonunda zar tutuyor da iki judo hareketi ve kavgada azıcık beyninni kullanmayı da öğreniyor  
   

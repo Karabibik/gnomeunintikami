@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Arken |  
 | **Soyadı** | [[Amakiir]] |  
-| **Hizip** | [[Ada Yolcuları]] |  
+| **Hizip** | [[Ada Yolcuları]], [[Kara Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | WoodElf |  
 | **Sınıf** | Rogue (Level 5) |  

@@ -8,6 +8,7 @@ Ormandaki azınlıkların kurduğu bir topluluk. İçinde half orc, halfling, el
 Civardaki ork tecavüzlerinden dolayı epeyce half orc var  
   
 Kabilenin başı (şef) kurt totemi oluyor hep, şu an [[Ghokk]]  
+
 - Birinci derece yakını şefin emrine uymak zorunda değil  
   
 Büyük iki kabile hâlinde toplanılmış druidler ve diğer azınlıklar  

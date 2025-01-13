@@ -5,7 +5,7 @@ tags:
   
 Manastırdan ayrılıp Forgunntal'a doğru yola çıkıyoruz. Yol genellikle olaysız geçiyor. Şehre girmeye yakın birini görüyor Arken, onun gibi bir elfe benziyor ama ne konuştukları hakkında çok bir şey çaktırmıyor. `"Elara ile konuş, sana bir şeyler gelmiş olabilir."` demiş kadın. Kendisi bir elf temsilcisiymiş. Hatta Ruby de tanıyor, çocukken bir kez Forgunntal'a geldiğinde standlardan birinden elma aşırırken yakalanmasını engellemiş.  
   
-Kyrillus şehirde Corellion tapınağı var mı diye sorduruyor. Tapınak arıyormuş.  
+Kyrillus şehirde Corellon tapınağı var mı diye sorduruyor. Tapınak arıyormuş.  
   
 Geceyi bir handa geçirip sabah araştırma yapmayı kararlaştırıyoruz. Amanite aslında handan haz etmiyor, açık havada uyumak istiyor ama sohbet etmeye çalıştığı ördekler ekmek isteyerek kovalıyor kendisini.  
   

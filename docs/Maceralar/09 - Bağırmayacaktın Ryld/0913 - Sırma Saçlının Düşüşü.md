@@ -26,7 +26,7 @@ GULLANIR SARI TOPU
 CHANNELLAR ARCANUMU  
 IOUN'UN TAKİPÇİSİ  
 DİRİLTİR HARRION'U  
-  
+
 - Muzog Şatıroğlu  
 ```  
   

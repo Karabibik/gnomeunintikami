@@ -15,7 +15,7 @@ tags:
 | **Irk** | Halfling |  
 | **Sınıf** | Barbarian (Level 5) |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
-| **Münasebet** | Parti - Eski |  
+| **Münasebet** | Parti Üyesi - Eski |  
 | **Karakter Betimi** | Teni kırmızı, kıllar kırmızı |  
   
   

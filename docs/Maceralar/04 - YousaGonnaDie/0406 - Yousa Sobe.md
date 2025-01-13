@@ -4,6 +4,7 @@
 En son Yousa'yı sobeliyoruz tabii (Uliza söylüyor?)[^1]. [[Warbonter]]'in doğusundaki harabelerin orada olacakmış gece. Yanımızda [[Lucian]] ve [[Saubia]] ile yola çıkıyoruz.  
   
 Epey sıkıntılı bir dövüşün ardından geberip gidiyor piç kurusu. Özetle:  
+
 - Philip aynayı devre dışı bırakıyor  
 - İkizler *Slow* atıp yavaşlatıyor  
 - Yousa `"Yeter lan"` diyip Alfons'u boynundan tutup kaldırıyor  

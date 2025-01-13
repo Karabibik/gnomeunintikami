@@ -6,7 +6,7 @@ tags:
 [[Ioun]]'un en üst rütbeli takipçilerinin oluşturduğu özel ekip  
   
 Üyeler:  
-  
+
 - [[Bethany]]  
 - [[Rustov]]  
 - [[Tamara]]  

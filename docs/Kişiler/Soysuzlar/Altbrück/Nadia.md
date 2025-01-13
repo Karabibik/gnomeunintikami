@@ -11,7 +11,7 @@
 | **Irk** |  |  
 | **Sınıf** | Monk |  
 | **Kütük** | [[Altbrück]] |  
-| **Münasebet** | Parti - Eski |  
+| **Münasebet** | Parti Üyesi - Eski |  
 | **Karakter Betimi** |  |  
   
   

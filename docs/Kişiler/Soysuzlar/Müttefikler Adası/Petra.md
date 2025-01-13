@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Petra |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Kara Yolcuları]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Kitap |  
 | **Sınıf** |  |  

@@ -16,7 +16,7 @@ tags:
 | **Irk** | Human |  
 | **Sınıf** | Cleric (Knowledge) ([[Ioun]]) (Level 12) |  
 | **Kütük** | [[Warbonter]] |  
-| **Münasebet** | Parti |  
+| **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** |  |  
   
   

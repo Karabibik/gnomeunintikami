@@ -4,6 +4,7 @@
 Philip, [[Elva]] ve Harrion içeri atlıyor  
   
 Elva içeri girince bir garipleşiyor  
+
 - Gözleri mavi/yeşil iken turuncu oluyor  
 - Bir de fazlaca kibarlaşıyor  
 	  
@@ -14,6 +15,7 @@ Elva dönüşüm geçirdikten sonra diyor ki:
 > - Materyal plane'de oldu saldırı  
   
 Eline/taşa dokununca dünyanın köklerine giden bir ağaç gördüm (reenkarnasyon)  
+
 - bazıları tanıdık, çok fazla orman var  
 - bazı savaş alanları  
 - birbirlerine yardım etmeye çalışıyorlar  
@@ -25,6 +27,7 @@ Harrion time dilation'ı fark edip not tutmaya başlıyor.[^1]
 Philip etraftan ot topluyor lazım olur diye.  
   
 Kuzeybatıda ağaçların arasında hareket eden bir şeyler var, siyah büyük bir şeyler  
+
 - Bize doğru geliyor gibiler  
 - At boyutlarında, panter tarzı bir şey  
   
@@ -32,6 +35,7 @@ Celeste'ye haber verip ortadaki alana doğru gidiyoruz. Ortada biri küçük bir
 > "Bu kokuları tanıyorum"  
   
 Ejderhanın sağ gözünde derin bir kesik var. Yavruyken çarpıştığımız ejderha. Başta biraz anlaşmaya çalışıyoruz ama Harrion köşeye sıkışınca şimşeği basıyor. Combat ensues:  
+
 - Ejderha lair actionlarını kullanıp ortalığı cehenneme çeviriyor  
 - Harrion yatıp yatıp diriliyor  
 - Elva tekrar taşa dokunup super saiyan'a dönüşüyor ve o da lair action kullanmaya başlıyor.  
@@ -39,6 +43,7 @@ Ejderhanın sağ gözünde derin bir kesik var. Yavruyken çarpıştığımız e
 - `"Beam us up, Elva"` diyoruz, komple adayı ışınlıyor  
   
 Elva'ya bir daha dokunduğumda elinde taş varken  
+
 - Düzlükler alabildiğine cesetle kaplı  
 - Binalar var yıkılmış taş, ahşap yanıyor  
 - Karşımda siyah zırhlı biri var, elindeki kılıcı saplıyor bana  

@@ -10,6 +10,7 @@ tags:
 **Parşömen 2**: Bu bir mektup; Zarathia'dan, 8 ay önce yazılmış. `"Araştırman umurumda değil ama para varsa biz de varız."` diyor.  
   
 Bu sırada Ruby, Zarathia'nın yazısı olan birkaç şey daha buluyor:  
+
 - Bir harita var, combat yaşanan yerin doğusunda izlerin götürdüğü yer işaretli.  
 - Bir de iliştirilmiş mektup var, `"Burada buluşacağız."` yazıyor.  
   
@@ -22,6 +23,7 @@ Zarathia ile Timlon'a da *Scry* atıyor ama göremiyor, Zarathia etrafında çal
 Lyra, yanımıza birini çağırıyor "[[Dranor]]" adında. Sarışın, soylu görünen bir half elf. Lyra'nın güvendiği izci/kâşiflerden biriymiş. Ertesi sabah hemen yola çıkmak üzere yatmağa gidiyoruz ama Amanite ormandan bu kadar uzak kalmanın stresiyle ayrılıyor ekipten. Kalanlar, Lyra'nın onlara hazırladığı iksirlerle yola çıkıyor.  
   
 Pre-loot:  
-4x HP potion  
-1x içimi zor gibi duran yarım litre sıvı, 1 saat 23 STR, stone giant strength -> Kyrillus  
-1x wand of healing, 1/day 2lvl healing touch -> Thurmog
+
+- 4x HP potion  
+- 1x içimi zor gibi duran yarım litre sıvı, 1 saat 23 STR, stone giant strength -> Kyrillus  
+- 1x wand of healing, 1/day 2lvl healing touch -> Thurmog

@@ -43,6 +43,7 @@ Sonrasında Harrion'ı kenara çekip `"Ben ölürsem bile balta adada yalnız ka
 ## The Red Wanker  
   
 Ertesi sabah Celeste'den gelen bilgiler şöyle:  
+
 - Ryld 6 saat kadar kuzeyimizde ve yola devam ediyor (nice).  
 - Kayıtlara göre adada Ranacor adında bir *Ancient Green Dragon* var (not nice).  
 - `"Kızıl Şeytan ne ya?"`  
@@ -50,7 +51,7 @@ Ertesi sabah Celeste'den gelen bilgiler şöyle:
 - High level spellcaster'a dair bir kayıt yok.  
   
 Madem Ryld dönmüyor biz onu yakalarız diye yola koyuluyoruz nehri izleyerek. Arkada bir yerden `"N'olur Şeytan gelsin."` diye bir ses geliyor yürürken. Grup açıklık bir alana gelince görüyor ki etrafta devasa örümcekler var ama zerre hareket etmiyorlar. Kaptan diyor ki `"Bu örümcekler Kızıl Şeytan'ı rahatsız etmemek için hareket etmez ve sadece onun artıklarını yermiş."` O sırada uzaktan bir ses... Harrion, Alfons ile kendisine *Fly* basıyor ve uçup ileriyi gözetliyor. Dört metrelik Kızıl Şeytan bir çıkıyor ortaya, zıplıyor, Harrion'ı bacağından tutup yere çalıyor. **FIGHT!**  
-  
+
 - Harrion aralarına *Wall of Force* çekip ölmekten kurtuluyor ve tur kazanıyor.  
 - Sinirlenip Kızıl Şeytan'a dalan Muzog darbe üstüne darbe yiyor, oradan oraya savruluyor ama yıkılmıyor.  
 - Philip ağaçlardan takır takır ok saydırıyor. Bir noktada yakalanıyor ama ölmeden kaçmayı başarıyor.  
@@ -69,6 +70,7 @@ Madem Ryld dönmüyor biz onu yakalarız diye yola koyuluyoruz nehri izleyerek. 
 	- Philip: Afraid, ölmeye 1 hit  
 	- Alfons: Down  
 	- Harrion: Down  
+
 - Muzog korkusunu yeniyor ve kalan son gücüyle kükreyip canavarın üstüne atlıyor. **THAT'S A MOTHERFUCKING CRIT!**  
   
 Muzog `"Siktim ananı kızıl şeytan"` diyerek baltayı hayvanın omzuna geçirdiği gibi kendini yukarı çekiyor ve hayvanın kafasına erişiyor. İki koluyla hayvanın çenesini açıp içeriye alev kusarak yaratığı içeriden yakıyor. Tüm bunlar olurken Muzog'un baltasını belli belirsiz bir Dragonborn figürü eline alıp hayvanın beyin sapına geçiriyor ve Kızıl Şeytan devriliyor.  

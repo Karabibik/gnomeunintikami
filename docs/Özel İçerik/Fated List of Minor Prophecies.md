@@ -2,7 +2,7 @@
 | Achievement                                   | Description                                                     | Holder                        |  
 | --------------------------------------------- | --------------------------------------------------------------- | ----------------------------- |  
 | 'Tis but a Scratch                            | Survive 250 damage in a single combat                           | [Muzog][ach1]                 |  
-| "Life? Where We're Going, We Don't Need Life" | Play more than 40 games per year                                | Party effort [(17/40)][ach7]  |  
+| "Life? Where We're Going, We Don't Need Life" | Play more than 40 games per year                                | Party effort [(21/40)][ach7]  |  
 | Apex Predator                                 | Survive in close combat with 10 different CR10+ creatures       |                               |  
 | Artifact Holder                               | Obtain a legendary item                                         | [Muzog][ach2]                 |  
 | As Prophesied                                 | Be part of a prophecy                                           |                               |  
@@ -38,7 +38,7 @@
 [ach4]: <javascript:void(0)> (Harrion's Hoops, Harrion's Fallout, Harpoon of the Golden Monarch)  
 [ach5]: <javascript:void(0)> (İlk kırmızı ejderha savaşında)  
 [ach6]: <javascript:void(0)> (Holy Symbol of Ioun)  
-[ach7]: <javascript:void(0)> (5/8/14/21/28 Ocak, 4/14/25 Şubat, 5/24 Mart, 2 Nisan, 1/13 Mayıs, 29 Haziran, 20/27/28 Temmuz, 4 Ağustos)  
+[ach7]: <javascript:void(0)> (5/8/14/21/28 Ocak, 4/14/25 Şubat, 5/24 Mart, 2 Nisan, 1/13 Mayıs, 29 Haziran, 20/27/28 Temmuz, 4 Ağustos, 5/26 Ekim, 20 Kasım)  
 [def1]: <javascript:void(0)> (Güneş Adaları+, İmparatorluk+, Müttefikler Adası+, Soradin Federasyonu)  
 [def2]: <javascript:void(0)> (Solsitis+, Dragan, Harlaus+, Harsus, Keira/Mellora)  
 [def3]: <javascript:void(0)> (Barbarian+, Bard+, Cleric+, Druid, Fighter+, Monk+, Paladin+, Ranger+, Rogue+, Sorcerer+, Warlock+, Wizard+)  

@@ -1,11 +1,11 @@
-# Corellion   
+# Corellon   
   
 !!! note inline end "Karakter Notları"  
 	Ana elf tanrısı     
   
 |  |  |  
 |---|---|  
-| **İsim** | Corellion |  
+| **İsim** | Corellon |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  

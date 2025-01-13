@@ -15,7 +15,7 @@ tags:
 | **Irk** | Tiefling(exGnome) |  
 | **Sınıf** | Wizard (War Mage) (Level 12) |  
 | **Kütük** | [[Warseir]] |  
-| **Münasebet** | Parti |  
+| **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** |  |  
   
   
@@ -30,6 +30,9 @@ tags:
   
 === "Art2"  
 	![[Harrion_Art2.webp]]{ .card }  
+  
+=== "Art3"  
+	![[Harrion_Art3.webp]]{ .card }  
   
 </div>  
   

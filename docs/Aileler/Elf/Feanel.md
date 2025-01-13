@@ -14,5 +14,6 @@ Once every 'forest year' (an arbitrary measure of time roughly translating to 15
 Their leader (called Matriarch by other elven clans) is an ancient druid known as 'The Many of One.' She is a cryptic figure, seemingly no different from her brethren but rumoured to be a holder of ancient secrets and immense power. It is unknown if she has a more 'real name.' Since she probably never ventured outside the Great Forest, knowledge about this important figure is very scarce.  
   
 Bilinen üyeleri:  
+
 - [[Lareth]]  
 - [[The Many of One]]

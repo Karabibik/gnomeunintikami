@@ -5,6 +5,7 @@ alfons dispel magic atıyor ortadaki tümöre, ışıkları sönüyor
 read mind da atıyor adama  
   
 Sorular yöneltiyoruz:  
+
 - Cultist de diyebilirsiniz bana  
 - Ejderhayı öldürmek istiyorum  
 - Kolandir'e adıyla sesleniyor  
@@ -28,6 +29,7 @@ combat başlıyor, get down president'ı kaçırıyor bodyguard
 anakor "SEAL THE GATES" diyip tümöre dalıyor  
   
   
+
 --------------  
 05.10.2024  
   

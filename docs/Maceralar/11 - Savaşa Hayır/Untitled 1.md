@@ -44,4 +44,6 @@ harrion mora firebolt atıyor, yarım yiyor
 wall of force atıyor harrion  
 kolandir eko çıkarıp vuruyor diğerlerinden birine  
 alfons confusion atıyor  
-philip ok atıyor birine
+philip ok atıyor birine  
+  
+![[Cult_Maze.webp]]

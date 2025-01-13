@@ -1,13 +1,13 @@
 # Kyrillus   
   
 !!! note inline end "Karakter Notları"  
-	Corellion tapınağı arıyor adada.     
+	Corellon tapınağı arıyor adada.     
   
 |  |  |  
 |---|---|  
 | **İsim** | Kyrillus |  
 | **Soyadı** |  |  
-| **Hizip** | [[Ada Yolcuları]] |  
+| **Hizip** | [[Ada Yolcuları]], [[Kara Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** | Paladin (Oath of Vengeance) (Level 5) |  

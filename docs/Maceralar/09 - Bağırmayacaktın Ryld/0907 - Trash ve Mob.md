@@ -4,6 +4,7 @@
 Şehri gözleyip biraz daha bilgi almak amacıyla şehre yaklaşmaya çalışıyoruz ama her zamanki gibi Harrion ve Alfons beceremiyor sızma işini. İki tane muhafızla karşılaşıyoruz, biri Trash biri Mob. Trash'i öldürüp Mob'u kaçırıyoruz konuşturmak için.  
   
 Mob'un dediğine göre:  
+
 - Kendisinin de dâhil olduğu tarafın lideri Mark.  
 - Mark da dışarıdan gelmiş zamanında ama sözü dinlenen biri olmuş.  
 - Ryld'lar 3-4 ay önce gelmiş, gemiye binip gitmişler. Sonra Boswan ile Osha geri gelmiş.  
@@ -24,6 +25,7 @@ Eskiden Warbonter'de bulunduğu ve muhtemelen asker olduğuyla ilgili bir intiba
 Mark, Boswan'ın mekânına girince önce boğazına kılıç dayanıyor ama sonra iknâ edip ve odadan diğer herkesi çıkarıp Boswan'la konuşmaya başlıyoruz. Mark bizim sözlerimizi filtreden geçiriyor ona aktarırken. (*Telepati + Scry* ile konuşabiliyoruz zira)  
   
 Öğrendiklerimiz:  
+
 - Kaçtıktan sonra Ryld delirmiş  
 - Muhtemelen elindeki eşya lanetli  
 - Eşya camekanlı bir kafesteki kuş tüyü ama rünlü (anti-divination sağlıyor)  

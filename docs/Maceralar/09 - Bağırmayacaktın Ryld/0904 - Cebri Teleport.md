@@ -3,7 +3,7 @@
   
 ## Festival  
 Şehre girdiğimizde etrafta kalabalık toplandığını görüyoruz. Sorup soruşturunca öğreniyoruz ki:  
-  
+
 - Moradin'in cücelere can verişini kutladıkları cüce yeni yılı gibi bir şey var. Bizim takvimde 6. ay gibi.  
 - Ertesi gün kazı yarışması var, en uzun tüneli eliyle büyü kullanmadan açan kazanıyor. İki şampiyon var: [[Urmgrul]] ve [[Vaigar]].  
   

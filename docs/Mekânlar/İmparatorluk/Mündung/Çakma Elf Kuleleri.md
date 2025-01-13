@@ -10,6 +10,7 @@ tags:
 Aynı zamanda deniz feneri olarak da çalışıyor  
 Kral ile kraliçe burada kalıyor  
 Köşesinde [[Mellora]] tapınağı var  
+
 - Dışında elf olmayanlar tapınıyor, içinde elfler  
 - Balıkçılar falan da tapınıyor  
 - Ana tapınak burası  

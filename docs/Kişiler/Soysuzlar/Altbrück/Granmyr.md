@@ -12,7 +12,7 @@
 | **Irk** | Dwarf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Altbrück]] |  
-| **Münasebet** | Parti - Eski |  
+| **Münasebet** | Parti Üyesi - Eski |  
 | **Karakter Betimi** |  |  
   
   

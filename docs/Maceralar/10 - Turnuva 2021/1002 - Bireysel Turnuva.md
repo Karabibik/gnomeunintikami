@@ -4,7 +4,7 @@ tags:
 ---  
   
 Solo turnuva başlıyor, ilk turlar baya baya çerezlik. Alfons da Muzog da karşılarına gelenleri ezip geçiyor.  
-  
+
 - Alfons - Herwagen: Alfons tek bir *Guiding Bolt* ile kazanıyor maçı.  
 - Muzog - Maibaum: Maibaum mızrağına güveniyor reach konusunda ama Muzog kaskına bir indiriyor, pert.  
 - Alfons - Wenzel: Duel of the faiths yaşanıyor, anlıyoruz ki Alfons çok daha yobaz.  

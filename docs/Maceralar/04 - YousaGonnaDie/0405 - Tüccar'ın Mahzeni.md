@@ -8,9 +8,10 @@
 O sırada Alfons yerde Holy Symbol'ını fark ediyor, [[Ioun]] bize görünüyor (ve level up!).  
   
 ## Loot  
-  
+
 - Bütçe raporu  
 	- Mahzen [[Immortal Merchant]]'ınmış   
+
 - Kase, içi çeşitli renkli gemlerle dolu  
 	- 1x 100gp diamond  
 	- 1x 150gp diamond  

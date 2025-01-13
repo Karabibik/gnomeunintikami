@@ -17,5 +17,6 @@ Tanışma faslından sonra dragonborn'un adının [[Muzog]] olduğunu, aslında 
 1) Adada bulunan ganimetin dörtte biri Muzog Valgenoğlu'na ait olacak.  
 2) Muzog Valgenoğlu'nun burada ölmesi hâlinde, üzerindeki her şey  
    Valgenoğlu Potion'a teslim edilecek.  
+
 -- Vallioun Billioun  
 ```

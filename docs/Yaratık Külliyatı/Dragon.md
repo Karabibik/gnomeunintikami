@@ -11,7 +11,7 @@ Ejderhaların, materyal düzlemde bir zamanlar tanrılarla birlikte yürüdüğ�
 **Renkli**: *Kırmızı - Siyah - Mavi - Yeşil - Beyaz*  
   
 Tüm ejderhaların birkaç ortak özelliği ise şöyle sıralanabilir:  
-  
+
 - Doğuştan büyü kullanabilme yeteneğine sahip, büyülü yaratıklar.  
 - Ergenlikten itibaren in yapma dürtüsüne sahipler. Büyülü yaratıklar olduklarından dolayı inleri ile özel bir bağları var ve yaşadıkları bölgelere özel etkiler oluşturuyorlar.  
 - Her biri kendi elementine bağışıklı ve elemente göre şekil alan büyülü nefesleri var.  

@@ -16,6 +16,7 @@ Due to their distinct way of life, members of this clan are highly sought-after 
 The leadership of this clan remains shrouded in mystery, even to other elves. Whispers of a millennia-old 'Forgotten Matriarch' circulate occasionally, but if such a figure exists, only high-ranking members of the clan are privy to her presence.  
   
 Bilinen üyeleri:  
+
 - [[Arken]]  
 - [[Elara]]  
 - [[Elva]]  

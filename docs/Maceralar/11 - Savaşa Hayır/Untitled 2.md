@@ -44,4 +44,16 @@ odaya giriyor, o yasak odaya doğru duvardan delik açacak şekilde bull rush at
 ANİME FİGHT YAŞANACAK (karanlık kaplıyor orayı, echo görüyor)  
 GET THE FUCK OUT OF HERE  
 kapının önünde clean-cut 20-30 tane ceset var  
-bullrush atmadan önce kasları besleyen magical bir güç var (red wanker gibi)
+bullrush atmadan önce kasları besleyen magical bir güç var (red wanker gibi)  
+  
+  
+=== "Mor"  
+	![[Cultist_Purple.webp]]  
+=== "Gri"  
+	![[Cultist_Gray.webp]]  
+=== "Turuncu"  
+	![[Cultist_Orange.webp]]  
+=== "Sarı"  
+	![[Cultist_Yellow.webp]]  
+=== "Kahverengi"  
+	![[Cultist_Brown.webp]]

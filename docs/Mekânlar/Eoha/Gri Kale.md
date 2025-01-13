@@ -4,7 +4,7 @@ tags:
 ---  
   
 [[Lawless Lands]] sınırında bir yapı.  
-  
+
 - Eoha tarafından, Harabeler Çölü'nü sınırlamak için yapıldığı tahmin ediliyor.  
 - Ne zaman yapıldığı bilinmiyor, zamanla eskitilemiyor, yapıya zarar verilemiyor.  
 - Büyü akışını %100 engelleyen bir yapısı var, içi dışı birbirini etkileyemiyor.  

@@ -15,7 +15,7 @@ tags:
 | **Irk** | Human |  
 | **Sınıf** | Rogue (Assassin) (Level 12) |  
 | **Kütük** | [[Altbrück]] |  
-| **Münasebet** | Parti |  
+| **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** |  |  
   
   

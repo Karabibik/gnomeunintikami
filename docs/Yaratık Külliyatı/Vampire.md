@@ -17,14 +17,14 @@ Doğrudan bir vampir görüp savaşmış, sonrasında tecrübelerini aktarma fı
 Bu tam vampirler, kurbanlarını ısırmak suretiyle onları da öldükten sonra vampir dölüne çevirmek gibi bir kabiliyete sahip. Vampir olmaları, irsi ve önceden edindikleri beceriler ile bilgileri kaybetmelerine sebep olmuyor. Yani her vampirin çok daha farklı özellikleri de olabilir.  
   
 Vampirliğin getirdiği avantajlar azımsanacak gibi değil. Bkz:  
-  
+
 - Sıradan silahlar çok zarar veremiyor, büyüler daha mantıklı.  
 - Kendini yenileyebiliyor. Az az vurmak işe yaramıyor.  
 - Duvarlara tırmanabiliyor. Bu şekilde hem kaçış hem de pozisyon avantajı elde edebiliyor.  
 - En kötü durumda, kaçabilmek için doğrudan yarasaya dönüşme şansı var.  
   
 İyi de bu köpek dişlilerin hiç mi zayıflığı yok? Var, hazırlıklar da bu odaklarda yapılmalı.  
-  
+
 - Yenilenme güçlerini bozabilen iki şey var: nur hasarı ve kutsal su.  
 - Güneşe dayanamıyor, hasar alıyorlar.  
 - Herhangi bir meskene, içeriden birinin izni olmadan giremiyorlar.  

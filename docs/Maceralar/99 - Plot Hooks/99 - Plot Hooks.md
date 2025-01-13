@@ -21,12 +21,13 @@ Korsan aktivitesinde artış var.
 ## After 08  
 ### One Spell to Find Them All  
 Tüm major plane'lerden bir parça gerekiyor:  
-  
+
 - Plane of  
 	- [ ] Water[^4]  
 	- [ ] Fire[^3]  
 	- [ ] Air  
 	- [x] Earth[^2]  
+
 - [x] [[Fey Wilds]][^1]  
 - [ ] [[Shadowfell]]  
 - [x] Celestial[^6]  

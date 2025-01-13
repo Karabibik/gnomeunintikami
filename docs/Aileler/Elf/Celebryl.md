@@ -10,6 +10,7 @@ The clan is defined by its undying loyalty to their Queen Tinrel, the aptly name
 Although not numerous in population, Clan Celebryl resides in six towers in the city of Mündung as a close-knit society. Their six towers are a homage to the ancient six clans of elves. In each tower, they educate their young in the unique ways of their clan while maintaining communication with other clans and the empire.  
   
 Bilinen üyeleri:  
+
 - [[Esiatel]]  
 - [[Laron]]  
 - [[Lyra]]  

@@ -1,7 +1,7 @@
 # Riflax   
   
 !!! note inline end "Karakter Notları"  
-	[[Annan]]'ın zihnini kontrol eden ejderha     
+	[[Q'ul Maqhkt'annan|Annan]]'ın zihnini kontrol eden ejderha     
   
 |  |  |  
 |---|---|  

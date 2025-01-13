@@ -5,7 +5,7 @@ tags:
   - Evil
 ---  
   
-Bir ırkın tümünün fıtratının kötücül olduğunu belirtmenin ahlaki yanlışlığı, iş drowlara gelince istisnaya izin veriyor. Zira bilindiği kadarıyla, Lloth'un Corellion'a ihanet edip elf cennetinden sürülmesiyle Lloth'a bağlı elfler de sürülüp Drow ırkını oluşturmuş.  
+Bir ırkın tümünün fıtratının kötücül olduğunu belirtmenin ahlaki yanlışlığı, iş drowlara gelince istisnaya izin veriyor. Zira bilindiği kadarıyla, Lloth'un Corellon'a ihanet edip elf cennetinden sürülmesiyle Lloth'a bağlı elfler de sürülüp Drow ırkını oluşturmuş.  
   
 <figure style="float: right" markdown>  
   ![[Drow_Elite.webp]]  

@@ -1,9 +1,9 @@
 | İsim | Cinsiyet | Irk | Notlar |
 | --- | --- | --- | --- |
 | [[Annam]] |  |  | Ana giant tanrısı |
-| [[Corellion]] | Erkek | Elf | Ana elf tanrısı |
+| [[Corellon]] | Erkek | Elf | Ana elf tanrısı |
 | [[Dragan]] | Erkek |  | EVÜL |
-| [[Eilistrae]] | Dişi | Elf | Drowların aydınlık tanrısı. Drowlar çok bilmez, öğretilmez. Corellion ile Lloth'un çocuğu, ihanete katılmamış. Dark elflere iyilik öğretmek istiyor. Rahibeleri insan kasabalarına hediye götürüp senede bir evil yaratık avlıyor mesela. |
+| [[Eilistrae]] | Dişi | Elf | Drowların aydınlık tanrısı. Drowlar çok bilmez, öğretilmez. Corellon ile Lloth'un çocuğu, ihanete katılmamış. Dark elflere iyilik öğretmek istiyor. Rahibeleri insan kasabalarına hediye götürüp senede bir evil yaratık avlıyor mesela. |
 | [[Falona]] | Dişi |  | Chaotic good, Solsitis'in üçlüsünden. Tapınakta yeri var ama sadece hürmeten. Takipçileri üstünde etkisini (chaotic ama iyi) hissettirip gidiyor, çok durmuyor. |
 | [[Gruumsh]] | Erkek | Orc | Ork tanrısı |
 | [[Hara]] |  | GAY | Neutral good, Solsitis'in üçlüsünden. Zor durumdakilere yol gösteren ve Solsitis adına habercilik yapan tanrı. |

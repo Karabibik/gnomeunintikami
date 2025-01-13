@@ -15,7 +15,7 @@ tags:
 | **Irk** | Dragonborn |  
 | **Sınıf** | Barbarian (Level 12) |  
 | **Kütük** | [[Saldon]] |  
-| **Münasebet** | Parti |  
+| **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** | Bordo mavi tenli<br>Kas kasoğlu |  
   
   

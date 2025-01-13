@@ -16,6 +16,7 @@ Their current Patriarch Yessen, in his advanced age, almost never leaves his bel
 While their city in the Great Forest houses many talented and prominent elves, some of Clan Thaylis's most influential members, such as Archwizard of Federation Elowen, and Ambassador Taria, reside outside the boundaries of the Great Forest.  
   
 Bilinen üyeleri:  
+
 - [[Elowen]]  
 - [[Taria]]  
 - [[Yessen]]

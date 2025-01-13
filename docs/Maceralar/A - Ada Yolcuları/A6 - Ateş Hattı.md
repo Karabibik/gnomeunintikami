@@ -12,7 +12,7 @@ Ruby ile dede arabada kaynaşıyor. Dede meğer Zarathia'nın eski komutanıymı
 ## Uçurumun Kenarında  
   
 Dağın tepesinde uzaktan ilk gördüğümüz, bir taşa bağlı Timlon oluyor. Stealth'e geçip kaş göz yapıyoruz ama çaktırmama becerisi hocalığından bile kötü olan gnome'un garip hareketlerini fark ediyor. Bir ağaca Tholberg'i bağlamış işkence ederek öldürecekken bize dönüyor. Thurmog `"Tholberg'i sal gidelim."` diyor, Ruby de Theron'u gösteriyor ama Zarathia ikisini de sal(la)mıyor.  
-  
+
 - Dranor, Kyrillus ve Thurmog önde karşılıyor  
 - Ruby ile Arken arkadan sallıyo  
 - Zarathia zıplayıp Ruby'ye saldırıyor, soldan da Elnes çıkıp Arken'e yollanıyor  
@@ -20,10 +20,10 @@ Dağın tepesinde uzaktan ilk gördüğümüz, bir taşa bağlı Timlon oluyor. 
 - Arken ile Kyrillus baya baya damage koyuyorlar ama Zarathia inmemekte ısrarcı  
 - Ruby ile Thurmog öle kalka tur çalıyor  
 - Bir noktada Elnes Dranor'u stunlayıp Arken'e ulaşıyor ve indiriyor  
-- Dranor da Elnes'i tutup kaçarken bir crit atıyor, Elnes daed  
+- Dranor da Elnes'i tutup kaçarken bir *crit* atıyor, Elnes daed  
   
 Sonunda Zarathia zor da olsa iniyor. Hemen bağlayıp Tholberg'e koşuyoruz. Thurmog o sırada bir bakıyor Arken yerde, Dranor yanına eğilmiş. Ölene öncelik verip yanına gidiyor ama Arken *dead* dead. Thalindor'a yetiştirebilirlerse onun yardımcı olabileceğini biliyor. Yalnız Timlon *Teleport* da bilmiyor tabii...  
   
-Zarathia'dan Tholberg'i bağlayan zincirlerin anahtarını alıp onu da kurtarıyoruz.  Tholberg maskesini takıp Zarathia'nın başına gidiyor, ne yapacağını bilemiyoruz ama Thurmog iradesine güveniyor. Sonuçta o da dark side'a geçmeyip Zarathia'nın vücudundaki ejderha parçasını çıkarmamız gerektiğini açıklıyor. Başarılı bir iki cerrahi kesik ile parçayı çıkarıyor ama tutmak için ki odaklayıp kalın abaların arasına sarıyor. Hem esirleri hem de Arken'i en rahat Forgunntal'a giderek kurtarabiliriz diye düşünüp dağdan iniyorlar.  
+Zarathia'dan Tholberg'i bağlayan zincirlerin anahtarını alıp onu da kurtarıyoruz.  Tholberg maskesini takıp Zarathia'nın başına gidiyor, ne yapacağını bilemiyoruz ama Thurmog iradesine güveniyor. Sonuçta o da dark side'a geçmeyip Zarathia'nın vücudundaki ejderha parçasını çıkarmamız gerektiğini açıklıyor. Başarılı bir iki cerrahi kesik ile parçayı çıkarıyor ama tutmak için *ki* odaklayıp kalın abaların arasına sarıyor. Hem esirleri hem de Arken'i en rahat Forgunntal'a giderek kurtarabiliriz diye düşünüp dağdan iniyorlar.  
   
 [^1]: Kyrillus?

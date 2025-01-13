@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Olam |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Kara Yolcuları]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | HalfElf |  
 | **Sınıf** |  |  

@@ -3,9 +3,10 @@ tags:
   - Mekân/Bölge  
 ---  
   
-Dışlanmışlar ve Dragan belasını vermişler adası olarak adlandırılması daha uygun olabilir.  
+"Dışlanmışlar ve Dragan Belasını Vermişler Adası" olarak adlandırılması daha uygun olabilir.  
   
-Adanın belasını verenler:  
+Adanın belaları:  
+
 - Yavrusunu arayan bir [[Ranacor|Ancient Green Dragon]]  
 - Büyüyü sapıttıran bir High Magic Zone  
 - Bu zone'da bulunan Eoha Harabeleri  

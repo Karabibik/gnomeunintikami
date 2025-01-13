@@ -9,6 +9,7 @@ Tüm maceralardan sonra ejderya ile birlikte eve dönüyoruz
 * Ağaç çok eski kesilmiş, iyileşmeye çalışmış amma olmamış  
   
 Son kırmızı ejderha 1000 sene önce görüldü. Harrion biliyor ki:  
+
 - Bundan 1700 yıl kadar önce doğudakilerin çoğunu chromaticler yönetiyordu  
 - [[Ejderhalar Savaşı]]'nda iktidar savaşı sırasında chromaticlerin bir kısmı kırmızı ejderhalara sadık kaldı, bir kısmı isyan etti  
 - Ejderhaların kralı "Dağ Eriten [[Sorad]]"a isyan ettiler işte bir kısmı  
@@ -62,10 +63,12 @@ Elva:
   
 Tinrel:  
 > "Söyledikleri eksik ve yanlış."  
+
 - And casually mentions killing us just for hearing everything  
   
 ## Delador Afterparty  
 Bizi erişilemez gibi bir dağın tepesine getirdi. Önümüzde şehir var.  
+
 - Çember gibi çevrili surla  
 - Warbonter'in 5 katı kadar falan  
 - Gölün kıyısı boyunca kasabalar var  

@@ -60,6 +60,7 @@ Philip, Altbrück'te yetimhane yaptırmaya başlıyor parasıyla. Çocuklara şi
 *Statement of the day:*  
 ```  
 Bir şeyin en iyisi Könningsburg'da, daha iyisi Soradin'de bulunur.  
+
 - Saldon Canavarı  
 ```  
   

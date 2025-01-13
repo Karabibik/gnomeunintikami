@@ -14,5 +14,6 @@ Their Great Ranger (patriarch) is Hagar, chosen among the leaders of Ekrana warb
 Members of Clan Ekrana can often be seen at the edges of the [[Great Forest]], but they rarely venture outside the forest.  
   
 Bilinen üyeleri:  
+
 - [[Hagar]]  
 - [[Orion]]

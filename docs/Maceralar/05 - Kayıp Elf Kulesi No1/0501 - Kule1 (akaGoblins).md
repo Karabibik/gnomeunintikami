@@ -4,11 +4,12 @@
 İlk girişte bir werewolf çıkıyor. Harrion'ı ısırıyor ama çok sorun olmuyor.  
   
 Mağara gibi bir ortam var, tepede bir açıklık var. Muhtemelen gelen diğer yaratıklar oradan gelmiş. Bir de kulenin arkasında bir tünel var.  
+
 - Philip orayı yarasa olarak[^1] tarayıp dağın diğer tarafına açıldığını buluyor.  
   
 İlk kapıda (Ay Işığı Kapısı) bir bilmece var:  
 > Solsitis'in güneşi  
-> Corellion'un ayı  
+> Corellon'un ayı  
 > Elf diyarını aydınlatır  
 > Aydınlıklar diyarı [[Fey Wilds]]'a yayılır  
 > Ardenior doğanın parçasıdır  
@@ -29,6 +30,7 @@ Philip bunu da çözüyor. Harrion *Fly* atıp yukarı çıkıyor, dikey upuzun 
   
 ## Loot  
 [[Iverius]]'un Ruh Yayı  
+
 - Ruh silahı elindeyken ölürsen bu plane'e bağlı kalıyor ruhun  
 - Broken soul bow (non magical şu an)  
 - Üstünde rünler var, adı ve birkaç magic  

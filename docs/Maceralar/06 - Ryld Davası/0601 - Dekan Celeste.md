@@ -2,6 +2,7 @@
 ---  
   
 [[Celeste]] dekanlığa oynuyor:  
+
 - Bunun için hem adam ayartıyor  
 - Hem de bizi Ryld'ın üstüne salıyor  
 	  

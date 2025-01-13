@@ -5,7 +5,7 @@ Celeste:
 > "Rand Diyarı'nın batısındaki [[Yenta]] adında küçük bir kasabada gördüm korumalarını."  
   
 Üç yol var:  
-  
+
 - Komple denizden gitmek (~~eceline susamışlar için~~)  
 - Warseir'e ışınlanıp oradan gemiyle gitmek  
 - Rand Diyarı ya da Cüce Krallıkları'na varıp oradan kara yoluyla gitmek  
