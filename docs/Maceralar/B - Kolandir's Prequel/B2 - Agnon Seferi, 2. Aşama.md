@@ -7,7 +7,7 @@ tags:
   
 Seslenen kişi [[Calia]] the Blessed, Calia the Traitor... Elinde meşhur kılıcı Dorax ile çıkıyor harabelerin arasından. Kolandir yusuflamaya başlıyor. Kendi tarafına çekmek için ufak bir çabası oluyor ama o da biliyor ki cezbolmayacak kimse, döğüşelim!  
   
-Kolandir, Calia ile kafa kafaya dövüşe giriyor. Arkadakileri ise Calia'nın elinden ayrılıp kendi kendine savaşan Dorax oyalıyor. Zaten büyücüler, büyülerini Calia'ya işletmekte zorlanıyor zira zırhındaki Tiamat sembolünün başları parlayarak büyüleri etkisiz hâle getiriyor. Bu birazcık sorun olunca Tara bir construct çağırıp kılıcı yerinde tutmaya çalışıyor. Bu sırada Innes Calia'yı aşağılamak adına *Polymorph* atıp kaplumbağaya dönüştürüyor, hadi lan sıkıysa şimdi yap atarını şimdi!  
+Kolandir, Calia ile kafa kafaya dövüşe giriyor. Arkadakileri ise Calia'nın elinden ayrılıp kendi kendine savaşan Dorax oyalıyor. Zaten büyücüler, büyülerini Calia'ya işletmekte zorlanıyor zira zırhındaki Tiamat sembolünün başları parlayarak büyüleri etkisiz hâle getiriyor. Bu birazcık sorun olunca Tara bir construct çağırıp kılıcı yerinde tutmaya çalışıyor. Bu sırada Innes, Calia'yı aşağılamak adına *Polymorph* atıp kaplumbağaya dönüştürüyor, hadi lan sıkıysa şimdi yap atarını şimdi!  
   
 Herkes başına toplanıyor. Taralein *Disintegrate* atıyor, Annam kürek ile kritik bir saldırı yapıyor, Kolandir de son darbeyi vurup boynunu kesiyor Calia'nın. Yalnız Calia yere yığılmıyor. Dorax uzaktan uçup Calia'nın eline geliyor ve bir enerji ortaya çıkıyor. Calia'nın vizörü kapanıyor, gözlerinden mavi ışıklar çıkmaya başlıyor ve savaş devam ediyor.  
   

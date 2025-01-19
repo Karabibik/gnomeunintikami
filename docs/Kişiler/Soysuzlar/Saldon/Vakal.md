@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Vakal |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Iouncular]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn |  
 | **Sınıf** | Barbarian (Level 20) |  

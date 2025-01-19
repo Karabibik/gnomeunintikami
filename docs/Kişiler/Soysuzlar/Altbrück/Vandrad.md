@@ -1,7 +1,6 @@
 # Vandrad   
   
-!!! note inline end "Karakter Notları"  
-	Onurcan'ın karakteri     
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +15,10 @@
 | **Karakter Betimi** |  |  
   
   
+=== "Vandrad"  
+	![[Vandrad_portrait.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Onurcan'ın karakteri   

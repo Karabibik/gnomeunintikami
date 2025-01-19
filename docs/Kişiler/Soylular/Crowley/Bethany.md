@@ -6,7 +6,7 @@
 |---|---|  
 | **İsim** | Bethany |  
 | **Soyadı** | [[Crowley]] |  
-| **Hizip** |  |  
+| **Hizip** | [[Iouncular]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** |  |  

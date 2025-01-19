@@ -9,7 +9,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | Dragon |  
+| **Irk** | Dragon(Black) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  

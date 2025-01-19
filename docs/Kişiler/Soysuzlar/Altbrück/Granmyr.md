@@ -1,7 +1,6 @@
 # Granmyr   
   
-!!! note inline end "Karakter Notları"  
-	Berke'nin karakteri     
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,3 +15,10 @@
 | **Karakter Betimi** |  |  
   
   
+=== "Granmyr"  
+	![[Granmyr_portrait.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	Berke'nin karakteri   

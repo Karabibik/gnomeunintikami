@@ -7,7 +7,7 @@ Table of Content
   
 [[1101 - Renata'nın Tersi]]  
 [[1102 - Kiefernstrass Tapınağı]]  
-[[1103 - Legendary Peşinde]]  
+[[1103 - Rüyanın Sonu]]  
 [[1104 - Kiracı Vagabonds]]  
 [[1105 - Beyaz Taurus]]  
 [[1106 - Saldon's Gojira]]  

@@ -46,7 +46,7 @@ Ki Renata, Harrion'dan kalmasını rica ediyor. Diğerleri kapının ardında g�
 >   
 > Renata: "Savaş büyücüsü olman bunu açıkça gösteriyor."  
 >   
-> Harrion: "E ne yapayım, keşfetmeye hatta gezmeye gittim her yerde herkes beni öldürmeye çalışıyor! Bildiğiniz gibi bazen başarıyorlar da! Niye bütün Güneş birliği büyücülerin bir anda güç için insanları öldürmeye başlayacağını varsayıyor anlamıyorum. Siz sokuyorsunuz belki bunu onların kafasına. Ben bu yola onun için çıkmadım. Öyle olsa Delador'un beni durdurmak için bizzat fırsatı çokça oldu."  
+> Harrion: "E ne yapayım, keşfetmeye hatta gezmeye gittiğim her yerde herkes beni öldürmeye çalışıyor! Bildiğiniz gibi bazen başarıyorlar da! Niye bütün Güneş Birliği büyücülerin bir anda güç için insanları öldürmeye başlayacağını varsayıyor anlamıyorum. Siz sokuyorsunuz belki bunu onların kafasına. Ben bu yola onun için çıkmadım. Öyle olsa Delador'un beni durdurmak için bizzat fırsatı çokça oldu."  
 >   
 > Renata: "Ben sana sahilde ev ayarlarım Harrion, hayatının sonuna kadar mutlu mesut da yaşatırım. Yeter ki bırak büyü kitabını git. Delador bu konularda... Biraz fazla inançlı olabiliyor."  
   
@@ -55,7 +55,7 @@ Ki Renata, Harrion'dan kalmasını rica ediyor. Diğerleri kapının ardında g�
   
 O akşam Alfons kütüphaneye gitmek istediğini söylüyor. Döndüğünde bir garip ama sorulara cevap vermiyor, kaçınıyor bir şekilde. Kolunu falan tutuyor.  
   
-Philip, Altbrück'te yetimhane yaptırmaya başlıyor parasıyla. Çocuklara şimdilik bizim köhne evde bakılacak. Buck konuşacak, Agnes de haberdar olaydan. Bankaya 10.02.2021 tarihinde koyduğu 1.000 gold, %5 faiz ile 03.04.2021 tarihinde pek bir halt olmamış (1102 gp).  
+Philip, Altbrück'te yetimhane yaptırmaya başlıyor parasıyla. Çocuklara şimdilik bizim köhne evde bakılacak. Buck konuşacak, Agnes de haberdar olaydan. Bankaya 10.02.2021 tarihinde koyduğu 1.000 gold, %5 faiz ile 03.04.2021 tarihinde pek bir halt olmamış (1.102 gp).  
   
 *Statement of the day:*  
 ```  

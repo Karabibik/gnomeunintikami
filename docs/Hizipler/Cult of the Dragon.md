@@ -10,7 +10,16 @@ Ejderhalara tapan arkadaşlar. En aktif oldukları yer Soradin dağları. Adlar�
   
 Kendi içlerinde çok fazla fraksiyona bölünmüş durumdalar ve birbirleriyle sık sık savaşıyorlar.  
   
-Zamanında, eskilerde, *Beşli Çete* olarak bilinen bir ekip varmış. Mağaralarında hâlâ posterleri asılıyor:  
+Bir cultist dörtlüğü:  
+  
+```  
+Yıkın tapınakları,  
+Yakın cleric'leri,  
+Şanlı Rengan uğruna,  
+Mahvedin milletleri.  
+```  
+  
+Zamanında, eskilerde, *Beşli Çete* olarak bilinen her renge yamanmış bir ekip varmış. Mağaralarında hâlâ posterleri asılıyor:  
   
 === "Poster 1"  
 	![[BesliCete1.webp]]  

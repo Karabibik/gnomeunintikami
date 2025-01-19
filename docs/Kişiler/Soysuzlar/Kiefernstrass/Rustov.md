@@ -10,7 +10,7 @@ tags:
 |---|---|  
 | **İsim** | Rustov |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Iouncular]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** | Cleric ([[Ioun]]) (Level 20) |  
