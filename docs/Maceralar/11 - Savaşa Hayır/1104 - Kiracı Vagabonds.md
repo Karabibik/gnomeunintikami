@@ -24,11 +24,8 @@ Tarihler 15 Mart 2021'i gösterirken Muzog, abisinden az buçuk kitap okuma alı
   
 Muzog'un elinde bunlarla geldiğini gören Philip, azıcık da ilahi irfan aşılamak umuduyla "Solsitis'in Odaklanmış Işığı" başlıklı kitabı sokuşturuyor araya. Muzog, Philip'i dövmemek için *hasbinsoradin* çekerek kitabı alıyor ama bakmayacak bile. Onun yerine aldığı kitaplarla birlikte Alfons'a gidiyor ki ona okuma-yazma öğretsin. Alfons on numara öğretmen zaten, çalışıp didinip hecelemeyi öğretiyor sonunda.  
   
-Akşam  
-  
-sorran geliyor yeni eve  
-böyle olayları delador'a haber verin  
-ioun ile solstis arasındaki haberleşmeyi delador koruyor  
+Akşamleyin ufak bir içkili sofra kuruluyor, herkes eteğindeki taşları döküyor. Orada bir şeyler oluyor, zaman hızlanıyor[^3]. Sabah oluyor, mutfaktan sucuk kokusu gelir ve herkes merakla Muzog'un yaptığı yumurtayı beklerken kapı çalıyor. Gelen Sorran, hafif bir gülümsüyor, içeri buyur ediyoruz. Önce Philip'e imalı bakarak `"Bir daha böyle büyük olayları birine anlatırken önce bize haber verin. Ioun ile Solsitis arasındaki haberleşmeyi Delador koruyor."` diyor. Ne oldu tam anlamıyoruz ama bir haltlar yenmiş. Sonra bize göreve gideceğimiz tarihi ve hareket noktasını aktarıyor.  
   
 [^1]: Citation needed  
-[^2]: *Counterspell* atmış.
+[^2]: *Counterspell* atmış.  
+[^3]: DM konuşmamızı bölüyor.
