@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Lesser Drow Longsword|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | |  
 | **Gereksinim** | |  
 | **İşlev** | magical, +1, 5dk'dan uzun süre güneşte kalırsa gone|  
+  
+  

@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Flame Potion|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Potions General|  
 | **Gereksinim** | |  
 | **İşlev** | Bonus action, DEX13 4d6 Fire (x3)|  
+  
+  

@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | HP Potion (x5)|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Potions General|  
 | **Gereksinim** | |  
 | **İşlev** | 1 HD + CON|  
+  
+  

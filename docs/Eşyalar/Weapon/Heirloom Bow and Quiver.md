@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Heirloom Bow and Quiver|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | |  
 | **Gereksinim** | |  
 | **İşlev** | Magical, auto-replace ammo after 1min|  
+  
+  

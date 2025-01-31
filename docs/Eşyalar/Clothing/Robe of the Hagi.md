@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Robe of the Hagi|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | |  
 | **Gereksinim** | |  
 | **İşlev** | Emits an explosion when its owner is in danger|  
+  
+  

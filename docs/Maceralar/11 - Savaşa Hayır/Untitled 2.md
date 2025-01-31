@@ -17,7 +17,7 @@ sarıalioğlundan
 	greatsword, reach'i var  
 	  
 griden  
-	1 tane kürek başı (sopası başka yerde, sopasız da işe yarar ama eksik), bahamut rünleri silinip tiamat yazılmış - philip  
+	1 tane kürek başı (sopası başka yerde, sopasız da işe yarar ama eksik), bahamut rünleri silinip tiamat yazılmış - philip (bu annan'ın kalkanı olacak, ona dönüştü)  
   
 mor  
 	spellbook, şifreli  

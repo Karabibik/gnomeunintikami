@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Harsus'un Kupası|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | |  
 | **Gereksinim** | |  
 | **İşlev** | |  
+  
+  

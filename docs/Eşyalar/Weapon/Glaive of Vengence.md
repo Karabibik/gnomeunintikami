@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Glaive of Vengence|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Belanord Harabeleri|  
 | **Gereksinim** | |  
 | **İşlev** | |  
+  
+  

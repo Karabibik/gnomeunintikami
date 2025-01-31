@@ -4,6 +4,8 @@ tags:
   - Attunement
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Azuuk's Determination|  
@@ -14,3 +16,5 @@ tags:
 | **Menşei** | Azuuk|  
 | **Gereksinim** | |  
 | **İşlev** | Longsword +1, Misty Step|  
+  
+  

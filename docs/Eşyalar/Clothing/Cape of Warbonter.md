@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Cape of Warbonter|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Vilenor Mazgan|  
 | **Gereksinim** | |  
 | **İşlev** | Dimension door per dawn|  
+  
+  

@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Spell Scroll Lvl 1|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Vilenor Mazgan|  
 | **Gereksinim** | |  
 | **İşlev** | Standart scroll|  
+  
+  

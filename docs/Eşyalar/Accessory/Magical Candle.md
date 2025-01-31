@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Magical Candle|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Kinatrial|  
 | **Gereksinim** | |  
 | **İşlev** | Yan diyince yanan mum|  
+  
+  

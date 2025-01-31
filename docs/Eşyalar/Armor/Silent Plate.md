@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Silent Plate|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Laboratuvar|  
 | **Gereksinim** | |  
 | **İşlev** | Heavy Plate Armor<br>No Disadv. on stealth|  
+  
+  

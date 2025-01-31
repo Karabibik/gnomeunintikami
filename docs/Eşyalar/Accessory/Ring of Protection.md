@@ -4,6 +4,8 @@ tags:
   - Attunement
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Ring of Protection|  
@@ -14,3 +16,5 @@ tags:
 | **Menşei** | Hal Web|  
 | **Gereksinim** | |  
 | **İşlev** | AC +1, Saving +1|  
+  
+  

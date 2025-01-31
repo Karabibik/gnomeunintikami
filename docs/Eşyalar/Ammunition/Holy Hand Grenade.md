@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Holy Hand Grenade|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Vilenor Mazgan|  
 | **Gereksinim** | |  
 | **İşlev** | Range: 80ft<br>Save: CON15<br>Damage: 20ft radius, 8d6 Radiant|  
+  
+  

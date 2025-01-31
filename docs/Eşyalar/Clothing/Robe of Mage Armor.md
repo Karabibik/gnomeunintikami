@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Robe of Mage Armor|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Vilenor Mazgan|  
 | **Gereksinim** | |  
 | **İşlev** | Permanent Mage Armor|  
+  
+  

@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Elixir of Health|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Potions General|  
 | **Gereksinim** | |  
 | **İşlev** | Remove all conditions|  
+  
+  

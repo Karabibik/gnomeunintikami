@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Mug of Dwarven Ale|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Dragon's Hoard|  
 | **Gereksinim** | |  
 | **İşlev** | Provides dwarven ale|  
+  
+  

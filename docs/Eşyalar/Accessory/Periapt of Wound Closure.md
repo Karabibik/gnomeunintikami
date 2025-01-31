@@ -4,6 +4,8 @@ tags:
   - Attunement
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Periapt of Wound Closure|  
@@ -14,3 +16,5 @@ tags:
 | **Menşei** | Vilenor Mazgan|  
 | **Gereksinim** | |  
 | **İşlev** | Stabilize if dead|  
+  
+  

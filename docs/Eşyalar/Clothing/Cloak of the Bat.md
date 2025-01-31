@@ -4,6 +4,8 @@ tags:
   - Attunement
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Cloak of the Bat|  
@@ -14,3 +16,5 @@ tags:
 | **Menşei** | Hal Web|  
 | **Gereksinim** | |  
 | **İşlev** | Batcape|  
+  
+  

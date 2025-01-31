@@ -4,6 +4,8 @@ tags:
   - Attunement
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Ruby of the War Mage|  
@@ -14,3 +16,5 @@ tags:
 | **Menşei** | |  
 | **Gereksinim** | |  
 | **İşlev** | Attached become spell focus|  
+  
+  

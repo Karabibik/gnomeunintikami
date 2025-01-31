@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Fey Stone|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Uliza|  
 | **Gereksinim** | |  
 | **İşlev** | |  
+  
+  

@@ -4,6 +4,8 @@ tags:
   - Attunement
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Arrow Breaker Cape|  
@@ -14,3 +16,5 @@ tags:
 | **Menşei** | Warbrof|  
 | **Gereksinim** | |  
 | **İşlev** | AC +2 vs projectile|  
+  
+  

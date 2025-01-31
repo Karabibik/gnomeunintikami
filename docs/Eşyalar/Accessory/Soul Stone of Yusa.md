@@ -4,6 +4,8 @@ tags:
   - Attunement
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Soul Stone of Yusa|  
@@ -14,3 +16,5 @@ tags:
 | **Menşei** | Hag Mağarası|  
 | **Gereksinim** | Spellcaster with modifier >= 3|  
 | **İşlev** | Bonus action, trance (3/day):<br>- See/hear with darkvision (blind/deaf in original)<br>- Cast spells from it<br>- Communicate within 30 ft|  
+  
+  

@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Demon Mirror|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Hal Web|  
 | **Gereksinim** | |  
 | **İşlev** | Commune with Demon|  
+  
+  

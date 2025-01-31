@@ -4,6 +4,8 @@ tags:
   - Attunement
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Boot of Longstrider|  
@@ -14,3 +16,5 @@ tags:
 | **Menşei** | Pinatrial|  
 | **Gereksinim** | |  
 | **İşlev** | Movement +10|  
+  
+  

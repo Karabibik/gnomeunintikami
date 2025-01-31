@@ -3,6 +3,8 @@ tags:
   - Eşya
 ---  
   
+  
+  
 |  |  |  
 |---|---|  
 | **İsim** | Vampire Blood Vial|  
@@ -13,3 +15,5 @@ tags:
 | **Menşei** | Hal Web|  
 | **Gereksinim** | |  
 | **İşlev** | Blood of Immortal Merchant|  
+  
+  
