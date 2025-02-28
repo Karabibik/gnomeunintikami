@@ -7,13 +7,13 @@ tags:
   
 |  |  |  
 |---|---|  
-| **İsim** | Command Animal|  
+| **İsim** | Potion of Charm|  
 | **Okul** | |  
-| **Fiyat** | 125 gp|  
+| **Fiyat** | 130 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  
 | **Gereksinim** | |  
-| **İşlev** | (1h)|  
+| **İşlev** | Charm in 10 min (1h)|  
   
   

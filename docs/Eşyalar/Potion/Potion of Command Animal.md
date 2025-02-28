@@ -7,9 +7,9 @@ tags:
   
 |  |  |  
 |---|---|  
-| **İsim** | Resistance Potions|  
+| **İsim** | Potion of Command Animal|  
 | **Okul** | |  
-| **Fiyat** | 200 gp|  
+| **Fiyat** | 125 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  

@@ -15,6 +15,6 @@ tags:
 | **Kimde** | [[Philip]]|  
 | **Menşei** | Hag Mağarası|  
 | **Gereksinim** | |  
-| **İşlev** | Darkvision + Waterbreathing|  
+| **İşlev** | 60ft Darkvision<br>30ft Swim Speed<br>Waterbreathing|  
   
   

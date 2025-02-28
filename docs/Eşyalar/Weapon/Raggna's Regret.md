@@ -29,6 +29,7 @@ tags:
   
 !!! note "Notlar"  
 	"The blade that shattered a kingdom, its edge still heavy with betrayal. Forged in honor, wielded in disgrace. The weapon remains, but its betrayer is lost to history."  
+	  
 	Long ago, during the Dragon Wars, the fire giant prince Magnar was slain not in battle, but by a trusted warrior who turned against his own kin. Wielding this very dagger—crafted by the legendary smith Raggna—the traitor struck Magnar down in cold blood. With no strong heir to unite them, the fire giants fell into chaos, and their homeland was lost to the red dragons for centuries.  
 	  
 	Now, the blade remains as a relic of treachery. It was once a dagger for a giant’s hand, but in those of a humanoid, it is a greatsword. Its dark steel bears veins of ember-like metal, pulsing faintly with an eerie warmth. The hilt is inscribed with Raggna’s name, but the other side, where the assassin’s name once stood, has been brutally defaced, ensuring he is forgotten forever.   

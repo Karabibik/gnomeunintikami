@@ -16,6 +16,6 @@ tags:
 | **Kimde** | [[Philip]]|  
 | **Menşei** | Goldrum Aurum|  
 | **Gereksinim** | |  
-| **İşlev** | |  
+| **İşlev** | Holder knows Dwarven|  
   
   

@@ -2,14 +2,14 @@
 tags:
   - Özgür
 ---  
-# Rustov   
+# Rustov Taralon  
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
 | **İsim** | Rustov |  
-| **Soyadı** |  |  
+| **Soyadı** | [[Taralon]] |  
 | **Hizip** | [[Iouncular]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  

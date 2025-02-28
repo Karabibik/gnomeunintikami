@@ -14,7 +14,7 @@ Ev, giriş katında [[Giez's Sea-Food]]'un olduğu 4 katlı bir apartmanda. 2 ay
   
 ![[Vagabonds_Home.webp]]  
   
-Tarihler 15 Mart 2021'i gösterirken Muzog, abisinden az buçuk kitap okuma alışkanlığı feyzalacak olmuş ki kütüphaneye gidip kütüphaneciden üç beş kitap istiyor. Aldığı kitaplar şunlar:  
+Takvimler 15 Mart 2021'i gösterirken Muzog, abisinden az buçuk kitap okuma alışkanlığı feyzalacak olmuş ki kütüphaneye gidip kütüphaneciden üç beş kitap istiyor. Aldığı kitaplar şunlar:  
   
 1. Medeniyet Tarihi  
 2. Tanrıları Tanıyalım  

@@ -13,7 +13,7 @@ tags:
 | **Hizip** | [[Gnome'un İntikamı]], [[Cult of the Dragon]], [[Saldon Bandosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn |  
-| **Sınıf** | Barbarian (Level 12) |  
+| **Sınıf** | Barbarian (Level 13) |  
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** | Bordo mavi tenli<br>Kas kasoğlu |  

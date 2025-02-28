@@ -11,9 +11,9 @@ tags:
 | **Okul** | |  
 | **Fiyat** | 300 gp|  
 | **Rarity** | |  
-| **Kimde** | [[Alfons]], [[Tamara]]|  
+| **Kimde** | [[Philip]], [[Tamara]]|  
 | **Menşei** | Dragon's Hoard|  
 | **Gereksinim** | |  
-| **İşlev** | Provides dwarven ale|  
+| **İşlev** | Provides dwarven ale 12/day|  
   
   

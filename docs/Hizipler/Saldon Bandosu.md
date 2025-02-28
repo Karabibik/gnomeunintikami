@@ -3,7 +3,7 @@ tags:
   - Hizip  
 ---  
   
-Üyeler:  
+Üyeleri:  
 
 - Kaba [[Sthol]]  
 - Haksız [[Thobal]]  

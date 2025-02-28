@@ -1,5 +1,6 @@
 ---
 tags:
+  - Burgkastellan
   - von Kadelsburg
   - Kaptan Paspas
 ---  
@@ -14,7 +15,7 @@ tags:
 | **Hizip** | [[Gnome'un İntikamı]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric (Knowledge) ([[Ioun]]) (Level 12) |  
+| **Sınıf** | Cleric (Knowledge) ([[Ioun]]) (Level 13) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** |  |  
@@ -23,11 +24,14 @@ tags:
 === "Alfons"  
 	![[0_Alfons_portrait.webp]]{ .card }  
   
+=== "Burgkastellan"  
+	![[Alfons_Burgkastellan.webp]]{ .card }  
+  
 === "Drawing"  
 	![[Alfons_Drawing.webp]]{ .card }  
   
-=== "Hero"  
-	![[Alfons_Hero.webp]]{ .card }  
+=== "von Kadelsburg"  
+	![[Alfons_von Kadelsburg.webp]]{ .card }  
   
 </div>  
   

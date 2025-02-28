@@ -7,13 +7,13 @@ tags:
   
 |  |  |  
 |---|---|  
-| **İsim** | Charm Potion|  
+| **İsim** | Potion of Flame|  
 | **Okul** | |  
-| **Fiyat** | 130 gp|  
+| **Fiyat** | 150 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  
 | **Gereksinim** | |  
-| **İşlev** | Charm in 10 min (1h)|  
+| **İşlev** | Bonus action, DEX13 4d6 Fire (x3)|  
   
   

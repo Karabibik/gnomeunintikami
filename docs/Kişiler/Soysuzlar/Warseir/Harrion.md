@@ -10,10 +10,10 @@ tags:
 |---|---|  
 | **İsim** | Harrion |  
 | **Soyadı** |  |  
-| **Hizip** | [[Gnome'un İntikamı]] |  
+| **Hizip** | [[Gnome'un İntikamı]], [[Könningsmagier]] |  
 | **Cinsiyet** | Kadın (ex Erkek) |  
 | **Irk** | Tiefling(exGnome) |  
-| **Sınıf** | Wizard (War Mage) (Level 12) |  
+| **Sınıf** | Wizard (War Mage) (Level 13) |  
 | **Kütük** | [[Warseir]] |  
 | **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** |  |  

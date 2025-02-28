@@ -7,13 +7,13 @@ tags:
   
 |  |  |  
 |---|---|  
-| **İsim** | Flame Potion|  
+| **İsim** | Potions of Resistance|  
 | **Okul** | |  
-| **Fiyat** | 150 gp|  
+| **Fiyat** | 200 gp|  
 | **Rarity** | |  
 | **Kimde** | |  
 | **Menşei** | Potions General|  
 | **Gereksinim** | |  
-| **İşlev** | Bonus action, DEX13 4d6 Fire (x3)|  
+| **İşlev** | (1h)|  
   
   

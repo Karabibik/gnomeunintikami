@@ -1,5 +1,5 @@
   
-Belli gücün üstündeki eşyalar ile belirli seviyeden yüksek büyülerin kullanımını [[Güneş Birliği]] kontrol ediyor.  
+Belli gücün üstündeki eşyalar ile belirli seviyeden yüksek büyülerin kullanımını İmparatorluk'ta [[Güneş Birliği]], Soradin'de Mageocracy kontrol ediyor.  
   
 ## Büyü Geçmek  
   

@@ -5,7 +5,7 @@ tags:
 ---  
 # Calia   
   
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -19,6 +19,14 @@ tags:
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Gözünün etrafı siyah<br>Siyah pulları etrafında platin pullar var<br>Zırhının sırtında Tiamat arması var |  
   
+  
+=== "Calia"  
+	![[0_Calia_portrait.webp]]{ .card }  
+  
+=== "Mercy"  
+	![[Calia_Mercy.webp]]{ .card }  
+  
+</div>  
   
 !!! note "Karakter Notları"  
 	Ejderhalar Savaşı sırasında Sorad tarafında olan bir komutan. Dorax adında bir sentient weapon kullanıyor, o da 20 level fighter. Morguntrax'ın, insanlardan sorumlu sağ kolu.  

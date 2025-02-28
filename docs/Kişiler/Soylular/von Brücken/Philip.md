@@ -1,19 +1,20 @@
 ---
 tags:
+  - Köprülü
   - Sharp
 ---  
-# Philip   
+# Philip von Brücken  
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
 | **İsim** | Philip |  
-| **Soyadı** |  |  
+| **Soyadı** | [[von Brücken]] |  
 | **Hizip** | [[Gnome'un İntikamı]], [[Evsiz Uşaklar]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Rogue (Assassin) (Level 12) |  
+| **Sınıf** | Rogue (Assassin) (Level 13) |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** |  |  
