@@ -15,6 +15,4 @@ Bulunduğu yerin etrafında soğukluk alanı oluşuyor. *Hold Person* atmayı de
   
 Aurelion ve Zavera'nın sesiyle uyanıyorlar: `"Az daha postu deldiriyordunuz gençler."`. Arkalarından gelen ordu ile birlikte yetişmişler. Ordu bayağı hasar almış deniyor. Kolandir kendi askerlerine ilerleme emri veriyor, öncü ekip ise durup dinleniyor. Yürüyüş hâlindeki kıtanın başındaki subay ayrılıp yanlarına geliyor. Kendisini [[Verchin]] olarak tanıtıyor, bu kıt'adaki Adult Gold Dragon'lardan biri. Büyüleri sayesinde uzunca dinlenmiş kadar oluyor ekip.  
   
-Bunların arasında Kolandir kafasında bir ses duyuyor, Calia'nın sesi: `"Bilmediğin şeyler var [...] aptallık etme [...] tekrar düşün [REDACTED]"`  
-  
-![[Calia_portrait.webp]]
+Bunların arasında Kolandir kafasında bir ses duyuyor, Calia'nın sesi: `"Bilmediğin şeyler var [...] aptallık etme [...] tekrar düşün [REDACTED]"`

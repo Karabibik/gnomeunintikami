@@ -22,7 +22,7 @@ Sonra patlamadan öğrenebildiğimiz oldu mu diye konuşuyoruz. Daha önce de ay
 ## Eoha Sandığı  
 Delador kaçınca kaptanlarla birlikte kuzeydeki bir bölgeye gidiyoruz. Burada çok ilkel bir sunak hâline getirilmeye çalışılmış yarım küre şeklinde bir yapı var. Bildiğimiz hiçbir malzemeye benzemiyor.  
   
-Etkileşilebilen bir şey buldukları an Harrion gidip elini basıyor. Bir şeyler parlayıp bir bölme açılıyor ve içinden bir [[Enhancer Glove|eldiven]] çıkıyor. Bunun gibi yapılar daha önce bulunmuş, Eoha medeniyeti bunları destek tedarik amaçlı kullanıyormuş. Philip'in bahtına şukulu [[Some Bow|bir yay]], Muzog'a [[Keeper of Strength|omurga desteği]], Alfons'a ise [[Thought Amplifier|izan verici bandana]] çıkıyor. Kaptanlar ve Celeste tasnif için geri dönüyor. Bizse yolumuza devam ediyoruz.  
+Etkileşilebilen bir şey buldukları an Harrion gidip elini basıyor. Bir şeyler parlayıp bir bölme açılıyor ve içinden bir [[Enhancer Glove|eldiven]] çıkıyor. Bunun gibi yapılar daha önce bulunmuş, Eoha medeniyeti bunları destek tedarik amaçlı kullanıyormuş. Philip'in bahtına şukulu [[A Bow|bir yay]], Muzog'a [[Keeper of Strength|omurga desteği]], Alfons'a ise [[Thought Amplifier|izan verici bandana]] çıkıyor. Kaptanlar ve Celeste tasnif için geri dönüyor. Bizse yolumuza devam ediyoruz.  
   
 Yolun sonunda daha büyükçe bir yarım küre gördüğümüz sırada ormanlık araziden de kertenkelemsi ama eli alet tutan yaratıklar beliriyor. Alfons `"Durun, saldırmayın."` deyip, Muzog kükreyince karışık sinyalleri anlamlandıramıyor ve `"Biz en iyisi saldıralım."` diyip cümbür peşimize takılıyorlar. Yapıya yaklaşıyoruz ama nasıl açacağımızı bilmiyoruz. Diğerindeki gibi biraz büyü gücü aktarınca hop...  
   

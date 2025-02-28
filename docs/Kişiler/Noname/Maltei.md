@@ -1,7 +1,7 @@
 # Maltei   
   
 !!! note inline end "Karakter Notları"  
-	Alfons'un yar ve yardımcısı     
+	[[Alfons]]'un yar ve yardımcısı     
   
 |  |  |  
 |---|---|  

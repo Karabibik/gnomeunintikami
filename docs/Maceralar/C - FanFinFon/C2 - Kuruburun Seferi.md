@@ -17,6 +17,4 @@ Uyan Calia'm uyan uyanmaz oldun,
 İki bıçak yarasına dayanmaz oldun.  
 ```  
   
-Blork adamın üstüne atlıyor ama içinden geçiyor. Diğerleri kalkıyor, adam yok olmuş. Myroh büyü yapıldığını düşünüp Mercy'nin kafasını parçalıyor. Sonrasında pek bir cacık yaşanmıyor ama, Mercy ayaklanmıyor tekrar mesela. Tedirgin hâlde uyumaya geri dönüyoruz.  
-  
-![[Mercy_portrait.webp]]
+Blork adamın üstüne atlıyor ama içinden geçiyor. Diğerleri kalkıyor, adam yok olmuş. Myroh büyü yapıldığını düşünüp Mercy'nin kafasını parçalıyor. Sonrasında pek bir cacık yaşanmıyor ama, Mercy ayaklanmıyor tekrar mesela. Tedirgin hâlde uyumaya geri dönüyoruz.

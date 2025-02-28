@@ -20,11 +20,11 @@ tags:
 | **Karakter Betimi** | Gözünün etrafı siyah<br>Siyah pulları etrafında platin pullar var<br>Zırhının sırtında Tiamat arması var |  
   
   
-=== "Calia"  
-	![[0_Calia_portrait.webp]]{ .card }  
+=== "Traitor"  
+	![[0_Calia_Traitor.webp]]{ .card }  
   
-=== "Mercy"  
-	![[Calia_Mercy.webp]]{ .card }  
+=== "Blessed"  
+	![[Calia_Blessed.webp]]{ .card }  
   
 </div>  
   
