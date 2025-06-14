@@ -13,7 +13,7 @@ tags:
 | **Soyadı** |  |  
 | **Hizip** | [[Saldon Bandosu]] |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | HalfElf |  
+| **Irk** | Half-Elf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | NPC - Ölü |  

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Stormfang
+  - The Stormfang
 ---  
 # Thalryx   
   

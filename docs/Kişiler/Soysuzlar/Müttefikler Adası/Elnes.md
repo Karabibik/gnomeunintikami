@@ -11,7 +11,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
-| **Irk** | HalfElf |  
+| **Irk** | Half-Elf |  
 | **Sınıf** | Monk (Level 5+) |  
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** | Düşman - Ölü |  

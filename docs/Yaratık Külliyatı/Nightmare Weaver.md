@@ -1,3 +1,9 @@
+---
+tags:
+  - Yaratık
+  - Large
+---  
+  
 The Nightmare Weaver, an insidious deep sea creature, is a terrifying amalgamation of dark shadows and writhing tentacles. Its massive form, shrouded in an ethereal mist, moves with an unsettling grace through the depths of the ocean. Though its physical appearance is already formidable, it is the creature's ability to manipulate dreams that sets it apart as a truly menacing force.  
   
 With its profound intelligence and mastery over the dream realm, the Nightmare Weaver possesses the uncanny power to invade the slumbering minds of its victims. It weaves intricate and haunting nightmares, preying upon their deepest fears and insecurities. Through its psychic influence, it can twist and distort perceptions, trapping its victims within a surreal and nightmarish landscape of its own creation.  

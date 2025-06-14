@@ -9,7 +9,7 @@
 | **Soyadı** |  |  
 | **Hizip** | [[Kara Yolcuları]] |  
 | **Cinsiyet** | Dişi |  
-| **Irk** | HalfElf |  
+| **Irk** | Half-Elf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  

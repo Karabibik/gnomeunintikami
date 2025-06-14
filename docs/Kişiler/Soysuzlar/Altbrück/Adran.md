@@ -9,7 +9,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | HalfElf |  
+| **Irk** | Half-Elf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  

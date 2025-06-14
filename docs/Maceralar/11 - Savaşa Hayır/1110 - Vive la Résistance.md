@@ -1,3 +1,8 @@
+---  
+tags:  
+  - Macera  
+---  
+  
 04/08/2024  
   
 odanın etrafında 5 chromatic line dönüyor  

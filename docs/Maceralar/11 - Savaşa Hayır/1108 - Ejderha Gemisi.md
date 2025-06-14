@@ -1,3 +1,8 @@
+---  
+tags:  
+  - Macera  
+---  
+  
 27/07/2024  
   
 Uçak gemisiyle denize açılıyoruz  

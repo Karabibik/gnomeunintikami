@@ -3,7 +3,7 @@ tags:
   - Mekân/Bölge  
 ---  
   
-"Dışlanmışlar ve Dragan Belasını Vermişler Adası" olarak adlandırılması daha uygun olabilir.  
+"Dragan Belasını Vermişler Adası" olarak adlandırılması daha uygun olabilir.  
   
 Adanın belaları:  
 

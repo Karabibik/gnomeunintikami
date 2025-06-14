@@ -1,7 +1,7 @@
 ---
 tags:
   - Köprülü
-  - Sharp
+  - The Sharp
 ---  
 # Philip von Brücken  
   

@@ -9,7 +9,7 @@
 | **Soyadı** |  |  
 | **Hizip** | [[Shadowguard]] |  
 | **Cinsiyet** | Dişi |  
-| **Irk** | HalfElf |  
+| **Irk** | Half-Elf |  
 | **Sınıf** | (Level 13+) |  
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Müttefik |  

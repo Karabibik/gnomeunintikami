@@ -9,7 +9,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | HalfElf |  
+| **Irk** | Half-Elf |  
 | **Sınıf** | Wizard (Divination) (Level 13+) |  
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  

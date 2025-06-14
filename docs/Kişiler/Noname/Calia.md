@@ -1,7 +1,7 @@
 ---
 tags:
-  - Blessed
-  - Traitor
+  - The Blessed
+  - The Traitor
 ---  
 # Calia   
   

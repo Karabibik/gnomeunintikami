@@ -12,7 +12,7 @@ tags:
 | **Soyadı** | [[Valgenoğlu]] |  
 | **Hizip** | [[Gnome'un İntikamı]], [[Cult of the Dragon]], [[Saldon Bandosu]] |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | Dragonborn |  
+| **Irk** | Dragonborn(Red,Blue) |  
 | **Sınıf** | Barbarian (Level 13) |  
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | Parti Üyesi |  

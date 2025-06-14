@@ -9,7 +9,7 @@
 | **Soyadı** |  |  
 | **Hizip** | [[Iouncular]] |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | Dragonborn |  
+| **Irk** | Dragonborn(White) |  
 | **Sınıf** | Barbarian (Level 20) |  
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** |  |  

@@ -13,7 +13,7 @@ tags:
 | **Soyadı** |  |  
 | **Hizip** | [[Cult of the Dragon]] |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | Dragonborn |  
+| **Irk** | Dragonborn(Red) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Sığındaş]] |  
 | **Münasebet** | Düşman |  

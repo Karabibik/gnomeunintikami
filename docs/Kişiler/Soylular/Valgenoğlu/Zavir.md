@@ -1,18 +1,18 @@
-# Sienna Valgenoğlu  
+# Zavir Valgenoğlu  
   
 !!! note inline end "Karakter Notları"  
-	[[Muzog]]'un annesi gibi gördüğü hanım.     
+	[[Muzog]]'un ustası     
   
 |  |  |  
 |---|---|  
-| **İsim** | Sienna |  
+| **İsim** | Zavir |  
 | **Soyadı** | [[Valgenoğlu]] |  
 | **Hizip** |  |  
-| **Cinsiyet** | Dişi |  
+| **Cinsiyet** | Erkek |  
 | **Irk** | Half-Elf |  
 | **Sınıf** |  |  
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | Müttefik |  
-| **Karakter Betimi** | Ela gözlü<br>Kumral saçlı<br>Güzelcene |  
+| **Karakter Betimi** | Sakalı var hafif<br>Yapılıca |  
   
   

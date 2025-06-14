@@ -1,3 +1,8 @@
+---  
+tags:  
+  - Macera  
+---  
+  
 12.01.2025  
   
 Hepsinin üstünde beş renkten de kıyafet / aksesuar var  

@@ -7,6 +7,8 @@ tags:
   
 Teknik olarak İmparatorluk içinde büyücülük yapmasına hâlâ izin verilen bir birlik, zira kral olmadığı için lağvedilememiş. Hatırlandığı kadarıyla en son 300 sene önce biri bu birliğe dâhil edilmiş.  
   
+![[Pin_Königs.webp]]{align=right}  
+  
 Bilinen üyeleri:  
 
 - [[Harrion]]

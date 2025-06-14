@@ -3,9 +3,9 @@ tags:
   - Hizip  
 ---  
   
-[[Ioun]]'un en üst rütbeli takipçilerinin oluşturduğu özel ekip  
+[[Ioun]]'un en üst rütbeli takipçilerinin oluşturduğu özel ekip.  
   
-Üyeler:  
+Üyeleri:  
 
 - [[Bethany]]  
 - [[Rustov]]  

@@ -9,7 +9,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | HalfOrc |  
+| **Irk** | Half-Orc |  
 | **Sınıf** |  |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  

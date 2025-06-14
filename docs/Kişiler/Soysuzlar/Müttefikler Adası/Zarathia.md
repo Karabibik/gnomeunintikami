@@ -12,7 +12,7 @@ tags:
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
-| **Irk** | HalfElf,HalfOrc |  
+| **Irk** | Half-Elf,Half-Orc |  
 | **Sınıf** | Barbarian, Fighter |  
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  

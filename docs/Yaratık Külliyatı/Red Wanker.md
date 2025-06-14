@@ -1,7 +1,7 @@
----  
-tags:  
-  - Yaratık  
-  - Large  
+---
+tags:
+  - Yaratık
+  - Large
 ---  
 ![[RedWanker.webp]]{ align=right }  
   

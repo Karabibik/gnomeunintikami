@@ -1,17 +1,21 @@
-# Andrand Taralon  
+---
+tags:
+  - of Agnon
+---  
+# Saldon   
   
 !!! note inline end "Karakter Notları"  
-	2005'te babasının öldürülmesiyle 5 yaşında tahta geçmiş     
+	Agnon'da önemli biriymiş. Saldon'un girişinde heykeli var.     
   
 |  |  |  
 |---|---|  
-| **İsim** | Andrand |  
-| **Soyadı** | [[Taralon]] |  
+| **İsim** | Saldon |  
+| **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
-| **Kütük** | [[Soradin Kenti]] |  
+| **Kütük** | [[Agnon Ligi]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   

@@ -8,7 +8,7 @@
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | HalfOrc |  
+| **Irk** | Half-Orc |  
 | **Sınıf** | Barbarian |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  

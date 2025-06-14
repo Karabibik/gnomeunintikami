@@ -6,6 +6,8 @@ timeline
 			: (?)<br>Gezgin Voldrun Hanedanı  
 			: (?)<br>War of Sorrows  
 			: (?)<br>Elf Tarihinin Sıfırlanması  
+		Voldrun Krallığı  
+			: (?)<br>İlk Voldrun Kralının Tahta Çıkması  
 		Voldrun Meclisi  
 			: (216)<br>Son Voldrun Kralının Ortadan Kaybolması<br>‏‏‎ ‎<br>- I. Büyük Buhran  
 		Ejderha Savaşları  

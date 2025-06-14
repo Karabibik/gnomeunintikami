@@ -1,3 +1,8 @@
+---  
+tags:  
+  - Macera  
+---  
+  
 YÜKSEK KALİTE DÜŞÜK FİYAT  
   
 30.01.2025'te oynandı  

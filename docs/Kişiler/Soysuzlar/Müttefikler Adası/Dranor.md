@@ -9,7 +9,7 @@
 | **Soyadı** |  |  
 | **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
-| **Irk** | HalfElf |  
+| **Irk** | Half-Elf |  
 | **Sınıf** | Blood Hunter (Level 5) |  
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  

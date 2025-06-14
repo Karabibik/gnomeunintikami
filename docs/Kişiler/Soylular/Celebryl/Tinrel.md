@@ -1,6 +1,6 @@
 ---
 tags:
-  - Stormforger
+  - The Stormforger
 ---  
 # Tinrel Celebryl  
   
