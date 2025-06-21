@@ -3,7 +3,7 @@ tags:
   - Hizip  
 ---  
   
-<figure style="float: right" markdown="span">  
+<figure class="boxed inline end" markdown>  
 ![[Pin_Königs.webp]]  
 /// caption  
 Könningsmagier Broşu  

@@ -7,6 +7,8 @@ tags:
   
 **Ejderhalar Diyarı** olarak da bilinen **Soradin Federasyonu**, kıtanın bilim ve endüstri bakımından en gelişmiş ülkesidir ve [[İmparatorluk]]'un kıtadaki tek devlet olma planlarının karşısında duran en büyük engeldir. Devlet, kıtadaki en büyük üçüncü nüfusa ve en büyük ikinci ekonomiye sahiptir.  
   
+## Tarih  
+  
 <figure class="boxed inline end" markdown>  
   ![[Pin_Soradin.webp]]  
 /// caption  
@@ -14,7 +16,6 @@ Soradin Broşu
 ///  
 </figure>  
   
-## Tarih  
 [[Soradin Kenti]], Renkli Ejderhalar Kralı Dağ Eriten [[Sorad]]’ın boyunduruğundan kurtulmasının ardından daima bölgedeki en önemli güç olmuş ve çevredeki şehirleri ortak çıkarlara dayalı bir birlik altında yönetmiştir. Uzun tarihinde İmparatorluk ile sayısız savaş yaşayan ve 2 kez tamamen fethedilen Soradin toprakları 1310 yılından beri (1864-1964 arasında, imparatora vergi ödemeyi kabul ettikleri dönem dışında) bağımsızdır ve [[Taralon]] Hanedanı tarafından yönetilmektedir.  
   
 Soradin Lordu her öldüğünde federasyonu oluşturan şehirlerin yöneticileri geleneksel olarak bir araya gelir ve içlerinden biri yeni lord seçilir. Görünüşte demokratik olan bu seçimlerde 1310 yılından beri yalnızca, Soradin Kenti’ni yöneten Taralon ailesi üyeleri seçilmiştir. 2005 yılında kıtadaki en büyük 3 devletin (İmparatorluk, Soradin Federasyonu ve [[Rand Diyarı]]) yöneticilerinin bir gecede öldürülmesi üzerine henüz 5 yaşında olan Andrand Taralon için bile bu gelenek bozulmamıştır ve ülke son 15 yıldır bu genç lordun kontrolü altındadır. Kuzeydeki kıyı şehirleri genellikle zengin tüccar aileleri arasından bir lider seçerken başkentin yönetimi babadan oğla geçmektedir.  
