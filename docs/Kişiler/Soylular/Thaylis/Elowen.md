@@ -15,11 +15,11 @@
 | **Karakter Betimi** |  |  
   
   
-=== "2"  
-	![[Elowen_2.webp]]{ .card }  
-  
 === "Elowen"  
-	![[Elowen_portrait.webp]]{ .card }  
+	![[0_Elowen_portrait.webp]]{ .card }  
+  
+=== "1"  
+	![[Elowen_1.webp]]{ .card }  
   
 === "Showcase"  
 	![[Elowen_Showcase.webp]]{ .card }  

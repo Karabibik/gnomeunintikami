@@ -14,14 +14,6 @@
   flex: 50%;
 }
 
-/* Style for the image frame */
-.image-frame {
-    border: 2px solid #333; /* Dark gray border */
-    padding: 5px; /* Space between image and border */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-    display: inline-block; /* Crucial for the border to wrap the content correctly */
-}
-
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
