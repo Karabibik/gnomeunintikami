@@ -19,5 +19,4 @@ And yet, within its crumbling walls, something of value remains. Hidden beneath 
   
 The castle is ruined, but not broken. Forgotten, but not lost. And now, it has new owners.  
   
-![[Caelheim.webp]]  
-  
+![[Caelheim.webp]]

@@ -15,11 +15,8 @@
 | **Karakter Betimi** | 811 yaşında<br>Altın rengi mage cübbesi<br>Yaşlı görünüyor cidden<br>Uzun beyaz saçlı<br>Yüzü buruşuk, bakışları canlı<br>Derisi normal, gözleri altın rengi |  
   
   
-=== "1"  
-	![[Delador_1.webp]]{ .card }  
-  
-=== "2"  
-	![[Delador_2.webp]]{ .card }  
+=== "Delador"  
+	![[Delador_portrait.webp]]{ .card }  
   
 </div>  
   

@@ -111,6 +111,8 @@
 	  
 	She struck first.  
 	  
+	![[SylmiraAdventure.webp]]  
+	  
 	A single leap closed the distance, and her fist—charged with the full force of her draconic might—collided with his snout. Scales split under the impact, A deep fracture split across his snout as he staggered back, and hot dragon’s blood—thick, electric—splattered her knuckles. Zarlith snarled, snapping his jaws—she twisted midair, landing a kick against his eye ridge before flipping away.  
 	  
 	"Foolish," he growled. Blood trickled from his lip, but he grinned, sharp and cruel. "Do you think you can kill me with those little hands?"  

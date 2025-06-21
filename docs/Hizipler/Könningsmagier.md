@@ -4,7 +4,9 @@ tags:
 ---  
   
 <figure style="float: right" markdown>  
+<div class="image-frame">  
   ![[Pin_Königs.webp]]  
+  </div>  
   <figcaption>Könningsmagier Broşu</figcaption>  
 </figure>  
   

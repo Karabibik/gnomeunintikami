@@ -22,8 +22,8 @@ tags:
 === "Renata"  
 	![[0_Renata_portrait.webp]]{ .card }  
   
-=== "1"  
-	![[1_Renata_1.webp]]{ .card }  
+=== "Unmasked"  
+	![[1_Renata_Unmasked.webp]]{ .card }  
   
 === "Showcase"  
 	![[Renata_Showcase.webp]]{ .card }  
