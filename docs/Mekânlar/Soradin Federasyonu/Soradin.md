@@ -16,10 +16,10 @@ tags:
   
 Soradin Lordu her öldüğünde federasyonu oluşturan şehirlerin yöneticileri geleneksel olarak bir araya gelir ve içlerinden biri yeni lord seçilir. Görünüşte demokratik olan bu seçimlerde 1310 yılından beri yalnızca, Soradin Kenti’ni yöneten Taralon ailesi üyeleri seçilmiştir. 2005 yılında kıtadaki en büyük 3 devletin (İmparatorluk, Soradin Federasyonu ve [[Rand Diyarı]]) yöneticilerinin bir gecede öldürülmesi üzerine henüz 5 yaşında olan Andrand Taralon için bile bu gelenek bozulmamıştır ve ülke son 15 yıldır bu genç lordun kontrolü altındadır. Kuzeydeki kıyı şehirleri genellikle zengin tüccar aileleri arasından bir lider seçerken başkentin yönetimi babadan oğla geçmektedir.  
   
-<figure class="boxed inline end" markdown="span">  
-  ![[Pin_Soradin.webp]]  
-  <figcaption>Soradin Broşu</figcaption>  
-</figure>  
+![Soradin Broşu](Pin_Soradin.png){ width="100", align=left }  
+/// caption  
+Soradin Broşu  
+///  
   
 ## Coğrafya  
 Soradin Devleti’nin kuzey kıyısı boyunca, pek çoğu antik çağlardan beri önemli yerleşim yerleri olan ticaret şehirleri yer alır. Ülkenin gelirinin büyük kısmı bu şehirler ile Müttefikler Adası arasında yapılan ticarete dayanır. Ancak ülkenin asıl bel kemiği Kızıl Taht Dağı eteklerinde kurulu olan Soradin Kenti ve çevresindeki bölgedir. Jeotermal enerji, kömür kaynakları ve akarsular bakımından zengin olan bu bölgede pek çok otomasyon yöntemi geliştirilmiş olup kıtanın başka hiçbir yerinde eşi benzeri görülmemiş miktarlarda üretim yapılmaktadır.  
