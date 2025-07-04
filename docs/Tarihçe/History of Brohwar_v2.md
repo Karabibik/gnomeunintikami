@@ -21,7 +21,7 @@
     - I. Büyük Buhran  
   icon: ":material-hoop-house:"  
 
-- title: [[Ejderhalar Savaşı]]  
+- title: "[[Ejderhalar Savaşı]]"  
   sub_title: "(300 - 342)"  
   content: |  
     (300): Ejderha Savaşının Başlaması  
