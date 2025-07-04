@@ -42,12 +42,12 @@ markdown_extensions:
   - toc:
       permalink: true
   - meta
-  - footnotes
   - tables
   - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.blocks.caption
+  - neoteroi.timeline
   
 plugins:
   - search
@@ -64,3 +64,4 @@ extra_javascript:
   
 extra_css:
   - stylesheets/extra.css
+  - css/neoteroi-mkdocs.css
