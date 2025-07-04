@@ -4,7 +4,7 @@
   sub_title: "(???)"  
   content: |  
     - Gezgin Voldrun Hanedanı  
-    - [[War of Sorrows]]  
+    - ⚔️ [[War of Sorrows]]  
     - [[Elf Tarihi|Elf Tarihinin Sıfırlanması]]  
   icon: ":fontawesome-solid-scroll-torah:"  
 
@@ -24,21 +24,21 @@
 - title: "[[Ejderhalar Savaşı]]"  
   sub_title: "(300 - 342)"  
   content: |  
-    (300): Ejderha Savaşının Başlaması  
+    (300): ⚔️ Ejderha Savaşının Başlaması  
     (341):  
     - [[B - Kolandir's Prequel|Bronzeheart Battalion]]  
     - Sorad'ın Ölmesi  
-  icon: ":simple-redragon:"  
+  icon: ":simple-dragonframe:"  
 
 - title: Kutsal İmparatorluk  
   sub_title: "(342 - 617)"  
   content: |  
-    *(342):* İlk Voldrun İmparatorunun Tahta Çıkması  
-    *(350-355):* Kuzey Kıyılarının Ele Geçirilmesi  
-    **(355-370):** [[Soradin Kenti|Soradin]]'in Tarih Sahnesine Çıkması  
-    **(512):** Soradin Şehri Hariç Doğu Topraklarının Ele Geçirilmesi  
-    **(592):**  
-    - Rakonya ve Port Norton'un İmparatorluk'a Teslim Olması  
+    (342): İlk Voldrun İmparatorunun Tahta Çıkması  
+    (350-355): ⚔️ Kuzey Kıyılarının Ele Geçirilmesi  
+    (355-370): [[Soradin Kenti|Soradin]]'in Tarih Sahnesine Çıkması  
+    (512): ⚔️ Soradin Şehri Hariç Doğu Topraklarının Ele Geçirilmesi  
+    (592):  
+    - 🕊️ Rakonya ve Port Norton'un İmparatorluk'a Teslim Olması  
     - Imperial Golden Age  
   icon: ":fontawesome-solid-holly-berry:"  
 
@@ -54,17 +54,17 @@
   sub_title: "(652 - 1311)"  
   content: |  
     (652): İmparatorluk'un [[Solsitis]]'e Yanlaması  
-    (791): İmparatorluk'un Tekrar Genişlemesi  
+    (791): ⚔️ İmparatorluk'un Tekrar Genişlemesi  
     (1000): Nainsan Eziyetleri  
     (1200): Holocaust  
     (1246):  
     - [[Müttefikler Adası]]'nın Kurulması  
-    - Nainsan İsyanlarının Başlaması  
+    - Nainsan İsyanlarının Başlaması<br>  
     (1250):  
     - Taralon Hanedanının Yükselmesi  
-    - Randların Teşkilatlanması  
+    - Randların Teşkilatlanması<br>  
     (1310):  
-    - Soradin'e Savaşın Kaybedilmesi  
+    - ⚔️ Soradin'e Savaşın Kaybedilmesi  
     - Randların Könningsburg'u Yağmalaması  
     - İmparator ile Ailesinin Kaçması  
     - [[III. Büyük Buhran]]  
@@ -74,19 +74,17 @@
   sub_title: "(1311 - )"  
   content: |  
     (1311):  
-    - Rand Diyarı ve Soradin Federasyonu ile Anlaşma  
+    - 🕊️ Rand Diyarı ve Soradin Federasyonu ile Anlaşma  
     - Delador'un, [[Güneş Birliği]]'nin Temellerini Atması  
-    - Nainsan Haklarının Güvence Altına Alınması  
-  
+    - Nainsan Haklarının Güvence Altına Alınması<br>  
     (1571):  
-    - Warbonter'in Yeniden Alınması  
-    - [[Beljardin]]lerin Soylu İlan Edilmesi  
-  
-    (1590): Aedil'in Geri Alınması  
-    (1864): [[Soradin Savaşı|Soradin'in Yenilmesi ve Vergiye Bağlanması]]  
+    - ⚔️ Warbonter'in Yeniden Alınması  
+    - [[Beljardin]]lerin Soylu İlan Edilmesi<br>  
+    (1590): ⚔️ Aedil'in Geri Alınması  
+    (1864): ⚔️ [[Soradin Savaşı|Soradin'in Yenilmesi ve Vergiye Bağlanması]]  
     (1984): Soradin ile Soğuk Savaş Başlangıcı  
     (2005): [[Kara Gece]]  
-    (2006): Goliath İşgalinin Başlaması  
+    (2006): ⚔️ Goliath İşgalinin Başlaması  
     (2020 - ): Vagabonds of Warbonter  
   icon: ":fontawesome-brands-galactic-republic:"  
   
