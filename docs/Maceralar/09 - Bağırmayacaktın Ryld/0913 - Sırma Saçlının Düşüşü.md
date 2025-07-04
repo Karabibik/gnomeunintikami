@@ -60,6 +60,4 @@ Yalnız oluştuğu gibi yere yığılıyor. Kapıya doğru biraz sürünüyor am
   
 Geldiğimiz yerde değil de karlı bir dağın tepesinde ortaya çıkıyoruz. Açık havaya çıktığımız gibi meleğin cismani formu ortadan kayboluyor ve `"Sonunda..."` diyerek bize gülüp havaya karışıyor. Tanrısının yanına gitmiştir herhâlde. Vücuduna saplı iki [[Arrow of Slaying|oktan]] biri kırık, diğeri sağlam hâlde yere düşüyor. Sıradan ok gibi değil sağlam olan.  
   
-Harrion elindeki son güçleri de kullanarak önce Celeste'ye mesaj atıyor: `"Şu anda olduğumuz yeri kaydet, geliyoruz."`. `"Neredesiniz? Oraya nasıl gittiniz? Üniversiteyi hazırlıyoruz."` diye bir cevap geliyor ama Harrion'ın hâli yok, *Teleportation Circle* ritüelini tamamlıyor ve içeri atlıyor ekip.   
-  
-[^1]: Citation needed
+Harrion elindeki son güçleri de kullanarak önce Celeste'ye mesaj atıyor: `"Şu anda olduğumuz yeri kaydet, geliyoruz."`. `"Neredesiniz? Oraya nasıl gittiniz? Üniversiteyi hazırlıyoruz."` diye bir cevap geliyor ama Harrion'ın hâli yok, *Teleportation Circle* ritüelini tamamlıyor ve içeri atlıyor ekip. 
