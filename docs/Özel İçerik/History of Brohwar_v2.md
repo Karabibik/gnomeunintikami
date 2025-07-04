@@ -1,4 +1,4 @@
-::timeline-centered::  
+::timeline::  
 
 - title: Kadim Tarih  
   sub_title: "???"  
@@ -18,4 +18,4 @@
     - **592:** Rakonya ve Port Norton'un İmparatorluk'a Teslim Olması  
   icon: ':fontawesome-solid-holly-berry:'  
   
-::/timeline-centered::
+::/timeline::
