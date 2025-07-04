@@ -65,3 +65,4 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
   - css/neoteroi-mkdocs.css
+  - stylesheets/css-v1.1.2.css
