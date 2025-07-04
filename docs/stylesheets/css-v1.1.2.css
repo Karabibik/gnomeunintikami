@@ -5,6 +5,7 @@
 **/
 :root {
   --nt-color-0: #CD853F;
+  /*
   --nt-color-1: #B22222;
   --nt-color-2: #000080;
   --nt-color-3: #4B0082;
@@ -13,8 +14,17 @@
   --nt-color-6: #FF00FF;
   --nt-color-7: #98FB98;
   --nt-color-8: #FFEBCD;
-  --nt-color-9: #2E8B57;
-  --nt-color-10: #6A5ACD;
+  */
+  --nt-color-1: #0F8FFC;
+  --nt-color-2: #3EFF00;
+  --nt-color-3: #FC0FDB;
+  --nt-color-4: #FCA00F;
+  --nt-color-5: #BD3AAA;
+  --nt-color-6: #4279A7;
+  --nt-color-7: #3C4852;
+  --nt-color-8: #7D4675;
+  --nt-color-9: #A78042;
+  --nt-color-10: #5BA742;
   --nt-color-11: #48D1CC;
   --nt-color-12: #FFA500;
   --nt-color-13: #F4A460;

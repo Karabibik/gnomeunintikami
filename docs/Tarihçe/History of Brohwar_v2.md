@@ -28,7 +28,7 @@
     (341):  
     - [[B - Kolandir's Prequel|Bronzeheart Battalion]]  
     - Sorad'ın Ölmesi  
-  icon: ":simple-dragonframe:"  
+  icon: ":simple-redragon:"  
 
 - title: Kutsal İmparatorluk  
   sub_title: "(342 - 617)"  
