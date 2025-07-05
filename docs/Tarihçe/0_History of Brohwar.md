@@ -4,27 +4,29 @@
   sub_title: "(???)"  
   content: |  
     - Gezgin Voldrun Hanedanı  
-    - ⚔️ [[War of Sorrows]]  
-    - [[Elf Tarihi|Elf Tarihinin Sıfırlanması]]  
+    - [[Agnon Ligi]]'nin kurulması  
   icon: ":fontawesome-solid-scroll-torah:"  
 
 - title: Voldrun Krallığı  
-  sub_title: "(???)"  
+  sub_title: "(0 - 216)"  
   content: |  
     - İlk Voldrun Kralının Tahta Çıkması  
+    - ⚔️ [[War of Sorrows]]  
+    - [[Elf Tarihi|Elf Tarihinin Sıfırlanması]]  
   icon: ":material-chess-king:"  
 
 - title: Voldrun Meclisi  
-  sub_title: "(216 - 300)"  
+  sub_title: "(216 - 342)"  
   content: |  
     - Son Voldrun Kralının Ortadan Kaybolması  
     - I. Büyük Buhran  
+    - Agnon Felaketi  
   icon: ":material-hoop-house:"  
 
 - title: "[[Ejderhalar Savaşı]]"  
   sub_title: "(300 - 342)"  
   content: |  
-    (300): ⚔️ Ejderha Savaşının Başlaması  
+    (300): ⚔️ Ejderhalar Savaşının Başlaması  
     (341):  
     - [[B - Kolandir's Prequel|Bronzeheart Battalion]]  
     - Sorad'ın Ölmesi  
