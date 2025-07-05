@@ -37,9 +37,9 @@
 ## After 11  
 
 - [[Caelheim]]'ın muhkemleştirilmesi:  
-	- [ ] Tamiratlar  
+	- [x] Tamiratlar  
 	- [ ] Kâhya tedariki  
-	- [ ] Companion atamaları  
+	- [x] Companion atamaları[^7]  
 ## After B  
 
 - [[B2 - Agnon Seferi, 2. Aşama|Milennial Eavesdrop]]: Kolandir ile Calia arasında geçen konuşmanın bir kısmına şahit olamadık, parazit girdi araya.  
@@ -49,4 +49,5 @@
 [^3]: Muhtemel kaynak: Soradin dağları  
 [^4]: Muhtemel kaynak: İmparatorluk denizi  
 [^5]: Celeste bulmuş  
-[^6]: Eoha kubbesinde bulduğumuz ilahi oklar, bkz: [[0913 - Sırma Saçlının Düşüşü]]
+[^6]: Eoha kubbesinde bulduğumuz ilahi oklar, bkz: [[0913 - Sırma Saçlının Düşüşü]]  
+[^7]: Vincent olacak kuvvetle muhtemel
