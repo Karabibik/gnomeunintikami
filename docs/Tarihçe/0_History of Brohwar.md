@@ -7,7 +7,6 @@
     (???):  
     - Gezgin Voldrun Hanedanı  
     - [[Agnon Ligi]]'nin Kurulması  
-    <br>  
 
 - title: "Voldrun Krallığı"  
   subtitle: "(0 - 216)"  
@@ -17,7 +16,6 @@
     (???):  
     - ⚔️ [[War of Sorrows]]  
     - [[Elf Tarihi|Elf Tarihinin Sıfırlanması]]  
-    <br>  
 
 - title: "Voldrun Meclisi"  
   subtitle: "(216 - 342)"  
@@ -26,7 +24,6 @@
     (216):  
     - Son Voldrun Kralının Ortadan Kaybolması  
     - I. Büyük Buhran  
-    <br>  
 
 - title: "[[Ejderhalar Savaşı]]"  
   subtitle: "(300 - 342)"  
@@ -36,7 +33,6 @@
     (341):  
     - [[B - Kolandir's Prequel|Bronzeheart Battalion]]  
     - Sorad'ın Ölmesi  
-    <br>  
 
 - title: "Kutsal İmparatorluk"  
   subtitle: "(342 - 617)"  
@@ -49,7 +45,6 @@
     (592):  
     - 🕊️ Rakonya ve Port Norton'un İmparatorluk'a Teslim Olması  
     - Imperial Golden Age  
-    <br>  
 
 - title: "Felaketler Dönemi"  
   subtitle: "(617 - 652)"  
@@ -59,7 +54,6 @@
     - [[Harsus'un Ölümü]]  
     - Yönetimin Çökmesi  
     - II. Büyük Buhran  
-    <br>  
 
 - title: "Mutlak İmparatorluk"  
   subtitle: "(652 - 1311)"  
@@ -71,18 +65,15 @@
     (1200): Holocaust  
     (1246):  
     - [[Müttefikler Adası]]'nın Kurulması  
-    - Non-Human İsyanlarının Başlaması  
-    <br>  
+    - Non-Human İsyanlarının Başlaması<br>  
     (1250):  
     - Taralon Hanedanının Yükselmesi  
-    - Randların Teşkilatlanması  
-    <br>  
+    - Randların Teşkilatlanması<br>  
     (1310):  
     - ⚔️ Soradin'e Savaşın Kaybedilmesi  
     - Randların Könningsburg'u Yağmalaması  
     - İmparator ile Ailesinin Kaçması  
     - [[III. Büyük Buhran]]  
-    <br>  
 
 - title: "Modern İmparatorluk"  
   subtitle: "(1311 - )"  
@@ -91,12 +82,10 @@
     (1311):  
     - 🕊️ Rand Diyarı ve Soradin Federasyonu ile Anlaşma  
     - Delador'un, [[Güneş Birliği]]'nin Temellerini Atması  
-    - Non-Human Haklarının Güvence Altına Alınması  
-    <br>  
+    - Non-Human Haklarının Güvence Altına Alınması<br>  
     (1571):  
     - ⚔️ Warbonter'in Yeniden Alınması  
-    - [[Beljardin]]lerin Soylu İlan Edilmesi  
-    <br>  
+    - [[Beljardin]]lerin Soylu İlan Edilmesi<br>  
     (1590): ⚔️ Aedil'in Geri Alınması  
     (1864): ⚔️ [[Soradin Savaşı|Soradin'in Yenilmesi ve Vergiye Bağlanması]]  
     (1984): Soradin ile Soğuk Savaş Başlangıcı  
