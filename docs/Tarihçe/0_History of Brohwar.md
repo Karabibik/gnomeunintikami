@@ -43,7 +43,7 @@
     (355 - 370): [[Soradin Kenti|Soradin]]'in Tarih Sahnesine Çıkması  
     (512): ⚔️ Soradin Şehri Hariç Doğu Topraklarının Ele Geçirilmesi  
     (592):  
-    - 🕊️ Rakonya ve Port Norton'un İmparatorluk'a Teslim Olması  
+    - 🕊️ Rakonya ve Port Nerton'un İmparatorluk'a Teslim Olması  
     - Imperial Golden Age  
 
 - title: "Felaketler Dönemi"  

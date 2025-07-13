@@ -8,4 +8,6 @@ tags:
 - Kaba [[Sthol]]  
 - Haksız [[Thobal]]  
 - Rakonyalı [[Razil]]  
-- OÇ [[Muzog]] (Keranacı)
+- OÇ [[Muzog]] (Keranacı)  
+  
+![[SaldonBandosu.webp]]
