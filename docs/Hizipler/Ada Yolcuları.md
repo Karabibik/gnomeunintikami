@@ -3,7 +3,7 @@ tags:
   - Hizip  
 ---  
   
-[[Müttefikler Adası]]'nı önemli bir kıyametin eşiğinden döndüren bir grup maceracı.  
+[[Müttefikler Adası]]'nı önemli bir kıyametin eşiğinden döndüren bir grup maceracı. Maceraları, [[A - Ada Yolcuları]]'nda anlatılmaktadır.  
   
 Üyeleri:  
   

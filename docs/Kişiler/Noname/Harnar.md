@@ -10,7 +10,7 @@ tags:
 |---|---|  
 | **İsim** | Harnar |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Nerton Kadrosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Half-Dwarf |  
 | **Sınıf** | Cleric (Tempes) (Level 6) |  

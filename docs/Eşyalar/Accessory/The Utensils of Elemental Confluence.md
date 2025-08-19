@@ -4,7 +4,7 @@ tags:
 ---  
   
   
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -17,6 +17,11 @@ tags:
 | **Gereksinim** | |  
 | **İşlev** | **The Emberfork:**<br>- Attuned to the Plane of Fire<br>- Can cast Produce Flame freely.<br><br>**The Skewer of the Unyielding Stone:**<br>- Attuned to the Plane of Earth<br>- Functions as an Immovable Rod.<br><br>**The Ladle of the Boundless Tides:**<br>- Attuned to the Plane of Water<br>- Can cast Create and Destroy Water three times per day.<br>- Purifies any non-magical filth or poison<br><br>**The Sieve of the Tempest:**<br>- Attuned to the Plane of Air<br>- Wielder can cast Levitate once per day.|  
   
+  
+=== "1"  
+	![[The Utensils of Elemental Confluence_1.webp]]{ .card }  
+  
+</div>  
   
 !!! note "Notlar"  
 	"Forged in decadence, wielded in defiance, lost to ruin."  

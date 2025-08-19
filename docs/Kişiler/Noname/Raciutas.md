@@ -10,7 +10,7 @@ tags:
 |---|---|  
 | **İsim** | Raciutas |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Nerton Kadrosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** | Bard (College of Lore) (Level 6) |  
@@ -25,7 +25,10 @@ tags:
 === "1"  
 	![[Raciutas_1.webp]]{ .card }  
   
-=== "token"  
-	![[Raciutas_token.webp]]{ .card }  
+=== "Token"  
+	![[Raciutas_Token.webp]]{ .card }  
+  
+=== "Yaşlı"  
+	![[Raciutas_Yaşlı.webp]]{ .card }  
   
 </div>

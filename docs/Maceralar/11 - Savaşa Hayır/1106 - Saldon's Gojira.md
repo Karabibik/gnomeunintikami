@@ -11,22 +11,11 @@ Muzog tabii şehre gelir gelmez dükkâna gidiyor. Tezgâhta half-elf bir adam v
   
 Laf lafı açıyor, Muzog bir de Razil'i görmek istiyor. Sienna ile Zavir suspus kesilip birbirlerine gergin gergin bakıyorlar. Razil birkaç gün önce ölmüş. `"Yeni iş buldum, hepinizi çok zengin edicem, krallar gibi yaşıycaz."` demiş, kalkmış iki adım yürümüş, başına kiremit düşmüş. Bu sefer Muzog kaskatı kesiliyor. Sessiz bir öfke nöbeti geçiriyor, vücudunda ufak tefek parıltılar görüyor Alfons. Muzog dükkândan çıkıp yürümeye başlıyor. Derdini az buçuk anlayabiliyoruz, biraz yalnız kalmaya ihtiyacı olabilir diye Alfons peşinden *Arcane Eye* gönderiyor. Yalnız görüyor ki Muzog'un rünler giderek daha fazla parlıyor. Sienna, yolun Razil ile eskiden takıldıkları bir hana çıktığını söyleyince arkasından fırlıyoruz.  
   
-Muzog'u tam hana girmiş ve masayı karşı duvara fırlatmışken yakalıyoruz. Vücudu bir garip, kendinde değil gibi. Konuşmaya çalışıyoruz ama ona da cevap vermiyor[^2]. Hareket edecek gibi olduğu an Alfons ile Harrion *Hold Person* atıyor. Herkesi dışarı çıkarıp Muzog'u sakinleştirmenin bir yolunu arıyoruz ama ne yapabiliriz ki? Muzog'un ağzından çok odaklı *Firebolt* gibi bir şey çıkıyor gibi görüyor Harrion ama yok, öyle olsa han falan kalmazdı ortada[^3]. O arada Kolandir'in baltası bir ufak parlıyor, Philip'in kafası karışıyor, sebebi o sanıp almaya kalkıyor.  
+Muzog'u tam hana girmiş ve masayı karşı duvara fırlatmışken yakalıyoruz. Vücudu bir garip, kendinde değil gibi. Konuşmaya çalışıyoruz ama ona da cevap vermiyor[^2]. Hareket edecek gibi olduğu an Alfons ile Harrion *Hold Person* atıyor. Herkesi dışarı çıkarıp Muzog'u sakinleştirmenin bir yolunu arıyoruz ama ne yapabiliriz ki? Muzog'un ağzından çok odaklı *Firebolt* gibi bir şey çıkıyor gibi görüyor Harrion ama yok, öyle olsa han falan kalmazdı ortada[^3]. O arada Kolandir'in baltası bir ufak parlıyor, Philip'in kafası karışıyor, sebebi o sanıp almaya kalkıyor. Bir zorlanma hissedip ekibin diğer üyeleri tarafından baltayı almaması salık verilince Kolandir'in de olayı durdurmaya çalıştığını anlayıp bırakıyor.  
   
+Sienna'ya *Sending* atıp tavsiye isteyince `"Bahamut tapınağına götürün."` diyor. Hâlâ *Hold Person* etkisindeki Muzog'un bedenini Kolandir yönetmeye çalışıyor ve yavaş yavaş, adım adım şehir meydanından geçiyoruz ama etrafta bir sürü insan var. Muzog'un rünleri de o sırada yaldır yaldır parlamaya başlamasın mı? Nuke olup patlayacak resmen. Alfons riske hiç girmeyip çok güçlü bir *Dispel Magic* atıyor üstüne ve rünler sönüyor bir süreliğine, en azından tapınağa ulaşabilecek kadar.  
   
-  
-  
-muzog, godzilla moda geçiyor  
-kolandir, alfons, harrion zor tutuyor  
-  
-sienna'ya sending atıyorlar, tapınağa götürün diyor  
-  
-kolandir bedeni yönetip harekete geçiriyor  
-yol ortasında muzog nuke olup patlayacak gibi olunca alfons 6 level dispel atıyor sönüyor  
-  
-tapınağa girince devasa bir silver dragonborn paladin geliyor, tapınağı boşalttırıyor  
-  
-geceyarısına doğru muzog düzeliyor  
+Tapınağa girdiğimizde dev boyutlarda, Muzog'dan da büyük bir gümüş dragonborn paladin geliyor. Hızlıca durumu açıklayınca tüm tapınağı boşalttırıp Muzog'u Bahamut heykelinin yanına getirtiyor. Rünler bir daha patlayacakmış kadar parlamıyor, muhtemelen burada baskılanıyorlar. Saatler saatleri kovalasa da durumda bir düzelme olmuyor. Muzog'u yalnız bırakmıyoruz tabii. Gergin bekleyiş sonrası, geceyarısına doğru, Muzog kendine geliyor ama olanları hatırlamıyor.  
   
 [^1]: Colossus of Rodos gibi  
 [^2]: Gojira  

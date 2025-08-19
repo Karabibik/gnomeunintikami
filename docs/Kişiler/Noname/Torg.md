@@ -7,7 +7,7 @@
 |---|---|  
 | **İsim** | Torg |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Nerton Kadrosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Half-Orc |  
 | **Sınıf** | Barbarian (Ancestral Guardian) (Level 6) |  

@@ -3,6 +3,8 @@ tags:
   - Hizip  
 ---  
   
+Ejderhalar Savaşı sırasında büyük yiğitlikler göstermiş bir grup yaşamzede. Maceraları, [[B - Kolandir's Prequel]]'da anlatılmaktadır.  
+  
 |            Başgan            |         Üye          |          Üye          |                   Üye                   |  
 | :--------------------------: | :------------------: | :-------------------: | :-------------------------------------: |  
 |    ![[Kolandir_mini.webp]]    | ![[Innes_mini.webp]]  |   ![[Qul_mini.webp]]   |        ![[Taralaine_mini.webp]]         |  

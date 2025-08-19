@@ -7,10 +7,10 @@
 |---|---|  
 | **İsim** | Green Knight |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Nerton Kadrosu]] |  
 | **Cinsiyet** |  |  
-| **Irk** | Revenant |  
-| **Sınıf** |  |  
+| **Irk** |  |  
+| **Sınıf** | Paladin |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  

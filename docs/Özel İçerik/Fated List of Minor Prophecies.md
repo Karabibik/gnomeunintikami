@@ -15,7 +15,7 @@
 | Elemental Annihilator                         | Deal every elemental damage in a single fight                   |                                   |  
 | ~~Enchantment!~~                              | ~~Help create a magic item~~                                    | ~~[Alfons][ach6]~~                |  
 | Eternal Sleep                                 | Rest your soul                                                  |                                   |  
-| Gotta Catch 'Em All                           | Fight with 50 different creatures                               | Party effort (22/50)              |  
+| Gotta Catch 'Em All                           | Fight with 50 types of creatures                                | Party effort (22/50)              |  
 | Harlequin                                     | Have 5 different draconic body features                         | Muzog [(3/5)][ach9]               |  
 | Kingdom Hopper                                | Visit each [kingdom][def5]                                      | Harrion (7/9)                     |  
 | Manor Owner                                   | Have your own manor                                             |                                   |  

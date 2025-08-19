@@ -7,4 +7,31 @@ Northern Federation’s gate through the civilized world, Port Nerton is basical
   
 The city of Port Nerton is not walled since they do not expect any threat from the land. The port however, founded in the middle of a U-shaped bay, is fortified on the edges of the bay. Unique geography of the port allows nearly no winds making it harder for both approaching and leaving ships to move. The sun hardly shines on the city and the weather is often rainy if not cloudy.  
   
-*It is obligatory to carry weapons at night time for individuals and maybe even more so for the groups.*
+*It is obligatory to carry weapons at night time for individuals and maybe even more so for the groups.*  
+  
+Here's a compiled list of nearby villages:  
+
+- Headcliff  
+- Greatbrook  
+- Chally Vale  
+- Sainton  
+- Lanternham  
+- Rosegarden  
+- Deanford  
+- Castleby  
+- Poplar Hollow  
+- Kindmere  
+- Hivefield  
+- Littleton  
+- Centralleigh  
+- Springstead  
+- Salowood  
+- Sunport  
+- Serperton  
+- Hawkshire  
+- Stoneridge  
+- Wellyham  
+- Gallantown  
+- Newstead  
+- Olivegrove  
+- Cribflat

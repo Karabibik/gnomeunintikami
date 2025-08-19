@@ -1,11 +1,11 @@
-# Ruby   
+# Ruby Applebottom  
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
 | **İsim** | Ruby |  
-| **Soyadı** |  |  
+| **Soyadı** | [[Applebottom]] |  
 | **Hizip** | [[Ada Yolcuları]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Halfling |  

@@ -3,7 +3,7 @@ tags:
   - Hizip  
 ---  
   
-[[Müttefikler Adası]]'nda yollarını bulmaya çalışan bir grup maceracı.  
+[[Müttefikler Adası]]'nda yollarını bulmaya çalışan bir grup maceracı. Maceraları, [[D - Kara Yolcuları]]'nda anlatılmaktadır.  
   
 Üyeleri:  
   

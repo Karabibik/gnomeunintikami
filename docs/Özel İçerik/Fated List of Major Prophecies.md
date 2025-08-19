@@ -10,7 +10,7 @@
 | Into the Deep Roads  | Re-discover the [lost Dwarven Kingdoms][def1]               | Ongoing (0/3)                     |  
 | Lost Soul            | Save Adelyus from the depths of [[Abyss]]                   |                                   |  
 | ~~Peace Negotiator~~ | ~~Prevent (or resolve) the war between two kingdoms~~       | ~~Party effort [Complete][ach2]~~ |  
-| Royal Rendezvous     | Meet the Emperor ant the current rulers of Soradin and Rand |                                   |  
+| Royal Rendezvous     | Meet the Emperor and the current rulers of Soradin and Rand |                                   |  
 | Shadowguard Insider  | Get to know each Shadowguard captain                        | Ongoing [(3/12)][ach1]            |  
 | Soradead             | Defeat Sorad, *again*                                       |                                   |  
 | There and Back Again | Survive an expedition to the [[Harabeler Çölü]]             |                                   |  
