@@ -16,7 +16,10 @@
   
   
 === "Somnamun"  
-	![[Somnamun_portrait.webp]]{ .card }  
+	![[0_Somnamun_portrait.webp]]{ .card }  
+  
+=== "2"  
+	![[Somanum_2.webp]]{ .card }  
   
 </div>  
   

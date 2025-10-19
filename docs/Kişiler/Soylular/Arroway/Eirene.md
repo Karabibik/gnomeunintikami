@@ -15,11 +15,14 @@
 | **Karakter Betimi** | Young adult, orta yapılı<br>Ela gözlü, zeytin yeşili saçlı<br>Saçları kahverengi, dalgalı, omzuna kadar geliyor |  
   
   
+=== "Eirene"  
+	![[0_Eirene_portrait.webp]]{ .card }  
+  
+=== "Ayurene"  
+	![[Eirene_Ayurene.webp]]{ .card }  
+  
 === "Mezuniyet"  
 	![[Eirene_Mezuniyet.webp]]{ .card }  
-  
-=== "Eirene"  
-	![[Eirene_portrait.webp]]{ .card }  
   
 </div>  
   

@@ -4,8 +4,7 @@ tags:
 ---  
 # Orospu Evladı   
   
-!!! note inline end "Karakter Notları"  
-	[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.     
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -20,3 +19,10 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "Orospu Evladı"  
+	![[Orospu Evladı.webp]]{ .card }  
+  
+</div>  
+  
+!!! note "Karakter Notları"  
+	[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.   

@@ -14,6 +14,7 @@
 [[0900 - Bağırmayacaktın Ryld]]  
 [[1000 - Turnuva 2021]]  
 [[1100 - Savaşa Hayır]]  
+[[1200 - Sand People Aren't Real]]  
   
 Çeşitli plot hooklar: [[99 - Plot Hooks]]  
   
@@ -22,5 +23,6 @@ BTU Spinoff'ları:
 [[B - Kolandir's Prequel]]  
 [[C - FanFinFon]]  
 [[D - Kara Yolcuları]]  
+[[F - Nerton Kadrosu]]  
   
 *[BTU]:  Brohvar TTRPG Universe
