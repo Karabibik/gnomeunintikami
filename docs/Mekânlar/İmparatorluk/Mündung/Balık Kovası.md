@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mekân
+  - Mekân/İşletme
 ---  
   
 [[Mündung]]'da, [[Mohako]]'nun işlettiği han.

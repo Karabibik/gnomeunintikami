@@ -10,13 +10,13 @@ tags:
 |---|---|  
 | **İsim** | Varin |  
 | **Soyadı** |  |  
-| **Hizip** |  |  
+| **Hizip** | [[Varin & Sons]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** |  |  
+| **Sınıf** | Rogue (Mastermind) |  
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
-| **Karakter Betimi** |  |  
+| **Karakter Betimi** | Çok zeki, öyle böyle değil (INT > 20) |  
   
   
 === "Varin"  

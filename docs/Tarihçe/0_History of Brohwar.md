@@ -67,7 +67,7 @@
     - [[Müttefikler Adası]]'nın Kurulması  
     - Non-Human İsyanlarının Başlaması<br>  
     (1250):  
-    - Taralon Hanedanının Yükselmesi  
+    - [[Taralon]] Hanedanının Yükselmesi  
     - Randların Teşkilatlanması<br>  
     (1310):  
     - ⚔️ Soradin'e Savaşın Kaybedilmesi  

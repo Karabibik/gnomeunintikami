@@ -15,7 +15,7 @@ Mağara gibi bir ortam var, tepede bir açıklık var. Muhtemelen gelen diğer y
 > Ardenior doğanın parçasıdır  
 > Doğa dayandıkça [[Ardenior]][^2] dayanır  
 	  
-Philip alternatif bir giriş buluyor. Kuleye girince invis olup saklanmış bir svirfneblin fark ediyoruz. Üst kata çıkan merdivenler var, üstünde de bir trapdoor. Alfons (sanırım?[^3]) açıp bi bakıyor üst taraf goblin dolu, yanlarında bir de Gloom var. Gidip yeniyoruz ama onları da.  
+Philip alternatif bir giriş buluyor. Kuleye girince invis olup saklanmış bir [[Svirfneblin]] fark ediyoruz. Üst kata çıkan merdivenler var, üstünde de bir trapdoor. Alfons (sanırım?[^3]) açıp bi bakıyor üst taraf goblin dolu, yanlarında bir de Gloom var. Gidip yeniyoruz ama onları da.  
   
 Üst tarafa açılan bir trapdoor daha var:  
 > Güneş ve ayın çocukları  

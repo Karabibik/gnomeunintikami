@@ -1,6 +1,6 @@
 ---  
 tags:  
-  - Mekân  
+  - Mekân/İşletme  
 ---  
   
 [[Muzog]] Valgenoğlu tarafından işletilen dükkân. Sahibi, potionlarının İmparatorluk'takilere taş çıkartacağını iddia ediyor.   

@@ -2,14 +2,14 @@
 tags:
   - Kaptan Kızıl Ceket
 ---  
-# Alaric Marlowe  
+# Alaric Marlowe   
   
 <div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Alaric |  
-| **Soyadı** | [[Marlowe]] |  
+| **İsim** | Alaric Marlowe |  
+| **Soyadı** |  |  
 | **Hizip** | [[Nerton Kadrosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
@@ -18,9 +18,6 @@ tags:
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
   
-  
-=== "Alaric"  
-	![[Alaric_portrait.webp]]{ .card }  
   
 </div>  
   

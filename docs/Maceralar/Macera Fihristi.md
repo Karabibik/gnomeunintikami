@@ -23,6 +23,7 @@ BTU Spinoff'ları:
 [[B - Kolandir's Prequel]]  
 [[C - FanFinFon]]  
 [[D - Kara Yolcuları]]  
-[[F - Nerton Kadrosu]]  
+[[E - Nerton Kadrosu]]  
+[[F - Rote Acht]]  
   
 *[BTU]:  Brohvar TTRPG Universe

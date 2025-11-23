@@ -1,6 +1,6 @@
 ---  
 tags:  
-  - Mekân  
+  - Mekân/İşletme  
 ---  
   
 Eskiden [[Muzog]]'un çalıştığını kerhane.

@@ -7,9 +7,9 @@ Bir miktar zaman önce, çok da uzak olmayan bir şehirde...
   
 Table of Content  
   
-[[F1 - Nerton Merkez]]  
-[[F2 - Evil Eikthyr]]  
-[[F3 -]]  
-[[F4 -]]  
-[[F5 -]]  
-[[F6 -]]  
+[[E1 - Nerton Merkez]]  
+[[E2 - Evil Eikthyr]]  
+[[E3 -]]  
+[[E4 -]]  
+[[E5 -]]  
+[[E6 -]]  

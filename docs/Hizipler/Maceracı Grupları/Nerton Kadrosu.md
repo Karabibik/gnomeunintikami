@@ -3,7 +3,7 @@ tags:
   - Hizip  
 ---  
   
-[[Port Nerton]] ve civarında yaptıklarıyla nam salmış bir ekip. Maceraları, [[F - Nerton Kadrosu]]'nda anlatılmaktadır.  
+[[Port Nerton]] ve civarında yaptıklarıyla nam salmış bir ekip. Maceraları, [[E - Nerton Kadrosu]]'nda anlatılmaktadır.  
   
 Üyeleri:  
   

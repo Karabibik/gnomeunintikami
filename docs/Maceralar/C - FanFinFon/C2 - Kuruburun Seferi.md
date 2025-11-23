@@ -2,7 +2,7 @@
 tags:  
   - Macera  
 ---  
-Meğer duyum gelmiş: Sorad'ın güçlerine kök söktüren Mercy, Kuruburun'da görülmüş. Mercy'nin 3 ejder kill'i var, 3'ü de ancient dragon. Bütün ejderler adam yolluyormuş. Riflax diyor ki `"Siz canınızı tehlikeye atmayın, onlar saldırsın siz işini bitirmeye girersiniz."`. Canım patronum, hep marabasını düşünür. `"Alın şunu, genç adamsınız yanınızda bulunsun."` diye harçlık niyetine büyü yapıyor, içimiz bir hoş oluyor. Ordular Kuruburun diye bir yerde toplanacakmış. Biz de oraya yollanıyoruz.  
+Meğer duyum gelmiş: Sorad'ın güçlerine kök söktüren Mercy, Kuruburun diye bir yerde görülmüş. Mercy'nin 3 ejder kill'i var, 3'ü de ancient dragon. Bütün ejderler adam yolluyormuş. Riflax diyor ki `"Siz canınızı tehlikeye atmayın, onlar saldırsın siz işini bitirmeye girersiniz."`. Canım patronum, hep marabasını düşünür. `"Alın şunu, genç adamsınız yanınızda bulunsun."` diye harçlık niyetine büyü yapıyor, içimiz bir hoş oluyor. Ordular Kuruburun'da toplanacakmış. Biz de oraya yollanıyoruz.  
   
 Kasabaya yaklaşınca bir gariplik fark ediyoruz. Hiçbir ses yok. Yakındaki bir eve giriyoruz, boşaltılmış. Toparlanmadan boşaltılmış hem de. Bu şekilde evden eve gizli gizli geziyorduk ki kasabanın hanında bir hareketlenme görüyoruz. İçeri birisi giriyor, bir süre geçiyor zırhlı ikinci bir kişi giriyor.  
   

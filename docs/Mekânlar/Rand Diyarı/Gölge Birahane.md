@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mekân
+  - Mekân/İşletme
 ---  
   
 [[Surdibi]]'ndeki iki handan biri. Hancı turist söğüşleyenlerden.

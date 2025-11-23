@@ -19,4 +19,4 @@ Olay mahaline gidiliyor. Kuzeydoğudan bir şey ağaçları devire devire gelmi�
   
 Köye doğru ilerleyeceklerken kurtlar ve ayıların saldırısına uğruyorlar. Arken'in daldan dala atlarken yere düşmesi, Green Knight'ın sersemlemesi, Harnar'ın dosta düşmana nuke atması, Raci'nin yanlışlıkla ateşlerin içine atlaması ve Torg'un sinirlenmeyi unutmasına rağmen bir şekilde sağ çıkabiliyorlar.   
   
-![[F1.webp]]
+![[E1.webp]]

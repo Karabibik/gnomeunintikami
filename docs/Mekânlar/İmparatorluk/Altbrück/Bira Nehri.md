@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mekân
+  - Mekân/İşletme
 ---  
   
 [[Altbrück]]'teki han.

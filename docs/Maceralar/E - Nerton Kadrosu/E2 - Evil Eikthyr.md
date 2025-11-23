@@ -13,7 +13,7 @@ Harnar ile Eirene bu tarifin Zoria'daki druidlere uyduğunu anlıyorlar, klandan
   
 Komutan da aslında köylüleri bastırmak için yanlarına gidiyor. Köylüler çıldırmış, askerlere `"Siz durun biz bulucaz onları."` çekiyor. Komutan bizi acele ettiriyor ve ormana aşina olanlar yola çıkıyor ama hoca hanım inatla aklıselime davet ediyor halkı. Raci'nin en son muhtarın dahi lince katıldığını söylemesiyle birlikte o da ikna oluyor ve yola koyuluyorlar.  
   
-Zoria'ya giden yol uzun. Arken arada birkaç hayvan görüyor, druidlerin ajanı olabileceğini düşünüyor ama ormanda yapacak bir şey yok. Akşama kadar yol teptikten sonra bir nehir kenarında kamp atılıyor. İlk nöbeti Harnar alıyor ama pek bir şey olmuyor. İkinci nöbeti alan Eirene raporuna odaklanmışken önünde [[Evil Eikthyr|geyiğimsi bir varlık]] beliriyor. O donup kalıyor ama Alaric'in kılıcı ekibi uyararak uykularında şişlenmekten kurtarıyor.  
+Zoria'ya giden yol uzun. Arken arada birkaç hayvan görüyor, druidlerin ajanı olabileceğini düşünüyor ama ormanda yapacak bir şey yok. Akşama kadar yol teptikten sonra bir nehir kenarında kamp atılıyor. İlk nöbeti Harnar alıyor ama pek bir şey olmuyor. İkinci nöbeti alan Eirene raporuna odaklanmışken önünde [[Baba Geyik|geyiğimsi bir varlık]] beliriyor. O donup kalıyor ama Alaric'in kılıcı ekibi uyararak uykularında şişlenmekten kurtarıyor.  
   
 Ekip ayaklanıp pozisyon alıyor. Geyik baba ekibin üstünden geçiyor ve çığlığıyla korku salıyor. Çığlığıyla etraftan ulumalar geliyor. Parti buna rağmen savaşmaya devam ederken Harnar bu yaratığın iki farklı varlık olduğunun farkına varıyor ama yapacak bir şey bulamıyor. O sırada davete icabet eden ayılar çıkıyor ortaya ve arkadan ok atan Arken'e musallat oluyor.  
 
