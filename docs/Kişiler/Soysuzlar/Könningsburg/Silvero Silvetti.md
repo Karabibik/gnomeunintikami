@@ -1,5 +1,6 @@
 # Silvero Silvetti   
   
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -14,3 +15,7 @@
 | **Karakter Betimi** |  |  
   
   
+=== "Silvero Silvetti"  
+	![[Silvero Silvetti_portrait.webp]]{ .card }  
+  
+</div>

@@ -4,6 +4,7 @@ tags:
 ---  
 # Einzig   
   
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -18,3 +19,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "Family"  
+	![[Einzig_Family.webp]]{ .card }  
+  
+</div>

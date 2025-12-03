@@ -20,7 +20,10 @@ tags:
   
   
 === "Agnes"  
-	![[Agnes_portrait.webp]]{ .card }  
+	![[0_Agnes_portrait.webp]]{ .card }  
+  
+=== "2"  
+	![[Agnes_2.webp]]{ .card }  
   
 === "Showcase1"  
 	![[Agnes_Showcase1.webp]]{ .card }  

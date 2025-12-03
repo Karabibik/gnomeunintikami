@@ -13,7 +13,7 @@ tags:
 | **Hizip** | [[Nerton Kadrosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Half-Dwarf |  
-| **Sınıf** | Cleric (Tempes) (Level 6) |  
+| **Sınıf** | Cleric (Tempest) (Level 6) |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 1.65 boylarında, tıknaz, kısa saçlı, uzun sakallı<br>Plate armor giyiyor ama birkaç sene deniz altında kalmış gibi tuzlanmış sanki<br>sırtında siyah bir pelerin var. |  

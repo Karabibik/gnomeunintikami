@@ -3,7 +3,7 @@ tags:
   - Aile
 ---  
   
-[[Soradin|Soradin Federasyonu]]'nda bir aile. Coat of armsı karanfil.  
+[[Soradin|Soradin Federasyonu]]'nda bir aile. Coat of arms'ı karanfil.  
   
 Bilinen üyeleri:  
 

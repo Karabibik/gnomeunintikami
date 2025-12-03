@@ -18,6 +18,9 @@
 === "Taftiza"  
 	![[0_Taftiza_portrait.webp]]{ .card }  
   
+=== "DoomGirl"  
+	![[Taftiza_DoomGirl.webp]]{ .card }  
+  
 === "Meditation"  
 	![[Taftiza_Meditation.webp]]{ .card }  
   

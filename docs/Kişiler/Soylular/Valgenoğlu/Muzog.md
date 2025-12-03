@@ -28,6 +28,12 @@ tags:
 === "2"  
 	![[Muzog_2.webp]]{ .card }  
   
+=== "Calm.jpeg"  
+	![[Muzog_Calm.jpeg]]{ .card }  
+  
+=== "Raged"  
+	![[Muzog_Raged.webp]]{ .card }  
+  
 === "Showcase"  
 	![[Muzog_Showcase.webp]]{ .card }  
   

@@ -18,6 +18,9 @@
 === "Sylmira"  
 	![[0_Sylmira_portrait.webp]]{ .card }  
   
+=== "1"  
+	![[Sylmira_1.webp]]{ .card }  
+  
 === "AnasınaBak"  
 	![[Sylmira_AnasınaBak.webp]]{ .card }  
   

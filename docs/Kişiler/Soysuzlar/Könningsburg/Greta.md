@@ -4,7 +4,7 @@ tags:
 ---  
 # Greta   
   
-  
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -16,8 +16,13 @@ tags:
 | **Sınıf** | Warlock (Archfey) (Level 8) |  
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
-| **Karakter Betimi** |  |  
+| **Karakter Betimi** | bkz: [[Greta_Sheet.pdf]] |  
   
+  
+=== "Greta"  
+	![[Greta_portrait.webp]]{ .card }  
+  
+</div>  
   
 !!! note "Karakter Notları"  
 	Varin & Sons Shipping  

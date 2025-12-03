@@ -4,6 +4,7 @@ tags:
 ---  
 # Sheiyha   
   
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -18,3 +19,10 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "Calm"  
+	![[Sheiyha_Calm.webp]]{ .card }  
+  
+=== "Calmer"  
+	![[Sheiyha_Calmer.webp]]{ .card }  
+  
+</div>

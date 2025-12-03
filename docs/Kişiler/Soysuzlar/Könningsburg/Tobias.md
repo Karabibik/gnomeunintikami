@@ -4,6 +4,7 @@ tags:
 ---  
 # Tobias   
   
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -18,3 +19,7 @@ tags:
 | **Karakter Betimi** |  |  
   
   
+=== "Tobias"  
+	![[Tobias_portrait.webp]]{ .card }  
+  
+</div>
