@@ -7,12 +7,12 @@ tags:
   
 Üyeleri:  
   
-| İsim             | Oyuncu   | Irk        | Sınıf     |  
-| ---------------- | -------- | ---------- | --------- |  
-| [[Alaric]]       | Göktuğ   | Human      | Warlock/Rogue |  
-| [[Arken]]        | Utku     | Wood Elf   | Rogue     |  
-| [[Eirene]]       | Ekin     | Half Elf   | Wizard    |  
-| [[Green Knight]] | Ertuğrul | Ağaç       | Paladin   |  
-| [[Harnar]]       | Mert     | Half Dwarf | Druid     |  
-| [[Raciutas]]     | Berkay   | Human      | Bard      |  
-| [[Torg]]         | İlkin    | Half Orc   | Barbarian |  
+| İsim               | Oyuncu   | Irk        | Sınıf         |  
+| ------------------ | -------- | ---------- | ------------- |  
+| [[Alaric Marlowe]] | Göktuğ   | Human      | Warlock/Rogue |  
+| [[Arken]]          | Utku     | Wood Elf   | Rogue         |  
+| [[Eirene]]         | Ekin     | Half Elf   | Wizard        |  
+| [[Green Knight]]   | Ertuğrul | Ağaç       | Paladin       |  
+| [[Harnar]]         | Mert     | Half Dwarf | Druid         |  
+| [[Raciutas]]       | Berkay   | Human      | Bard          |  
+| [[Torg]]           | İlkin    | Half Orc   | Barbarian     |  

@@ -3,7 +3,7 @@ tags:
   - Macera  
 ---  
   
-Köye varıldığında görülüyor ki orman yanmış, köyün ormana yakın kısmında da birtakım haneler yanmış. Ortalıkta kırmızı pelerinli askerler ve garnizon komutanı var. Yanlarında bir de [[Alaric|kırmızı ceketli ve şapkalı korsan tipli bir adam]] ile şehrin tanınan [[Eirene|muallimesi]] var, garnizon komutanıyla birlikte gelmişler.  
+Köye varıldığında görülüyor ki orman yanmış, köyün ormana yakın kısmında da birtakım haneler yanmış. Ortalıkta kırmızı pelerinli askerler ve garnizon komutanı var. Yanlarında bir de [[Alaric Marlowe|kırmızı ceketli ve şapkalı korsan tipli bir adam]] ile şehrin tanınan [[Eirene|muallimesi]] var, garnizon komutanıyla birlikte gelmişler.  
   
 Köyün ejderha temalı bir çeşmesi var, yerel halk suyundan içmeye davet ediyor. Arken içiyor ama güzel su olması dışında bir yorumu olmuyor.  
   
