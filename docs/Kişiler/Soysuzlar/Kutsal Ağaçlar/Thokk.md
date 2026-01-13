@@ -15,6 +15,9 @@
 | **Karakter Betimi** |  |  
   
   
+=== "Davidson"  
+	![[Thokk_Davidson.webp]]{ .card }  
+  
 === "Thokk"  
 	![[Thokk_portrait.webp]]{ .card }  
   

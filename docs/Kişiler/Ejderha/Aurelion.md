@@ -20,7 +20,10 @@ tags:
   
   
 === "Aurelion"  
-	![[Aurelion_portrait.webp]]{ .card }  
+	![[0_Aurelion_portrait.webp]]{ .card }  
+  
+=== "Dwarf"  
+	![[Aurelion_Dwarf.webp]]{ .card }  
   
 </div>  
   

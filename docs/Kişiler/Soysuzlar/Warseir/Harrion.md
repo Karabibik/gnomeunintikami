@@ -25,14 +25,11 @@ tags:
 === "theGnome"  
 	![[1_Harrion_theGnome.webp]]{ .card }  
   
-=== "Art1"  
-	![[Harrion_Art1.webp]]{ .card }  
+=== "theAngry"  
+	![[Harrion_Angry.webp]]{ .card }  
   
-=== "Art2"  
-	![[Harrion_Art2.webp]]{ .card }  
-  
-=== "Art3"  
-	![[Harrion_Art3.webp]]{ .card }  
+=== "theWanderer"  
+	![[Harrion_Wanderer.webp]]{ .card }  
   
 </div>  
   

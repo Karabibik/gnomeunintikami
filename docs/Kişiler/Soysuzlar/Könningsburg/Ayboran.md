@@ -1,5 +1,6 @@
 # Ayboran   
   
+<div class="grid" markdown>  
   
 |  |  |  
 |---|---|  
@@ -14,3 +15,7 @@
 | **Karakter Betimi** |  |  
   
   
+=== "Ayboran"  
+	![[Ayboran_portrait.webp]]{ .card }  
+  
+</div>
