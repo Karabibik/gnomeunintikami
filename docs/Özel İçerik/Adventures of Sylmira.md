@@ -1,7 +1,7 @@
 <div class="grid" markdown>  
   
 === "The Hallow Heart"  
-	Symilra felt the wrongness of the village the moment she stepped past its borders. It was one of those jobs—her big brother gave the order, and she didn’t question it. Vaeltar’s instructions were simple: _Go there. Find what’s wrong. Fix it. Report back._  
+	[[Sylmira]] felt the wrongness of the village the moment she stepped past its borders. It was one of those jobs—her big brother gave the order, and she didn’t question it. Vaeltar’s instructions were simple: _Go there. Find what’s wrong. Fix it. Report back._  
 	  
 	Everything was wrong.  
 	  

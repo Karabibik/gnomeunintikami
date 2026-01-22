@@ -46,7 +46,7 @@ varin odada volta atıyor heyecanlı
 					kuzeydeki kapıyı deniyor, adam gelecekken tobias çalılara ışınlanıyor ses çıkarıyor, ayboran içeri giriyor  
 					içeri de giriyorlar "yarın da biz varız nöbette, sonraki akşam şarap ısmarlıyım sana" vs diye konuşuyor iki kişi erkek/dişi  
 						ikisi de human, biri kızıl/kumral kadın 30-35 yaş, biri geniş omuzlu kabasakal gibi bir adam  
-			sorunsuz çıkıyorlar, içerideki muhafızları evlerine kadar inceliyorlar  
+			sorunsuz çıkıyorlar, içerideki muhafızları evlerine kadar izliyorlar  
 			  
 		sabah greta ile julian giriyor  
 			julian greta'ya üstten bakışını belirtiyor, greta küsecek gibi oluyor  

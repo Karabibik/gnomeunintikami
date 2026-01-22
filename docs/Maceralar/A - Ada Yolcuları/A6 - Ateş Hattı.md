@@ -3,7 +3,7 @@ tags:
   - Macera  
 ---  
   
-Ana yolu izleyerek Zarathia ile ilk karşılaştığımız bölgeye doğru gidiyoruz. Gözcü olarak önden giden Arken ile Dranor ileride bir kamp olduğunu söylüyor. Gizlice girmeye çalışıyoruz ama biri[^1] düşünce yerimiz belli oluyor.  
+Ana yolu izleyerek Zarathia ile ilk karşılaştığımız bölgeye doğru gidiyoruz. Gözcü olarak önden giden Arken ile Dranor ileride bir kamp olduğunu söylüyor. Gizlice girmeye çalışıyoruz ama Dranor düşünce yerimiz belli oluyor.  
   
 İlk bir iki adamı önden indiriyor Arken. Hatta sonraki adamları da indiriyor. İndiriyor la bu çocuk komple. Kyrillus ile Dranor ana cepheyi tutuyor. Thurmog altta birkaç adamı oyalıyor, Ruby de çadırları ateşe veriyor. Yangının yayılmasıyla biraz tedirginlik basıyor ama Arken'in adamları tek tek indirmesiyle ortalık duruluyor. Kaçmaya çalışan son adamı baldırından yere mıhlıyor, Dranor da beyni erimiş bir [[Theron|dedeyi]] zapt etmeye çalışıyor. Zarathia'nın Elnes, Timlon ve Tholberg ile birlikte dağa çıktığını öğreniyor ve kampta bulduğumuz atlar ile arabayı alarak peşlerinden gidiyoruz.  
   
@@ -24,6 +24,4 @@ Dağın tepesinde uzaktan ilk gördüğümüz, bir taşa bağlı Timlon oluyor. 
   
 Sonunda Zarathia zor da olsa iniyor. Hemen bağlayıp Tholberg'e koşuyoruz. Thurmog o sırada bir bakıyor Arken yerde, Dranor yanına eğilmiş. Ölene öncelik verip yanına gidiyor ama Arken *dead* dead. Thalindor'a yetiştirebilirlerse onun yardımcı olabileceğini biliyor. Yalnız Timlon *Teleport* da bilmiyor tabii...  
   
-Zarathia'dan Tholberg'i bağlayan zincirlerin anahtarını alıp onu da kurtarıyoruz.  Tholberg maskesini takıp Zarathia'nın başına gidiyor, ne yapacağını bilemiyoruz ama Thurmog iradesine güveniyor. Sonuçta o da dark side'a geçmeyip Zarathia'nın vücudundaki ejderha parçasını çıkarmamız gerektiğini açıklıyor. Başarılı bir iki cerrahi kesik ile parçayı çıkarıyor ama tutmak için *ki* odaklayıp kalın abaların arasına sarıyor. Hem esirleri hem de Arken'i en rahat Forgunntal'a giderek kurtarabiliriz diye düşünüp dağdan iniyorlar.  
-  
-[^1]: Kyrillus?
+Zarathia'dan Tholberg'i bağlayan zincirlerin anahtarını alıp onu da kurtarıyoruz.  Tholberg maskesini takıp Zarathia'nın başına gidiyor, ne yapacağını bilemiyoruz ama Thurmog iradesine güveniyor. Sonuçta o da dark side'a geçmeyip Zarathia'nın vücudundaki ejderha parçasını çıkarmamız gerektiğini açıklıyor. Başarılı bir iki cerrahi kesik ile parçayı çıkarıyor ama tutmak için *ki* odaklayıp kalın abaların arasına sarıyor. Hem esirleri hem de Arken'i en rahat Forgunntal'a giderek kurtarabiliriz diye düşünüp dağdan iniyorlar.

@@ -28,8 +28,8 @@ tags:
 === "2"  
 	![[Muzog_2.webp]]{ .card }  
   
-=== "Calm.jpeg"  
-	![[Muzog_Calm.jpeg]]{ .card }  
+=== "Calm"  
+	![[Muzog_Calm.webp]]{ .card }  
   
 === "Raged"  
 	![[Muzog_Raged.webp]]{ .card }  
