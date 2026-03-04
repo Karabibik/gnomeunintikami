@@ -1,9 +1,8 @@
 # Elara Amakiir  
   
-  
 <div class="infobox" markdown>  
   
-### Elara  
+<div class="infobox-header">Elara</div>  
   
 === "Portrait"  
     ![[Elara_portrait.webp]]  
@@ -15,10 +14,8 @@
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
   
-#### Character Information  
+<div class="infobox-header">Character Information</div>  
   
-| | |  
-|---|---|  
 | **Irk** | WoodElf |  
 | **Sınıf** | Druid (Level 10+) |  
 | **Kütük** | [[Forgunntal]] |  
@@ -41,4 +38,12 @@ Elara, a diplomatically gifted druid hailing from the Great Forest, serves as an
   
 Elara's lithe frame and agility, honed over years of traversing dense forests, lend her a graceful and somewhat unnerving stealthy presence. Despite her lack of physical vision, she moves with a confidence that belies her condition. Often adorned in a practical yet elegant cloak crafted with elven finesse, a keen observer might notice subtle movement beneath her robes—living vines subtly coiled in harmony with her body.  
   
-Çok küçükken [[Ruby]]'yi de kurtarmış.
+Çok küçükken [[Ruby]]'yi de kurtarmış.  
+  
+### Something Else  
+  
+blabla  
+  
+#### Others  
+  
+blblblblblb
