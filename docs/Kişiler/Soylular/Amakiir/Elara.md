@@ -1,28 +1,47 @@
 # Elara Amakiir  
   
-<div class="infobox" markdown>  
+<aside class="wiki-infobox">  
+    
+  <h3 class="wiki-infobox-header">Elara</h3>  
+  <img src="Elara_portrait.jpg" alt="Elara Portrait">  
+    
+  <table class="wiki-infobox-table">  
+    <tr>  
+      <th>İsim</th>  
+      <td>Elara</td>  
+    </tr>  
+    <tr>  
+      <th>Soyadı</th>  
+      <td markdown="span">[[Amakiir]]</td>  
+    </tr>  
+    <tr>  
+      <th>Hizip</th>  
+      <td></td>  
+    </tr>  
+    <tr>  
+      <th>Cinsiyet</th>  
+      <td>Dişi</td>  
+    </tr>  
+  </table>  
   
-<div class="infobox-header">Elara</div>  
+  <h3 class="wiki-infobox-header">Character Information</h3>  
+    
+  <table class="wiki-infobox-table">  
+    <tr>  
+      <th>Irk</th>  
+      <td markdown="span">WoodElf</td>  
+    </tr>  
+    <tr>  
+      <th>Sınıf</th>  
+      <td markdown="span">Druid (Level 10+)</td>  
+    </tr>  
+    <tr>  
+      <th>Kütük</th>  
+      <td markdown="span">[[Forgunntal]]</td>  
+    </tr>  
+  </table>  
   
-=== "Portrait"  
-    ![[Elara_portrait.webp]]  
-  
-| | |  
-|---|---|  
-| **İsim** | Elara |  
-| **Soyadı** | [[Amakiir]] |  
-| **Hizip** |  |  
-| **Cinsiyet** | Dişi |  
-  
-<div class="infobox-header">Character Information</div>  
-  
-| **Irk** | WoodElf |  
-| **Sınıf** | Druid (Level 10+) |  
-| **Kütük** | [[Forgunntal]] |  
-| **Münasebet** |  |  
-| **Karakter Betimi** | Chestnut hair<br>Emerald green eyes |  
-  
-</div>  
+</aside>  
   
 Elara, a diplomatically gifted druid hailing from the Great Forest, serves as an ambassador and diplomat in Forgunntal. Her long, flowing chestnut hair falls in loose waves around her shoulders, complementing her skin as green as a fresh leaf. However, her most striking feature is the milky white eyes with an empty gaze. Centuries ago, a curse robbed her of her actual sight, but this hindrance seems inconsequential due to her adept ability to perceive the world through alternative senses.  
   
