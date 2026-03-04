@@ -24,3 +24,47 @@
     width: 100%;
   }
 }
+
+
+/* Make the box float to the right with a fixed width */
+.infobox {
+    float: right;
+    width: 320px; 
+    margin: 0 0 1em 1.5em; /* Adds space around the bottom and left */
+    border: 1px solid var(--md-default-fg-color--lightest, #444);
+    border-radius: 4px;
+    background-color: var(--md-default-bg-color, #1e1e1e);
+    font-size: 0.85em; /* Makes the text slightly smaller like a wiki */
+    overflow: hidden;
+}
+
+/* Style the headers to look like the blue Fandom banners */
+.infobox h3, 
+.infobox h4 {
+    background-color: #315e71; /* Fandom-style teal/blue */
+    color: white !important;
+    text-align: center;
+    padding: 8px;
+    margin: 0;
+    font-size: 1.1em;
+}
+
+/* Ensure the table fills the box and hides default backgrounds */
+.infobox table {
+    width: 100%;
+    margin: 0;
+    border: none;
+}
+
+.infobox table td {
+    padding: 8px;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest, #444);
+}
+
+/* Make sure the image spans the full width of the box */
+.infobox img {
+    width: 100%;
+    display: block;
+    margin: 0;
+    border-radius: 0;
+}
