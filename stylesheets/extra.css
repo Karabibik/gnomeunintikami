@@ -27,79 +27,73 @@
 
 
 /* =========================================
-   1. INFOBOX MAIN CONTAINER & HEADERS
+   1. MAIN INFOBOX CONTAINER & HEADERS
    ========================================= */
-.infobox {
+.wiki-infobox {
     float: right;
-    width: 320px; 
-    margin: 0 0 1em 1.5em; 
+    width: 320px;
+    margin: 0 0 1.5em 1.5em;
+    background-color: var(--md-default-bg-color, #1e1e1e);
     border: 1px solid var(--md-default-fg-color--lightest, #444);
     border-radius: 4px;
-    background-color: var(--md-default-bg-color, #1e1e1e);
-    font-size: 0.85em; 
-    overflow: hidden;
+    font-size: 0.85em;
+    overflow: hidden; 
 }
 
-.infobox-header {
-    background-color: #315e71;
-    color: white !important;
+.wiki-infobox-header {
+    background-color: #315e71; /* Fandom Teal */
+    color: #ffffff !important;
     text-align: center;
     font-weight: bold;
     padding: 8px;
-    margin: 0;
+    margin: 0 !important;
     font-size: 1.1em;
 }
 
-.infobox img {
+.wiki-infobox img {
     width: 100%;
     display: block;
     margin: 0;
-    border-radius: 0;
 }
 
 /* =========================================
-   2. FANDOM-STYLE TABLE ROWS
+   2. HTML TABLE RESET & FANDOM STYLING
    ========================================= */
-/* Force MkDocs to drop its default table shadow/wrappers */
-.infobox .md-typeset__scrollwrap,
-.infobox .md-typeset__table {
-    margin: 0 !important;
-    box-shadow: none !important;
-    background: transparent !important;
-}
-
-/* Force the table to expand to the edges */
-.infobox table {
+.wiki-infobox .wiki-infobox-table {
     width: 100% !important;
-    display: table !important; 
+    margin: 0 !important;
     border-collapse: collapse;
-    border: none !important;
+    background: transparent;
+    box-shadow: none !important; 
+    display: table !important; 
 }
 
-.infobox thead {
-    display: none;
-}
-
-/* Remove all vertical borders and outer borders, keep only horizontal */
-.infobox table td {
-    padding: 8px 12px;
-    border-top: none !important;
-    border-left: none !important;
-    border-right: none !important;
+.wiki-infobox-table th,
+.wiki-infobox-table td {
+    padding: 8px 12px !important;
+    border: none !important; 
     border-bottom: 1px solid var(--md-default-fg-color--lightest, #444) !important;
-    vertical-align: top;
+    vertical-align: middle;
+    text-align: left;
     word-wrap: break-word;
 }
 
-/* Fandom Style: Tint the left column and make it bold */
-.infobox table tr td:first-child {
-    width: 35%; 
+/* The Left Column (Label) */
+.wiki-infobox-table th {
+    width: 35%;
     font-weight: bold;
-    background-color: rgba(128, 128, 128, 0.08) !important; 
+    background-color: rgba(128, 128, 128, 0.08); /* Subtle grey tint */
+    border-right: 1px solid var(--md-default-fg-color--lightest, #444) !important;
 }
 
-/* Clean up the bottom border of the last row */
-.infobox table tr:last-child td {
+/* The Right Column (Data) */
+.wiki-infobox-table td {
+    width: 65%;
+}
+
+/* Remove bottom border from the very last row */
+.wiki-infobox-table tr:last-child th,
+.wiki-infobox-table tr:last-child td {
     border-bottom: none !important;
 }
 
@@ -107,26 +101,24 @@
 /* =========================================
    3. NUMBERED TABLE OF CONTENTS
    ========================================= */
-/* Convert TOC bullet points to nested numbers (1., 1.1., 1.2., etc.) */
 .md-typeset .toc ul {
     counter-reset: toc-level;
-    list-style-type: none; /* Removes the bullet points */
+    list-style-type: none; 
     padding-left: 1.5em;
 }
 
 .md-typeset .toc > ul {
-    padding-left: 0; /* Removes the indent for the very first level */
+    padding-left: 0; 
 }
 
 .md-typeset .toc li {
     margin-bottom: 0.5em;
 }
 
-/* Inject the numbers dynamically */
 .md-typeset .toc li::before {
     counter-increment: toc-level;
     content: counters(toc-level, ".") ". ";
     margin-right: 0.5em;
     font-weight: bold;
-    color: var(--md-default-fg-color--light, #888); /* Subtle grey for the numbers */
+    color: var(--md-default-fg-color--light, #888); 
 }
