@@ -253,4 +253,4 @@ tags:
   
 </div>  
   
-![[F6-Encampment.PNG]]
+![[F6-Encampment.webp]]
