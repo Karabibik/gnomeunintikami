@@ -55,7 +55,7 @@ class ObsidianInteractiveGraphPlugin(BasePlugin):
             self.nodes[node_path] = {
                 "id": self.id,
                 "title": page.title,
-                "url": page.abs_url,
+                "url": page.file.url,
                 "symbolSize": 0,
                 "category": category,
                 "markdown": page.markdown,
