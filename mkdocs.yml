@@ -53,10 +53,15 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  
+
+# hooks:
+#   - custom_plugins/obsidian_graph.py
+
 plugins:
   # - obsidian-interactive-graph
-  - !!python/object:custom_plugins.obsidian_graph.plugin.ObsidianInteractiveGraphPlugin
+  # - custom_plugins.obsidian_graph
+  # - !!python/object:plugins.obsidian_graph.ObsidianInteractiveGraphPlugin {}
+  - obsidian-local-graph
   - search
   - roamlinks 
   - tags
