@@ -40,6 +40,12 @@
     overflow: hidden; 
 }
 
+@media screen and (max-width: 500px) {
+  .infobox {
+    width: 100%;
+  }
+}
+
 .infobox-header {
     background-color: #315e71; /* Fandom Teal */
     color: #ffffff !important;
@@ -125,21 +131,21 @@
 .md-typeset .toc ul {
     counter-reset: toc-level;
     list-style-type: none; 
-    padding-left: 0.7em !important; /* Reduced from 1.5em to bring tabs closer */
+    padding-left: 0em !important; /* Reduced from 1.5em to bring tabs closer */
+	line-height: 1;
 }
 
 .md-typeset .toc > ul {
-    padding-left: 0 !important; 
+    counter-reset: toc-level;
+    padding-left: 0;
 }
 
-.md-typeset .toc li {
-    margin-bottom: 0.5em;
+.md-typeset .toc ul ul {
+    padding-left: 0.8em;
 }
 
 .md-typeset .toc li::before {
     counter-increment: toc-level;
     content: counters(toc-level, ".") ". ";
-    margin-right: 0.4em; /* Slightly tighter spacing between number and text */
-    font-weight: bold;
-    color: var(--md-default-fg-color--light, #888); 
+    margin-right: 0.1em;
 }
