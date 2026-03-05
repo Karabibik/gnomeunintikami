@@ -85,9 +85,7 @@ function graph_nodes() {
   return option.series[0].data.filter(it => [...new Set(ids)].includes(it.id));
 }
 
-const base_url = window.location.pathname.split('/gnomeunintikami/')[0] + '/gnomeunintikami/';
-
-$.getJSON("${base_url}assets/javascripts/graph.json", function (graph) {
+$.getJSON("/assets/javascripts/graph.json", function (graph) {
   myChart.hideLoading();
 
   // an offset of 5, so the dot/node is not that small
