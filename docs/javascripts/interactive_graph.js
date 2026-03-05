@@ -60,7 +60,7 @@ function draw_graph(myChart, global=true) {
   // add click event for nodes
   myChart.on('click', function (params) {
     if(params.dataType == "node") {
-      window.location = params.value;
+      window.location = "/gnomeunintikami/"+params.value;
     }
   });
 
