@@ -6,6 +6,12 @@
   
 === "Portrait"  
     ![[Elara_portrait.webp]]  
+	
+=== "Elva"
+    ![[Elva_portrait.webp]]
+
+=== "Showcase"
+    ![[Elva_Showcase.webp]]
   
 | | |  
 |---|---|  
@@ -23,12 +29,6 @@
 | Kütük | [[Forgunntal]] |  
   
 </div>  
-  
-Elara, a diplomatically gifted druid hailing from the Great Forest, serves as an ambassador and diplomat in Forgunntal. Her long, flowing chestnut hair falls in loose waves around her shoulders, complementing her skin as green as a fresh leaf. However, her most striking feature is the milky white eyes with an empty gaze. Centuries ago, a curse robbed her of her actual sight, but this hindrance seems inconsequential due to her adept ability to perceive the world through alternative senses.  
-  
-Çok küçükken [[Ruby]]'yi de kurtarmış.  
-  
-[TOC]  
   
 ### Karakter Notları  
   
