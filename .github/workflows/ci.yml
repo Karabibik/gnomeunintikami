@@ -24,4 +24,7 @@ jobs:
           pip install mkdocs-glightbox
           
       - name: Deploy MkDocs to GitHub Pages
-        run: mkdocs gh-deploy --force
+        run: |
+          export PYTHONPATH=$PYTHONPATH:.
+          mkdocs gh-deploy --force
+        
