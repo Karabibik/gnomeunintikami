@@ -71,14 +71,14 @@ function draw_graph(myChart, global=true) {
 var option;
 
 function graph_links() {
-  pathnaaaa = window.location.pathname.replace("/gnomeunintikami/")
+  pathnaaaa = window.location.pathname.replace("/gnomeunintikami/","")
   if(pathnaaaa.slice(0,1) == "/"){pathnaaaa=pathnaaaa.slice(1)}
   id = option.series[0].data.find(it => it.value === pathnaaaa).id;
   return option.series[0].links.filter(it => it.source === id || it.target === id);
 }
 
 function graph_nodes() {
-  pathnaaaa = window.location.pathname.replace("/gnomeunintikami/")
+  pathnaaaa = window.location.pathname.replace("/gnomeunintikami/","")
   if(pathnaaaa.slice(0,1) == "/"){pathnaaaa=pathnaaaa.slice(1)}
   id = option.series[0].data.find(it => it.value === pathnaaaa).id;
   links = option.series[0].links.filter(it => it.source === id || it.target === id);
