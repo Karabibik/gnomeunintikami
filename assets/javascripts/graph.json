@@ -5,4753 +5,4753 @@
       "name": "Vagabonds of Warbonter",
       "category": "Genel",
       "symbolSize": 1.0,
-      "value": null
+      "value": "./"
     },
     {
       "id": "1",
       "name": "Applebottom",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/Applebottom/"
     },
     {
       "id": "2",
       "name": "Rand",
       "category": "Aile",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Aileler/Rand/"
     },
     {
       "id": "3",
       "name": "Aurum",
       "category": "Aile",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Aileler/C%C3%BCce/Aurum/"
     },
     {
       "id": "4",
       "name": "Kilnaddun",
       "category": "Aile",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Aileler/C%C3%BCce/Kilnaddun/"
     },
     {
       "id": "5",
       "name": "Lifeforger",
       "category": "Aile",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Aileler/C%C3%BCce/Lifeforger/"
     },
     {
       "id": "6",
       "name": "Magmaborn",
       "category": "Aile",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Aileler/C%C3%BCce/Magmaborn/"
     },
     {
       "id": "7",
       "name": "Orderkeeper",
       "category": "Aile",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Aileler/C%C3%BCce/Orderkeeper/"
     },
     {
       "id": "8",
       "name": "Steelhide",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/C%C3%BCce/Steelhide/"
     },
     {
       "id": "9",
       "name": "Stoneheart",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/C%C3%BCce/Stoneheart/"
     },
     {
       "id": "10",
       "name": "Desper",
       "category": "Aile",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Aileler/Drow/Desper/"
     },
     {
       "id": "11",
       "name": "Sym",
       "category": "Aile",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Aileler/Drow/Sym/"
     },
     {
       "id": "12",
       "name": "Tsara",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/Drow/Tsara/"
     },
     {
       "id": "13",
       "name": "Veladon",
       "category": "Aile",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Aileler/Drow/Veladon/"
     },
     {
       "id": "14",
       "name": "Amakiir",
       "category": "Aile",
       "symbolSize": 2.4,
-      "value": null
+      "value": "Aileler/Elf/Amakiir/"
     },
     {
       "id": "15",
       "name": "Celebryl",
       "category": "Aile",
       "symbolSize": 2.4,
-      "value": null
+      "value": "Aileler/Elf/Celebryl/"
     },
     {
       "id": "16",
       "name": "Ekrana",
       "category": "Aile",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Aileler/Elf/Ekrana/"
     },
     {
       "id": "17",
       "name": "Erawan",
       "category": "Aile",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Aileler/Elf/Erawan/"
     },
     {
       "id": "18",
       "name": "Feanel",
       "category": "Aile",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Aileler/Elf/Feanel/"
     },
     {
       "id": "19",
       "name": "Thaylis",
       "category": "Aile",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Aileler/Elf/Thaylis/"
     },
     {
       "id": "20",
       "name": "Arroway",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/Soradin/Arroway/"
     },
     {
       "id": "21",
       "name": "Gentleborn",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/Soradin/Gentleborn/"
     },
     {
       "id": "22",
       "name": "Redwyne",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/Soradin/Redwyne/"
     },
     {
       "id": "23",
       "name": "Taralon",
       "category": "Aile",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Aileler/Soradin/Taralon/"
     },
     {
       "id": "24",
       "name": "Valgeno\u011flu",
       "category": "Aile",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Aileler/Soradin/Valgeno%C4%9Flu/"
     },
     {
       "id": "25",
       "name": "Yei",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/Soradin/Yei/"
     },
     {
       "id": "26",
       "name": "von Rikhton",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/Soradin/von%20Rikhton/"
     },
     {
       "id": "27",
       "name": "Beljardin",
       "category": "Aile",
       "symbolSize": 4.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Beljardin/"
     },
     {
       "id": "28",
       "name": "Croft",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Croft/"
     },
     {
       "id": "29",
       "name": "Crowley",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Crowley/"
     },
     {
       "id": "30",
       "name": "Galanodel",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Galanodel/"
     },
     {
       "id": "31",
       "name": "Hagen",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Hagen/"
     },
     {
       "id": "32",
       "name": "Kro\u00dfen",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Kro%C3%9Fen/"
     },
     {
       "id": "33",
       "name": "Mazgan",
       "category": "Aile",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Mazgan/"
     },
     {
       "id": "34",
       "name": "Nanger",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Nanger/"
     },
     {
       "id": "35",
       "name": "Pabst",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Pabst/"
     },
     {
       "id": "36",
       "name": "Revenir",
       "category": "Aile",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Revenir/"
     },
     {
       "id": "37",
       "name": "Roth",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Roth/"
     },
     {
       "id": "38",
       "name": "Tamungen",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Tamungen/"
     },
     {
       "id": "39",
       "name": "Tandel",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Tandel/"
     },
     {
       "id": "40",
       "name": "Tyre",
       "category": "Aile",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Tyre/"
     },
     {
       "id": "41",
       "name": "Voldrun",
       "category": "Aile",
       "symbolSize": 3.8,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/Voldrun/"
     },
     {
       "id": "42",
       "name": "von Br\u00fccken",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/von%20Br%C3%BCcken/"
     },
     {
       "id": "43",
       "name": "von Ivel",
       "category": "Aile",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/von%20Ivel/"
     },
     {
       "id": "44",
       "name": "von M\u00fcndenhoff",
       "category": "Aile",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Aileler/%C4%B0mparatorluk/von%20M%C3%BCndenhoff/"
     },
     {
       "id": "45",
       "name": "Magic Items",
       "category": "E\u015fya",
       "symbolSize": 14.0,
-      "value": null
+      "value": "E%C5%9Fyalar/Magic%20Items/"
     },
     {
       "id": "46",
       "name": "Amulet of Mage Armor",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Amulet%20of%20Mage%20Armor/"
     },
     {
       "id": "47",
       "name": "Bag of Survival",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Bag%20of%20Survival/"
     },
     {
       "id": "48",
       "name": "Demon Mirror",
       "category": "E\u015fya",
       "symbolSize": 0.8,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Demon%20Mirror/"
     },
     {
       "id": "49",
       "name": "Earring of the Undying",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Earring%20of%20the%20Undying/"
     },
     {
       "id": "50",
       "name": "Fey Stone",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Fey%20Stone/"
     },
     {
       "id": "51",
       "name": "Gaze of the Desperate",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Gaze%20of%20the%20Desperate/"
     },
     {
       "id": "52",
       "name": "God's Gaze",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/God%27s%20Gaze/"
     },
     {
       "id": "53",
       "name": "Goggle of Darkvision",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Goggle%20of%20Darkvision/"
     },
     {
       "id": "54",
       "name": "Hammer of Dwarven Friendship",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Hammer%20of%20Dwarven%20Friendship/"
     },
     {
       "id": "55",
       "name": "Magical Candle",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Magical%20Candle/"
     },
     {
       "id": "56",
       "name": "Mask of Underwater Action",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Mask%20of%20Underwater%20Action/"
     },
     {
       "id": "57",
       "name": "Mountain's Resolve Pendant",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Mountain%27s%20Resolve%20Pendant/"
     },
     {
       "id": "58",
       "name": "Mug of Dwarven Ale",
       "category": "E\u015fya",
       "symbolSize": 0.8,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Mug%20of%20Dwarven%20Ale/"
     },
     {
       "id": "59",
       "name": "Pearl of Power",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Pearl%20of%20Power/"
     },
     {
       "id": "60",
       "name": "Periapt of Wound Closure",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Periapt%20of%20Wound%20Closure/"
     },
     {
       "id": "61",
       "name": "Ring of Protection",
       "category": "E\u015fya",
       "symbolSize": 1.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Ring%20of%20Protection/"
     },
     {
       "id": "62",
       "name": "Ruby of the War Mage",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Ruby%20of%20the%20War%20Mage/"
     },
     {
       "id": "63",
       "name": "Soul Stone of Yusa",
       "category": "E\u015fya",
       "symbolSize": 0.8,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Soul%20Stone%20of%20Yusa/"
     },
     {
       "id": "64",
       "name": "The Bronze Arm",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/The%20Bronze%20Arm/"
     },
     {
       "id": "65",
       "name": "The Utensils of Elemental Confluence",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/The%20Utensils%20of%20Elemental%20Confluence/"
     },
     {
       "id": "66",
       "name": "Whispering Coin",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Accessory/Whispering%20Coin/"
     },
     {
       "id": "67",
       "name": "Arrow of Slaying",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Ammunition/Arrow%20of%20Slaying/"
     },
     {
       "id": "68",
       "name": "Holy Hand Grenade",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Ammunition/Holy%20Hand%20Grenade/"
     },
     {
       "id": "69",
       "name": "Adamantine Reinforced Armor",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Armor/Adamantine%20Reinforced%20Armor/"
     },
     {
       "id": "70",
       "name": "Living Armor of the First Venturer",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Armor/Living%20Armor%20of%20the%20First%20Venturer/"
     },
     {
       "id": "71",
       "name": "Silent Plate",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Armor/Silent%20Plate/"
     },
     {
       "id": "72",
       "name": "Harsus'un Kupas\u0131",
       "category": "E\u015fya",
       "symbolSize": 1.0,
-      "value": null
+      "value": "E%C5%9Fyalar/Artefact/Harsus%27un%20Kupas%C4%B1/"
     },
     {
       "id": "73",
       "name": "Arcane Conduit Gauntlet",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Arcane%20Conduit%20Gauntlet/"
     },
     {
       "id": "74",
       "name": "Arrow Breaker Cape",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Arrow%20Breaker%20Cape/"
     },
     {
       "id": "75",
       "name": "Boot of Longstrider",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Boot%20of%20Longstrider/"
     },
     {
       "id": "76",
       "name": "Boots of Spiderclimb",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Boots%20of%20Spiderclimb/"
     },
     {
       "id": "77",
       "name": "Cape of Warbonter",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Cape%20of%20Warbonter/"
     },
     {
       "id": "78",
       "name": "Cloak of Elvenkind",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Cloak%20of%20Elvenkind/"
     },
     {
       "id": "79",
       "name": "Cloak of the Bat",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Cloak%20of%20the%20Bat/"
     },
     {
       "id": "80",
       "name": "Enhancer Glove",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Enhancer%20Glove/"
     },
     {
       "id": "81",
       "name": "Forever White Coat",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Forever%20White%20Coat/"
     },
     {
       "id": "82",
       "name": "Keeper of Strength",
       "category": "E\u015fya",
       "symbolSize": 0.8,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Keeper%20of%20Strength/"
     },
     {
       "id": "83",
       "name": "Robe of Elemental Harmony",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Robe%20of%20Elemental%20Harmony/"
     },
     {
       "id": "84",
       "name": "Robe of Mage Armor",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Robe%20of%20Mage%20Armor/"
     },
     {
       "id": "85",
       "name": "Robe of the Hagi",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Robe%20of%20the%20Hagi/"
     },
     {
       "id": "86",
       "name": "Thought Amplifier",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Clothing/Thought%20Amplifier/"
     },
     {
       "id": "87",
       "name": "Elixir of Health",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Elixir%20of%20Health/"
     },
     {
       "id": "88",
       "name": "Grease Oil",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Grease%20Oil/"
     },
     {
       "id": "89",
       "name": "Greater HP Potion",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Greater%20HP%20Potion/"
     },
     {
       "id": "90",
       "name": "HP Potion (x5)",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/HP%20Potion%20%28x5%29/"
     },
     {
       "id": "91",
       "name": "HP Potion",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/HP%20Potion/"
     },
     {
       "id": "92",
       "name": "Potion of Charm",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Potion%20of%20Charm/"
     },
     {
       "id": "93",
       "name": "Potion of Command Animal",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Potion%20of%20Command%20Animal/"
     },
     {
       "id": "94",
       "name": "Potion of Fire Breath",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Potion%20of%20Fire%20Breath/"
     },
     {
       "id": "95",
       "name": "Potion of Flame",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Potion%20of%20Flame/"
     },
     {
       "id": "96",
       "name": "Potion of Growth",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Potion%20of%20Growth/"
     },
     {
       "id": "97",
       "name": "Potion of Hill Giant Strength",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Potion%20of%20Hill%20Giant%20Strength/"
     },
     {
       "id": "98",
       "name": "Potion of Mental Fortitude",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Potion%20of%20Mental%20Fortitude/"
     },
     {
       "id": "99",
       "name": "Potions of Resistance",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Potions%20of%20Resistance/"
     },
     {
       "id": "100",
       "name": "Vampire Blood Vial",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Potion/Vampire%20Blood%20Vial/"
     },
     {
       "id": "101",
       "name": "Spell Scroll Lvl 1",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Scroll/Spell%20Scroll%20Lvl%201/"
     },
     {
       "id": "102",
       "name": "Spell Scroll Lvl 2",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Scroll/Spell%20Scroll%20Lvl%202/"
     },
     {
       "id": "103",
       "name": "Spell Scroll Lvl 3",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Scroll/Spell%20Scroll%20Lvl%203/"
     },
     {
       "id": "104",
       "name": "Shield of the Hearthguard",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Shield/Shield%20of%20the%20Hearthguard/"
     },
     {
       "id": "105",
       "name": "A Bow",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/A%20Bow/"
     },
     {
       "id": "106",
       "name": "Azuuk's Determination",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Azuuk%27s%20Determination/"
     },
     {
       "id": "107",
       "name": "Dreamweaver Staff",
       "category": "E\u015fya",
       "symbolSize": 0.8,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Dreamweaver%20Staff/"
     },
     {
       "id": "108",
       "name": "Drow Longbow",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Drow%20Longbow/"
     },
     {
       "id": "109",
       "name": "Frost Rune Greataxe",
       "category": "E\u015fya",
       "symbolSize": 0.8,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Frost%20Rune%20Greataxe/"
     },
     {
       "id": "110",
       "name": "Glaive of Vengence",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Glaive%20of%20Vengence/"
     },
     {
       "id": "111",
       "name": "Heirloom Bow and Quiver",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Heirloom%20Bow%20and%20Quiver/"
     },
     {
       "id": "112",
       "name": "Kolandir's Echo",
       "category": "E\u015fya",
       "symbolSize": 0.6,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Kolandir%27s%20Echo/"
     },
     {
       "id": "113",
       "name": "Lesser Drow Longsword",
       "category": "E\u015fya",
       "symbolSize": 0.2,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Lesser%20Drow%20Longsword/"
     },
     {
       "id": "114",
       "name": "Raggna's Regret",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Raggna%27s%20Regret/"
     },
     {
       "id": "115",
       "name": "Weaker Drow Staff of Power",
       "category": "E\u015fya",
       "symbolSize": 0.4,
-      "value": null
+      "value": "E%C5%9Fyalar/Weapon/Weaker%20Drow%20Staff%20of%20Power/"
     },
     {
       "id": "116",
       "name": "Gruumsh'\u0131n Kollar\u0131",
       "category": "Hizip",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Hizipler/Gruumsh%27%C4%B1n%20Kollar%C4%B1/"
     },
     {
       "id": "117",
       "name": "Eilistraeciler",
       "category": "Hizip",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Hizipler/K%C3%BCresel%20G%C3%BC%C3%A7ler/Eilistraeciler/"
     },
     {
       "id": "118",
       "name": "G\u00fcne\u015f Birli\u011fi",
       "category": "Hizip",
       "symbolSize": 5.2,
-      "value": null
+      "value": "Hizipler/K%C3%BCresel%20G%C3%BC%C3%A7ler/G%C3%BCne%C5%9F%20Birli%C4%9Fi/"
     },
     {
       "id": "119",
       "name": "Harsus'un Takip\u00e7ileri",
       "category": "Hizip",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Hizipler/K%C3%BCresel%20G%C3%BC%C3%A7ler/Harsus%27un%20Takip%C3%A7ileri/"
     },
     {
       "id": "120",
       "name": "Iouncular",
       "category": "Hizip",
       "symbolSize": 2.2,
-      "value": null
+      "value": "Hizipler/K%C3%BCresel%20G%C3%BC%C3%A7ler/Iouncular/"
     },
     {
       "id": "121",
       "name": "Shadowguard",
       "category": "Hizip",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Hizipler/K%C3%BCresel%20G%C3%BC%C3%A7ler/Shadowguard/"
     },
     {
       "id": "122",
       "name": "Ticaret Loncas\u0131",
       "category": "Hizip",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Hizipler/K%C3%BCresel%20G%C3%BC%C3%A7ler/Ticaret%20Loncas%C4%B1/"
     },
     {
       "id": "123",
       "name": "Ada Yolcular\u0131",
       "category": "Hizip",
       "symbolSize": 2.8,
-      "value": null
+      "value": "Hizipler/Macerac%C4%B1%20Gruplar%C4%B1/Ada%20Yolcular%C4%B1/"
     },
     {
       "id": "124",
       "name": "Bronzeheart Battalion",
       "category": "Hizip",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Hizipler/Macerac%C4%B1%20Gruplar%C4%B1/Bronzeheart%20Battalion/"
     },
     {
       "id": "125",
       "name": "Gnome'un \u0130ntikam\u0131",
       "category": "Hizip",
       "symbolSize": 2.6,
-      "value": null
+      "value": "Hizipler/Macerac%C4%B1%20Gruplar%C4%B1/Gnome%27un%20%C4%B0ntikam%C4%B1/"
     },
     {
       "id": "126",
       "name": "Kara Yolcular\u0131",
       "category": "Hizip",
       "symbolSize": 2.0,
-      "value": null
+      "value": "Hizipler/Macerac%C4%B1%20Gruplar%C4%B1/Kara%20Yolcular%C4%B1/"
     },
     {
       "id": "127",
       "name": "Nerton Kadrosu",
       "category": "Hizip",
       "symbolSize": 3.2,
-      "value": null
+      "value": "Hizipler/Macerac%C4%B1%20Gruplar%C4%B1/Nerton%20Kadrosu/"
     },
     {
       "id": "128",
       "name": "Saldon Bandosu",
       "category": "Hizip",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Hizipler/Macerac%C4%B1%20Gruplar%C4%B1/Saldon%20Bandosu/"
     },
     {
       "id": "129",
       "name": "Agnon Ligi",
       "category": "Hizip",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Hizipler/Soradin/Agnon%20Ligi/"
     },
     {
       "id": "130",
       "name": "Cult of the Dragon",
       "category": "Hizip",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Hizipler/Soradin/Cult%20of%20the%20Dragon/"
     },
     {
       "id": "131",
       "name": "Federation of Public Servants in Magic",
       "category": "Hizip",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Hizipler/Soradin/Federation%20of%20Public%20Servants%20in%20Magic/"
     },
     {
       "id": "132",
       "name": "Soradin Arcane Academy Alumni Association",
       "category": "Hizip",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Hizipler/Soradin/Soradin%20Arcane%20Academy%20Alumni%20Association/"
     },
     {
       "id": "133",
       "name": "Wyvernriders",
       "category": "Hizip",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Hizipler/Soradin/Wyvernriders/"
     },
     {
       "id": "134",
       "name": "Evsiz U\u015faklar",
       "category": "Hizip",
       "symbolSize": 2.2,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/Evsiz%20U%C5%9Faklar/"
     },
     {
       "id": "135",
       "name": "Kale Sava\u015f\u00e7\u0131lar\u0131",
       "category": "Hizip",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/Kale%20Sava%C5%9F%C3%A7%C4%B1lar%C4%B1/"
     },
     {
       "id": "136",
       "name": "K\u00f6nningsmagier",
       "category": "Hizip",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/K%C3%B6nningsmagier/"
     },
     {
       "id": "137",
       "name": "Ryld \u00c7etesi",
       "category": "Hizip",
       "symbolSize": 2.0,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/Ryld%20%C3%87etesi/"
     },
     {
       "id": "138",
       "name": "Mistress Sisters",
       "category": "Hizip",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/K%C3%B6nnigsburg/Mistress%20Sisters/"
     },
     {
       "id": "139",
       "name": "The Aurora Mirror Club",
       "category": "Hizip",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/K%C3%B6nnigsburg/The%20Aurora%20Mirror%20Club/"
     },
     {
       "id": "140",
       "name": "The Emerald Veil",
       "category": "Hizip",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/K%C3%B6nnigsburg/The%20Emerald%20Veil/"
     },
     {
       "id": "141",
       "name": "The Gilded Ladle Society",
       "category": "Hizip",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/K%C3%B6nnigsburg/The%20Gilded%20Ladle%20Society/"
     },
     {
       "id": "142",
       "name": "The Traum Circle",
       "category": "Hizip",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/K%C3%B6nnigsburg/The%20Traum%20Circle/"
     },
     {
       "id": "143",
       "name": "Varin & Sons",
       "category": "Hizip",
       "symbolSize": 4.6,
-      "value": null
+      "value": "Hizipler/%C4%B0mparatorluk/K%C3%B6nnigsburg/Varin%20%26%20Sons/"
     },
     {
       "id": "144",
       "name": "Pantheon",
       "category": "Ki\u015fi",
       "symbolSize": 3.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Pantheon/"
     },
     {
       "id": "145",
       "name": "Anakor",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Anakor/"
     },
     {
       "id": "146",
       "name": "Auramonar",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Auramonar/"
     },
     {
       "id": "147",
       "name": "Auranthra",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Auranthra/"
     },
     {
       "id": "148",
       "name": "Aurelion",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Aurelion/"
     },
     {
       "id": "149",
       "name": "Calidrex",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Calidrex/"
     },
     {
       "id": "150",
       "name": "Ithalyss",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Ithalyss/"
     },
     {
       "id": "151",
       "name": "Kaelrion",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Kaelrion/"
     },
     {
       "id": "152",
       "name": "Kalytrion",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Kalytrion/"
     },
     {
       "id": "153",
       "name": "Klatros",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Klatros/"
     },
     {
       "id": "154",
       "name": "Morguntrax",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Morguntrax/"
     },
     {
       "id": "155",
       "name": "Nyrrathar",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Nyrrathar/"
     },
     {
       "id": "156",
       "name": "Ranacor",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Ranacor/"
     },
     {
       "id": "157",
       "name": "Riflax",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Riflax/"
     },
     {
       "id": "158",
       "name": "Salokir",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Salokir/"
     },
     {
       "id": "159",
       "name": "Selvarith",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Selvarith/"
     },
     {
       "id": "160",
       "name": "Sorad",
       "category": "Ki\u015fi",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Sorad/"
     },
     {
       "id": "161",
       "name": "Tazrikan",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Tazrikan/"
     },
     {
       "id": "162",
       "name": "Thalryx",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Thalryx/"
     },
     {
       "id": "163",
       "name": "Valtaret",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Valtaret/"
     },
     {
       "id": "164",
       "name": "Verchin",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Verchin/"
     },
     {
       "id": "165",
       "name": "Volon",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Volon/"
     },
     {
       "id": "166",
       "name": "Ythralis",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Ythralis/"
     },
     {
       "id": "167",
       "name": "Zavera",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Zavera/"
     },
     {
       "id": "168",
       "name": "Zavriel",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Zavriel/"
     },
     {
       "id": "169",
       "name": "Zedralitis",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Zedralitis/"
     },
     {
       "id": "170",
       "name": "Zoranex",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Ejderha/Zoranex/"
     },
     {
       "id": "171",
       "name": "Alaric Marlowe",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Alaric%20Marlowe/"
     },
     {
       "id": "172",
       "name": "Calia",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Calia/"
     },
     {
       "id": "173",
       "name": "Duurnak",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Duurnak/"
     },
     {
       "id": "174",
       "name": "Elanor",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Elanor/"
     },
     {
       "id": "175",
       "name": "Gaylen",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Gaylen/"
     },
     {
       "id": "176",
       "name": "Green Knight",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Green%20Knight/"
     },
     {
       "id": "177",
       "name": "Harnar",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Harnar/"
     },
     {
       "id": "178",
       "name": "Iverius",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Iverius/"
     },
     {
       "id": "179",
       "name": "Kolandir",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Kolandir/"
     },
     {
       "id": "180",
       "name": "Maltei",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Maltei/"
     },
     {
       "id": "181",
       "name": "Mathis",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Mathis/"
     },
     {
       "id": "182",
       "name": "Moritz Traum",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Moritz%20Traum/"
     },
     {
       "id": "183",
       "name": "Prodan",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Prodan/"
     },
     {
       "id": "184",
       "name": "Q'ul Maqhkt'annan",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Q%27ul%20Maqhkt%27annan/"
     },
     {
       "id": "185",
       "name": "Raciutas",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Raciutas/"
     },
     {
       "id": "186",
       "name": "Raveon",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Raveon/"
     },
     {
       "id": "187",
       "name": "Romey",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Romey/"
     },
     {
       "id": "188",
       "name": "Slayer",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Slayer/"
     },
     {
       "id": "189",
       "name": "Somnamun",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Somnamun/"
     },
     {
       "id": "190",
       "name": "S\u00fcden",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/S%C3%BCden/"
     },
     {
       "id": "191",
       "name": "Taftiza",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Taftiza/"
     },
     {
       "id": "192",
       "name": "Talan\u00eef",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Talan%C3%AEf/"
     },
     {
       "id": "193",
       "name": "Taralaine",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Taralaine/"
     },
     {
       "id": "194",
       "name": "Thosunna",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Thosunna/"
     },
     {
       "id": "195",
       "name": "Torg",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Torg/"
     },
     {
       "id": "196",
       "name": "Vise",
       "category": "Ki\u015fi",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Noname/Vise/"
     },
     {
       "id": "197",
       "name": "Arken Amakiir",
       "category": "Ki\u015fi",
       "symbolSize": 2.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Amakiir/Arken/"
     },
     {
       "id": "198",
       "name": "Elara Amakiir",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Amakiir/Elara/"
     },
     {
       "id": "199",
       "name": "Elva Amakiir",
       "category": "Ki\u015fi",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Amakiir/Elva/"
     },
     {
       "id": "200",
       "name": "Forgotten Matriarch Amakiir",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Amakiir/Forgotten%20Matriarch/"
     },
     {
       "id": "201",
       "name": "Kinatrial Amakiir",
       "category": "Ki\u015fi",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Amakiir/Kinatrial/"
     },
     {
       "id": "202",
       "name": "Pinatrial Amakiir",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Amakiir/Pinatrial/"
     },
     {
       "id": "203",
       "name": "Ruby Applebottom",
       "category": "Ki\u015fi",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Applebottom/Ruby/"
     },
     {
       "id": "204",
       "name": "Eirene Arroway",
       "category": "Ki\u015fi",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Arroway/Eirene/"
     },
     {
       "id": "205",
       "name": "Barnov Aurum",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Aurum/Barnov/"
     },
     {
       "id": "206",
       "name": "Goldrum Aurum",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Aurum/Goldrum/"
     },
     {
       "id": "207",
       "name": "Agnes Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 2.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Agnes/"
     },
     {
       "id": "208",
       "name": "I. Alfons Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Alfons%20I/"
     },
     {
       "id": "209",
       "name": "Alfons Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 5.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Alfons/"
     },
     {
       "id": "210",
       "name": "Allard-Mom Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Allard-Mom/"
     },
     {
       "id": "211",
       "name": "Allard Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Allard/"
     },
     {
       "id": "212",
       "name": "Frans Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Frans/"
     },
     {
       "id": "213",
       "name": "Gaspard Louis Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Gaspard%20Louis/"
     },
     {
       "id": "214",
       "name": "Jasqueman Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Jasqueman/"
     },
     {
       "id": "215",
       "name": "Jeanne Beljardin",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Beljardin/Jeanne/"
     },
     {
       "id": "216",
       "name": "Esiatel Celebryl",
       "category": "Ki\u015fi",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Celebryl/Esiatel/"
     },
     {
       "id": "217",
       "name": "Laron Celebryl",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Celebryl/Laron/"
     },
     {
       "id": "218",
       "name": "Lyra Celebryl",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Celebryl/Lyra/"
     },
     {
       "id": "219",
       "name": "Tinrel Celebryl",
       "category": "Ki\u015fi",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Celebryl/Tinrel/"
     },
     {
       "id": "220",
       "name": "Julian Croft",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Croft/Julian/"
     },
     {
       "id": "221",
       "name": "Bethany Crowley",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Crowley/Bethany/"
     },
     {
       "id": "222",
       "name": "Hagar Ekrana",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Ekrana/Hagar/"
     },
     {
       "id": "223",
       "name": "Orion Ekrana",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Ekrana/Orion/"
     },
     {
       "id": "224",
       "name": "Delador Erawan",
       "category": "Ki\u015fi",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Erawan/Delador/"
     },
     {
       "id": "225",
       "name": "Verronal Erawan",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Erawan/Verronal/"
     },
     {
       "id": "226",
       "name": "Virel Erawan",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Erawan/Virel/"
     },
     {
       "id": "227",
       "name": "Lareth Feanel",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Feanel/Lareth/"
     },
     {
       "id": "228",
       "name": "The Many of One Feanel",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Feanel/The%20Many%20of%20One/"
     },
     {
       "id": "229",
       "name": "Marivaldi Galanodel",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Galanodel/Marivaldi/"
     },
     {
       "id": "230",
       "name": "Tamur Gentleborn",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Gentleborn/Tamur/"
     },
     {
       "id": "231",
       "name": "Otto Hagen",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Hagen/Otto/"
     },
     {
       "id": "232",
       "name": "Hu\u00dfeite Kro\u00dfen",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Kro%C3%9Fen/Hu%C3%9Feite/"
     },
     {
       "id": "233",
       "name": "Banlord Lifeforger",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Lifeforger/Banlord/"
     },
     {
       "id": "234",
       "name": "Rannok Lifeforger",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Lifeforger/Rannok/"
     },
     {
       "id": "235",
       "name": "Talog Lifeforger",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Lifeforger/Talog/"
     },
     {
       "id": "236",
       "name": "Umman Lifeforger",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Lifeforger/Umman/"
     },
     {
       "id": "237",
       "name": "Cormund Mazgan",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Mazgan/Cormund/"
     },
     {
       "id": "238",
       "name": "Vilenor Mazgan",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Mazgan/Vilenor/"
     },
     {
       "id": "239",
       "name": "Kaspar Nanger",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Nanger/Kaspar/"
     },
     {
       "id": "240",
       "name": "Sigi Pabst",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Pabst/Sigi/"
     },
     {
       "id": "241",
       "name": "Hange Rand",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Rand/Hange/"
     },
     {
       "id": "242",
       "name": "Teagan Redwyne",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Redwyne/Teagan/"
     },
     {
       "id": "243",
       "name": "Celeste Revenir",
       "category": "Ki\u015fi",
       "symbolSize": 2.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Revenir/Celeste/"
     },
     {
       "id": "244",
       "name": "Renee Revenir",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Revenir/Renee/"
     },
     {
       "id": "245",
       "name": "Rensa Revenir",
       "category": "Ki\u015fi",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Revenir/Rensa/"
     },
     {
       "id": "246",
       "name": "Renata Roth",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Roth/Renata/"
     },
     {
       "id": "247",
       "name": "Durgan Stoneheart",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Stoneheart/Durgan/"
     },
     {
       "id": "248",
       "name": "Uliza Sym",
       "category": "Ki\u015fi",
       "symbolSize": 2.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Sym/Uliza/"
     },
     {
       "id": "249",
       "name": "Sorran Tamungen",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Tamungen/Sorran/"
     },
     {
       "id": "250",
       "name": "Borhan Tandel",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Tandel/Borhan/"
     },
     {
       "id": "251",
       "name": "Andrand Taralon",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Taralon/Andrand/"
     },
     {
       "id": "252",
       "name": "Rustov Taralon",
       "category": "Ki\u015fi",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Taralon/Rustov/"
     },
     {
       "id": "253",
       "name": "Elowen Thaylis",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Thaylis/Elowen/"
     },
     {
       "id": "254",
       "name": "Sylmira Thaylis",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Thaylis/Sylmira/"
     },
     {
       "id": "255",
       "name": "Taria Thaylis",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Thaylis/Taria/"
     },
     {
       "id": "256",
       "name": "Vaeltar Thaylis",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Thaylis/Vaeltar/"
     },
     {
       "id": "257",
       "name": "Yessen Thaylis",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Thaylis/Yessen/"
     },
     {
       "id": "258",
       "name": "Boron Tyre",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Tyre/Boron/"
     },
     {
       "id": "259",
       "name": "Muzog Valgeno\u011flu",
       "category": "Ki\u015fi",
       "symbolSize": 4.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Valgeno%C4%9Flu/Muzog/"
     },
     {
       "id": "260",
       "name": "Sienna Valgeno\u011flu",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Valgeno%C4%9Flu/Sienna/"
     },
     {
       "id": "261",
       "name": "Zavir Valgeno\u011flu",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Valgeno%C4%9Flu/Zavir/"
     },
     {
       "id": "262",
       "name": "Halstein Voldrun",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Voldrun/Halstein/"
     },
     {
       "id": "263",
       "name": "IX. Harald Voldrun",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Voldrun/Harald%20IX/"
     },
     {
       "id": "264",
       "name": "IV. Jurgen Voldrun",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Voldrun/Jurgen%20IV/"
     },
     {
       "id": "265",
       "name": "V. Jurgen Voldrun",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Voldrun/Jurgen%20V/"
     },
     {
       "id": "266",
       "name": "V. Stefan Voldrun",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Voldrun/Stefan%20V/"
     },
     {
       "id": "267",
       "name": "III. Virzol Voldrun",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Voldrun/Virzol%20III/"
     },
     {
       "id": "268",
       "name": "Sh\u00fcn Yei",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/Yei/Sh%C3%BCn/"
     },
     {
       "id": "269",
       "name": "Philip von Br\u00fccken",
       "category": "Ki\u015fi",
       "symbolSize": 4.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/von%20Br%C3%BCcken/Philip/"
     },
     {
       "id": "270",
       "name": "Alice von Ivel",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/von%20Ivel/Alice/"
     },
     {
       "id": "271",
       "name": "Elias von M\u00fcndenhoff",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/von%20M%C3%BCndenhoff/Elias/"
     },
     {
       "id": "272",
       "name": "Emilia von M\u00fcndenhoff",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/von%20M%C3%BCndenhoff/Emilia/"
     },
     {
       "id": "273",
       "name": "Manfred von Rikhton",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soylular/von%20Rikhton/Manfred/"
     },
     {
       "id": "274",
       "name": "Malthar",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Abyss/Malthar/"
     },
     {
       "id": "275",
       "name": "Orcus",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Abyss/Orcus/"
     },
     {
       "id": "276",
       "name": "Saldon",
       "category": "Ki\u015fi",
       "symbolSize": 2.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Agnon%20Ligi/Saldon/"
     },
     {
       "id": "277",
       "name": "Vakar",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Akmora/Vakar/"
     },
     {
       "id": "278",
       "name": "Adran",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Adran/"
     },
     {
       "id": "279",
       "name": "Azram",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Azram/"
     },
     {
       "id": "280",
       "name": "Azuuk",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Azuuk/"
     },
     {
       "id": "281",
       "name": "Donaar",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Donaar/"
     },
     {
       "id": "282",
       "name": "Gina",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Gina/"
     },
     {
       "id": "283",
       "name": "Granmyr",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Granmyr/"
     },
     {
       "id": "284",
       "name": "Hal Web",
       "category": "Ki\u015fi",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Hal%20Web/"
     },
     {
       "id": "285",
       "name": "Ilnot",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Ilnot/"
     },
     {
       "id": "286",
       "name": "Inlot",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Inlot/"
     },
     {
       "id": "287",
       "name": "Nadia",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Nadia/"
     },
     {
       "id": "288",
       "name": "Rahibe Lucian",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Rahibe%20Lucian/"
     },
     {
       "id": "289",
       "name": "Sessiz",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Sessiz/"
     },
     {
       "id": "290",
       "name": "Vandrad",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Vandrad/"
     },
     {
       "id": "291",
       "name": "Vedon",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Vedon/"
     },
     {
       "id": "292",
       "name": "Warbrof",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Warbrof/"
     },
     {
       "id": "293",
       "name": "Zal",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Altbr%C3%BCck/Zal/"
     },
     {
       "id": "294",
       "name": "Bormar",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Aurelia/Bormar/"
     },
     {
       "id": "295",
       "name": "Urmgrul",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Aurelia/Urmgrul/"
     },
     {
       "id": "296",
       "name": "Vaigar",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Aurelia/Vaigar/"
     },
     {
       "id": "297",
       "name": "Olga",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Dobrovia/Olga/"
     },
     {
       "id": "298",
       "name": "Tamara",
       "category": "Ki\u015fi",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Dobrovia/Tamara/"
     },
     {
       "id": "299",
       "name": "Arannis",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Dwarf%20Krall%C4%B1klar%C4%B1/Arannis/"
     },
     {
       "id": "300",
       "name": "Thurmog",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Dwarf%20Krall%C4%B1klar%C4%B1/Thurmog/"
     },
     {
       "id": "301",
       "name": "Vahmar",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/D%C4%B1%C5%9Flanm%C4%B1%C5%9Flar%20Adas%C4%B1/Vahmar/"
     },
     {
       "id": "302",
       "name": "Lindara",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Forgunntal/Lindara/"
     },
     {
       "id": "303",
       "name": "Timlon",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Forgunntal/Timlon/"
     },
     {
       "id": "304",
       "name": "Taftial",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Great%20Forest/Taftial/"
     },
     {
       "id": "305",
       "name": "Innes",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/G%C3%BCne%C5%9F%20Adalar%C4%B1/Innes/"
     },
     {
       "id": "306",
       "name": "Filgo",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Kutsal%20A%C4%9Fa%C3%A7lar/Filgo/"
     },
     {
       "id": "307",
       "name": "Flea",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Kutsal%20A%C4%9Fa%C3%A7lar/Flea/"
     },
     {
       "id": "308",
       "name": "Ghokk",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Kutsal%20A%C4%9Fa%C3%A7lar/Ghokk/"
     },
     {
       "id": "309",
       "name": "Kanon",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Kutsal%20A%C4%9Fa%C3%A7lar/Kanon/"
     },
     {
       "id": "310",
       "name": "Maelia",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Kutsal%20A%C4%9Fa%C3%A7lar/Maelia/"
     },
     {
       "id": "311",
       "name": "Malog",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Kutsal%20A%C4%9Fa%C3%A7lar/Malog/"
     },
     {
       "id": "312",
       "name": "Mats",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Kutsal%20A%C4%9Fa%C3%A7lar/Mats/"
     },
     {
       "id": "313",
       "name": "Thokk",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Kutsal%20A%C4%9Fa%C3%A7lar/Thokk/"
     },
     {
       "id": "314",
       "name": "Adolf",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Adolf/"
     },
     {
       "id": "315",
       "name": "Arela",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Arela/"
     },
     {
       "id": "316",
       "name": "Aric",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Aric/"
     },
     {
       "id": "317",
       "name": "Ayboran",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Ayboran/"
     },
     {
       "id": "318",
       "name": "Corbin",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Corbin/"
     },
     {
       "id": "319",
       "name": "Eddard",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Eddard/"
     },
     {
       "id": "320",
       "name": "Einzig",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Einzig/"
     },
     {
       "id": "321",
       "name": "Greta",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Greta/"
     },
     {
       "id": "322",
       "name": "Leano",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Leano/"
     },
     {
       "id": "323",
       "name": "Sheiyha",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Sheiyha/"
     },
     {
       "id": "324",
       "name": "Silvero Silvetti",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Silvero%20Silvetti/"
     },
     {
       "id": "325",
       "name": "The First",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/The%20First/"
     },
     {
       "id": "326",
       "name": "Tobias",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Tobias/"
     },
     {
       "id": "327",
       "name": "Varin",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/K%C3%B6nningsburg/Varin/"
     },
     {
       "id": "328",
       "name": "K\u0131rm\u0131z\u0131 Behir",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCndung/K%C4%B1rm%C4%B1z%C4%B1%20Behir/"
     },
     {
       "id": "329",
       "name": "Marc",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCndung/Marc/"
     },
     {
       "id": "330",
       "name": "Mohako",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCndung/Mohako/"
     },
     {
       "id": "331",
       "name": "Rasni",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCndung/Rasni/"
     },
     {
       "id": "332",
       "name": "Tahur",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCndung/Tahur/"
     },
     {
       "id": "333",
       "name": "Zarog",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCndung/Zarog/"
     },
     {
       "id": "334",
       "name": "Amanite",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Amanite/"
     },
     {
       "id": "335",
       "name": "Dranor",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Dranor/"
     },
     {
       "id": "336",
       "name": "Elnes",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Elnes/"
     },
     {
       "id": "337",
       "name": "Gelnar",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Gelnar/"
     },
     {
       "id": "338",
       "name": "Muskarina",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Muskarina/"
     },
     {
       "id": "339",
       "name": "Olam",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Olam/"
     },
     {
       "id": "340",
       "name": "Petra",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Petra/"
     },
     {
       "id": "341",
       "name": "Theron",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Theron/"
     },
     {
       "id": "342",
       "name": "Zarathia",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/M%C3%BCttefikler%20Adas%C4%B1/Zarathia/"
     },
     {
       "id": "343",
       "name": "Thalassar",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Rumion/Thalassar/"
     },
     {
       "id": "344",
       "name": "Golmund",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Saldon/Golmund/"
     },
     {
       "id": "345",
       "name": "Razil",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Saldon/Razil/"
     },
     {
       "id": "346",
       "name": "Sthol",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Saldon/Sthol/"
     },
     {
       "id": "347",
       "name": "Thobal",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Saldon/Thobal/"
     },
     {
       "id": "348",
       "name": "Vakal",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Saldon/Vakal/"
     },
     {
       "id": "349",
       "name": "Verdan",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Saldon/Verdan/"
     },
     {
       "id": "350",
       "name": "Koragan",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Sevorg/Koragan/"
     },
     {
       "id": "351",
       "name": "Aethul",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Soradin/Aethul/"
     },
     {
       "id": "352",
       "name": "Kyrillus",
       "category": "Ki\u015fi",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Soradin/Kyrillus/"
     },
     {
       "id": "353",
       "name": "Nendra",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Soradin/Nendra/"
     },
     {
       "id": "354",
       "name": "232323",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/S%C4%B1%C4%9F%C4%B1nda%C5%9F/232323/"
     },
     {
       "id": "355",
       "name": "Dhakrin",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/S%C4%B1%C4%9F%C4%B1nda%C5%9F/Dhakrin/"
     },
     {
       "id": "356",
       "name": "\u00d6gram",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/S%C4%B1%C4%9F%C4%B1nda%C5%9F/%C3%96gram/"
     },
     {
       "id": "357",
       "name": "Thalindor",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Tumagnam/Thalindor/"
     },
     {
       "id": "358",
       "name": "Tholberg",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Tumagnam/Tholberg/"
     },
     {
       "id": "359",
       "name": "Adelyus",
       "category": "Ki\u015fi",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Adelyus/"
     },
     {
       "id": "360",
       "name": "Aldrich",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Aldrich/"
     },
     {
       "id": "361",
       "name": "Arya",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Arya/"
     },
     {
       "id": "362",
       "name": "Baldo",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Baldo/"
     },
     {
       "id": "363",
       "name": "Baldun",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Baldun/"
     },
     {
       "id": "364",
       "name": "Berthold",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Berthold/"
     },
     {
       "id": "365",
       "name": "Boswan",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Boswan/"
     },
     {
       "id": "366",
       "name": "Buck",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Buck/"
     },
     {
       "id": "367",
       "name": "Colt",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Colt/"
     },
     {
       "id": "368",
       "name": "Drog",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Drog/"
     },
     {
       "id": "369",
       "name": "Emerik",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Emerik/"
     },
     {
       "id": "370",
       "name": "Hans",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Hans/"
     },
     {
       "id": "371",
       "name": "Henerik",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Henerik/"
     },
     {
       "id": "372",
       "name": "Henry",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Henry/"
     },
     {
       "id": "373",
       "name": "Herrman",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Herrman/"
     },
     {
       "id": "374",
       "name": "Immortal Merchant",
       "category": "Ki\u015fi",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Immortal%20Merchant/"
     },
     {
       "id": "375",
       "name": "Islum",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Islum/"
     },
     {
       "id": "376",
       "name": "John Ryld",
       "category": "Ki\u015fi",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/John%20Ryld/"
     },
     {
       "id": "377",
       "name": "Killien",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Killien/"
     },
     {
       "id": "378",
       "name": "Lucian",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Lucian/"
     },
     {
       "id": "379",
       "name": "Madame Mora",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Madame%20Mora/"
     },
     {
       "id": "380",
       "name": "Mavi\u015f",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Mavi%C5%9F/"
     },
     {
       "id": "381",
       "name": "Merg",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Merg/"
     },
     {
       "id": "382",
       "name": "Mihael",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Mihael/"
     },
     {
       "id": "383",
       "name": "Morg",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Morg/"
     },
     {
       "id": "384",
       "name": "Nirael",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Nirael/"
     },
     {
       "id": "385",
       "name": "Orospu Evlad\u0131",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Orospu%20Evlad%C4%B1/"
     },
     {
       "id": "386",
       "name": "Osha",
       "category": "Ki\u015fi",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Osha/"
     },
     {
       "id": "387",
       "name": "Saubia",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Saubia/"
     },
     {
       "id": "388",
       "name": "Sebastian",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Sebastian/"
     },
     {
       "id": "389",
       "name": "Sena",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Sena/"
     },
     {
       "id": "390",
       "name": "Theresa",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Theresa/"
     },
     {
       "id": "391",
       "name": "Thodd",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Thodd/"
     },
     {
       "id": "392",
       "name": "Vincent",
       "category": "Ki\u015fi",
       "symbolSize": 2.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warbonter/Vincent/"
     },
     {
       "id": "393",
       "name": "Harrion",
       "category": "Ki\u015fi",
       "symbolSize": 3.0,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Warseir/Harrion/"
     },
     {
       "id": "394",
       "name": "Jeggred",
       "category": "Ki\u015fi",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Wolheim/Jeggred/"
     },
     {
       "id": "395",
       "name": "Nilton",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Wolheim/Nilton/"
     },
     {
       "id": "396",
       "name": "Gurmor",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Yenta/Gurmor/"
     },
     {
       "id": "397",
       "name": "Mark",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Yenta/Mark/"
     },
     {
       "id": "398",
       "name": "Mori",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Yenta/Mori/"
     },
     {
       "id": "399",
       "name": "Relgo",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Soysuzlar/Yenta/Relgo/"
     },
     {
       "id": "400",
       "name": "Annam",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Annam/"
     },
     {
       "id": "401",
       "name": "Corellon",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Corellon/"
     },
     {
       "id": "402",
       "name": "Dragan",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Dragan/"
     },
     {
       "id": "403",
       "name": "Eilistrae",
       "category": "Ki\u015fi",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Eilistrae/"
     },
     {
       "id": "404",
       "name": "Falona",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Falona/"
     },
     {
       "id": "405",
       "name": "Gruumsh",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Gruumsh/"
     },
     {
       "id": "406",
       "name": "Hara",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Hara/"
     },
     {
       "id": "407",
       "name": "Harlaus",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Harlaus/"
     },
     {
       "id": "408",
       "name": "Harsus",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Harsus/"
     },
     {
       "id": "409",
       "name": "Ioun",
       "category": "Ki\u015fi",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Ioun/"
     },
     {
       "id": "410",
       "name": "Keira",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Keira/"
     },
     {
       "id": "411",
       "name": "Kort",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Kort/"
     },
     {
       "id": "412",
       "name": "Lloth",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Lloth/"
     },
     {
       "id": "413",
       "name": "Maglubiyet",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Maglubiyet/"
     },
     {
       "id": "414",
       "name": "Mellora",
       "category": "Ki\u015fi",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Mellora/"
     },
     {
       "id": "415",
       "name": "Moradin",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Moradin/"
     },
     {
       "id": "416",
       "name": "Palatis",
       "category": "Ki\u015fi",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Palatis/"
     },
     {
       "id": "417",
       "name": "Solsitis",
       "category": "Ki\u015fi",
       "symbolSize": 2.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Solsitis/"
     },
     {
       "id": "418",
       "name": "Tiamat",
       "category": "Ki\u015fi",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Ki%C5%9Filer/Tanr%C4%B1/Tiamat/"
     },
     {
       "id": "419",
       "name": "Macera Fihristi",
       "category": "Macera",
       "symbolSize": 4.2,
-      "value": null
+      "value": "Maceralar/Macera%20Fihristi/"
     },
     {
       "id": "420",
       "name": "00   Alfons Background",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/00%20-%20Session%20Zeros/00%20-%20Alfons%20Background/"
     },
     {
       "id": "421",
       "name": "00   Bahts\u0131z Muzog",
       "category": "Macera",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Maceralar/00%20-%20Session%20Zeros/00%20-%20Bahts%C4%B1z%20Muzog/"
     },
     {
       "id": "422",
       "name": "00   Evsiz Philip",
       "category": "Macera",
       "symbolSize": 2.0,
-      "value": null
+      "value": "Maceralar/00%20-%20Session%20Zeros/00%20-%20Evsiz%20Philip/"
     },
     {
       "id": "423",
       "name": "00   Harrion'\u0131n Gezileri",
       "category": "Macera",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Maceralar/00%20-%20Session%20Zeros/00%20-%20Harrion%27%C4%B1n%20Gezileri/"
     },
     {
       "id": "424",
       "name": "0100   Belanord Harabeleri",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/01%20-%20Belanord%20Harabeleri/0100%20-%20Belanord%20Harabeleri/"
     },
     {
       "id": "425",
       "name": "0101   Ejderyayla Dans",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/01%20-%20Belanord%20Harabeleri/0101%20-%20Ejderyayla%20Dans/"
     },
     {
       "id": "426",
       "name": "0102   Altbr\u00fcck Alt\u0131ndaki Zindan",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/01%20-%20Belanord%20Harabeleri/0102%20-%20Altbr%C3%BCck%20Alt%C4%B1ndaki%20Zindan/"
     },
     {
       "id": "427",
       "name": "0103   Altbr\u00fcck K\u00fct\u00fcphanesinde",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/01%20-%20Belanord%20Harabeleri/0103%20-%20Altbr%C3%BCck%20K%C3%BCt%C3%BCphanesinde/"
     },
     {
       "id": "428",
       "name": "0200   Gruums'\u0131n Kollar\u0131",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/02%20-%20Gruums%27%C4%B1n%20Kollar%C4%B1/0200%20-%20Gruums%27%C4%B1n%20Kollar%C4%B1/"
     },
     {
       "id": "429",
       "name": "0201   Warbrof'un \u0130zinde",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/02%20-%20Gruums%27%C4%B1n%20Kollar%C4%B1/0201%20-%20Warbrof%27un%20%C4%B0zinde/"
     },
     {
       "id": "430",
       "name": "0202   Hagler Nerede",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/02%20-%20Gruums%27%C4%B1n%20Kollar%C4%B1/0202%20-%20Hagler%20Nerede/"
     },
     {
       "id": "431",
       "name": "0203   \u00c7\u00f6kertme Operasyonu",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/02%20-%20Gruums%27%C4%B1n%20Kollar%C4%B1/0203%20-%20%C3%87%C3%B6kertme%20Operasyonu/"
     },
     {
       "id": "432",
       "name": "0300   Warbonter Turnuvas\u0131",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/03%20-%20Warbonter%20Turnuvas%C4%B1/0300%20-%20Warbonter%20Turnuvas%C4%B1/"
     },
     {
       "id": "433",
       "name": "0301   Tak\u0131m Ma\u00e7lar\u0131",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/03%20-%20Warbonter%20Turnuvas%C4%B1/0301%20-%20Tak%C4%B1m%20Ma%C3%A7lar%C4%B1/"
     },
     {
       "id": "434",
       "name": "0302   1v1 Ma\u00e7lar",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/03%20-%20Warbonter%20Turnuvas%C4%B1/0302%20-%201v1%20Ma%C3%A7lar/"
     },
     {
       "id": "435",
       "name": "0400   Operasyon Yousa",
       "category": "Macera",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0400%20-%20Operasyon%20Yousa/"
     },
     {
       "id": "436",
       "name": "0401   Yousa ile Tan\u0131\u015fma",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0401%20-%20Yousa%20ile%20Tan%C4%B1%C5%9Fma/"
     },
     {
       "id": "437",
       "name": "0402   Yousa \u00c7\u0131k D\u0131\u015far\u0131",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0402%20-%20Yousa%20%C3%87%C4%B1k%20D%C4%B1%C5%9Far%C4%B1/"
     },
     {
       "id": "438",
       "name": "0403   Yousa Scry, Again",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0403%20-%20Yousa%20Scry%2C%20Again/"
     },
     {
       "id": "439",
       "name": "0404   Vincent Ayyuka",
       "category": "Macera",
       "symbolSize": 3.4,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0404%20-%20Vincent%20Ayyuka/"
     },
     {
       "id": "440",
       "name": "0405   T\u00fcccar'\u0131n Mahzeni",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0405%20-%20T%C3%BCccar%27%C4%B1n%20Mahzeni/"
     },
     {
       "id": "441",
       "name": "0406   Yousa Sobe",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0406%20-%20Yousa%20Sobe/"
     },
     {
       "id": "442",
       "name": "0407   Yousa Loot",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0407%20-%20Yousa%20Loot/"
     },
     {
       "id": "443",
       "name": "0408   Yousa Notebook",
       "category": "Macera",
       "symbolSize": 2.0,
-      "value": null
+      "value": "Maceralar/04%20-%20YousaGonnaDie/0408%20-%20Yousa%20Notebook/"
     },
     {
       "id": "444",
       "name": "0500   Kay\u0131p Elf Kulesi No1",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/05%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No1/0500%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No1/"
     },
     {
       "id": "445",
       "name": "0501   Kule1 (akaGoblins)",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/05%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No1/0501%20-%20Kule1%20%28akaGoblins%29/"
     },
     {
       "id": "446",
       "name": "0502   Kule1 Debriefing",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/05%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No1/0502%20-%20Kule1%20Debriefing/"
     },
     {
       "id": "447",
       "name": "0600   Ryld Davas\u0131",
       "category": "Macera",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Maceralar/06%20-%20Ryld%20Davas%C4%B1/0600%20-%20Ryld%20Davas%C4%B1/"
     },
     {
       "id": "448",
       "name": "0601   Dekan Celeste",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/06%20-%20Ryld%20Davas%C4%B1/0601%20-%20Dekan%20Celeste/"
     },
     {
       "id": "449",
       "name": "0602   Do\u011fu Esintisi",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/06%20-%20Ryld%20Davas%C4%B1/0602%20-%20Do%C4%9Fu%20Esintisi/"
     },
     {
       "id": "450",
       "name": "0603   Morg Sorgu",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/06%20-%20Ryld%20Davas%C4%B1/0603%20-%20Morg%20Sorgu/"
     },
     {
       "id": "451",
       "name": "0604   Ryld'\u0131 K\u0131st\u0131rmak",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/06%20-%20Ryld%20Davas%C4%B1/0604%20-%20Ryld%27%C4%B1%20K%C4%B1st%C4%B1rmak/"
     },
     {
       "id": "452",
       "name": "0605   Halstein'\u0131n An\u0131lar\u0131",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/06%20-%20Ryld%20Davas%C4%B1/0605%20-%20Halstein%27%C4%B1n%20An%C4%B1lar%C4%B1/"
     },
     {
       "id": "453",
       "name": "0606   Harsus'un mu Kupas\u0131",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/06%20-%20Ryld%20Davas%C4%B1/0606%20-%20Harsus%27un%20mu%20Kupas%C4%B1/"
     },
     {
       "id": "454",
       "name": "0700   Altbr\u00fcck \u015eeytanlar\u0131",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/07%20-%20Altbr%C3%BCck%20%C5%9Eeytanlar%C4%B1/0700%20-%20Altbr%C3%BCck%20%C5%9Eeytanlar%C4%B1/"
     },
     {
       "id": "455",
       "name": "0701   Demon Vakas\u0131",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/07%20-%20Altbr%C3%BCck%20%C5%9Eeytanlar%C4%B1/0701%20-%20Demon%20Vakas%C4%B1/"
     },
     {
       "id": "456",
       "name": "0702   Elanor'la Bulu\u015fma",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/07%20-%20Altbr%C3%BCck%20%C5%9Eeytanlar%C4%B1/0702%20-%20Elanor%27la%20Bulu%C5%9Fma/"
     },
     {
       "id": "457",
       "name": "0703   Hidra",
       "category": "Macera",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Maceralar/07%20-%20Altbr%C3%BCck%20%C5%9Eeytanlar%C4%B1/0703%20-%20Hidra/"
     },
     {
       "id": "458",
       "name": "0800   Kay\u0131p Elf Kulesi No2",
       "category": "Macera",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Maceralar/08%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/0800%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/"
     },
     {
       "id": "459",
       "name": "0801   Fey Ta\u015f\u0131",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/08%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/0801%20-%20Fey%20Ta%C5%9F%C4%B1/"
     },
     {
       "id": "460",
       "name": "0802   Kule2 (akaDragon)",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/08%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/0802%20-%20Kule2%20%28akaDragon%29/"
     },
     {
       "id": "461",
       "name": "0803   Fey Logbook",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/08%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/0803%20-%20Fey%20Logbook/"
     },
     {
       "id": "462",
       "name": "0804   Kule2 Debriefing",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/08%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/0804%20-%20Kule2%20Debriefing/"
     },
     {
       "id": "463",
       "name": "0805   Legend Lore Haz\u0131rl\u0131klar\u0131",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/08%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/0805%20-%20Legend%20Lore%20Haz%C4%B1rl%C4%B1klar%C4%B1/"
     },
     {
       "id": "464",
       "name": "0806   Legend Fucking Lore",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/08%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/0806%20-%20Legend%20Fucking%20Lore/"
     },
     {
       "id": "465",
       "name": "0807   Vincent Geekout",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/08%20-%20Kay%C4%B1p%20Elf%20Kulesi%20No2/0807%20-%20Vincent%20Geekout/"
     },
     {
       "id": "466",
       "name": "0900   Ba\u011f\u0131rmayacakt\u0131n Ryld",
       "category": "Macera",
       "symbolSize": 3.0,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0900%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/"
     },
     {
       "id": "467",
       "name": "0901   Ryld in Exile",
       "category": "Macera",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0901%20-%20Ryld%20in%20Exile/"
     },
     {
       "id": "468",
       "name": "0902   Sal\u0131n da Gidelim",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0902%20-%20Sal%C4%B1n%20da%20Gidelim/"
     },
     {
       "id": "469",
       "name": "0903   Aurelia Yolunda",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0903%20-%20Aurelia%20Yolunda/"
     },
     {
       "id": "470",
       "name": "0904   Cebri Teleport",
       "category": "Macera",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0904%20-%20Cebri%20Teleport/"
     },
     {
       "id": "471",
       "name": "0905   Singularity",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0905%20-%20Singularity/"
     },
     {
       "id": "472",
       "name": "0906   No One Expects the Rand Inquisition",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0906%20-%20No%20One%20Expects%20the%20Rand%20Inquisition/"
     },
     {
       "id": "473",
       "name": "0907   Trash ve Mob",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0907%20-%20Trash%20ve%20Mob/"
     },
     {
       "id": "474",
       "name": "0908   Karabasana \u015eaplak",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0908%20-%20Karabasana%20%C5%9Eaplak/"
     },
     {
       "id": "475",
       "name": "0909   Adaya \u00c7\u0131k\u0131\u015f",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0909%20-%20Adaya%20%C3%87%C4%B1k%C4%B1%C5%9F/"
     },
     {
       "id": "476",
       "name": "0910   Fireworks",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0910%20-%20Fireworks/"
     },
     {
       "id": "477",
       "name": "0911   Adan\u0131n En Y\u0131rt\u0131c\u0131 Hayvan\u0131",
       "category": "Macera",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0911%20-%20Adan%C4%B1n%20En%20Y%C4%B1rt%C4%B1c%C4%B1%20Hayvan%C4%B1/"
     },
     {
       "id": "478",
       "name": "0912   Eoha, E OHA",
       "category": "Macera",
       "symbolSize": 2.4,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0912%20-%20Eoha%2C%20E%20OHA/"
     },
     {
       "id": "479",
       "name": "0913   S\u0131rma Sa\u00e7l\u0131n\u0131n D\u00fc\u015f\u00fc\u015f\u00fc",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0913%20-%20S%C4%B1rma%20Sa%C3%A7l%C4%B1n%C4%B1n%20D%C3%BC%C5%9F%C3%BC%C5%9F%C3%BC/"
     },
     {
       "id": "480",
       "name": "0914   Heykeli Dikilesiceler",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/09%20-%20Ba%C4%9F%C4%B1rmayacakt%C4%B1n%20Ryld/0914%20-%20Heykeli%20Dikilesiceler/"
     },
     {
       "id": "481",
       "name": "1000   Turnuva 2021",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/10%20-%20Turnuva%202021/1000%20-%20Turnuva%202021/"
     },
     {
       "id": "482",
       "name": "1001   Turnuvaya Haz\u0131rl\u0131k",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/10%20-%20Turnuva%202021/1001%20-%20Turnuvaya%20Haz%C4%B1rl%C4%B1k/"
     },
     {
       "id": "483",
       "name": "1002   Bireysel Turnuva",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/10%20-%20Turnuva%202021/1002%20-%20Bireysel%20Turnuva/"
     },
     {
       "id": "484",
       "name": "1003   Rakonyal\u0131 Damar\u0131",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/10%20-%20Turnuva%202021/1003%20-%20Rakonyal%C4%B1%20Damar%C4%B1/"
     },
     {
       "id": "485",
       "name": "1004   Vagabonds Finali",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/10%20-%20Turnuva%202021/1004%20-%20Vagabonds%20Finali/"
     },
     {
       "id": "486",
       "name": "1100   Sava\u015fa Hay\u0131r",
       "category": "Macera",
       "symbolSize": 4.6,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1100%20-%20Sava%C5%9Fa%20Hay%C4%B1r/"
     },
     {
       "id": "487",
       "name": "1101   Renata'n\u0131n Tersi",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1101%20-%20Renata%27n%C4%B1n%20Tersi/"
     },
     {
       "id": "488",
       "name": "1102   Kiefernstrass Tap\u0131na\u011f\u0131",
       "category": "Macera",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1102%20-%20Kiefernstrass%20Tap%C4%B1na%C4%9F%C4%B1/"
     },
     {
       "id": "489",
       "name": "1103   R\u00fcyan\u0131n Sonu",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1103%20-%20R%C3%BCyan%C4%B1n%20Sonu/"
     },
     {
       "id": "490",
       "name": "1104   Kirac\u0131 Vagabonds",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1104%20-%20Kirac%C4%B1%20Vagabonds/"
     },
     {
       "id": "491",
       "name": "1105   Beyaz Taurus",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1105%20-%20Beyaz%20Taurus/"
     },
     {
       "id": "492",
       "name": "1106   Saldon's Gojira",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1106%20-%20Saldon%27s%20Gojira/"
     },
     {
       "id": "493",
       "name": "1107   Milli Hazine",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1107%20-%20Milli%20Hazine/"
     },
     {
       "id": "494",
       "name": "1108   Ejderha Gemisi",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1108%20-%20Ejderha%20Gemisi/"
     },
     {
       "id": "495",
       "name": "1109   Subject 232323",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1109%20-%20Subject%20232323/"
     },
     {
       "id": "496",
       "name": "1110   Vive la R\u00e9sistance",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1110%20-%20Vive%20la%20R%C3%A9sistance/"
     },
     {
       "id": "497",
       "name": "1111  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1111%20-/"
     },
     {
       "id": "498",
       "name": "1112  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1112%20-/"
     },
     {
       "id": "499",
       "name": "1113  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1113%20-/"
     },
     {
       "id": "500",
       "name": "1114  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1114%20-/"
     },
     {
       "id": "501",
       "name": "1115  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1115%20-/"
     },
     {
       "id": "502",
       "name": "1116  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1116%20-/"
     },
     {
       "id": "503",
       "name": "1117   Derdime \u00c7are, Baytar\u0131m Yok",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1117%20-%20Derdime%20%C3%87are%2C%20Baytar%C4%B1m%20Yok/"
     },
     {
       "id": "504",
       "name": "1118   Y\u00fcksek Kalite D\u00fc\u015f\u00fck Fiyat",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1118%20-%20Y%C3%BCksek%20Kalite%20D%C3%BC%C5%9F%C3%BCk%20Fiyat/"
     },
     {
       "id": "505",
       "name": "1119  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1119%20-/"
     },
     {
       "id": "506",
       "name": "1120  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1120%20-/"
     },
     {
       "id": "507",
       "name": "1121  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/11%20-%20Sava%C5%9Fa%20Hay%C4%B1r/1121%20-/"
     },
     {
       "id": "508",
       "name": "1200   Sand People Aren't Real",
       "category": "Macera",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Maceralar/12%20-%20Sand%20People%20Aren%27t%20Real/1200%20-%20Sand%20People%20Aren%27t%20Real/"
     },
     {
       "id": "509",
       "name": "1201  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/12%20-%20Sand%20People%20Aren%27t%20Real/1201%20-/"
     },
     {
       "id": "510",
       "name": "1202  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/12%20-%20Sand%20People%20Aren%27t%20Real/1202%20-/"
     },
     {
       "id": "511",
       "name": "1203  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/12%20-%20Sand%20People%20Aren%27t%20Real/1203%20-/"
     },
     {
       "id": "512",
       "name": "1204  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/12%20-%20Sand%20People%20Aren%27t%20Real/1204%20-/"
     },
     {
       "id": "513",
       "name": "1205  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/12%20-%20Sand%20People%20Aren%27t%20Real/1205%20-/"
     },
     {
       "id": "514",
       "name": "1206  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/12%20-%20Sand%20People%20Aren%27t%20Real/1206%20-/"
     },
     {
       "id": "515",
       "name": "99   Plot Hooks",
       "category": "Macera",
       "symbolSize": 2.4,
-      "value": null
+      "value": "Maceralar/99%20-%20Plot%20Hooks/99%20-%20Plot%20Hooks/"
     },
     {
       "id": "516",
       "name": "A   Ada Yolcular\u0131",
       "category": "Macera",
       "symbolSize": 2.2,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A%20-%20Ada%20Yolcular%C4%B1/"
     },
     {
       "id": "517",
       "name": "A0   Thurmog'un G\u00f6revi",
       "category": "Macera",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A0%20-%20Thurmog%27un%20G%C3%B6revi/"
     },
     {
       "id": "518",
       "name": "A1   Biz Gideriz Ormana",
       "category": "Macera",
       "symbolSize": 1.8,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A1%20-%20Biz%20Gideriz%20Ormana/"
     },
     {
       "id": "519",
       "name": "A2   Ormanda Dans",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A2%20-%20Ormanda%20Dans/"
     },
     {
       "id": "520",
       "name": "A3   Tumagnam Yollar\u0131 Ta\u015fl\u0131",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A3%20-%20Tumagnam%20Yollar%C4%B1%20Ta%C5%9Fl%C4%B1/"
     },
     {
       "id": "521",
       "name": "A4   Durgan'\u0131n Golemleri",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A4%20-%20Durgan%27%C4%B1n%20Golemleri/"
     },
     {
       "id": "522",
       "name": "A5   Dikba\u015fl\u0131 Timlon",
       "category": "Macera",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A5%20-%20Dikba%C5%9Fl%C4%B1%20Timlon/"
     },
     {
       "id": "523",
       "name": "A6   Ate\u015f Hatt\u0131",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A6%20-%20Ate%C5%9F%20Hatt%C4%B1/"
     },
     {
       "id": "524",
       "name": "A7   Adan\u0131n Kurtar\u0131c\u0131lar\u0131",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/A%20-%20Ada%20Yolcular%C4%B1/A7%20-%20Adan%C4%B1n%20Kurtar%C4%B1c%C4%B1lar%C4%B1/"
     },
     {
       "id": "525",
       "name": "B   Kolandir's Prequel",
       "category": "Macera",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Maceralar/B%20-%20Kolandir%27s%20Prequel/B%20-%20Kolandir%27s%20Prequel/"
     },
     {
       "id": "526",
       "name": "B0   Valgena'n\u0131n Bireyleri",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/B%20-%20Kolandir%27s%20Prequel/B0%20-%20Valgena%27n%C4%B1n%20Bireyleri/"
     },
     {
       "id": "527",
       "name": "B1   Agnon Seferi, 1. A\u015fama",
       "category": "Macera",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Maceralar/B%20-%20Kolandir%27s%20Prequel/B1%20-%20Agnon%20Seferi%2C%201.%20A%C5%9Fama/"
     },
     {
       "id": "528",
       "name": "B2   Agnon Seferi, 2. A\u015fama",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/B%20-%20Kolandir%27s%20Prequel/B2%20-%20Agnon%20Seferi%2C%202.%20A%C5%9Fama/"
     },
     {
       "id": "529",
       "name": "B3   Agnon Seferi, 3. A\u015fama",
       "category": "Macera",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Maceralar/B%20-%20Kolandir%27s%20Prequel/B3%20-%20Agnon%20Seferi%2C%203.%20A%C5%9Fama/"
     },
     {
       "id": "530",
       "name": "C   FanFinFon",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/C%20-%20FanFinFon/C%20-%20FanFinFon/"
     },
     {
       "id": "531",
       "name": "C1   Mek\u00e2n Basmaca",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/C%20-%20FanFinFon/C1%20-%20Mek%C3%A2n%20Basmaca/"
     },
     {
       "id": "532",
       "name": "C2   Kuruburun Seferi",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/C%20-%20FanFinFon/C2%20-%20Kuruburun%20Seferi/"
     },
     {
       "id": "533",
       "name": "C3   Fanfinfon Epilogue",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/C%20-%20FanFinFon/C3%20-%20Fanfinfon%20Epilogue/"
     },
     {
       "id": "534",
       "name": "D   Kara Yolcular\u0131",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/D%20-%20Kara%20Yolcular%C4%B1/D%20-%20Kara%20Yolcular%C4%B1/"
     },
     {
       "id": "535",
       "name": "D1   Kara Yolcular\u0131",
       "category": "Macera",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Maceralar/D%20-%20Kara%20Yolcular%C4%B1/D1%20-%20Kara%20Yolcular%C4%B1/"
     },
     {
       "id": "536",
       "name": "D2   One Shot Dungeon",
       "category": "Macera",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Maceralar/D%20-%20Kara%20Yolcular%C4%B1/D2%20-%20One%20Shot%20Dungeon/"
     },
     {
       "id": "537",
       "name": "E   Nerton Kadrosu",
       "category": "Macera",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Maceralar/E%20-%20Nerton%20Kadrosu/E%20-%20Nerton%20Kadrosu/"
     },
     {
       "id": "538",
       "name": "E1   Nerton Merkez",
       "category": "Macera",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Maceralar/E%20-%20Nerton%20Kadrosu/E1%20-%20Nerton%20Merkez/"
     },
     {
       "id": "539",
       "name": "E2   Evil Eikthyr",
       "category": "Macera",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Maceralar/E%20-%20Nerton%20Kadrosu/E2%20-%20Evil%20Eikthyr/"
     },
     {
       "id": "540",
       "name": "E3  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/E%20-%20Nerton%20Kadrosu/E3%20-/"
     },
     {
       "id": "541",
       "name": "E4  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/E%20-%20Nerton%20Kadrosu/E4%20-/"
     },
     {
       "id": "542",
       "name": "E5  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/E%20-%20Nerton%20Kadrosu/E5%20-/"
     },
     {
       "id": "543",
       "name": "E6  ",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/E%20-%20Nerton%20Kadrosu/E6%20-/"
     },
     {
       "id": "544",
       "name": "F   Rote Acht",
       "category": "Macera",
       "symbolSize": 1.6,
-      "value": null
+      "value": "Maceralar/F%20-%20Rote%20Acht/F%20-%20Rote%20Acht/"
     },
     {
       "id": "545",
       "name": "F1   Beklenmedik Bulu\u015fma",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/F%20-%20Rote%20Acht/F1%20-%20Beklenmedik%20Bulu%C5%9Fma/"
     },
     {
       "id": "546",
       "name": "F2   Performans Sanat\u0131",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/F%20-%20Rote%20Acht/F2%20-%20Performans%20Sanat%C4%B1/"
     },
     {
       "id": "547",
       "name": "F3   Dilli Onryo",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/F%20-%20Rote%20Acht/F3%20-%20Dilli%20Onryo/"
     },
     {
       "id": "548",
       "name": "F4   M\u00fcze Gezisi",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/F%20-%20Rote%20Acht/F4%20-%20M%C3%BCze%20Gezisi/"
     },
     {
       "id": "549",
       "name": "F5   Kilit Olur \u00d6mre Bedel",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/F%20-%20Rote%20Acht/F5%20-%20Kilit%20Olur%20%C3%96mre%20Bedel/"
     },
     {
       "id": "550",
       "name": "F6   At\u00e7anyurtlular",
       "category": "Macera",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Maceralar/F%20-%20Rote%20Acht/F6%20-%20At%C3%A7anyurtlular/"
     },
     {
       "id": "551",
       "name": "D\u0131\u015flanm\u0131\u015flar Adas\u0131",
       "category": "Mekan",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/D%C4%B1%C5%9Flanm%C4%B1%C5%9Flar%20Adas%C4%B1/"
     },
     {
       "id": "552",
       "name": "G\u00fcne\u015f Adalar\u0131",
       "category": "Mekan",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/G%C3%BCne%C5%9F%20Adalar%C4%B1/"
     },
     {
       "id": "553",
       "name": "Lawless Lands",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Lawless%20Lands/"
     },
     {
       "id": "554",
       "name": "Rumion",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/Rumion/"
     },
     {
       "id": "555",
       "name": "Vah\u015fi Orman",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Vah%C5%9Fi%20Orman/"
     },
     {
       "id": "556",
       "name": "Warseir",
       "category": "Mekan",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Warseir/"
     },
     {
       "id": "557",
       "name": "Belanord",
       "category": "Mekan",
       "symbolSize": 2.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Dwarf%20Krall%C4%B1klar%C4%B1/Belanord/"
     },
     {
       "id": "558",
       "name": "Dobrovia",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/Dwarf%20Krall%C4%B1klar%C4%B1/Dobrovia/"
     },
     {
       "id": "559",
       "name": "Dwarf Krall\u0131klar\u0131",
       "category": "Mekan",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Dwarf%20Krall%C4%B1klar%C4%B1/Dwarf%20Krall%C4%B1klar%C4%B1/"
     },
     {
       "id": "560",
       "name": "Kilnaddun",
       "category": "Mekan",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Dwarf%20Krall%C4%B1klar%C4%B1/Kilnaddun/"
     },
     {
       "id": "561",
       "name": "Aurelia",
       "category": "Mekan",
       "symbolSize": 2.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Dwarf%20Krall%C4%B1klar%C4%B1/Aurelia/Aurelia/"
     },
     {
       "id": "562",
       "name": "Dragon's Hoard",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/Dwarf%20Krall%C4%B1klar%C4%B1/Aurelia/Dragon%27s%20Hoard/"
     },
     {
       "id": "563",
       "name": "Ardenior",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Elf%20Krall%C4%B1klar%C4%B1/Ardenior/"
     },
     {
       "id": "564",
       "name": "Elf Kuleleri",
       "category": "Mekan",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Elf%20Krall%C4%B1klar%C4%B1/Elf%20Kuleleri/"
     },
     {
       "id": "565",
       "name": "Great Forest",
       "category": "Mekan",
       "symbolSize": 3.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/Elf%20Krall%C4%B1klar%C4%B1/Great%20Forest/"
     },
     {
       "id": "566",
       "name": "Eoha Harabeleri",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Eoha/Eoha%20Harabeleri/"
     },
     {
       "id": "567",
       "name": "Gri Kale",
       "category": "Mekan",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/Eoha/Gri%20Kale/"
     },
     {
       "id": "568",
       "name": "Harabeler \u00c7\u00f6l\u00fc",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/Eoha/Harabeler%20%C3%87%C3%B6l%C3%BC/"
     },
     {
       "id": "569",
       "name": "Sevorg",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Kuzey/Sevorg/"
     },
     {
       "id": "570",
       "name": "Forgunntal",
       "category": "Mekan",
       "symbolSize": 2.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/M%C3%BCttefikler%20Adas%C4%B1/Forgunntal/"
     },
     {
       "id": "571",
       "name": "Marnell",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/M%C3%BCttefikler%20Adas%C4%B1/Marnell/"
     },
     {
       "id": "572",
       "name": "M\u00fcttefikler Adas\u0131",
       "category": "Mekan",
       "symbolSize": 3.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/M%C3%BCttefikler%20Adas%C4%B1/M%C3%BCttefikler%20Adas%C4%B1/"
     },
     {
       "id": "573",
       "name": "Tumagnam",
       "category": "Mekan",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/M%C3%BCttefikler%20Adas%C4%B1/Tumagnam/"
     },
     {
       "id": "574",
       "name": "Abyss",
       "category": "Mekan",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Planes/Abyss/"
     },
     {
       "id": "575",
       "name": "Fey Wilds",
       "category": "Mekan",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Planes/Fey%20Wilds/"
     },
     {
       "id": "576",
       "name": "Shadowfell",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Planes/Shadowfell/"
     },
     {
       "id": "577",
       "name": "G\u00f6lge Birahane",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Rand%20Diyar%C4%B1/G%C3%B6lge%20Birahane/"
     },
     {
       "id": "578",
       "name": "Rand Diyar\u0131",
       "category": "Mekan",
       "symbolSize": 2.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/Rand%20Diyar%C4%B1/Rand%20Diyar%C4%B1/"
     },
     {
       "id": "579",
       "name": "Randa",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Rand%20Diyar%C4%B1/Randa/"
     },
     {
       "id": "580",
       "name": "Surdibi",
       "category": "Mekan",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Rand%20Diyar%C4%B1/Surdibi/"
     },
     {
       "id": "581",
       "name": "Ulskred",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/Rand%20Diyar%C4%B1/Ulskred/"
     },
     {
       "id": "582",
       "name": "Yenta",
       "category": "Mekan",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Rand%20Diyar%C4%B1/Yenta/"
     },
     {
       "id": "583",
       "name": "Agnon Harabeleri",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Agnon%20Harabeleri/"
     },
     {
       "id": "584",
       "name": "Bolbento",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Bolbento/"
     },
     {
       "id": "585",
       "name": "Lundum",
       "category": "Mekan",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Lundum/"
     },
     {
       "id": "586",
       "name": "Mageocracy",
       "category": "Mekan",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Mageocracy/"
     },
     {
       "id": "587",
       "name": "Rakonya",
       "category": "Mekan",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Rakonya/"
     },
     {
       "id": "588",
       "name": "Rikhton",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Rikhton/"
     },
     {
       "id": "589",
       "name": "Soradin Kenti",
       "category": "Mekan",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Soradin%20Kenti/"
     },
     {
       "id": "590",
       "name": "Soradin",
       "category": "Mekan",
       "symbolSize": 8.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Soradin/"
     },
     {
       "id": "591",
       "name": "S\u0131\u011f\u0131nda\u015f",
       "category": "Mekan",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/S%C4%B1%C4%9F%C4%B1nda%C5%9F/"
     },
     {
       "id": "592",
       "name": "Thugton",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Thugton/"
     },
     {
       "id": "593",
       "name": "Headcliff",
       "category": "Mekan",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Northern%20Federation/Headcliff/"
     },
     {
       "id": "594",
       "name": "Northern Federation",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Northern%20Federation/Northern%20Federation/"
     },
     {
       "id": "595",
       "name": "Port Nerton",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Northern%20Federation/Port%20Nerton/"
     },
     {
       "id": "596",
       "name": "Koto'nun \u0130ncileri",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Saldon/Koto%27nun%20%C4%B0ncileri/"
     },
     {
       "id": "597",
       "name": "Saldon",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Saldon/Saldon/"
     },
     {
       "id": "598",
       "name": "Valgeno\u011flu Potionc\u0131l\u0131k",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Soradin%20Federasyonu/Saldon/Valgeno%C4%9Flu%20Potionc%C4%B1l%C4%B1k/"
     },
     {
       "id": "599",
       "name": "Tamdro",
       "category": "Mekan",
       "symbolSize": 1.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Underdark/Tamdro/"
     },
     {
       "id": "600",
       "name": "Underdark",
       "category": "Mekan",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Underdark/Underdark/"
     },
     {
       "id": "601",
       "name": "Balanar S\u0131rada\u011flar\u0131",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Yer%20%C5%9Eekilleri/Balanar%20S%C4%B1rada%C4%9Flar%C4%B1/"
     },
     {
       "id": "602",
       "name": "Berser G\u00f6l\u00fc",
       "category": "Mekan",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/Yer%20%C5%9Eekilleri/Berser%20G%C3%B6l%C3%BC/"
     },
     {
       "id": "603",
       "name": "B\u00fcy\u00fck Savana",
       "category": "Mekan",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/Yer%20%C5%9Eekilleri/B%C3%BCy%C3%BCk%20Savana/"
     },
     {
       "id": "604",
       "name": "Della Nehri",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/Yer%20%C5%9Eekilleri/Della%20Nehri/"
     },
     {
       "id": "605",
       "name": "Haulus Nehri",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/Yer%20%C5%9Eekilleri/Haulus%20Nehri/"
     },
     {
       "id": "606",
       "name": "Hercel Da\u011f\u0131",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/Yer%20%C5%9Eekilleri/Hercel%20Da%C4%9F%C4%B1/"
     },
     {
       "id": "607",
       "name": "\u0130mparator Denizi",
       "category": "Mekan",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/Yer%20%C5%9Eekilleri/%C4%B0mparator%20Denizi/"
     },
     {
       "id": "608",
       "name": "Aedil",
       "category": "Mekan",
       "symbolSize": 4.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Aedil/"
     },
     {
       "id": "609",
       "name": "Akmora",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Akmora/"
     },
     {
       "id": "610",
       "name": "Caelheim",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Caelheim/"
     },
     {
       "id": "611",
       "name": "Dotnau",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Dotnau/"
     },
     {
       "id": "612",
       "name": "Hannog",
       "category": "Mekan",
       "symbolSize": 2.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Hannog/"
     },
     {
       "id": "613",
       "name": "Ivel Hafen",
       "category": "Mekan",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Ivel%20Hafen/"
     },
     {
       "id": "614",
       "name": "Tottengen",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Tottengen/"
     },
     {
       "id": "615",
       "name": "Wlebur",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Wlebur/"
     },
     {
       "id": "616",
       "name": "Wolheim",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Wolheim/"
     },
     {
       "id": "617",
       "name": "\u0130mparatorluk",
       "category": "Mekan",
       "symbolSize": 4.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/%C4%B0mparatorluk/"
     },
     {
       "id": "618",
       "name": "Altbr\u00fcck K\u00fct\u00fcphanesi",
       "category": "Mekan",
       "symbolSize": 2.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Altbr%C3%BCck/Altbr%C3%BCck%20K%C3%BCt%C3%BCphanesi/"
     },
     {
       "id": "619",
       "name": "Altbr\u00fcck",
       "category": "Mekan",
       "symbolSize": 8.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Altbr%C3%BCck/Altbr%C3%BCck/"
     },
     {
       "id": "620",
       "name": "Bira Nehri",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Altbr%C3%BCck/Bira%20Nehri/"
     },
     {
       "id": "621",
       "name": "Kutsal A\u011fa\u00e7lar",
       "category": "Mekan",
       "symbolSize": 2.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Altbr%C3%BCck/Kutsal%20A%C4%9Fa%C3%A7lar/"
     },
     {
       "id": "622",
       "name": "Di\u015fsiz Ejderha",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Kiefernstrass/Di%C5%9Fsiz%20Ejderha/"
     },
     {
       "id": "623",
       "name": "Kiefernstrass",
       "category": "Mekan",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Kiefernstrass/Kiefernstrass/"
     },
     {
       "id": "624",
       "name": "K\u00f6nningsburg",
       "category": "Mekan",
       "symbolSize": 9.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/K%C3%B6nnigsburg/K%C3%B6nningsburg/"
     },
     {
       "id": "625",
       "name": "The Gilded Page",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/K%C3%B6nnigsburg/The%20Gilded%20Page/"
     },
     {
       "id": "626",
       "name": "Bal\u0131k Kovas\u0131",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/M%C3%BCndung/Bal%C4%B1k%20Kovas%C4%B1/"
     },
     {
       "id": "627",
       "name": "M\u00fcndung",
       "category": "Mekan",
       "symbolSize": 8.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/M%C3%BCndung/M%C3%BCndung/"
     },
     {
       "id": "628",
       "name": "Pava Adas\u0131",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/M%C3%BCndung/Pava%20Adas%C4%B1/"
     },
     {
       "id": "629",
       "name": "\u00c7akma Elf Kuleleri",
       "category": "Mekan",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/M%C3%BCndung/%C3%87akma%20Elf%20Kuleleri/"
     },
     {
       "id": "630",
       "name": "Beer Mire",
       "category": "Mekan",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Warbonter/Beer%20Mire/"
     },
     {
       "id": "631",
       "name": "Celeste'nin Evi",
       "category": "Mekan",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Warbonter/Celeste%27nin%20Evi/"
     },
     {
       "id": "632",
       "name": "Giez's Sea Food",
       "category": "Mekan",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Warbonter/Giez%27s%20Sea-Food/"
     },
     {
       "id": "633",
       "name": "Mora'n\u0131n G\u00fczellikleri",
       "category": "Mekan",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Warbonter/Mora%27n%C4%B1n%20G%C3%BCzellikleri/"
     },
     {
       "id": "634",
       "name": "Warbonter",
       "category": "Mekan",
       "symbolSize": 15.0,
-      "value": null
+      "value": "Mek%C3%A2nlar/%C4%B0mparatorluk/Warbonter/Warbonter/"
     },
     {
       "id": "635",
       "name": "0 History of Brohwar",
       "category": "Genel",
       "symbolSize": 3.2,
-      "value": null
+      "value": "Tarih%C3%A7e/0_History%20of%20Brohwar/"
     },
     {
       "id": "636",
       "name": "1 History of Vagabonds",
       "category": "Genel",
       "symbolSize": 0.0,
-      "value": null
+      "value": "Tarih%C3%A7e/1_History%20of%20Vagabonds/"
     },
     {
       "id": "637",
       "name": "Ejderhalar Sava\u015f\u0131",
       "category": "Genel",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Tarih%C3%A7e/Ejderhalar%20Sava%C5%9F%C4%B1/"
     },
     {
       "id": "638",
       "name": "Elf Tarihi",
       "category": "Genel",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Tarih%C3%A7e/Elf%20Tarihi/"
     },
     {
       "id": "639",
       "name": "Harsus'un \u00d6l\u00fcm\u00fc",
       "category": "Genel",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Tarih%C3%A7e/Harsus%27un%20%C3%96l%C3%BCm%C3%BC/"
     },
     {
       "id": "640",
       "name": "III. B\u00fcy\u00fck Buhran",
       "category": "Genel",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Tarih%C3%A7e/III.%20B%C3%BCy%C3%BCk%20Buhran/"
     },
     {
       "id": "641",
       "name": "Kara Gece",
       "category": "Genel",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Tarih%C3%A7e/Kara%20Gece/"
     },
     {
       "id": "642",
       "name": "Soradin Sava\u015f\u0131",
       "category": "Genel",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Tarih%C3%A7e/Soradin%20Sava%C5%9F%C4%B1/"
     },
     {
       "id": "643",
       "name": "War of Sorrows",
       "category": "Genel",
       "symbolSize": 0.6,
-      "value": null
+      "value": "Tarih%C3%A7e/War%20of%20Sorrows/"
     },
     {
       "id": "644",
       "name": "Baba Geyik",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Baba%20Geyik/"
     },
     {
       "id": "645",
       "name": "Behir",
       "category": "Yarat\u0131k",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Behir/"
     },
     {
       "id": "646",
       "name": "Couatl",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Couatl/"
     },
     {
       "id": "647",
       "name": "Demon",
       "category": "Yarat\u0131k",
       "symbolSize": 0.8,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Demon/"
     },
     {
       "id": "648",
       "name": "Dragon",
       "category": "Yarat\u0131k",
       "symbolSize": 1.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Dragon/"
     },
     {
       "id": "649",
       "name": "Drow",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Drow/"
     },
     {
       "id": "650",
       "name": "Elemental",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Elemental/"
     },
     {
       "id": "651",
       "name": "Goblin",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Goblin/"
     },
     {
       "id": "652",
       "name": "Hag",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Hag/"
     },
     {
       "id": "653",
       "name": "Helmed Horror",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Helmed%20Horror/"
     },
     {
       "id": "654",
       "name": "Hydra",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Hydra/"
     },
     {
       "id": "655",
       "name": "Kobold",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Kobold/"
     },
     {
       "id": "656",
       "name": "Lycanthrope",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Lycanthrope/"
     },
     {
       "id": "657",
       "name": "Manticore",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Manticore/"
     },
     {
       "id": "658",
       "name": "Myrmidon",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Myrmidon/"
     },
     {
       "id": "659",
       "name": "Nightmare Weaver",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Nightmare%20Weaver/"
     },
     {
       "id": "660",
       "name": "Ogre",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Ogre/"
     },
     {
       "id": "661",
       "name": "Red Wanker",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Red%20Wanker/"
     },
     {
       "id": "662",
       "name": "Shambling Mound",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Shambling%20Mound/"
     },
     {
       "id": "663",
       "name": "Svirfneblin",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Svirfneblin/"
     },
     {
       "id": "664",
       "name": "Troll",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Troll/"
     },
     {
       "id": "665",
       "name": "Umber Hulk",
       "category": "Yarat\u0131k",
       "symbolSize": 0.4,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Umber%20Hulk/"
     },
     {
       "id": "666",
       "name": "Vampire",
       "category": "Yarat\u0131k",
       "symbolSize": 1.0,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Vampire/"
     },
     {
       "id": "667",
       "name": "Wraith",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Wraith/"
     },
     {
       "id": "668",
       "name": "Zombie",
       "category": "Yarat\u0131k",
       "symbolSize": 0.2,
-      "value": null
+      "value": "Yarat%C4%B1k%20K%C3%BClliyat%C4%B1/Zombie/"
     },
     {
       "id": "669",
       "name": "Adventures of Sylmira",
       "category": "Genel",
       "symbolSize": 0.2,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Adventures%20of%20Sylmira/"
     },
     {
       "id": "670",
       "name": "Bestiary",
       "category": "Genel",
       "symbolSize": 4.4,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Bestiary/"
     },
     {
       "id": "671",
       "name": "Beyinsiz Zek\u00e2",
       "category": "Genel",
       "symbolSize": 0.2,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Beyinsiz%20Zek%C3%A2/"
     },
     {
       "id": "672",
       "name": "Dragons of Brohwar",
       "category": "Genel",
       "symbolSize": 1.2,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Dragons%20of%20Brohwar/"
     },
     {
       "id": "673",
       "name": "Fated List of Major Prophecies",
       "category": "Genel",
       "symbolSize": 1.2,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Fated%20List%20of%20Major%20Prophecies/"
     },
     {
       "id": "674",
       "name": "Fated List of Minor Prophecies",
       "category": "Genel",
       "symbolSize": 0.4,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Fated%20List%20of%20Minor%20Prophecies/"
     },
     {
       "id": "675",
       "name": "Homebrew Spells",
       "category": "Genel",
       "symbolSize": 0.0,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Homebrew%20Spells/"
     },
     {
       "id": "676",
       "name": "Magic Crafting",
       "category": "Genel",
       "symbolSize": 0.2,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Magic%20Crafting/"
     },
     {
       "id": "677",
       "name": "Magic Map",
       "category": "Genel",
       "symbolSize": 0.0,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Magic%20Map/"
     },
     {
       "id": "678",
       "name": "Scroll Business",
       "category": "Genel",
       "symbolSize": 0.0,
-      "value": null
+      "value": "%C3%96zel%20%C4%B0%C3%A7erik/Scroll%20Business/"
     }
   ],
   "links": [

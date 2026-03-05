@@ -71,12 +71,16 @@ function draw_graph(myChart, global=true) {
 var option;
 
 function graph_links() {
-  id = option.series[0].data.find(it => it.value === window.location.pathname).id;
+  pathnaaaa = window.location.pathname
+  if(pathnaaaa.slice(0,1) == "/"){pathnaaaa=pathnaaaa.slice(1)}
+  id = option.series[0].data.find(it => it.value === pathnaaaa).id;
   return option.series[0].links.filter(it => it.source === id || it.target === id);
 }
 
 function graph_nodes() {
-  id = option.series[0].data.find(it => it.value === window.location.pathname).id;
+  pathnaaaa = window.location.pathname
+  if(pathnaaaa.slice(0,1) == "/"){pathnaaaa=pathnaaaa.slice(1)}
+  id = option.series[0].data.find(it => it.value === pathnaaaa).id;
   links = option.series[0].links.filter(it => it.source === id || it.target === id);
   ids = [];
   links.forEach(function (link) {
