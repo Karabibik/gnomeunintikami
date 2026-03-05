@@ -1,11 +1,14 @@
 # Otto Hagen  
   
-!!! note inline end "Karakter Notları"  
-	Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Otto</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Otto |  
 | **Soyadı** | [[Hagen]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Karısıyla münasebetinden dolayı [[Alfons]]'a tilt.

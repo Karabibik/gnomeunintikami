@@ -1,18 +1,22 @@
 # Malog   
   
-!!! note inline end "Karakter Notları"  
-	Gerizekalı, geyik totemi.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Malog</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Malog |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Half-Orc |  
-| **Sınıf** | Barbarian |  
+| **Sınıf** | • Barbarian |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Gerizekalı, geyik totemi.

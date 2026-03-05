@@ -4,31 +4,34 @@ tags:
 ---  
 # Raciutas   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Raciutas</div>  
+  
+=== "Raciutas"  
+	![[0_Raciutas_portrait.webp]]  
+  
+=== "1"  
+	![[Raciutas_1.webp]]  
+  
+=== "Token"  
+	![[Raciutas_Token.webp]]  
+  
+=== "Yaşlı"  
+	![[Raciutas_Yaşlı.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Raciutas |  
 | **Soyadı** |  |  
-| **Hizip** | [[Nerton Kadrosu]] |  
+| **Hizip** | • [[Nerton Kadrosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Bard (College of Lore) (Level 6) |  
+| **Sınıf** | • Bard (College of Lore) (Level 6) |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Raciutas"  
-	![[0_Raciutas_portrait.webp]]{ .card }  
-  
-=== "1"  
-	![[Raciutas_1.webp]]{ .card }  
-  
-=== "Token"  
-	![[Raciutas_Token.webp]]{ .card }  
-  
-=== "Yaşlı"  
-	![[Raciutas_Yaşlı.webp]]{ .card }  
-  
-</div>

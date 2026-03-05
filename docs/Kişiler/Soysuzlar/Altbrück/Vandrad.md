@@ -1,24 +1,25 @@
 # Vandrad   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Vandrad</div>  
+  
+=== "Vandrad"  
+	![[Vandrad_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Vandrad |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dwarf |  
-| **Sınıf** | Paladin |  
+| **Sınıf** | • Paladin |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti Üyesi - Eski |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Vandrad"  
-	![[Vandrad_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Onurcan'ın karakteri   
+Onurcan'ın karakteri

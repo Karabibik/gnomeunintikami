@@ -12,7 +12,7 @@ theme:
       - navigation.top
       - announce.dismiss
       - search.suggest
-      - search.highlight
+      # - search.highlight
       
     palette:
     - media: "(prefers-color-scheme: dark)"
@@ -55,7 +55,8 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   
 plugins:
-  - obsidian-interactive-graph
+  # - obsidian-interactive-graph
+  - !!python/object:custom_plugins.obsidian_graph.plugin.ObsidianInteractiveGraphPlugin
   - search
   - roamlinks 
   - tags

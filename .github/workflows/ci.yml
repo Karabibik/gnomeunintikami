@@ -21,6 +21,7 @@ jobs:
           pip install mkdocs-material
           pip install mkdocs-roamlinks-plugin
           pip install neoteroi-mkdocs
+          pip install mkdocs-glightbox
           
       - name: Deploy MkDocs to GitHub Pages
         run: mkdocs gh-deploy --force

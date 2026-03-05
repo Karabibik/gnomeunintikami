@@ -1,10 +1,17 @@
 # Thosunna   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Thosunna</div>  
+  
+=== "Thosunna"  
+	![[Thosunna_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Thosunna |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -13,9 +20,5 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Thosunna"  
-	![[Thosunna_portrait.webp]]{ .card }  
-  
-</div>

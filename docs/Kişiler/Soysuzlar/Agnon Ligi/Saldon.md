@@ -4,12 +4,15 @@ tags:
 ---  
 # Saldon   
   
-!!! note inline end "Karakter Notları"  
-	Agnon'da önemli biriymiş. Saldon'un girişinde heykeli var.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Saldon</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Saldon |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -18,5 +21,6 @@ tags:
 | **Kütük** | [[Agnon Ligi]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Agnon'da önemli biriymiş. Saldon'un girişinde heykeli var.

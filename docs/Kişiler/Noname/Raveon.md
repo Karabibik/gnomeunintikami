@@ -1,11 +1,14 @@
 # Raveon   
   
-!!! note inline end "Karakter Notları"  
-	Çok bir bilgi yok. Celeste'nin, yeni büyü yaratımında supervisor'ı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Raveon</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Raveon |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Çok bir bilgi yok. Celeste'nin, yeni büyü yaratımında supervisor'ı.

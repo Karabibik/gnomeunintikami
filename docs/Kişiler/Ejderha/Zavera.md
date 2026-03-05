@@ -1,9 +1,14 @@
 # Zavera   
   
   
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Zavera</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
+  
 |  |  |  
 |---|---|  
-| **İsim** | Zavera |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -12,5 +17,5 @@
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-  
+</div>  
   

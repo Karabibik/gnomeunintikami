@@ -1,11 +1,14 @@
 # III. Virzol Voldrun  
   
-!!! note inline end "Karakter Notları"  
-	Könningsburg'u dünyanın başkenti ilan eden Kral.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Virzol III</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Virzol III |  
 | **Soyadı** | [[Voldrun]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Könningsburg'u dünyanın başkenti ilan eden Kral.

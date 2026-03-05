@@ -1,11 +1,14 @@
 # Harlaus   
   
-!!! note inline end "Karakter Notları"  
-	Ölülerin ruhlarını koruyor. Tapınılması yasak değil ama çok tapınanı yok.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Harlaus</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Harlaus |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Ölülerin ruhlarını koruyor. Tapınılması yasak değil ama çok tapınanı yok.

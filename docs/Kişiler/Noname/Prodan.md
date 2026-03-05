@@ -1,18 +1,22 @@
 # Prodan   
   
-!!! note inline end "Karakter Notları"  
-	Aurelion'ın Ejderhalar Savaşı sırasındaki artçı birliğinden bir cleric     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Prodan</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Prodan |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
 | **Irk** | Dragonborn |  
-| **Sınıf** | Cleric |  
+| **Sınıf** | • Cleric |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Aurelion'ın Ejderhalar Savaşı sırasındaki artçı birliğinden bir cleric

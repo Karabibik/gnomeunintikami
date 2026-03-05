@@ -4,12 +4,15 @@ tags:
 ---  
 # Annam   
   
-!!! note inline end "Karakter Notları"  
-	Ana giant tanrısı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Annam</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Annam |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -18,5 +21,6 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Ana giant tanrısı

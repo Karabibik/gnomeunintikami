@@ -1,11 +1,14 @@
 # Mihael   
   
-!!! note inline end "Karakter Notları"  
-	Guard, [[John Ryld]]'a karşı çıktı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Mihael</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Mihael |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Guard, [[John Ryld]]'a karşı çıktı.

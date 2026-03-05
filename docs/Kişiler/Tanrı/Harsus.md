@@ -5,12 +5,15 @@ tags:
 ---  
 # Harsus   
   
-!!! note inline end "Karakter Notları"  
-	Tanrılar kralı, Dragan öldürmüş.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Harsus</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Harsus |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -19,5 +22,6 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Tanrılar kralı, Dragan öldürmüş.

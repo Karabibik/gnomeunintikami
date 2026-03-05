@@ -6,28 +6,29 @@ tags:
 ---  
 # Hal Web   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Hal Web</div>  
+  
+=== "Hal Web"  
+	![[Hal Web_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Hal Web_Showcase.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Hal Web |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Vampire |  
-| **Sınıf** | Fighter, Wizard (Level 7+) |  
+| **Sınıf** | • Fighter<br>• Wizard (Level 7+) |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** | 30-40 yaşlarında<br>1.80, yapılı, yakışıklı |  
-  
-  
-=== "Hal Web"  
-	![[Hal Web_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Hal Web_Showcase.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Eski [[Güneş Birliği]] koruması. [[Immortal Merchant]]'ın adamı olduktan sonra kanını bulup yerine geçmek istiyordu. O yüzden çeşitli katakulliler çevirdi ama sonunda daed.   
+Eski [[Güneş Birliği]] koruması. [[Immortal Merchant]]'ın adamı olduktan sonra kanını bulup yerine geçmek istiyordu. O yüzden çeşitli katakulliler çevirdi ama sonunda daed.

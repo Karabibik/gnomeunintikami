@@ -4,19 +4,23 @@ tags:
 ---  
 # Shün Yei  
   
-!!! note inline end "Karakter Notları"  
-	Mageocracy'de transmutation hocası     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Shün</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Shün |  
 | **Soyadı** | [[Yei]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn |  
-| **Sınıf** | Wizard (Transmutation) |  
+| **Sınıf** | • Wizard (Transmutation) |  
 | **Kütük** | [[Mageocracy]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Mageocracy'de transmutation hocası

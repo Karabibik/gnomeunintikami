@@ -1,30 +1,31 @@
 # Sylmira Thaylis  
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Sylmira</div>  
+  
+=== "Sylmira"  
+	![[0_Sylmira_portrait.webp]]  
+  
+=== "1"  
+	![[Sylmira_1.webp]]  
+  
+=== "AnasınaBak"  
+	![[Sylmira_AnasınaBak.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Sylmira |  
 | **Soyadı** | [[Thaylis]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Dragon |  
-| **Sınıf** | Monk |  
+| **Sınıf** | • Monk |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Adult |  
-  
-  
-=== "Sylmira"  
-	![[0_Sylmira_portrait.webp]]{ .card }  
-  
-=== "1"  
-	![[Sylmira_1.webp]]{ .card }  
-  
-=== "AnasınaBak"  
-	![[Sylmira_AnasınaBak.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	[[Elowen]]'in kızı   
+[[Elowen]]'in kızı

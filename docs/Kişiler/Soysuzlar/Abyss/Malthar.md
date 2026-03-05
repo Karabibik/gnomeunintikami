@@ -1,11 +1,14 @@
 # Malthar   
   
-!!! note inline end "Karakter Notları"  
-	[[Alfons]]'un aynadaki demon.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Malthar</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Malthar |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Abyss]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Alfons]]'un aynadaki demon.

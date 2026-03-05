@@ -1,18 +1,22 @@
 # Henerik   
   
-!!! note inline end "Karakter Notları"  
-	Katı görüşlü, rogue sevmeyen adam.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Henerik</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Henerik |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Paladin ([[Solsitis]]) |  
+| **Sınıf** | • Paladin ([[Solsitis]]) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Katı görüşlü, rogue sevmeyen adam.

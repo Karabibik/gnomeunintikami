@@ -1,10 +1,17 @@
 # Granmyr   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Granmyr</div>  
+  
+=== "Granmyr"  
+	![[Granmyr_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Granmyr |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -13,12 +20,6 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Parti Üyesi - Eski |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Granmyr"  
-	![[Granmyr_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Berke'nin karakteri   
+Berke'nin karakteri

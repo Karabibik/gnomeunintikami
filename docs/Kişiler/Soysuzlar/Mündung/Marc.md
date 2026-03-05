@@ -1,11 +1,14 @@
 # Marc   
   
-!!! note inline end "Karakter Notları"  
-	Mündung - 3'ün kaptanı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Marc</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Marc |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Mündung - 3'ün kaptanı.

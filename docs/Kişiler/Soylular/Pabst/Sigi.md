@@ -1,18 +1,22 @@
 # Sigi Pabst  
   
-!!! note inline end "Karakter Notları"  
-	Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Sigi</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Sigi |  
 | **Soyadı** | [[Pabst]] |  
-| **Hizip** | [[Güneş Birliği]] |  
+| **Hizip** | • [[Güneş Birliği]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Wizard (Abjuration) |  
+| **Sınıf** | • Wizard (Abjuration) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 65 yaşlarında |  
+</div>  
   
-  
+Üniversitede Abjuration kürsü başkanı. Ryld'dan memnun değil.

@@ -1,11 +1,14 @@
 # Theron   
   
-!!! note inline end "Karakter Notları"  
-	Zarathia'nın eski komutanı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Theron</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Theron |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Yaşlı |  
+</div>  
   
-  
+Zarathia'nın eski komutanı.

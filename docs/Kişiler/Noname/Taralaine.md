@@ -4,25 +4,28 @@ tags:
 ---  
 # Taralaine   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Taralaine</div>  
+  
+=== "Taralaine"  
+	![[0_Taralaine_portrait.webp]]  
+  
+=== "Calamity"  
+	![[Taralaine_Calamity.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Taralaine |  
 | **Soyadı** |  |  
-| **Hizip** | [[Bronzeheart Battalion]] |  
+| **Hizip** | • [[Bronzeheart Battalion]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Sorcerer, Warlock ([[Ioun]]) (Level 14) |  
+| **Sınıf** | • Sorcerer<br>• Warlock ([[Ioun]]) (Level 14) |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Taralaine"  
-	![[0_Taralaine_portrait.webp]]{ .card }  
-  
-=== "Calamity"  
-	![[Taralaine_Calamity.webp]]{ .card }  
-  
-</div>

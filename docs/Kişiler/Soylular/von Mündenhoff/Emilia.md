@@ -1,11 +1,14 @@
 # Emilia von Mündenhoff  
   
-!!! note inline end "Karakter Notları"  
-	Mündung dükü [[Elias]]'ın kız kardeşi. Kardeşi gibi değil, on numara parti lokali başkanı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Emilia</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Emilia |  
 | **Soyadı** | [[von Mündenhoff]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Mündung dükü [[Elias]]'ın kız kardeşi. Kardeşi gibi değil, on numara parti lokali başkanı.

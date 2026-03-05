@@ -4,28 +4,29 @@ tags:
 ---  
 # Tinrel Celebryl  
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Tinrel</div>  
+  
+=== "Tinrel"  
+	![[Tinrel_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Tinrel_Showcase.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Tinrel |  
 | **Soyadı** | [[Celebryl]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | HighElf |  
-| **Sınıf** | Sorcerer (Storm) (Level 15+) |  
+| **Sınıf** | • Sorcerer (Storm) (Level 15+) |  
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Etrafında yıldırımlar dönüyor<br>Doğal taşlardan taç takıyor |  
-  
-  
-=== "Tinrel"  
-	![[Tinrel_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Tinrel_Showcase.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Motherfucking Kraliçe, aldı yürüyor yarabbim. Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi. Biraz atarlı ve fazlasıyla tehlikeli. Geçmişi karanlık. Kötü anlamında değil, bilinmiyor.   
+Motherfucking Kraliçe, aldı yürüyor yarabbim. Celebryl Kulesi'nin (Okyanuz Mızrağı) sahibi. Biraz atarlı ve fazlasıyla tehlikeli. Geçmişi karanlık. Kötü anlamında değil, bilinmiyor.

@@ -1,11 +1,14 @@
 # Corellon   
   
-!!! note inline end "Karakter Notları"  
-	Ana elf tanrısı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Corellon</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Corellon |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Ana elf tanrısı

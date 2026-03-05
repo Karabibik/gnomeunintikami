@@ -1,11 +1,14 @@
 # Adolf   
   
-!!! note inline end "Karakter Notları"  
-	Könningsburg'daki demon çağıranların lideri     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Adolf</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Adolf |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Könningsburg'daki demon çağıranların lideri

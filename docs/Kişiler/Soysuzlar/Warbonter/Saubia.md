@@ -1,27 +1,28 @@
 # Saubia   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Saubia</div>  
+  
+=== "Saubia"  
+	![[Saubia_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Saubia_Showcase.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Saubia |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Tiefling |  
-| **Sınıf** | Sorcerer (Shadow) |  
+| **Sınıf** | • Sorcerer (Shadow) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Karizma 25, feci alımlı<br>Boynunda yarım güneş sembolü var |  
-  
-  
-=== "Saubia"  
-	![[Saubia_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Saubia_Showcase.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan ismi.   
+Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan ismi.

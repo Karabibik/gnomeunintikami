@@ -1,18 +1,22 @@
 # Merg   
   
-!!! note inline end "Karakter Notları"  
-	John Ryld'a bağlı hareket eden çetelerin ikinci başı, [[Morg]]'un kardeşi.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Merg</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Merg |  
 | **Soyadı** |  |  
-| **Hizip** | [[Ryld Çetesi]] |  
+| **Hizip** | • [[Ryld Çetesi]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Orc |  
-| **Sınıf** | Fighter |  
+| **Sınıf** | • Fighter |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+John Ryld'a bağlı hareket eden çetelerin ikinci başı, [[Morg]]'un kardeşi.

@@ -1,11 +1,14 @@
 # Kort   
   
-!!! note inline end "Karakter Notları"  
-	Goliath tanrısı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Kort</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Kort |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Goliath tanrısı.

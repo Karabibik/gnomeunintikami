@@ -1,11 +1,14 @@
 # Alice von Ivel  
   
-!!! note inline end "Karakter Notları"  
-	[[Alfons]]'un eski yavuklusu     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Alice</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Alice |  
 | **Soyadı** | [[von Ivel]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Ivel Hafen]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Alfons]]'un eski yavuklusu

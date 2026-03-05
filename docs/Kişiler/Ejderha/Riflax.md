@@ -1,11 +1,14 @@
 # Riflax   
   
-!!! note inline end "Karakter Notları"  
-	[[Q'ul Maqhkt'annan|Annan]]'ın zihnini kontrol eden ejderha     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Riflax</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Riflax |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Q'ul Maqhkt'annan|Annan]]'ın zihnini kontrol eden ejderha

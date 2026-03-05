@@ -1,27 +1,28 @@
 # Lucian   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Lucian</div>  
+  
+=== "Lucian"  
+	![[Lucian_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Lucian_Showcase.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Lucian |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Tiefling |  
-| **Sınıf** | Warlock (Hexblade) |  
+| **Sınıf** | • Warlock (Hexblade) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Boynunda yarım güneş sembolü var |  
-  
-  
-=== "Lucian"  
-	![[Lucian_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Lucian_Showcase.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan adamı.   
+Arena çığırtkanı ve [[Vincent]]'ın dostu. Annesi half-devil imiş ama Warbonter'de kendine yer bulmuş. Dejenere çokopartilerin aranan adamı.

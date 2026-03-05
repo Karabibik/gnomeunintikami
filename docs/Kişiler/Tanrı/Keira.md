@@ -1,11 +1,14 @@
 # Keira   
   
-!!! note inline end "Karakter Notları"  
-	Deniz ve fırtına tanrısı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Keira</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Keira |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Deniz ve fırtına tanrısı.

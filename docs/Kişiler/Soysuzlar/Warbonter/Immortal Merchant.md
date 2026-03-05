@@ -4,12 +4,15 @@ tags:
 ---  
 # Immortal Merchant   
   
-!!! note inline end "Karakter Notları"  
-	Warbonter vampir lordu     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Immortal Merchant</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Immortal Merchant |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -18,5 +21,6 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Warbonter vampir lordu

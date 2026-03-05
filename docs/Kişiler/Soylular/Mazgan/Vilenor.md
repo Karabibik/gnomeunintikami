@@ -1,18 +1,22 @@
 # Vilenor Mazgan  
   
-!!! note inline end "Karakter Notları"  
-	[[Adelyus]]'un dükkân ortağı. Soylu aileden ama üçüncü kuşak. Ryld'dan memnun değil.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Vilenor</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Vilenor |  
 | **Soyadı** | [[Mazgan]] |  
-| **Hizip** | [[Güneş Birliği]] |  
+| **Hizip** | • [[Güneş Birliği]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Wizard |  
+| **Sınıf** | • Wizard |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Adelyus]]'un dükkân ortağı. Soylu aileden ama üçüncü kuşak. Ryld'dan memnun değil.

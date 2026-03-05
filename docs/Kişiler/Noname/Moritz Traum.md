@@ -1,10 +1,17 @@
 # Moritz Traum   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Moritz Traum</div>  
+  
+=== "Moritz Traum"  
+	![[Moritz Traum_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Moritz Traum |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -13,9 +20,5 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Moritz Traum"  
-	![[Moritz Traum_portrait.webp]]{ .card }  
-  
-</div>

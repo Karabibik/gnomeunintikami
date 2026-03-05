@@ -1,11 +1,14 @@
 # Maglubiyet   
   
-!!! note inline end "Karakter Notları"  
-	Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Maglubiyet</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Maglubiyet |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Goblin tanrısı, diğer bütün goblin tanrılarını öldürüp yerlerine geçmiş.

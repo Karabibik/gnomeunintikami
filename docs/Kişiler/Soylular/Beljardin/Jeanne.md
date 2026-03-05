@@ -1,11 +1,14 @@
 # Jeanne Beljardin  
   
-!!! note inline end "Karakter Notları"  
-	Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Jeanne</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Jeanne |  
 | **Soyadı** | [[Beljardin]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Alfons'un annesi, konak hanımağası değil çünkü Agnes var orada

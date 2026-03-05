@@ -1,11 +1,14 @@
 # Zal   
   
-!!! note inline end "Karakter Notları"  
-	Stablemaster     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Zal</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Zal |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Stablemaster

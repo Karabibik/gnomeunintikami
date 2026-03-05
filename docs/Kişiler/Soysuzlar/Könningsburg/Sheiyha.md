@@ -4,25 +4,28 @@ tags:
 ---  
 # Sheiyha   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Sheiyha</div>  
+  
+=== "Calm"  
+	![[Sheiyha_Calm.webp]]  
+  
+=== "Calmer"  
+	![[Sheiyha_Calmer.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Sheiyha |  
 | **Soyadı** |  |  
-| **Hizip** | [[Varin & Sons]] |  
+| **Hizip** | • [[Varin & Sons]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric (Trickery) (Level 8) |  
+| **Sınıf** | • Cleric (Trickery) (Level 8) |  
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Calm"  
-	![[Sheiyha_Calm.webp]]{ .card }  
-  
-=== "Calmer"  
-	![[Sheiyha_Calmer.webp]]{ .card }  
-  
-</div>

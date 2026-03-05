@@ -4,19 +4,23 @@ tags:
 ---  
 # Muskarina   
   
-!!! note inline end "Karakter Notları"  
-	[[Amanite]]'nin annesi. Arken ile benzerliği, [[Great Forest]]'tan gelmiş olabileceğini çağırıştırıyor. Thalindor bayağı güçlü/önemli bir şahıs olduğundan bahsediyor.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Muskarina</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Muskarina |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Elf |  
-| **Sınıf** | Druid |  
+| **Sınıf** | • Druid |  
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Amanite]]'nin annesi. Arken ile benzerliği, [[Great Forest]]'tan gelmiş olabileceğini çağırıştırıyor. Thalindor bayağı güçlü/önemli bir şahıs olduğundan bahsediyor.

@@ -1,18 +1,22 @@
 # Nendra   
   
-!!! note inline end "Karakter Notları"  
-	Eilistraecilerin başrahibesi.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Nendra</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Nendra |  
 | **Soyadı** |  |  
-| **Hizip** | [[Eilistraeciler]] |  
+| **Hizip** | • [[Eilistraeciler]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Drow |  
-| **Sınıf** | Cleric |  
+| **Sınıf** | • Cleric |  
 | **Kütük** | [[Soradin]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Eilistraecilerin başrahibesi.

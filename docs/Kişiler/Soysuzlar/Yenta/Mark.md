@@ -1,11 +1,14 @@
 # Mark   
   
-!!! note inline end "Karakter Notları"  
-	Yenta'yı ayakta tutmaya çalışan ADDAM. Daha önce Warbonter'de bulunmuş asker olarak.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Mark</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Mark |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Orta yaşlı, asker tipli |  
+</div>  
   
-  
+Yenta'yı ayakta tutmaya çalışan ADDAM. Daha önce Warbonter'de bulunmuş asker olarak.

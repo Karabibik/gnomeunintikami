@@ -1,11 +1,14 @@
 # Lindara   
   
-!!! note inline end "Karakter Notları"  
-	Müttefikler adası belediye başkanı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Lindara</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Lindara |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Forgunntal]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Müttefikler adası belediye başkanı.

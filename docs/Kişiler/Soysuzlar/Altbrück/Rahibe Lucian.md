@@ -1,11 +1,14 @@
 # Rahibe Lucian   
   
-!!! note inline end "Karakter Notları"  
-	Tapınak rahibesi, Philip'e gıcık.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Rahibe Lucian</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Rahibe Lucian |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Tapınak rahibesi, Philip'e gıcık.

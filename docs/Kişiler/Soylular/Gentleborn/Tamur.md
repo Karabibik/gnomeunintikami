@@ -1,18 +1,22 @@
 # Tamur Gentleborn  
   
-!!! note inline end "Karakter Notları"  
-	Mageocracy'de transmutation hocası     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Tamur</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Tamur |  
 | **Soyadı** | [[Gentleborn]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn |  
-| **Sınıf** | Wizard (Transmutation) |  
+| **Sınıf** | • Wizard (Transmutation) |  
 | **Kütük** | [[Mageocracy]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Mageocracy'de transmutation hocası

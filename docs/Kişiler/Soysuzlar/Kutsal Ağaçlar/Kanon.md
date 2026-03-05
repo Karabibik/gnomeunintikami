@@ -4,25 +4,26 @@ tags:
 ---  
 # Kanon   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Kanon</div>  
+  
+=== "Kanon"  
+	![[Kanon_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Kanon |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Halfling |  
-| **Sınıf** | Barbarian (Level 5) |  
+| **Sınıf** | • Barbarian (Level 5) |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Parti Üyesi - Eski |  
 | **Karakter Betimi** | Teni kırmızı, kıllar kırmızı |  
-  
-  
-=== "Kanon"  
-	![[Kanon_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz.   
+Altbrück ormanlarında yaşayan kırmızı renkli halflingimiz.

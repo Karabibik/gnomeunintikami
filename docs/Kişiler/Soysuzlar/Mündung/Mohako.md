@@ -1,11 +1,14 @@
 # Mohako   
   
-!!! note inline end "Karakter Notları"  
-	[[Balık Kovası]] hanının işletmecisi.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Mohako</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Mohako |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 40larında |  
+</div>  
   
-  
+[[Balık Kovası]] hanının işletmecisi.

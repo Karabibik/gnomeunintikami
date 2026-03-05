@@ -1,11 +1,14 @@
 # Allard-Mom Beljardin  
   
-!!! note inline end "Karakter Notları"  
-	Allard'ın annesi ama hanedeki tek işlevi anne olmak zira reis Agnes.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Allard-Mom</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Allard-Mom |  
 | **Soyadı** | [[Beljardin]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Allard'ın annesi ama hanedeki tek işlevi anne olmak zira reis Agnes.

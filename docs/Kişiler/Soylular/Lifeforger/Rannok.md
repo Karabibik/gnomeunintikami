@@ -1,18 +1,22 @@
 # Rannok Lifeforger  
   
-!!! note inline end "Karakter Notları"  
-	Belanord ve dünyanın en büyük silah ustası. Banlord'un babası, Umman'ın kocası, Talog'un kardeşi.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Rannok</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Rannok |  
 | **Soyadı** | [[Lifeforger]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dwarf |  
-| **Sınıf** | Artificier |  
+| **Sınıf** | • Artificier |  
 | **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Belanord ve dünyanın en büyük silah ustası. Banlord'un babası, Umman'ın kocası, Talog'un kardeşi.

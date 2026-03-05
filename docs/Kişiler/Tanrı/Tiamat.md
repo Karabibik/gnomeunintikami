@@ -1,11 +1,14 @@
 # Tiamat   
   
-!!! note inline end "Karakter Notları"  
-	Renkli ejderhaların tanrısı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Tiamat</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Tiamat |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Renkli ejderhaların tanrısı

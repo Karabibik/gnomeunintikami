@@ -1,11 +1,14 @@
 # IV. Jurgen Voldrun  
   
-!!! note inline end "Karakter Notları"  
-	Halstein'ın babası.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Jurgen IV</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Jurgen IV |  
 | **Soyadı** | [[Voldrun]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Halstein'ın babası.

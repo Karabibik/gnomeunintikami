@@ -1,11 +1,14 @@
 # Vincent   
   
-!!! note inline end "Karakter Notları"  
-	Eski [[Güneş Birliği]] scholar'ı. Vampire dönüşünce [[Immortal Merchant]]'ın katibi olmuş. Sonrasında [[Eilistrae]] rahipleri iyileştirmiş kendisini. [[Adelyus]] kendisinden yardım istemiş Abyss'e girmek için. Ejderhalara özel ilgisi var (bkz: [[Dragons of Brohwar]])     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Vincent</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Vincent |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 30 yaşlarında görünüyor<br>Uzun siyah at kuyruğu yapılmış saçlı |  
+</div>  
   
-  
+Eski [[Güneş Birliği]] scholar'ı. Vampire dönüşünce [[Immortal Merchant]]'ın katibi olmuş. Sonrasında [[Eilistrae]] rahipleri iyileştirmiş kendisini. [[Adelyus]] kendisinden yardım istemiş Abyss'e girmek için. Ejderhalara özel ilgisi var (bkz: [[Dragons of Brohwar]])

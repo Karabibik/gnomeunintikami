@@ -1,11 +1,14 @@
 # Banlord Lifeforger  
   
-!!! note inline end "Karakter Notları"  
-	Rannok'un oğlu     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Banlord</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Banlord |  
 | **Soyadı** | [[Lifeforger]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Rannok'un oğlu

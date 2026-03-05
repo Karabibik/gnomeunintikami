@@ -4,12 +4,15 @@ tags:
 ---  
 # The First   
   
-!!! note inline end "Karakter Notları"  
-	Savaştan sağ çıkan tek vampir lordu.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">The First</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | The First |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -18,5 +21,6 @@ tags:
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Savaştan sağ çıkan tek vampir lordu.

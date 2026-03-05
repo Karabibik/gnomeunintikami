@@ -1,11 +1,14 @@
 # I. Alfons Beljardin  
   
-!!! note inline end "Karakter Notları"  
-	Alfons'un dedesinin babası     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Alfons I</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Alfons I |  
 | **Soyadı** | [[Beljardin]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Alfons'un dedesinin babası

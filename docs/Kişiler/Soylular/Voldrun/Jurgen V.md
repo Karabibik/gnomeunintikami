@@ -1,11 +1,14 @@
 # V. Jurgen Voldrun  
   
-!!! note inline end "Karakter Notları"  
-	56 yaşında 2005'te öldü, Stefan'ın oğlu.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Jurgen V</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Jurgen V |  
 | **Soyadı** | [[Voldrun]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+56 yaşında 2005'te öldü, Stefan'ın oğlu.

@@ -1,10 +1,26 @@
 # Taftiza   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Taftiza</div>  
+  
+=== "Taftiza"  
+	![[0_Taftiza_portrait.webp]]  
+  
+=== "DoomGirl"  
+	![[Taftiza_DoomGirl.webp]]  
+  
+=== "Meditation"  
+	![[Taftiza_Meditation.webp]]  
+  
+=== "vsPhilip"  
+	![[Taftiza_vsPhilip.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Taftiza |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -13,21 +29,6 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Taftiza"  
-	![[0_Taftiza_portrait.webp]]{ .card }  
-  
-=== "DoomGirl"  
-	![[Taftiza_DoomGirl.webp]]{ .card }  
-  
-=== "Meditation"  
-	![[Taftiza_Meditation.webp]]{ .card }  
-  
-=== "vsPhilip"  
-	![[Taftiza_vsPhilip.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Demon hunter   
+Demon hunter

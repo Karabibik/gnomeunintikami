@@ -1,18 +1,22 @@
 # Esiatel Celebryl  
   
-!!! note inline end "Karakter Notları"  
-	[[Delador]]'un çırağı, Delador bi ara buna sinirlenince perma slow atmış. 19. High Mage.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Esiatel</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Esiatel |  
 | **Soyadı** | [[Celebryl]] |  
-| **Hizip** | [[Güneş Birliği]] |  
+| **Hizip** | • [[Güneş Birliği]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | HighElf |  
-| **Sınıf** | Wizard (Divination) |  
+| **Sınıf** | • Wizard (Divination) |  
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Delador]]'un çırağı, Delador bi ara buna sinirlenince perma slow atmış. 19. High Mage.

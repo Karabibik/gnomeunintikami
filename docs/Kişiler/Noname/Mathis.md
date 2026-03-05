@@ -4,12 +4,15 @@ tags:
 ---  
 # Mathis   
   
-!!! note inline end "Karakter Notları"  
-	Giant araştırmacısı, [[Vincent]]'ın eski arkadaşı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Mathis</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Mathis |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -18,5 +21,6 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Giant araştırmacısı, [[Vincent]]'ın eski arkadaşı.

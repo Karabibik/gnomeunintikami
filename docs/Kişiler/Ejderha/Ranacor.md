@@ -1,11 +1,14 @@
 # Ranacor   
   
-!!! note inline end "Karakter Notları"  
-	30 sene kadar önce gümüş ejderhalar ile aralarında büyük sıkıntı çıkmış. O arada bir yumurtasını kaptırmış.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Ranacor</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Ranacor |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Dışlanmışlar Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+30 sene kadar önce gümüş ejderhalar ile aralarında büyük sıkıntı çıkmış. O arada bir yumurtasını kaptırmış.

@@ -1,9 +1,14 @@
 # Verchin   
   
   
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Verchin</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
+  
 |  |  |  
 |---|---|  
-| **İsim** | Verchin |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -12,5 +17,5 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-  
+</div>  
   

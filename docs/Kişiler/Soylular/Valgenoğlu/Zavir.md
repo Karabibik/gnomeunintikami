@@ -1,11 +1,14 @@
 # Zavir Valgenoğlu  
   
-!!! note inline end "Karakter Notları"  
-	[[Muzog]]'un ustası     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Zavir</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Zavir |  
 | **Soyadı** | [[Valgenoğlu]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Sakalı var hafif<br>Yapılıca |  
+</div>  
   
-  
+[[Muzog]]'un ustası

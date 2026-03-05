@@ -4,19 +4,23 @@ tags:
 ---  
 # Manfred von Rikhton  
   
-!!! note inline end "Karakter Notları"  
-	Soradinli Dragonguard lideri, yıllarca Cult of the Dragon ile savaşmış. Kimilerine "Manfred gibi dayanıklı" derlermiş.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Manfred</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Manfred |  
 | **Soyadı** | [[von Rikhton]] |  
-| **Hizip** | [[Wyvernriders]] |  
+| **Hizip** | • [[Wyvernriders]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn(Red) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Rikhton]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Soradinli Dragonguard lideri, yıllarca Cult of the Dragon ile savaşmış. Kimilerine "Manfred gibi dayanıklı" derlermiş.

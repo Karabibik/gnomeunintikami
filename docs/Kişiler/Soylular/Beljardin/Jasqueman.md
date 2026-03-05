@@ -1,11 +1,14 @@
 # Jasqueman Beljardin  
   
-!!! note inline end "Karakter Notları"  
-	Alfons'un dedesi     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Jasqueman</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Jasqueman |  
 | **Soyadı** | [[Beljardin]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Alfons'un dedesi

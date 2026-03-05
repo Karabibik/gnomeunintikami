@@ -1,11 +1,14 @@
 # Donaar   
   
-!!! note inline end "Karakter Notları"  
-	General Shop satıcısı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Donaar</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Donaar |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+General Shop satıcısı

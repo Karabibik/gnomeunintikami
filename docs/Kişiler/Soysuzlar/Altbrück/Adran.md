@@ -1,11 +1,14 @@
 # Adran   
   
-!!! note inline end "Karakter Notları"  
-	[[Bira Nehri]] hancılarından     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Adran</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Adran |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Bira Nehri]] hancılarından

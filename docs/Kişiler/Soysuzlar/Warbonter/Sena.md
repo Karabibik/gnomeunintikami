@@ -4,12 +4,15 @@ tags:
 ---  
 # Sena   
   
-!!! note inline end "Karakter Notları"  
-	Paralı asker, shadowbroker.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Sena</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Sena |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -18,5 +21,6 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Paralı asker, shadowbroker.

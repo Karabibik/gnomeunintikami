@@ -1,24 +1,25 @@
 # Arken Amakiir  
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Arken</div>  
+  
+=== "Arken"  
+	![[Arken_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Arken |  
 | **Soyadı** | [[Amakiir]] |  
-| **Hizip** | [[Ada Yolcuları]], [[Kara Yolcuları]], [[Nerton Kadrosu]] |  
+| **Hizip** | • [[Ada Yolcuları]]<br>• [[Kara Yolcuları]]<br>• [[Nerton Kadrosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | WoodElf |  
-| **Sınıf** | Rogue (Level 6) |  
+| **Sınıf** | • Rogue (Level 6) |  
 | **Kütük** | [[Great Forest]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Orta - uzun boylu<br>Yeşil tenli |  
-  
-  
-=== "Arken"  
-	![[Arken_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	[[Elva]]'nın çırağı   
+[[Elva]]'nın çırağı

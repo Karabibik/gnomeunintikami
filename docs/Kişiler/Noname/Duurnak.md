@@ -4,11 +4,18 @@ tags:
 ---  
 # Duurnak   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Duurnak</div>  
+  
+=== "Duurnak"  
+	![[Duurnak_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Duurnak |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -17,9 +24,5 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Duurnak"  
-	![[Duurnak_portrait.webp]]{ .card }  
-  
-</div>

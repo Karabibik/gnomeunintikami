@@ -1,27 +1,28 @@
 # Maelia   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Maelia</div>  
+  
+=== "Maelia"  
+	![[Maelia_portrait.webp]]  
+  
+=== "Showcase"  
+	![[Maelia_Showcase.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Maelia |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | CommonElf |  
-| **Sınıf** | Barbarian, Fighter |  
+| **Sınıf** | • Barbarian<br>• Fighter |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 230 yaşında |  
-  
-  
-=== "Maelia"  
-	![[Maelia_portrait.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Maelia_Showcase.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Kartal totemi. Çok görmüş geçirmiş, canavar avlamakta ustalaşmış.   
+Kartal totemi. Çok görmüş geçirmiş, canavar avlamakta ustalaşmış.

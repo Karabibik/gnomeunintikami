@@ -4,34 +4,35 @@ tags:
 ---  
 # Vakar   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Vakar</div>  
+  
+=== "2"  
+	![[Vakar_2.webp]]  
+  
+=== "3"  
+	![[Vakar_3.webp]]  
+  
+=== "4"  
+	![[Vakar_4.webp]]  
+  
+=== "Vakar"  
+	![[Vakar_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Vakar |  
 | **Soyadı** |  |  
-| **Hizip** | [[Shadowguard]] |  
+| **Hizip** | • [[Shadowguard]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Akmora]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 60-70 yaşlarında görünüyor |  
-  
-  
-=== "2"  
-	![[Vakar_2.webp]]{ .card }  
-  
-=== "3"  
-	![[Vakar_3.webp]]{ .card }  
-  
-=== "4"  
-	![[Vakar_4.webp]]{ .card }  
-  
-=== "Vakar"  
-	![[Vakar_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	130 yaşında, eski Shadowguard kaptanı   
+130 yaşında, eski Shadowguard kaptanı

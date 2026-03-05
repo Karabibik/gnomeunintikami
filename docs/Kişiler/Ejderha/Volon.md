@@ -1,9 +1,14 @@
 # Volon   
   
   
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Volon</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
+  
 |  |  |  
 |---|---|  
-| **İsim** | Volon |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -12,5 +17,5 @@
 | **Kütük** |  |  
 | **Münasebet** | Müttefik - Ölü |  
 | **Karakter Betimi** | Adult |  
-  
+</div>  
   

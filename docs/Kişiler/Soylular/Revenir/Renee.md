@@ -1,18 +1,22 @@
 # Renee Revenir  
   
-!!! note inline end "Karakter Notları"  
-	[[Rensa]]'nın babası, Güneş Birliği'ni denounce edince beyaz torosa bindiriliyor     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Renee</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Renee |  
 | **Soyadı** | [[Revenir]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Wizard |  
+| **Sınıf** | • Wizard |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Rensa]]'nın babası, Güneş Birliği'ni denounce edince beyaz torosa bindiriliyor

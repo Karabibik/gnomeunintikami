@@ -1,18 +1,22 @@
 # Talog Lifeforger  
   
-!!! note inline end "Karakter Notları"  
-	Rannok'un kardeşi.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Talog</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Talog |  
 | **Soyadı** | [[Lifeforger]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dwarf |  
-| **Sınıf** | Wizard |  
+| **Sınıf** | • Wizard |  
 | **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Rannok'un kardeşi.

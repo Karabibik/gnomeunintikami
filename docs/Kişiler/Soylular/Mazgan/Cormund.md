@@ -1,18 +1,22 @@
 # Cormund Mazgan  
   
-!!! note inline end "Karakter Notları"  
-	Güneş Birliği paladini     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Cormund</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Cormund |  
 | **Soyadı** | [[Mazgan]] |  
-| **Hizip** | [[Güneş Birliği]] |  
+| **Hizip** | • [[Güneş Birliği]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Paladin ([[Solsitis]]) |  
+| **Sınıf** | • Paladin ([[Solsitis]]) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 30 yaşlarında<br>Uzun at kuyruklu |  
+</div>  
   
-  
+Güneş Birliği paladini

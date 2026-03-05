@@ -4,12 +4,15 @@ tags:
 ---  
 # Salokir   
   
-!!! note inline end "Karakter Notları"  
-	Bronzeheart Battalion'ın mahvettiği ancient black dragon. Kesinlikle bir daha dirilmiş hâlde Kolandir'in karşısına çıkıp intikam almaya çalışmayacaktır.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Salokir</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Salokir |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -18,5 +21,6 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** | Düşman - Ölü |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Bronzeheart Battalion'ın mahvettiği ancient black dragon. Kesinlikle bir daha dirilmiş hâlde Kolandir'in karşısına çıkıp intikam almaya çalışmayacaktır.

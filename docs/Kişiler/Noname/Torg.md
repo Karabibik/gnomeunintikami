@@ -1,18 +1,22 @@
 # Torg   
   
-!!! note inline end "Karakter Notları"  
-	Maul gibi bir şeyi var elinde. Şehre yakın zamanda gelmiş, normalde kabilede yaşıyor. Avcılık vs yapıyor. Rust rengi bir pouch'u var.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Torg</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Torg |  
 | **Soyadı** |  |  
-| **Hizip** | [[Nerton Kadrosu]] |  
+| **Hizip** | • [[Nerton Kadrosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Half-Orc |  
-| **Sınıf** | Barbarian (Ancestral Guardian) (Level 6) |  
+| **Sınıf** | • Barbarian (Ancestral Guardian) (Level 6) |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Ten ve göz rengi yeşile çalıyor |  
+</div>  
   
-  
+Maul gibi bir şeyi var elinde. Şehre yakın zamanda gelmiş, normalde kabilede yaşıyor. Avcılık vs yapıyor. Rust rengi bir pouch'u var.

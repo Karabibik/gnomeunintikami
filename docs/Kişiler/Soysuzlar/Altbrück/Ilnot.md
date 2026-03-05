@@ -1,11 +1,14 @@
 # Ilnot   
   
-!!! note inline end "Karakter Notları"  
-	Fırıncı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Ilnot</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Ilnot |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** | Bir boynuzu kırık |  
+</div>  
   
-  
+Fırıncı

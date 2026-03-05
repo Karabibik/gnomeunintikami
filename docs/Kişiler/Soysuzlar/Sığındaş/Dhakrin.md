@@ -5,22 +5,25 @@ tags:
 ---  
 # Dhakrin   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Dhakrin</div>  
+  
+=== "Dhakrin"  
+	![[Dhakrin_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Dhakrin |  
 | **Soyadı** |  |  
-| **Hizip** | [[Cult of the Dragon]] |  
+| **Hizip** | • [[Cult of the Dragon]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn(Red) |  
 | **Sınıf** |  |  
 | **Kütük** | [[Sığındaş]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Dhakrin"  
-	![[Dhakrin_portrait.webp]]{ .card }  
-  
-</div>

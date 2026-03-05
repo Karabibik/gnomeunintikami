@@ -1,11 +1,14 @@
 # Bormar   
   
-!!! note inline end "Karakter Notları"  
-	Goldrum'un demircisi     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Bormar</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Bormar |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Goldrum'un demircisi

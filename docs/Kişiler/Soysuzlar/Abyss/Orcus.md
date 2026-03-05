@@ -1,11 +1,14 @@
 # Orcus   
   
-!!! note inline end "Karakter Notları"  
-	Abyss lordu.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Orcus</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Orcus |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Abyss]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Abyss lordu.

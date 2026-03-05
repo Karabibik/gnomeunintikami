@@ -1,11 +1,14 @@
 # Rasni   
   
-!!! note inline end "Karakter Notları"  
-	Küçük bombacı, barutçubaşı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Rasni</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Rasni |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Ortanca boylu, uzun beyaz sakallı |  
+</div>  
   
-  
+Küçük bombacı, barutçubaşı.

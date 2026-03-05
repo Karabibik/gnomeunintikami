@@ -1,11 +1,14 @@
 # Borhan Tandel  
   
-!!! note inline end "Karakter Notları"  
-	Turnuvada yendiğimiz bir adam     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Borhan</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Borhan |  
 | **Soyadı** | [[Tandel]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Turnuvada yendiğimiz bir adam

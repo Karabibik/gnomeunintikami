@@ -1,10 +1,17 @@
 # Vaeltar Thaylis  
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Vaeltar</div>  
+  
+=== "Vaeltar"  
+	![[Vaeltar_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Vaeltar |  
 | **Soyadı** | [[Thaylis]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -13,9 +20,5 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Vaeltar"  
-	![[Vaeltar_portrait.webp]]{ .card }  
-  
-</div>

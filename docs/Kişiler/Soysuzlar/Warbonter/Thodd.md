@@ -1,11 +1,14 @@
 # Thodd   
   
-!!! note inline end "Karakter Notları"  
-	Warbonter turnuvasında karşılaştık     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Thodd</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Thodd |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Warbonter turnuvasında karşılaştık

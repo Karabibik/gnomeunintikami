@@ -1,10 +1,17 @@
 # Zavriel   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Zavriel</div>  
+  
+=== "Zavrial"  
+	![[Zavrial_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Zavriel |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -13,9 +20,5 @@
 | **Kütük** | [[Mageocracy]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Zavrial"  
-	![[Zavrial_portrait.webp]]{ .card }  
-  
-</div>

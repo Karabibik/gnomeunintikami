@@ -1,11 +1,14 @@
 # Hara   
   
-!!! note inline end "Karakter Notları"  
-	Neutral good, [[Solsitis]]'in üçlüsünden. Zor durumdakilere yol gösteren ve Solsitis adına habercilik yapan tanrı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Hara</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Hara |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Neutral good, [[Solsitis]]'in üçlüsünden. Zor durumdakilere yol gösteren ve Solsitis adına habercilik yapan tanrı.

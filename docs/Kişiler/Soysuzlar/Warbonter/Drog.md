@@ -1,11 +1,14 @@
 # Drog   
   
-!!! note inline end "Karakter Notları"  
-	[[Mora'nın Güzellikleri]] koruması     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Drog</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Drog |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Mora'nın Güzellikleri]] koruması

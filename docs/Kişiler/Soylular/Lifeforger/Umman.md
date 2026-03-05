@@ -1,11 +1,14 @@
 # Umman Lifeforger  
   
-!!! note inline end "Karakter Notları"  
-	Rannok'un karısı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Umman</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Umman |  
 | **Soyadı** | [[Lifeforger]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Belanord]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Rannok'un karısı

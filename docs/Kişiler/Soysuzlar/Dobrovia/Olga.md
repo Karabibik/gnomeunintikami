@@ -1,11 +1,14 @@
 # Olga   
   
-!!! note inline end "Karakter Notları"  
-	[[Tamara]]'nın kız kardeşi.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Olga</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Olga |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Dobrovia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Tamara]]'nın kız kardeşi.

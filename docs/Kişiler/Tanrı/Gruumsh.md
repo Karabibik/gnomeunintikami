@@ -1,11 +1,14 @@
 # Gruumsh   
   
-!!! note inline end "Karakter Notları"  
-	Ork tanrısı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Gruumsh</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Gruumsh |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Ork tanrısı

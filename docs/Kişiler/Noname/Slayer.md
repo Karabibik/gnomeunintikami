@@ -1,10 +1,17 @@
 # Slayer   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Slayer</div>  
+  
+=== "Slayer"  
+	![[Slayer_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Slayer |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -13,12 +20,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Slayer"  
-	![[Slayer_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Aynı gecede Soradin, Rand Diyarı ve İmparatorluk hükümdarları öldürülmüş. [[Rand Diyarı]]'ndaki cinayetten Slayer'ın mesul olduğu söyleniyor.   
+Aynı gecede Soradin, Rand Diyarı ve İmparatorluk hükümdarları öldürülmüş. [[Rand Diyarı]]'ndaki cinayetten Slayer'ın mesul olduğu söyleniyor.

@@ -1,11 +1,14 @@
 # Gurmor   
   
-!!! note inline end "Karakter Notları"  
-	Sıradan goliath işte. Mark'ın adamı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Gurmor</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Gurmor |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Sıradan goliath işte. Mark'ın adamı.

@@ -1,11 +1,14 @@
 # Vahmar   
   
-!!! note inline end "Karakter Notları"  
-	Pleb olmayan bir arbalet ustası. Alfons *Geas* atıp yanımıza almıştı, öldü gitti zavallıcık.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Vahmar</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Vahmar |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Dışlanmışlar Adası]] |  
 | **Münasebet** | NPC - Ölü |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Pleb olmayan bir arbalet ustası. Alfons *Geas* atıp yanımıza almıştı, öldü gitti zavallıcık.

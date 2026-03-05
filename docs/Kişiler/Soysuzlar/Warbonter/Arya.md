@@ -1,11 +1,14 @@
 # Arya   
   
-!!! note inline end "Karakter Notları"  
-	[[Celeste]]'nin yaveri     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Arya</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Arya |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | 35-40 yaşlarında |  
+</div>  
   
-  
+[[Celeste]]'nin yaveri

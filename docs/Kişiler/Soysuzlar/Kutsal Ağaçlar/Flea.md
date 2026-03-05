@@ -1,18 +1,22 @@
 # Flea   
   
-!!! note inline end "Karakter Notları"  
-	Kutsal Ağaçlar Druidcibaşı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Flea</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Flea |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
 | **Irk** |  |  
-| **Sınıf** | Druid |  
+| **Sınıf** | • Druid |  
 | **Kütük** | [[Kutsal Ağaçlar]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Kutsal Ağaçlar Druidcibaşı

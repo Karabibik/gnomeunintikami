@@ -1,18 +1,22 @@
 # Baldo   
   
-!!! note inline end "Karakter Notları"  
-	Turnuvada yendiğimiz bir adam     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Baldo</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Baldo |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric |  
+| **Sınıf** | • Cleric |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Turnuvada yendiğimiz bir adam

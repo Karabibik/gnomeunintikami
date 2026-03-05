@@ -1,21 +1,24 @@
 # Silvero Silvetti   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Silvero Silvetti</div>  
+  
+=== "Silvero Silvetti"  
+	![[Silvero Silvetti_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Silvero Silvetti |  
 | **Soyadı** |  |  
-| **Hizip** | [[Varin & Sons]] |  
+| **Hizip** | • [[Varin & Sons]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Bard (Spirit) (Level 8) |  
+| **Sınıf** | • Bard (Spirit) (Level 8) |  
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Silvero Silvetti"  
-	![[Silvero Silvetti_portrait.webp]]{ .card }  
-  
-</div>

@@ -4,12 +4,15 @@ tags:
 ---  
 # Urmgrul   
   
-!!! note inline end "Karakter Notları"  
-	Tünel kazma yarışması şampiyonu     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Urmgrul</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Urmgrul |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -18,5 +21,6 @@ tags:
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Tünel kazma yarışması şampiyonu

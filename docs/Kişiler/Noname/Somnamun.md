@@ -1,10 +1,20 @@
 # Somnamun   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Somnamun</div>  
+  
+=== "Somnamun"  
+	![[0_Somnamun_portrait.webp]]  
+  
+=== "2"  
+	![[Somanum_2.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Somnamun |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -13,15 +23,6 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Somnamun"  
-	![[0_Somnamun_portrait.webp]]{ .card }  
-  
-=== "2"  
-	![[Somanum_2.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Mytralith of Chronicles. Created by a god with care and intent, so they are no less than any other great mind. Maybe they are more.   
+Mytralith of Chronicles. Created by a god with care and intent, so they are no less than any other great mind. Maybe they are more.

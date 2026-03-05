@@ -1,18 +1,22 @@
 # Boswan   
   
-!!! note inline end "Karakter Notları"  
-	John Ryld'ın yakın koruması binbaşı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Boswan</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Boswan |  
 | **Soyadı** |  |  
-| **Hizip** | [[Ryld Çetesi]] |  
+| **Hizip** | • [[Ryld Çetesi]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Fighter (Level 11+) |  
+| **Sınıf** | • Fighter (Level 11+) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+John Ryld'ın yakın koruması binbaşı

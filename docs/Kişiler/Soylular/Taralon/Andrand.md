@@ -1,11 +1,14 @@
 # Andrand Taralon  
   
-!!! note inline end "Karakter Notları"  
-	2005'te babasının öldürülmesiyle 5 yaşında tahta geçmiş     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Andrand</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Andrand |  
 | **Soyadı** | [[Taralon]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Soradin Kenti]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+2005'te babasının öldürülmesiyle 5 yaşında tahta geçmiş

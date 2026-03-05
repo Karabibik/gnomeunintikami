@@ -1,11 +1,14 @@
 # Kırmızı Behir   
   
-!!! note inline end "Karakter Notları"  
-	Sağ kalan tam vampir.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Kırmızı Behir</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Kırmızı Behir |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Mündung]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Sağ kalan tam vampir.

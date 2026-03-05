@@ -1,11 +1,14 @@
 # Vaigar   
   
-!!! note inline end "Karakter Notları"  
-	Tünel kazma yarışmasına girdi. Rakibiyle aşık atmaya çalışırken bayıldı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Vaigar</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Vaigar |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Tünel kazma yarışmasına girdi. Rakibiyle aşık atmaya çalışırken bayıldı.

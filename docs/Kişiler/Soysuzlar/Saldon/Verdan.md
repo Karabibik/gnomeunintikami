@@ -1,11 +1,14 @@
 # Verdan   
   
-!!! note inline end "Karakter Notları"  
-	Saldon'lu crime boss     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Verdan</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Verdan |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | NPC - Ölü |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Saldon'lu crime boss

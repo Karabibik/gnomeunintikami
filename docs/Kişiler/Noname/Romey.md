@@ -1,18 +1,22 @@
 # Romey   
   
-!!! note inline end "Karakter Notları"  
-	Altbrück tapınağına atanacak hoca     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Romey</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Romey |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
 | **Irk** | Human |  
-| **Sınıf** | Cleric (Level 4) |  
+| **Sınıf** | • Cleric (Level 4) |  
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Altbrück tapınağına atanacak hoca

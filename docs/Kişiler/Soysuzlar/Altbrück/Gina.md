@@ -1,18 +1,22 @@
 # Gina   
   
-!!! note inline end "Karakter Notları"  
-	[[Agnes]]'in koruması, sadık.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Gina</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Gina |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Fighter |  
+| **Sınıf** | • Fighter |  
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Agnes]]'in koruması, sadık.

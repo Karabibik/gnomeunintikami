@@ -1,11 +1,14 @@
 # Sebastian   
   
-!!! note inline end "Karakter Notları"  
-	[[Beljardin]] kahyası.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Sebastian</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Sebastian |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Beljardin]] kahyası.

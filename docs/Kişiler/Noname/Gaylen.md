@@ -1,11 +1,14 @@
 # Gaylen   
   
-!!! note inline end "Karakter Notları"  
-	Orta seviye hırsız     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Gaylen</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Gaylen |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Orta seviye hırsız

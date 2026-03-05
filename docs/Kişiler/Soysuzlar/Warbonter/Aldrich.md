@@ -1,11 +1,14 @@
 # Aldrich   
   
-!!! note inline end "Karakter Notları"  
-	Guard captain     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Aldrich</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Aldrich |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Guard captain

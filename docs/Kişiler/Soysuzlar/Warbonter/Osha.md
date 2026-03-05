@@ -1,18 +1,22 @@
 # Osha   
   
-!!! note inline end "Karakter Notları"  
-	John Ryld'ın sekreteri.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Osha</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Osha |  
 | **Soyadı** |  |  
-| **Hizip** | [[Ryld Çetesi]] |  
+| **Hizip** | • [[Ryld Çetesi]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Monk (Level 10+) |  
+| **Sınıf** | • Monk (Level 10+) |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** | Uzun saçlı, kumral |  
+</div>  
   
-  
+John Ryld'ın sekreteri.

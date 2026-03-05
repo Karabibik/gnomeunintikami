@@ -1,11 +1,14 @@
 # Relgo   
   
-!!! note inline end "Karakter Notları"  
-	Boswan'ın etrafındaki adamlardan.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Relgo</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Relgo |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Yenta]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Sarışın, hançerli |  
+</div>  
   
-  
+Boswan'ın etrafındaki adamlardan.

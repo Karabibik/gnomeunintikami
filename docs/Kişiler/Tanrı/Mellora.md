@@ -1,11 +1,14 @@
 # Mellora   
   
-!!! note inline end "Karakter Notları"  
-	Doğa tanrıçası.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Mellora</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Mellora |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Doğa tanrıçası.

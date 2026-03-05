@@ -1,21 +1,24 @@
 # Ayboran   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Ayboran</div>  
+  
+=== "Ayboran"  
+	![[Ayboran_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Ayboran |  
 | **Soyadı** |  |  
-| **Hizip** | [[Varin & Sons]] |  
+| **Hizip** | • [[Varin & Sons]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Rogue (Level 1), Monk (Shadow) (Level 7) |  
+| **Sınıf** | • Rogue (Level 1)<br>• Monk (Shadow) (Level 7) |  
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Ayboran"  
-	![[Ayboran_portrait.webp]]{ .card }  
-  
-</div>

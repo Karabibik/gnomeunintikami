@@ -1,11 +1,14 @@
 # Sienna Valgenoğlu  
   
-!!! note inline end "Karakter Notları"  
-	[[Muzog]]'un annesi gibi gördüğü hanım.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Sienna</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Sienna |  
 | **Soyadı** | [[Valgenoğlu]] |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Ela gözlü<br>Kumral saçlı<br>Güzelcene |  
+</div>  
   
-  
+[[Muzog]]'un annesi gibi gördüğü hanım.

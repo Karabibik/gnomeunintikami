@@ -1,24 +1,25 @@
 # Thurmog   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Thurmog</div>  
+  
+=== "Thurmog"  
+	![[Thurmog_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Thurmog |  
 | **Soyadı** |  |  
-| **Hizip** | [[Ada Yolcuları]] |  
+| **Hizip** | • [[Ada Yolcuları]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dwarf |  
-| **Sınıf** | Monk (Level 5) |  
+| **Sınıf** | • Monk (Level 5) |  
 | **Kütük** | [[Dwarf Krallıkları]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Thurmog"  
-	![[Thurmog_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Kırık çıkıkçı   
+Kırık çıkıkçı

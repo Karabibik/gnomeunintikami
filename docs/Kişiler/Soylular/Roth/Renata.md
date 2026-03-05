@@ -4,31 +4,32 @@ tags:
 ---  
 # Renata Roth  
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Renata</div>  
+  
+=== "Renata"  
+	![[0_Renata_portrait.webp]]  
+  
+=== "Unmasked"  
+	![[1_Renata_Unmasked.webp]]  
+  
+=== "Showcase"  
+	![[Renata_Showcase.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Renata |  
 | **Soyadı** | [[Roth]] |  
-| **Hizip** | [[Güneş Birliği]] |  
+| **Hizip** | • [[Güneş Birliği]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
-| **Sınıf** | Eldritch Knight, Wizard (War Mage) |  
+| **Sınıf** | • Eldritch Knight<br>• Wizard (War Mage) |  
 | **Kütük** | [[Hannog]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Aslında bayağı yaşlı ama elf kanı var diyorlar<br>Her tarafı zırhla kaplı |  
-  
-  
-=== "Renata"  
-	![[0_Renata_portrait.webp]]{ .card }  
-  
-=== "Unmasked"  
-	![[1_Renata_Unmasked.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Renata_Showcase.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Hannog Üniversitesi rektörü, zaten bir de kardeşi var orada. Hannog pek merkezî bir yer olmadığından hüküm altında tutmaya ancak Renata'nın gücü yetiyor. Zira kendisi Delador'un sağ kolu ve ortamlarda adı pek şaka ile anılmayan biri. Öyle ki wizard olmasına rağmen bazen tekme tokat dövüyor milleti kral. 80 yaşında.   
+Hannog Üniversitesi rektörü, zaten bir de kardeşi var orada. Hannog pek merkezî bir yer olmadığından hüküm altında tutmaya ancak Renata'nın gücü yetiyor. Zira kendisi Delador'un sağ kolu ve ortamlarda adı pek şaka ile anılmayan biri. Öyle ki wizard olmasına rağmen bazen tekme tokat dövüyor milleti kral. 80 yaşında.

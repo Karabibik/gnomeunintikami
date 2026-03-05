@@ -1,11 +1,14 @@
 # Lloth   
   
-!!! note inline end "Karakter Notları"  
-	Ana drow tanrısı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Lloth</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Lloth |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** |  |  
 | **Münasebet** | Tanrı |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Ana drow tanrısı.

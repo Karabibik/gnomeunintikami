@@ -1,21 +1,24 @@
 # Bethany Crowley  
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Bethany</div>  
+  
+=== "Bethany"  
+	![[Bethany_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Bethany |  
 | **Soyadı** | [[Crowley]] |  
-| **Hizip** | [[Iouncular]] |  
+| **Hizip** | • [[Iouncular]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Human |  
 | **Sınıf** |  |  
 | **Kütük** | [[Kiefernstrass]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Bethany"  
-	![[Bethany_portrait.webp]]{ .card }  
-  
-</div>

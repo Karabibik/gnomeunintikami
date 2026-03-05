@@ -1,11 +1,14 @@
 # Sorad   
   
-!!! note inline end "Karakter Notları"  
-	Ejderha kralı, elder drake (bkz: [[Dragons of Brohwar]]).     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Sorad</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Sorad |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Soradin]] |  
 | **Münasebet** | Düşman |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Ejderha kralı, elder drake (bkz: [[Dragons of Brohwar]]).

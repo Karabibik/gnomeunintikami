@@ -4,11 +4,18 @@ tags:
 ---  
 # Orospu Evladı   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Orospu Evladı</div>  
+  
+=== "Orospu Evladı"  
+	![[Orospu Evladı.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Orospu Evladı |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -17,12 +24,6 @@ tags:
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Orospu Evladı"  
-	![[Orospu Evladı.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.   
+[[Alfons]]'un kuşu. BİR SUS ULAN! Küfürbaz haydo + hero complex.

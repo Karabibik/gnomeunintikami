@@ -1,11 +1,14 @@
 # Inlot   
   
-!!! note inline end "Karakter Notları"  
-	Değirmenci     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Inlot</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Inlot |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Değirmenci

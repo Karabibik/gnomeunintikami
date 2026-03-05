@@ -1,10 +1,17 @@
 # Auramonar   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Auramonar</div>  
+  
+=== "Auramonar"  
+	![[Auramonar_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Auramonar |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Dişi |  
@@ -13,12 +20,6 @@
 | **Kütük** | [[Aurelia]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** | Altın sarısı saçları ve elbisesi var<br>Soluk benizli, eflatun gözlü |  
-  
-  
-=== "Auramonar"  
-	![[Auramonar_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	[[Aurelion]]'un kızı. Ekseriyetle kibar.   
+[[Aurelion]]'un kızı. Ekseriyetle kibar.

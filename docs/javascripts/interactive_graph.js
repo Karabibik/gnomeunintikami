@@ -1,11 +1,11 @@
 const graphCategories = [
     { name: 'Aile', itemStyle: { color: '#ff7f50' } },      // Coral
-    { name: 'Eşya', itemStyle: { color: '#ffd700' } },      // Gold
-    { name: 'Hizip', itemStyle: { color: '#da70d6' } },     // Orchid
-    { name: 'Kişi', itemStyle: { color: '#87ceeb' } },      // Sky Blue
-    { name: 'Macera', itemStyle: { color: '#ff69b4' } },    // Hot Pink
-    { name: 'Mekan', itemStyle: { color: '#32cd32' } },     // Lime Green
-    { name: 'Yaratık', itemStyle: { color: '#ff4500' } },   // Orange Red
+    { name: 'Eşya', itemStyle: { color: '#FBA2DD' } },      // Gold
+    { name: 'Hizip', itemStyle: { color: '#5252E0' } },     // Orchid
+    { name: 'Kişi', itemStyle: { color: '#52E052' } },      // Sky Blue
+    { name: 'Macera', itemStyle: { color: '#FFDB29' } },    // Hot Pink
+    { name: 'Mekan', itemStyle: { color: '#B152E0' } },     // Lime Green
+    { name: 'Yaratık', itemStyle: { color: '#750000' } },   // Orange Red
     { name: 'Genel', itemStyle: { color: '#a9a9a9' } }      // Dark Gray
 ];
 
@@ -107,7 +107,7 @@ $.getJSON("/assets/javascripts/graph.json", function (graph) {
     tooltip: {
       show: false,
     },
-    color: ['#ff7f50', '#ffd700', '#da70d6', '#87ceeb', '#ff69b4', '#32cd32', '#ff4500', '#a9a9a9'],
+    color: ['#ff7f50', '#FBA2DD', '#5252E0', '#52E052', '#FFDB29', '#B152E0', '#750000', '#a9a9a9'],
     legend: [ // categories not supported yet
       //{
       //  data: graph.categories.map(function (a) {
@@ -115,10 +115,10 @@ $.getJSON("/assets/javascripts/graph.json", function (graph) {
       //  })
       //}
     ],
-    legend: [{
-        data: graphCategories.map(a => a.name),
-        textStyle: { color: '#ccc' }
-    }],
+    // legend: [{
+    //     data: graphCategories.map(a => a.name),
+    //     textStyle: { color: '#ccc' }
+    // }],
     darkMode: "auto",
     backgroundColor: $("body").css("background-color"),
     series: [

@@ -4,40 +4,41 @@ tags:
 ---  
 # Muzog Valgenoğlu  
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Muzog</div>  
+  
+=== "Muzog"  
+	![[0_Muzog_portrait.webp]]  
+  
+=== "1"  
+	![[Muzog_1.webp]]  
+  
+=== "2"  
+	![[Muzog_2.webp]]  
+  
+=== "Calm"  
+	![[Muzog_Calm.webp]]  
+  
+=== "Raged"  
+	![[Muzog_Raged.webp]]  
+  
+=== "Showcase"  
+	![[Muzog_Showcase.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Muzog |  
 | **Soyadı** | [[Valgenoğlu]] |  
-| **Hizip** | [[Gnome'un İntikamı]], [[Cult of the Dragon]], [[Saldon Bandosu]] |  
+| **Hizip** | • [[Gnome'un İntikamı]]<br>• [[Cult of the Dragon]]<br>• [[Saldon Bandosu]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Dragonborn(Red,Blue) |  
-| **Sınıf** | Barbarian (Level 13) |  
+| **Sınıf** | • Barbarian (Level 13) |  
 | **Kütük** | [[Saldon]] |  
 | **Münasebet** | Parti Üyesi |  
 | **Karakter Betimi** | Bordo mavi tenli<br>Kas kasoğlu |  
-  
-  
-=== "Muzog"  
-	![[0_Muzog_portrait.webp]]{ .card }  
-  
-=== "1"  
-	![[Muzog_1.webp]]{ .card }  
-  
-=== "2"  
-	![[Muzog_2.webp]]{ .card }  
-  
-=== "Calm"  
-	![[Muzog_Calm.webp]]{ .card }  
-  
-=== "Raged"  
-	![[Muzog_Raged.webp]]{ .card }  
-  
-=== "Showcase"  
-	![[Muzog_Showcase.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Kötü yolun birinden çıkıp diğerine düşmüş. Şansı bir kere yaver gitmiş, onunla da muradına ermiş zaten (bkz: [[00 - Bahtsız Muzog]])   
+Kötü yolun birinden çıkıp diğerine düşmüş. Şansı bir kere yaver gitmiş, onunla da muradına ermiş zaten (bkz: [[00 - Bahtsız Muzog]])

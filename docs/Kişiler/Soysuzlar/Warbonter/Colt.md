@@ -4,19 +4,23 @@ tags:
 ---  
 # Colt   
   
-!!! note inline end "Karakter Notları"  
-	Philip'in eski ekibi Evsiz Uşaklar'ın başı     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Colt</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Colt |  
 | **Soyadı** |  |  
-| **Hizip** | [[Evsiz Uşaklar]] |  
+| **Hizip** | • [[Evsiz Uşaklar]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | CommonElf |  
-| **Sınıf** | Rogue |  
+| **Sınıf** | • Rogue |  
 | **Kütük** | [[Warbonter]] |  
 | **Münasebet** | Müttefik |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Philip'in eski ekibi Evsiz Uşaklar'ın başı

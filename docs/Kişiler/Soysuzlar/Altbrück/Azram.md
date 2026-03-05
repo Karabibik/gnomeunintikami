@@ -1,11 +1,14 @@
 # Azram   
   
-!!! note inline end "Karakter Notları"  
-	[[Bira Nehri]] hancılarından     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Azram</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Azram |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** |  |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Altbrück]] |  
 | **Münasebet** | NPC |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+[[Bira Nehri]] hancılarından

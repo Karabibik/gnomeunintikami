@@ -1,11 +1,14 @@
 # Klatros   
   
-!!! note inline end "Karakter Notları"  
-	Kalan tek elder chromatic dragon, green dragonların kralı.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Klatros</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Klatros |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -14,5 +17,6 @@
 | **Kütük** | [[Fey Wilds]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
+Kalan tek elder chromatic dragon, green dragonların kralı.

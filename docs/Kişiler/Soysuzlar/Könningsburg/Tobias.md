@@ -4,22 +4,25 @@ tags:
 ---  
 # Tobias   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Tobias</div>  
+  
+=== "Tobias"  
+	![[Tobias_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Tobias |  
 | **Soyadı** |  |  
-| **Hizip** | [[Varin & Sons]] |  
+| **Hizip** | • [[Varin & Sons]] |  
 | **Cinsiyet** | Erkek |  
 | **Irk** | Human |  
-| **Sınıf** | Monk (Shadow) (Level 8) |  
+| **Sınıf** | • Monk (Shadow) (Level 8) |  
 | **Kütük** | [[Könningsburg]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
+</div>  
   
-  
-=== "Tobias"  
-	![[Tobias_portrait.webp]]{ .card }  
-  
-</div>

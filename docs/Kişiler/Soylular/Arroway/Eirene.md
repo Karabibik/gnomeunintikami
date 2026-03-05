@@ -1,30 +1,31 @@
 # Eirene Arroway  
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Eirene</div>  
+  
+=== "Eirene"  
+	![[0_Eirene_portrait.webp]]  
+  
+=== "Ayurene"  
+	![[Eirene_Ayurene.webp]]  
+  
+=== "Mezuniyet"  
+	![[Eirene_Mezuniyet.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Eirene |  
 | **Soyadı** | [[Arroway]] |  
-| **Hizip** | [[Nerton Kadrosu]], [[Federation of Public Servants in Magic]], [[Soradin Arcane Academy Alumni Association]] |  
+| **Hizip** | • [[Nerton Kadrosu]]<br>• [[Federation of Public Servants in Magic]]<br>• [[Soradin Arcane Academy Alumni Association]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Half-Elf |  
-| **Sınıf** | Wizard (Divination) (Level 6) |  
+| **Sınıf** | • Wizard (Divination) (Level 6) |  
 | **Kütük** | [[Soradin]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | Young adult, orta yapılı<br>Ela gözlü, zeytin yeşili saçlı<br>Saçları kahverengi, dalgalı, omzuna kadar geliyor |  
-  
-  
-=== "Eirene"  
-	![[0_Eirene_portrait.webp]]{ .card }  
-  
-=== "Ayurene"  
-	![[Eirene_Ayurene.webp]]{ .card }  
-  
-=== "Mezuniyet"  
-	![[Eirene_Mezuniyet.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Born in Soradin, the Republic’s capital, to a warm, left-leaning intellectual middle-class family, Eirene grew up surrounded by books, music, and debate. Although she dreamed of studying in the Mageocracy, her family discouraged it due to the dangers there, so she attended the Soradin Arcane Academy instead. After graduating, she was assigned by the Ministry of Magic to fulfill her mandatory public duty as an instructor at the old, underfunded Cribflat School of Magic in rural Nerton. There, she first heard from a student, Naiver Parthalf, about strange disappearances and supposed 'black bear' rumors. Soon after, the Ministry temporarily reassigned her to investigate these events and report back. Eirene often wonders why she is tracking bear prints in a snowstorm when she believes she should be conducting arcane theoretical research in a city laboratory.   
+Born in Soradin, the Republic’s capital, to a warm, left-leaning intellectual middle-class family, Eirene grew up surrounded by books, music, and debate. Although she dreamed of studying in the Mageocracy, her family discouraged it due to the dangers there, so she attended the Soradin Arcane Academy instead. After graduating, she was assigned by the Ministry of Magic to fulfill her mandatory public duty as an instructor at the old, underfunded Cribflat School of Magic in rural Nerton. There, she first heard from a student, Naiver Parthalf, about strange disappearances and supposed 'black bear' rumors. Soon after, the Ministry temporarily reassigned her to investigate these events and report back. Eirene often wonders why she is tracking bear prints in a snowstorm when she believes she should be conducting arcane theoretical research in a city laboratory.

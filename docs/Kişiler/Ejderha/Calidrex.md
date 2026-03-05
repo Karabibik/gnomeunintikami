@@ -4,11 +4,18 @@ tags:
 ---  
 # Calidrex   
   
-<div class="grid" markdown>  
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Calidrex</div>  
+  
+=== "Calidrex"  
+	![[Calidrex_portrait.webp]]  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Calidrex |  
 | **Soyadı** |  |  
 | **Hizip** |  |  
 | **Cinsiyet** | Erkek |  
@@ -17,12 +24,6 @@ tags:
 | **Kütük** |  |  
 | **Münasebet** |  |  
 | **Karakter Betimi** |  |  
-  
-  
-=== "Calidrex"  
-	![[Calidrex_portrait.webp]]{ .card }  
-  
 </div>  
   
-!!! note "Karakter Notları"  
-	Bkz: [[Dragons of Brohwar]]   
+Bkz: [[Dragons of Brohwar]]

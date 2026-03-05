@@ -1,18 +1,22 @@
 # Amanite   
   
-!!! note inline end "Karakter Notları"  
-	Koltuk altı mantarı var, adı Füg.     
+  
+<div class="infobox" markdown>  
+  
+<div class="infobox-header">Amanite</div>  
+  
+<div class="infobox-header">Karakter Bilgileri</div>  
   
 |  |  |  
 |---|---|  
-| **İsim** | Amanite |  
 | **Soyadı** |  |  
-| **Hizip** | [[Ada Yolcuları]] |  
+| **Hizip** | • [[Ada Yolcuları]] |  
 | **Cinsiyet** | Dişi |  
 | **Irk** | Elf |  
-| **Sınıf** | Druid (Level 4) |  
+| **Sınıf** | • Druid (Level 4) |  
 | **Kütük** | [[Müttefikler Adası]] |  
 | **Münasebet** |  |  
 | **Karakter Betimi** | 1.70 boylarında<br>Gri/yeşil küf rengi derisi<br>60 yaşlarında |  
+</div>  
   
-  
+Koltuk altı mantarı var, adı Füg.
