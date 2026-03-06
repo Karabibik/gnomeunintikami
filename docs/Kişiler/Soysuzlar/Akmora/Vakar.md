@@ -13,9 +13,9 @@ tags:
 	![[Vakar_portrait.webp]]  
   
 === "theAkmoralı"  
-	<video width="100%" autoplay muted loop playsinline><source src="/Görseller/Vakar.webm" type="video/webm">Your browser does not support the video tag.</video>  
+	<video width="100%" autoplay muted loop playsinline><source src="/gnomeunintikami/Görseller/Vakar.webm" type="video/webm">Your browser does not support the video tag.</video>  
   
-<audio controls src="/Özel İçerik/Vakar.mp3" type="audio/mpeg"></audio>  
+<audio controls src="/gnomeunintikami/Özel İçerik/Vakar.mp3" type="audio/mpeg"></audio>  
   
 <div class="infobox-header">Karakter Bilgileri</div>  
   
