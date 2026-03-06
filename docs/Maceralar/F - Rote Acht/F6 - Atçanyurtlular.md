@@ -94,7 +94,7 @@ tags:
 	Greta uzaklaşarak 2EB Tarkana atıyor. Tarkan yere düşüyor. biraz daha uzaklaşıyor.  
 	  
 	7. TUR  
-	Tobias iyileşmiş halde, yerdeki Tarkana vuruyor. Tarkan ölüyor. Okçuya vuruyor ve okçu ölüyor. "Take this pis turk" sonra uzaklaşıyor.  
+	Tobias iyileşmiş halde, yerdeki Tarkana vuruyor. Tarkan ölüyor. Okçuya vuruyor ve okçu ölüyor. "Take this pis Tarkan" sonra uzaklaşıyor.  
 	Silvero hexi Varaks a atıyor. str check normal oldu. wishes worker, 60 feet wisdom fail,   
 	Ayboran initiative ini Varaks a veriyor.  
 	Varaks Tarkan ı alıp kaçmaya çalışıyor. Tobias arada vuruyor. ama stunlanmıyor.   
@@ -149,8 +149,8 @@ tags:
 	12. TUR   
 	Varaks Shei ya soğuk tarafından tutup alnının ortasına kafa atıyor.  
 	Kritic attı. 27 damage, bir tane daha reckless atack 15 damage, shei kötü gözüküyor.  
-	Shei ya gretaya fırlatıyor. Greta kaçabiliyor.  
-	Ayboran Koşup shadow step ile Yanına gidiyor. 2 saldırı denemesi biri tutuyor. ama düşmüyor.   
+	Sheiya'yı gretaya fırlatıyor. Greta kaçabiliyor.  
+	Ayboran Koşup shadow step ile Varaksın Yanına gidiyor. 2 saldırı denemesi biri tutuyor. ama Varaks düşmüyor.   
 	Tobias yaklaşıp Varaksa şiş atıyor. ama değmiyor.  
 	Greta EB ile Varaksı sonunda öldürüyor. "Silverla kalın"   
 	  

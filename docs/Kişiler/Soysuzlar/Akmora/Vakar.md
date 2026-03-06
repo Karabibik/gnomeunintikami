@@ -9,17 +9,13 @@ tags:
   
 <div class="infobox-header">Vakar</div>  
   
-=== "2"  
-	![[Vakar_2.webp]]  
-  
-=== "3"  
-	![[Vakar_3.webp]]  
-  
-=== "4"  
-	![[Vakar_4.webp]]  
-  
 === "Vakar"  
 	![[Vakar_portrait.webp]]  
+  
+=== "theAkmoralı"  
+	<video width="100%" autoplay muted loop playsinline><source src="/Görseller/Vakar.webm" type="video/webm">Your browser does not support the video tag.</video>  
+  
+<audio controls src="/Özel İçerik/Vakar.mp3" type="audio/mpeg"></audio>  
   
 <div class="infobox-header">Karakter Bilgileri</div>  
   
