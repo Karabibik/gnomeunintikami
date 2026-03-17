@@ -17,5 +17,7 @@ Bilinen üyeleri:
 | [[Greta]]            | Ekin     | Human | Warlock             |  
 | [[Julian]]           | Berkay   | Human | Rogue               |  
 | [[Sheiyha]]          | İlkin    | Human | Cleric              |  
-| [[Silvero Silvetti]] | Ertuğrul | Human | Bard                |  
-| [[Tobias]]           | Hamit    | Human | Monk                |
+| [[Silvero Silvetti]] | Ertuğrul | Half-Goliath | Bard                |  
+| [[Tobias]]           | Hamit    | Human | Monk                |  
+  
+![[VarinCo.webp]]

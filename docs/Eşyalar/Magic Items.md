@@ -10,6 +10,8 @@
 | [[Bag of Survival]] | Accessory |  | |
 | [[Boot of Longstrider]] | Clothing | Uncommon<br>(Attunement) | |
 | [[Boots of Spiderclimb]] | Clothing | Uncommon<br>(Attunement) | 250|
+| [[Bow of Ithilan]] | Weapon | (Attunement) | |
+| [[Bracers of Archery]] | Accessory | (Attunement) | |
 | [[Cape of Warbonter]] | Clothing |  | 2600|
 | [[Cloak of Elvenkind]] | Clothing | Uncommon<br>(Attunement) | |
 | [[Cloak of the Bat]] | Clothing | Rare<br>(Attunement) | |
@@ -19,6 +21,8 @@
 | [[Earring of the Undying]] | Accessory |  | |
 | [[Elixir of Health]] | Potion |  | 1500|
 | [[Enhancer Glove]] | Clothing | Uncommon | |
+| [[Feather of Fall]] | Accessory |  | |
+| [[Feather of Unfall]] | Accessory |  | |
 | [[Fey Stone]] | Accessory |  | |
 | [[Forever White Coat]] | Clothing |  | |
 | [[Frost Rune Greataxe]] | Weapon | Uncommon | 400|
@@ -64,6 +68,7 @@
 | [[Spell Scroll Lvl 1]] | Scroll |  | 50|
 | [[Spell Scroll Lvl 2]] | Scroll |  | 100|
 | [[Spell Scroll Lvl 3]] | Scroll |  | 250|
+| [[Stones of Endurance]] | Accessory | (Attunement) | |
 | [[The Bronze Arm]] | Accessory | Legendary (Wondrous)<br>(Attunement) | |
 | [[The Utensils of Elemental Confluence]] | Accessory | Legendary (Wondrous) | |
 | [[Thought Amplifier]] | Clothing | Uncommon | |

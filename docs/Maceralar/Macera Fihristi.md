@@ -25,5 +25,6 @@ BTU Spinoff'ları:
 [[D - Kara Yolcuları]]  
 [[E - Nerton Kadrosu]]  
 [[F - Rote Acht]]  
+[[G - Saldon Canavarı]]  
   
 *[BTU]:  Brohvar TTRPG Universe

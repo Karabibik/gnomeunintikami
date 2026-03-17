@@ -12,7 +12,10 @@ tags:
 <div class="infobox-header">Hal Web</div>  
   
 === "Hal Web"  
-	![[Hal Web_portrait.webp]]  
+	![[0_Hal Web_portrait.webp]]  
+  
+=== "Yousa"  
+	![[1_Hal Web_Yousa.webp]]  
   
 === "Showcase"  
 	![[Hal Web_Showcase.webp]]  

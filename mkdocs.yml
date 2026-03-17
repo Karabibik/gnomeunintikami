@@ -1,6 +1,7 @@
 site_name: Gnome'un İntikamı
-
-copyright: Copyright &copy; 2022 - 2026 Mert Topaloğlu
+site_description: Vagabonds of Warbonter'in gözünden Brohwar dünyasındaki maceralara ortak olun.
+site_url: https://karabibik.github.io/gnomeunintikami/
+copyright: Copyright &copy; 2022 - 2026 Mehmet Mert Topaloğlu
 
 # Theme
 theme:
@@ -14,7 +15,6 @@ theme:
       - navigation.top
       - announce.dismiss
       - search.suggest
-      # - search.highlight
       
     palette:
     - media: "(prefers-color-scheme: dark)"
@@ -56,18 +56,22 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-# hooks:
-#   - custom_plugins/obsidian_graph.py
-
 plugins:
-  # - obsidian-interactive-graph
-  # - custom_plugins.obsidian_graph
-  # - !!python/object:plugins.obsidian_graph.ObsidianInteractiveGraphPlugin {}
   - obsidian-local-graph
   - search
   - roamlinks 
   - tags
   - glightbox
+  - minify:
+      minify_html: true
+  - social:
+      cards: true
+      cards_layout_options:
+        #logo: docs/Görseller/Haritalar/World_Map.webp
+        background_color: "#1a1a1add"   # Dark background
+        color: "#ffffff"              # White text
+        background_image: docs/Görseller/Haritalar/World_Map.webp
+        #background_color: transparent
   
 # Extra JS
 extra_javascript:

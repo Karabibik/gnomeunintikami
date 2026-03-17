@@ -12,4 +12,5 @@ Table of Content
 [[F3 - Dilli Onryo]]  
 [[F4 - Müze Gezisi]]  
 [[F5 - Kilit Olur Ömre Bedel]]  
-[[F6 - Atçanyurtlular]]
+[[F6 - Atçanyurtlular]]  
+[[F7 - Sağlam Mal]]
